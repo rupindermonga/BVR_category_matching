@@ -1,0 +1,992 @@
+{
+    "Makeup": {
+        "Body": {
+            "Body Glitter": {},
+            "Body Paint": {},
+            "Bronzing Powder": {},
+            "Concealer": {},
+            "Henna": {},
+            "Temporary Tattoos": {}
+        },
+        "Eyes": {
+            "Concealer": {},
+            "Eyebrow Color": {},
+            "Eyeliner": {},
+            "Eyeshadow": {},
+            "Eyeshadow Bases & Primers": {},
+            "Lash Enhancers & Primers": {},
+            "Liner & Shadow Combinations": {},
+            "Mascara": {}
+        },
+        "Face": {
+            "Blotting Paper": {},
+            "Blush": {},
+            "Bronzers & Highlighters": {},
+            "Concealers & Neutralizers": {},
+            "Foundation": {},
+            "Foundation Primers": {},
+            "Powder": {}
+        },
+        "Lips": {
+            "Lip Glosses": {},
+            "Lip Liners": {},
+            "Lip Plumpers": {},
+            "Lip Stains": {},
+            "Lipstick": {},
+            "Lipstick Primers": {}
+        },
+        "Makeup Palettes": {},
+        "Makeup Remover": {
+            "Eyes": {},
+            "Face": {},
+            "Lips": {}
+        },
+        "Makeup Sets": {}
+    },
+    "Skin Care": {
+        "Body": {
+            "Cleansers": {
+                "Body Washes": {},
+                "Soaps": {}
+            },
+            "Moisturizers": {
+                "Body Butter": {},
+                "Creams": {},
+                "Lotions": {},
+                "Oils": {}
+            },
+            "Scrubs & Body Treatments": {
+                "Body Mud": {},
+                "Body Scrubs": {},
+                "Body Souffles & Mousse": {}
+            },
+            "Sets & Kits": {}
+        },
+        "Eyes": {
+            "Creams": {},
+            "Gels": {},
+            "Masks": {},
+            "Pillows": {},
+            "Rollers & Pens": {},
+            "Serums": {}
+        },
+        "Face": {
+            "Cleansers": {
+                "Bars": {},
+                "Cloths & Towelettes": {},
+                "Gels": {},
+                "Washes": {}
+            },
+            "Creams & Moisturizers": {
+                "Face Mists": {},
+                "Face Moisturizers": {},
+                "Face Oil": {},
+                "Neck & D\u00e9collet\u00e9": {},
+                "Night Creams": {},
+                "Tinted Moisturizers": {}
+            },
+            "Polishes & Scrubs": {
+                "Polishes": {},
+                "Scrubs": {}
+            },
+            "Toners & Astringents": {},
+            "Treatments & Masks": {
+                "Acids & Peels": {},
+                "Masks": {},
+                "Microdermabrasion": {},
+                "Pore Cleansing Strips": {},
+                "Serums": {}
+            },
+            "Sets & Kits": {}
+        },
+        "Lip Care": {
+            "Balms & Moisturizers": {},
+            "Lip Butters": {},
+            "Scrubs": {}
+        },
+        "Maternity": {},
+        "Sets & Kits": {},
+        "Sunscreens & Tanning Products": {
+            "After Sun": {},
+            "Facial Self Tanners": {},
+            "Self-Tanners & Bronzers": {},
+            "Sunscreens": {
+                "Body Sunscreens": {},
+                "Children's Sunscreen": {},
+                "Facial Sunscreens": {},
+                "Lip Sunscreens": {}
+            },
+            "Tanning Oils & Lotions": {}
+        }
+    },
+    "Hair Care": {
+        "Shampoo & Conditioner": {
+            "Shampoos": {},
+            "Conditioners": {},
+            "2-in-1 Shampoo & Conditioner": {},
+            "3-in-1 Shampoo, Conditioner & Body Wash": {},
+            "Deep Conditioners": {},
+            "Dry Shampoos": {},
+            "Shampoo & Conditioner Sets": {}
+        },
+        "Extensions, Wigs & Accessories": {
+            "Adhesives": {},
+            "Feather Extensions": {},
+            "Hair Extensions": {},
+            "Hairpieces": {},
+            "Wig Caps": {},
+            "Wigs": {}
+        },
+        "Hair & Scalp Treatments": {},
+        "Hair Accessories": {
+            "Barrettes": {},
+            "Bun & Crown Shapers": {},
+            "Clips": {},
+            "Elastics & Ties": {},
+            "Hair Drying Towels": {},
+            "Hair Pins": {},
+            "Headbands": {},
+            "Side Combs": {}
+        },
+        "Hair Coloring Products": {
+            "Hair Color": {},
+            "Color Additives & Fillers": {},
+            "Color Correctors": {},
+            "Color Glazes": {},
+            "Color Removers": {},
+            "Coloring & Highlighting Tools": {
+                "Applicator Bottles": {},
+                "Brushes, Combs & Needles": {},
+                "Caps, Foils & Wraps": {},
+                "Hair Color Mixing Bowls": {}
+            },
+            "Developers": {},
+            "Hair Chalk": {},
+            "Hair Mascaras & Root Touch Ups": {},
+            "Hennas": {}
+        },
+        "Hair Cutting Tools": {
+            "Hair Clippers & Accessories": {},
+            "Hair Cutting Kits": {},
+            "Shears": {}
+        },
+        "Hair Loss Products": {
+            "Hair Regrowth Shampoos": {},
+            "Hair Regrowth Conditioners": {},
+            "Hair Building Fibers": {},
+            "Hair Regrowth Tonics": {},
+            "Hair Regrowth Treatments": {}
+        },
+        "Hair Masks": {},
+        "Hair Perms, Relaxers & Texturizers": {},
+        "Hair Treatment Oils": {},
+        "Styling Products": {
+            "Detanglers": {},
+            "Gels": {},
+            "Hair Sprays": {},
+            "Mousses & Foams": {},
+            "Putties & Clays": {},
+            "Styling Treatments": {}
+        },
+        "Styling Tools & Appliances": {
+            "Hair Brushes": {},
+            "Hair Combs": {},
+            "Hair Dryers & Accessories": {},
+            "Hair Rollers": {},
+            "Hot-Air Brushes": {},
+            "Irons": {
+                "Curling Wands": {},
+                "Straighteners": {}
+            }
+        }
+    },
+    "Fragrance": {
+        "Children's": {},
+        "Dusting Powders": {},
+        "Men's": {
+            "Body Sprays": {},
+            "Cologne": {},
+            "Eau Fraiche": {},
+            "Eau de Parfum": {},
+            "Eau de Toilette": {},
+            "Sets": {}
+        },
+        "Sets": {
+            "Women's": {},
+            "Men's": {}
+        },
+        "Women's": {
+            "Body Sprays": {},
+            "Cologne": {},
+            "Eau Fraiche": {},
+            "Eau de Parfum": {},
+            "Eau de Toilette": {},
+            "Sets": {}
+        }
+    },
+    "Foot, Hand & Nail Care": {
+        "Foot & Hand Care": {
+            "Foot Creams & Lotions": {},
+            "Foot Masks": {},
+            "Hand Creams & Lotions": {},
+            "Hand Wash": {},
+            "Moisturizing Gloves": {},
+            "Moisturizing Socks": {},
+            "Paraffin Baths": {},
+            "Salts & Soaks": {},
+            "Scrubs": {}
+        },
+        "Nail Art & Polish": {
+            "Base & Top Coats": {
+                "Base Coat": {},
+                "Combination Base & Top Coats": {},
+                "Top Coat": {}
+            },
+            "Curing Lamps": {},
+            "False Nails & Accessories": {
+                "Acrylic Nail Tools": {},
+                "Acrylic Powders & Liquids": {},
+                "False Nails": {},
+                "Nail Glue": {},
+                "Nail Tips": {}
+            },
+            "Nail Art Accessories": {
+                "Nail Art Equipment": {},
+                "Decoration Kits": {},
+                "Fimo": {},
+                "Glitters": {},
+                "Pearls": {},
+                "Rhinestones": {},
+                "Stickers & Decals": {},
+                "Striping Tape Lines": {},
+                "Studs": {},
+                "Wraps": {}
+            },
+            "Nail Brushes": {},
+            "Nail Dryers": {},
+            "Nail Polish": {},
+            "Nail Polish Remover": {},
+            "Nail Thickening Solution": {}
+        },
+        "Nail Care": {
+            "Cuticle Care": {
+                "Cuticle Oils": {},
+                "Cuticle Removing Fluids": {},
+                "Cuticle Repair Creams": {}
+            },
+            "Growth Formula": {},
+            "Nail Repair": {},
+            "Nail Strengthening": {},
+            "Nail Whitening": {},
+            "Ridge Filler": {}
+        },
+        "Tools & Accessories": {
+            "Callus Trimmers": {},
+            "Cuticle Tools": {},
+            "Foot Baths & Spas": {},
+            "Foot Files": {},
+            "Foot Pumices": {},
+            "Nail Art Equipment": {},
+            "Nail Tools": {
+                "Ingrown Toenail Tools": {},
+                "Nail Clippers": {},
+                "Nail Files & Buffers": {}
+            },
+            "Sets & Kits": {},
+            "Spa Slippers": {},
+            "Toe Separators": {}
+        }
+    },
+    "Tools & Accessories": {
+        "Bags & Cases": {
+            "Cosmetic Bags": {},
+            "Cosmetic Display Cases": {},
+            "Refillable Containers": {},
+            "Toiletry Bags": {},
+            "Toiletry Kits": {},
+            "Train Cases": {},
+            "Travel Cases": {}
+        },
+        "Bathing Accessories": {
+            "Bath & Body Brushes": {},
+            "Bath Pillows": {},
+            "Bath Sponges": {},
+            "Hair Drying Towels": {},
+            "Loofahs": {},
+            "Shower Caps": {}
+        },
+        "Cotton Balls & Swabs": {
+            "Cotton Balls": {},
+            "Cotton Pads & Rounds": {},
+            "Cotton Swabs": {}
+        },
+        "Hair Cutting Tools": {
+            "Hair Clippers & Accessories": {},
+            "Hair Cutting Kits": {},
+            "Shears": {}
+        },
+        "Hair Styling Tools & Appliances": {
+            "Hair Brushes": {},
+            "Hair Combs": {},
+            "Hair Dryers & Accessories": {},
+            "Hair Rollers": {},
+            "Hot-Air Brushes": {},
+            "Irons": {
+                "Curling Wands": {},
+                "Straighteners": {}
+            }
+        },
+        "Makeup Brushes & Tools": {
+            "Face": {
+                "Face Brushes": {
+                    "Blush Brushes": {},
+                    "Concealer Brushes": {},
+                    "Contour Brushes": {},
+                    "Fan Brushes": {},
+                    "Foundation Brushes": {},
+                    "Kabuki Brushes": {}
+                },
+                "Blenders & Sponges": {},
+                "Blotting Paper": {},
+                "Powder Puffs": {}
+            },
+            "Eye": {
+                "Brow Brushes": {},
+                "Eyelash Curlers": {},
+                "Eyeliner Brushes": {},
+                "Eyeshadow Brushes": {},
+                "False Eyelashes & Adhesives": {},
+                "Mascara Brushes": {}
+            },
+            "Lip Brushes": {},
+            "Brush Sets": {},
+            "Makeup Airbrushes": {},
+            "Brush Cleaners": {},
+            "Sharpeners": {}
+        },
+        "Mirrors": {
+            "Compact & Travel Mirrors": {},
+            "Handheld Mirrors": {},
+            "Makeup Mirrors": {},
+            "Shower Mirrors": {}
+        },
+        "Salon & Spa Equipment": {
+            "Galvanic & High Frequency Machines": {
+                "Galvanic Machines": {},
+                "High Frequency Machines": {}
+            },
+            "Professional Massage Equipment": {
+                "Linens": {},
+                "Salon & Spa Chairs": {},
+                "Salon & Spa Tables": {},
+                "Table Pads": {}
+            },
+            "Salon & Spa Chairs": {},
+            "Salon & Spa Stools": {},
+            "Spa Beds & Tables": {},
+            "Spa Storage Systems": {},
+            "Towel Warmers": {}
+        },
+        "Shave & Hair Removal": {
+            "Men's": {
+                "After Shaves": {},
+                "Beard & Mustache Care": {
+                    "Beard & Mustache Combs": {},
+                    "Beard & Mustache Trimmers": {},
+                    "Beard Conditioners & Oils": {},
+                    "Mustache Scissors": {},
+                    "Mustache Waxes": {}
+                },
+                "Body Groomers": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Rotary Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {},
+                    "Cleaners": {}
+                },
+                "Eyebrow Trimmers": {},
+                "Nose & Ear Hair Trimmers": {},
+                "Razors & Blades": {
+                    "Razor Systems": {},
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Safety Razors": {},
+                    "Straight Razors": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Accessories": {
+                    "Alum": {},
+                    "Hot Lather Machines": {},
+                    "Razor & Brush Stands": {},
+                    "Razor Strops": {},
+                    "Shaving Brushes": {},
+                    "Shaving Soap Bowls": {},
+                    "Styptic": {}
+                },
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {},
+                    "Shaving Soaps": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            },
+            "Women's": {
+                "Bleaching": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {}
+                },
+                "Epilators, Groomers & Trimmers": {
+                    "Bikini Trimmers": {},
+                    "Epilators": {},
+                    "Personal Groomers": {}
+                },
+                "Laser, Light & Electrolysis Hair Removal": {
+                    "Electrolysis": {},
+                    "Light Hair Removal": {}
+                },
+                "Razors & Blades": {
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Razor Systems": {},
+                    "Razors with Soap Bars": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            }
+        },
+        "Skin Care Tools": {
+            "Blackhead & Blemish Removers": {},
+            "Eyebrow Scissors": {},
+            "Facial Cleansing Brushes": {
+                "Manual Facial Cleansing Brushes": {},
+                "Powered Facial Cleansing Brushes & Devices": {},
+                "Replacement Cleansing Brush Heads": {}
+            },
+            "Facial Steamers": {},
+            "Microdermabrasion Devices": {},
+            "Mirrors": {
+                "Compact & Travel Mirrors": {},
+                "Handheld Mirrors": {},
+                "Makeup Mirrors": {},
+                "Shower Mirrors": {}
+            },
+            "Tweezers": {}
+        }
+    },
+    "Shave & Hair Removal": {
+        "Men's": {
+            "After Shaves": {},
+            "Beard & Mustache Care": {
+                "Beard & Mustache Combs": {},
+                "Beard & Mustache Trimmers": {},
+                "Beard Conditioners & Oils": {},
+                "Mustache Scissors": {},
+                "Mustache Waxes": {}
+            },
+            "Body Groomers": {},
+            "Depilatories": {},
+            "Electric Shavers": {
+                "Foil Shavers": {},
+                "Rotary Shavers": {},
+                "Replacement Heads": {},
+                "Accessories": {},
+                "Cleaners": {}
+            },
+            "Eyebrow Trimmers": {},
+            "Nose & Ear Hair Trimmers": {},
+            "Razors & Blades": {
+                "Razor Systems": {},
+                "Cartridges & Refills": {},
+                "Disposable Razors": {},
+                "Safety Razors": {},
+                "Straight Razors": {}
+            },
+            "Shaving & Grooming Sets": {},
+            "Shaving Accessories": {
+                "Alum": {},
+                "Hot Lather Machines": {},
+                "Razor & Brush Stands": {},
+                "Razor Strops": {},
+                "Shaving Brushes": {},
+                "Shaving Soap Bowls": {},
+                "Styptic": {}
+            },
+            "Shaving Creams, Lotions & Gels": {
+                "Shaving Creams": {},
+                "Shaving Lotions": {},
+                "Shaving Gels": {},
+                "Shaving Soaps": {}
+            },
+            "Tweezers": {},
+            "Waxing": {
+                "Powders": {},
+                "Skin Cleansers": {},
+                "Spatulas": {},
+                "Strips": {},
+                "Wax": {},
+                "Wax Warmers & Accessories": {},
+                "Waxing Kits": {}
+            }
+        },
+        "Women's": {
+            "Bleaching": {},
+            "Depilatories": {},
+            "Electric Shavers": {
+                "Foil Shavers": {},
+                "Replacement Heads": {},
+                "Accessories": {}
+            },
+            "Epilators, Groomers & Trimmers": {
+                "Bikini Trimmers": {},
+                "Epilators": {},
+                "Personal Groomers": {}
+            },
+            "Laser, Light & Electrolysis Hair Removal": {
+                "Electrolysis": {},
+                "Light Hair Removal": {}
+            },
+            "Razors & Blades": {
+                "Cartridges & Refills": {},
+                "Disposable Razors": {},
+                "Razor Systems": {},
+                "Razors with Soap Bars": {}
+            },
+            "Shaving & Grooming Sets": {},
+            "Shaving Creams, Lotions & Gels": {
+                "Shaving Creams": {},
+                "Shaving Lotions": {},
+                "Shaving Gels": {}
+            },
+            "Tweezers": {},
+            "Waxing": {
+                "Powders": {},
+                "Skin Cleansers": {},
+                "Spatulas": {},
+                "Strips": {},
+                "Wax": {},
+                "Wax Warmers & Accessories": {},
+                "Waxing Kits": {}
+            }
+        }
+    },
+    "Personal Care": {
+        "Bath & Bathing Accessories": {
+            "Bath": {
+                "Bath Bombs": {},
+                "Bath Pearls & Flakes": {},
+                "Bubble Bath": {},
+                "Minerals & Salts": {},
+                "Oils": {},
+                "Tub Tea": {}
+            },
+            "Bathing Accessories": {
+                "Bath & Body Brushes": {},
+                "Bath Pillows": {},
+                "Bath Sponges": {},
+                "Hair Drying Towels": {},
+                "Loofahs": {},
+                "Shower Caps": {}
+            }
+        },
+        "Deodorants & Antiperspirants": {
+            "Antiperspirants": {},
+            "Deodorants": {},
+            "Combination Deodorants & Antiperspirants": {}
+        },
+        "Hair Care": {
+            "Shampoo & Conditioner": {
+                "Shampoos": {},
+                "Conditioners": {},
+                "2-in-1 Shampoo & Conditioner": {},
+                "3-in-1 Shampoo, Conditioner & Body Wash": {},
+                "Deep Conditioners": {},
+                "Dry Shampoos": {},
+                "Shampoo & Conditioner Sets": {}
+            },
+            "Extensions, Wigs & Accessories": {
+                "Adhesives": {},
+                "Feather Extensions": {},
+                "Hair Extensions": {},
+                "Hairpieces": {},
+                "Wig Caps": {},
+                "Wigs": {}
+            },
+            "Hair & Scalp Treatments": {},
+            "Hair Accessories": {
+                "Barrettes": {},
+                "Bun & Crown Shapers": {},
+                "Clips": {},
+                "Elastics & Ties": {},
+                "Hair Drying Towels": {},
+                "Hair Pins": {},
+                "Headbands": {},
+                "Side Combs": {}
+            },
+            "Hair Coloring Products": {
+                "Hair Color": {},
+                "Color Additives & Fillers": {},
+                "Color Correctors": {},
+                "Color Glazes": {},
+                "Color Removers": {},
+                "Coloring & Highlighting Tools": {
+                    "Applicator Bottles": {},
+                    "Brushes, Combs & Needles": {},
+                    "Caps, Foils & Wraps": {},
+                    "Hair Color Mixing Bowls": {}
+                },
+                "Developers": {},
+                "Hair Chalk": {},
+                "Hair Mascaras & Root Touch Ups": {},
+                "Hennas": {}
+            },
+            "Hair Cutting Tools": {
+                "Hair Clippers & Accessories": {},
+                "Hair Cutting Kits": {},
+                "Shears": {}
+            },
+            "Hair Loss Products": {
+                "Hair Regrowth Shampoos": {},
+                "Hair Regrowth Conditioners": {},
+                "Hair Building Fibers": {},
+                "Hair Regrowth Tonics": {},
+                "Hair Regrowth Treatments": {}
+            },
+            "Hair Masks": {},
+            "Hair Perms, Relaxers & Texturizers": {},
+            "Hair Treatment Oils": {},
+            "Styling Products": {
+                "Detanglers": {},
+                "Gels": {},
+                "Hair Sprays": {},
+                "Mousses & Foams": {},
+                "Putties & Clays": {},
+                "Styling Treatments": {}
+            },
+            "Styling Tools & Appliances": {
+                "Hair Brushes": {},
+                "Hair Combs": {},
+                "Hair Dryers & Accessories": {},
+                "Hair Rollers": {},
+                "Hot-Air Brushes": {},
+                "Irons": {
+                    "Curling Wands": {},
+                    "Straighteners": {}
+                }
+            }
+        },
+        "Lip Care": {
+            "Balms & Moisturizers": {},
+            "Lip Butters": {},
+            "Scrubs": {}
+        },
+        "Oral Care": {
+            "Breath Fresheners": {},
+            "Children's Dental Care": {
+                "Electric Toothbrushes": {},
+                "Manual Toothbrushes": {}
+            },
+            "Dental Floss & Picks": {
+                "Power Dental Flossers": {},
+                "Dental Floss": {},
+                "Dental Picks": {}
+            },
+            "Denture Care": {
+                "Adhesives": {},
+                "Baths": {},
+                "Brushes": {},
+                "Cleansers": {},
+                "Repair Kits": {}
+            },
+            "Dry Mouth Relief": {},
+            "Gum Stimulators": {},
+            "Mouthwash": {},
+            "Oral Pain Relief": {
+                "Emergency Dental Care": {},
+                "Medications": {},
+                "Rinses": {}
+            },
+            "Orthodontic Supplies": {},
+            "Sensitivity Treatments": {},
+            "Teeth Grinding Guards": {},
+            "Teeth Whitening": {},
+            "Tongue Cleaners": {},
+            "Toothbrushes & Accessories": {
+                "Manual Toothbrushes": {},
+                "Powered Toothbrushes & Accessories": {
+                    "Chargers": {},
+                    "Powered Toothbrushes": {
+                        "Rotating": {},
+                        "Sonic": {},
+                        "Ultrasonic": {}
+                    },
+                    "Toothbrush Replacement Heads": {}
+                },
+                "Toothbrush Travel Containers": {}
+            },
+            "Toothpaste": {}
+        },
+        "Piercing & Tattoo Supplies": {
+            "Piercing Supplies": {
+                "Aftercare Products": {},
+                "Piercing Guns": {},
+                "Piercing Kits": {},
+                "Piercing Needles": {}
+            },
+            "Tattoo Supplies": {
+                "Aftercare Products": {},
+                "Tattoo Inks": {},
+                "Tattoo Kits": {},
+                "Tattoo Machine Parts": {},
+                "Tattoo Machines": {},
+                "Tattoo Needles": {}
+            }
+        },
+        "Shave & Hair Removal": {
+            "Men's": {
+                "After Shaves": {},
+                "Beard & Mustache Care": {
+                    "Beard & Mustache Combs": {},
+                    "Beard & Mustache Trimmers": {},
+                    "Beard Conditioners & Oils": {},
+                    "Mustache Scissors": {},
+                    "Mustache Waxes": {}
+                },
+                "Body Groomers": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Rotary Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {},
+                    "Cleaners": {}
+                },
+                "Eyebrow Trimmers": {},
+                "Nose & Ear Hair Trimmers": {},
+                "Razors & Blades": {
+                    "Razor Systems": {},
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Safety Razors": {},
+                    "Straight Razors": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Accessories": {
+                    "Alum": {},
+                    "Hot Lather Machines": {},
+                    "Razor & Brush Stands": {},
+                    "Razor Strops": {},
+                    "Shaving Brushes": {},
+                    "Shaving Soap Bowls": {},
+                    "Styptic": {}
+                },
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {},
+                    "Shaving Soaps": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            },
+            "Women's": {
+                "Bleaching": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {}
+                },
+                "Epilators, Groomers & Trimmers": {
+                    "Bikini Trimmers": {},
+                    "Epilators": {},
+                    "Personal Groomers": {}
+                },
+                "Laser, Light & Electrolysis Hair Removal": {
+                    "Electrolysis": {},
+                    "Light Hair Removal": {}
+                },
+                "Razors & Blades": {
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Razor Systems": {},
+                    "Razors with Soap Bars": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            }
+        },
+        "Skin Care": {
+            "Body": {
+                "Cleansers": {
+                    "Body Washes": {},
+                    "Soaps": {}
+                },
+                "Moisturizers": {
+                    "Body Butter": {},
+                    "Creams": {},
+                    "Lotions": {},
+                    "Oils": {}
+                },
+                "Scrubs & Body Treatments": {
+                    "Body Mud": {},
+                    "Body Scrubs": {},
+                    "Body Souffles & Mousse": {}
+                },
+                "Sets & Kits": {}
+            },
+            "Eyes": {
+                "Creams": {},
+                "Gels": {},
+                "Masks": {},
+                "Pillows": {},
+                "Rollers & Pens": {},
+                "Serums": {}
+            },
+            "Face": {
+                "Cleansers": {
+                    "Bars": {},
+                    "Cloths & Towelettes": {},
+                    "Gels": {},
+                    "Washes": {}
+                },
+                "Creams & Moisturizers": {
+                    "Face Mists": {},
+                    "Face Moisturizers": {},
+                    "Face Oil": {},
+                    "Neck & D\u00e9collet\u00e9": {},
+                    "Night Creams": {},
+                    "Tinted Moisturizers": {}
+                },
+                "Polishes & Scrubs": {
+                    "Polishes": {},
+                    "Scrubs": {}
+                },
+                "Toners & Astringents": {},
+                "Treatments & Masks": {
+                    "Acids & Peels": {},
+                    "Masks": {},
+                    "Microdermabrasion": {},
+                    "Pore Cleansing Strips": {},
+                    "Serums": {}
+                },
+                "Sets & Kits": {}
+            },
+            "Lip Care": {
+                "Balms & Moisturizers": {},
+                "Lip Butters": {},
+                "Scrubs": {}
+            },
+            "Maternity": {},
+            "Sets & Kits": {},
+            "Sunscreens & Tanning Products": {
+                "After Sun": {},
+                "Facial Self Tanners": {},
+                "Self-Tanners & Bronzers": {},
+                "Sunscreens": {
+                    "Body Sunscreens": {},
+                    "Children's Sunscreen": {},
+                    "Facial Sunscreens": {},
+                    "Lip Sunscreens": {}
+                },
+                "Tanning Oils & Lotions": {}
+            }
+        }
+    },
+    "Oral Care": {
+        "Breath Fresheners": {},
+        "Children's Dental Care": {
+            "Electric Toothbrushes": {},
+            "Manual Toothbrushes": {}
+        },
+        "Dental Floss & Picks": {
+            "Power Dental Flossers": {},
+            "Dental Floss": {},
+            "Dental Picks": {}
+        },
+        "Denture Care": {
+            "Adhesives": {},
+            "Baths": {},
+            "Brushes": {},
+            "Cleansers": {},
+            "Repair Kits": {}
+        },
+        "Dry Mouth Relief": {},
+        "Gum Stimulators": {},
+        "Mouthwash": {},
+        "Oral Pain Relief": {
+            "Emergency Dental Care": {},
+            "Medications": {},
+            "Rinses": {}
+        },
+        "Orthodontic Supplies": {},
+        "Sensitivity Treatments": {},
+        "Teeth Grinding Guards": {},
+        "Teeth Whitening": {},
+        "Tongue Cleaners": {},
+        "Toothbrushes & Accessories": {
+            "Manual Toothbrushes": {},
+            "Powered Toothbrushes & Accessories": {
+                "Chargers": {},
+                "Powered Toothbrushes": {
+                    "Rotating": {},
+                    "Sonic": {},
+                    "Ultrasonic": {}
+                },
+                "Toothbrush Replacement Heads": {}
+            },
+            "Toothbrush Travel Containers": {}
+        },
+        "Toothpaste": {}
+    }
+}

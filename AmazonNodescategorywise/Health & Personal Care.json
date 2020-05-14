@@ -1,0 +1,1598 @@
+{
+    "Baby & Child Care": {
+        "Diaper Care": {
+            "Baby Wipes & Refills": {},
+            "Diaper Pails & Refills": {
+                "Diaper Pails": {},
+                "Diaper Pail Liners": {},
+                "Diaper Pail Deodorizers": {},
+                "Diaper Disposal Bags": {}
+            },
+            "Disposable Diapers": {}
+        },
+        "Health Care": {
+            "Allergy Medicine": {},
+            "Baby Thermometers": {},
+            "Bandages": {},
+            "Children's Vitamins": {},
+            "Cold & Flu Remedies": {},
+            "Pain Relievers": {
+                "Aspirin": {},
+                "Non-Aspirin": {
+                    "Acetaminophen": {},
+                    "Ibuprofen": {}
+                }
+            },
+            "Colic & Gas Relief": {}
+        },
+        "Personal Care": {
+            "Baby Bath": {},
+            "Baby Skin Care": {
+                "Diaper Creams": {},
+                "Lip Balms": {},
+                "Lotions": {},
+                "Oils": {},
+                "Powders": {},
+                "Sun Protection": {}
+            },
+            "Baby Toothbrushes": {},
+            "Hair Care": {
+                "Conditioners": {},
+                "Shampoos": {}
+            },
+            "Nursing Pads": {},
+            "Oral Hygiene": {}
+        }
+    },
+    "Health Care": {
+        "Alternative Medicine": {
+            "Acupuncture": {},
+            "Aromatherapy": {
+                "Candles": {},
+                "Carrier & Essential Oils": {
+                    "Carrier Oils": {},
+                    "Essential Oil Blends": {},
+                    "Essential Oil Sets": {},
+                    "Essential Oil Singles": {}
+                },
+                "Diffusers": {},
+                "Mists & Hydrosols": {}
+            },
+            "Ayurveda": {},
+            "Flower Essences": {},
+            "Light Therapy": {},
+            "Magnetic Field Therapy": {},
+            "Manipulation Therapies": {},
+            "Oxygen Therapy": {},
+            "Single Homeopathic Remedies": {},
+            "Sound Therapy": {}
+        },
+        "Diabetes Care": {
+            "Blood Glucose Monitors": {},
+            "Insulin Injectors": {},
+            "Lancets": {},
+            "Organizers & Travel Kits": {},
+            "Sharps Containers": {},
+            "Socks & Insoles": {},
+            "Test Strips": {
+                "Blood Test Strips": {},
+                "Urinalysis Strips": {}
+            }
+        },
+        "Ear Care": {
+            "Ear Drops": {},
+            "Ear Syringes": {},
+            "Earplugs": {},
+            "Earwax Removal": {}
+        },
+        "Feminine Care": {
+            "Deodorant Sprays": {},
+            "Douches & Enemas": {},
+            "Feminine Powders": {},
+            "Feminine Washes": {},
+            "Feminine Wipes": {},
+            "Menopause Products": {},
+            "Menstrual Cups": {},
+            "Panty Liners": {},
+            "Sanitary Napkins": {},
+            "Tampons": {},
+            "Vaginal Moisturizers": {},
+            "Yeast Infection Treatments": {}
+        },
+        "First Aid": {
+            "Antibiotics & Antiseptics": {
+                "Cleansing Cloths, Swabs & Wipes": {},
+                "Hand Sanitizers": {},
+                "Ointments": {}
+            },
+            "Antifungals": {
+                "Athletes Foot Remedies": {},
+                "Jock Itch Treatments": {},
+                "Nail Fungus Treatments": {}
+            },
+            "Bandages & Bandaging Supplies": {
+                "Adhesive Bandages": {},
+                "Finger Cots": {},
+                "First Aid Tape": {},
+                "Gauze & Pads": {
+                    "Bandaging Pads": {},
+                    "Gauze": {}
+                },
+                "Liquid Bandages": {}
+            },
+            "Burn Care": {},
+            "Defibrillators": {},
+            "First Aid Kits": {},
+            "Gloves": {},
+            "Hot & Cold Therapies": {
+                "Cold Packs": {},
+                "Heat Patches & Wraps": {},
+                "Heating Pads": {},
+                "Hot Water Bottles": {}
+            },
+            "Itching & Rash Treatments": {
+                "Cortisone Treatments": {},
+                "Insect & Pest Repellents": {},
+                "Insect Bite Relief": {},
+                "Poison Ivy Relief": {}
+            },
+            "Lice Treatments": {
+                "Lice Combs": {},
+                "Shampoos & Rinses": {},
+                "Sprays": {},
+                "Treatment Packages": {}
+            },
+            "Masks": {},
+            "Scars & Wounds": {}
+        },
+        "Foot Health": {
+            "Antifungal Remedies": {},
+            "Bunion Pads": {},
+            "Corn & Callus Remover Cushions": {},
+            "Corn & Callus Trimmers": {},
+            "Diabetic Foot Care": {},
+            "Inserts & Insoles": {
+                "Arch Supports": {},
+                "Ball-of-Foot Cushions": {},
+                "Heel Cushions & Cups": {},
+                "Insoles": {}
+            },
+            "Moleskin": {},
+            "Odor Control": {
+                "Powders": {},
+                "Sprays": {}
+            },
+            "Wart Removal": {}
+        },
+        "Incontinence & Ostomy": {
+            "Adhesive Removers": {},
+            "Adhesives & Tapes": {},
+            "Barrier Rings & Strips": {},
+            "Bedding & Furniture Protection": {},
+            "Bedwetting Monitors": {},
+            "Bladder Control Devices": {},
+            "Cleansers, Cloths & Creams": {},
+            "Drain Pouches": {},
+            "Ostomy Belts": {},
+            "Ostomy Support Garments": {},
+            "Pads & Liners": {},
+            "Protective Briefs & Underwear": {},
+            "Stoma Pastes & Powders": {}
+        },
+        "OTC Medications & Treatments": {
+            "Allergy, Sinus & Asthma": {
+                "Allergy Medicine": {},
+                "Asthma Medicine": {},
+                "Respiration Flow Meters": {},
+                "Sinus Medicine": {}
+            },
+            "Cold Sore & Fever Blister Treatments": {},
+            "Cough & Cold": {
+                "Chest Rubs": {},
+                "Cold & Flu Relief": {},
+                "Coughing & Sore Throats": {
+                    "Cough Drops": {},
+                    "Cough Syrups": {}
+                },
+                "Nasal Sprays & Drops": {
+                    "Decongestant Sprays": {},
+                    "Moisturizing Sprays": {}
+                }
+            },
+            "Digestion & Nausea": {
+                "Antacids": {},
+                "Diarrhea Relief": {},
+                "Gas Relief": {},
+                "Lactose Intolerance": {},
+                "Laxatives": {},
+                "Motion Sickness & Nausea": {}
+            },
+            "Eczema, Psoriasis & Rosacea Care": {},
+            "Medication Aids": {
+                "Eye Drop Guides": {},
+                "Pill Cases": {},
+                "Pill Crushers & Splitters": {},
+                "Pill Dispensers & Reminders": {}
+            },
+            "Pain Relievers": {
+                "Alternative Pain Relief": {},
+                "Arthritis": {},
+                "Aspirin": {},
+                "Hemorrhoid Care": {},
+                "Hot & Cold Therapies": {
+                    "Cold Packs": {},
+                    "Heat Patches & Wraps": {},
+                    "Heating Pads": {},
+                    "Hot Water Bottles": {}
+                },
+                "Joint & Muscle Pain Relief": {
+                    "Medications": {},
+                    "Treatments": {
+                        "Alternative Remedies": {},
+                        "Pain Relief Rubs": {}
+                    }
+                },
+                "Menstrual Pain Relief": {},
+                "Migraine Relief": {},
+                "Non-Aspirin": {
+                    "Acetaminophen": {},
+                    "Ibuprofen": {},
+                    "Naproxen Sodium": {}
+                },
+                "Oral Pain Relief": {
+                    "Emergency Dental Care": {},
+                    "Medications": {},
+                    "Rinses": {}
+                },
+                "Urinary Tract Infection Treatments": {}
+            }
+        },
+        "Respiratory Aids & Accessories": {
+            "CPAP Accessories": {},
+            "Oxygen Accessories": {},
+            "Tracheostomy Care Kits": {}
+        },
+        "Sleep & Snoring": {
+            "Medicinal Sleep Aids": {},
+            "Nasal Strips": {},
+            "Sleeping Masks": {},
+            "Sleep Sound Machines": {},
+            "Snore Reducing Aids": {},
+            "Chin Straps": {}
+        },
+        "Smoking Cessation": {
+            "Nicotine Gums & Lozenges": {},
+            "Nicotine Patches": {},
+            "Smokeless Inhalers": {}
+        },
+        "Women's Health": {
+            "Family Planning Tests": {
+                "Fertility Tests": {},
+                "Ovulation Tests": {},
+                "Pregnancy Tests": {}
+            },
+            "Feminine Care": {
+                "Deodorant Sprays": {},
+                "Douches & Enemas": {},
+                "Feminine Powders": {},
+                "Feminine Washes": {},
+                "Feminine Wipes": {},
+                "Menopause Products": {},
+                "Menstrual Cups": {},
+                "Panty Liners": {},
+                "Sanitary Napkins": {},
+                "Tampons": {},
+                "Vaginal Moisturizers": {},
+                "Yeast Infection Treatments": {}
+            },
+            "Menopause": {},
+            "Menstrual Pain Relief": {},
+            "Prenatal Vitamins": {},
+            "Yeast Infection Treatments": {}
+        }
+    },
+    "Household Supplies": {
+        "Air Fresheners": {
+            "Spray": {},
+            "Electric": {}
+        },
+        "Cleaning Tools": {
+            "Brushes": {},
+            "Cleaning Cloths": {},
+            "Dusting": {
+                "Feather Dusters": {},
+                "Dust Mops & Pads": {}
+            },
+            "Gloves": {},
+            "Mopping": {
+                "Buckets": {},
+                "Accessories": {
+                    "Mop Heads & Sponges": {
+                        "Replacement Heads": {},
+                        "Refill Sponges": {}
+                    },
+                    "Mop Handles": {}
+                }
+            },
+            "Scouring Pads & Sticks": {},
+            "Sponges": {},
+            "Squeegees": {},
+            "Sweeping": {
+                "Brooms": {
+                    "Angle Brooms": {},
+                    "Hand Brooms": {},
+                    "Push Brooms": {}
+                },
+                "Dustpans": {},
+                "Accessories": {}
+            }
+        },
+        "Dishwashing": {
+            "Dish Scouring Pads": {},
+            "Dish Soap": {},
+            "Dishwasher Detergent": {},
+            "Dishwasher Machine Cleaners": {},
+            "Rinse Aids": {}
+        },
+        "Household Batteries": {
+            "12V": {},
+            "3.7V": {},
+            "3V": {},
+            "6V": {},
+            "9V": {},
+            "A": {},
+            "AA": {},
+            "AAA": {},
+            "AAAA": {},
+            "C": {},
+            "Coin & Button Cell": {},
+            "D": {}
+        },
+        "Household Battery Chargers": {},
+        "Household Cleaning": {
+            "All-Purpose Cleaners": {},
+            "Bathroom Cleaners": {
+                "Lime & Rust Removers": {},
+                "Mold & Mildew Removers": {},
+                "Multipurpose Bathroom Cleaners": {},
+                "Soap Scum Removers": {},
+                "Toilet Cleaners": {}
+            },
+            "Carpet Cleaners & Deodorizers": {
+                "Carpet Cleaners": {},
+                "Carpet Deodorizers": {},
+                "Carpet Machine Detergents": {},
+                "Carpet Spot Cleaning Sprays": {},
+                "Carpet Stain Precleaners": {}
+            },
+            "Cleaning Tools": {
+                "Brushes": {},
+                "Cleaning Cloths": {},
+                "Dusting": {
+                    "Feather Dusters": {},
+                    "Dust Mops & Pads": {}
+                },
+                "Gloves": {},
+                "Mopping": {
+                    "Buckets": {},
+                    "Accessories": {
+                        "Mop Heads & Sponges": {
+                            "Replacement Heads": {},
+                            "Refill Sponges": {}
+                        },
+                        "Mop Handles": {}
+                    }
+                },
+                "Scouring Pads & Sticks": {},
+                "Sponges": {},
+                "Squeegees": {},
+                "Sweeping": {
+                    "Brooms": {
+                        "Angle Brooms": {},
+                        "Hand Brooms": {},
+                        "Push Brooms": {}
+                    },
+                    "Dustpans": {},
+                    "Accessories": {}
+                }
+            },
+            "Disinfectant Wipes": {},
+            "Drain Openers": {},
+            "Floor Cleaners": {},
+            "Glass Cleaners": {},
+            "Kitchen Cleaners": {
+                "Cooktop Cleaners": {},
+                "Degreasers": {},
+                "Dishwasher & Garbage Disposal Cleaners": {
+                    "Garbage Disposal Cleaners": {},
+                    "Dishwasher Cleaners": {}
+                },
+                "Oven & Grill Cleaners": {},
+                "Stainless Steel Surface Cleaners": {},
+                "Stone Surface Polish & Cleaners": {}
+            },
+            "Metal Polishes": {},
+            "Paper Towels": {},
+            "Septic Treatments": {},
+            "Upholstery Cleaners": {
+                "Fabric Cleaners": {},
+                "Leather Cleaners & Conditioners": {}
+            },
+            "Wood Polish & Care": {
+                "Wood Polish": {},
+                "Scratch Covers & Removers": {},
+                "Wood Conditioners, Waxes & Oils": {}
+            }
+        },
+        "Laundry": {
+            "Laundry Detergent": {
+                "Powder Detergent": {},
+                "Liquid Detergent": {},
+                "Detergent Pacs & Tablets": {}
+            },
+            "Bleach": {},
+            "Fabric Softener": {},
+            "Starch & Anti-static Sprays": {},
+            "Lint Removers": {},
+            "Fabric Deodorizer": {},
+            "Stain Removers": {},
+            "Washing Machine Cleaners": {}
+        },
+        "Light Bulbs": {
+            "Compact Fluorescent Bulbs": {},
+            "Fluorescent Tubes": {},
+            "Halogen Bulbs": {},
+            "High Intensity Discharge Bulbs": {},
+            "Incandescent Bulbs": {},
+            "Krypton & Xenon Bulbs": {},
+            "LED Bulbs": {},
+            "Black Light Bulbs": {}
+        },
+        "Lighters & Matches": {
+            "Butane Fuel": {},
+            "Flints & Wicks": {},
+            "Gift Sets & Starter Kits": {},
+            "Lighter Fluid": {},
+            "Lighter Pouches": {},
+            "Lighters": {},
+            "Matches": {}
+        },
+        "Paper & Plastic": {
+            "Toilet Paper, Wipes & Sprays": {
+                "Personal Cleansing Wipes": {},
+                "Toilet Paper": {},
+                "Toilet Paper Sprays": {}
+            },
+            "Paper Towels": {},
+            "Facial Tissues": {},
+            "Trash, Compost & Lawn Bags": {
+                "Compost Bags": {},
+                "Lawn & Leaf Bags": {},
+                "Trash Bags": {}
+            },
+            "Disposable Food Storage": {
+                "Aluminum Foil": {},
+                "Food Storage Bags": {},
+                "Food Storage Containers": {},
+                "Plastic Wrap": {}
+            },
+            "Disposable Napkins": {},
+            "Disposable Plates, Bowls & Cutlery": {
+                "Bowls": {},
+                "Forks": {},
+                "Knives": {},
+                "Plates": {},
+                "Spoons": {},
+                "Sporks": {}
+            },
+            "Disposable Drinkware": {
+                "Cups": {},
+                "Shot Glasses": {},
+                "Souffle & Shot Cups": {},
+                "Stemware": {},
+                "Straws": {}
+            },
+            "Coffee Filters": {}
+        },
+        "Tobacco-Related Products": {
+            "Ashtrays": {},
+            "Cigar Accessories & Humidors": {
+                "Cases": {},
+                "Clips & Stands": {},
+                "Cutters": {},
+                "Humidifiers": {},
+                "Humidors": {},
+                "Hygrometers": {},
+                "Punches": {}
+            },
+            "Cigarette Accessories": {
+                "Cases & Dispensers": {},
+                "Filters": {},
+                "Holders": {},
+                "Machines": {},
+                "Papers & Tubes": {},
+                "Rolling Trays": {}
+            },
+            "Hookahs & Accessories": {
+                "Bowls": {},
+                "Charcoal": {},
+                "Hookahs": {},
+                "Hoses": {}
+            },
+            "Tobacco Pipes & Accessories": {
+                "Bags & Pouches": {},
+                "Pipe Cleaners": {},
+                "Pipe Screens": {},
+                "Pipe Stands": {},
+                "Tobacco Pipes": {}
+            }
+        }
+    },
+    "Medical Supplies & Equipment": {
+        "Braces, Splints & Supports": {
+            "Arm, Hand & Finger Supports": {
+                "Arm Supports": {},
+                "Elbow Braces": {},
+                "Finger Splints": {},
+                "Hand & Wrist Braces": {}
+            },
+            "Arthritis Gloves": {},
+            "Athletic Tapes & Wraps": {},
+            "Back, Neck & Shoulder Supports": {
+                "Back Braces": {},
+                "Lumbar Supports": {},
+                "Shoulder Supports": {}
+            },
+            "Chest Supports": {},
+            "Compression Socks": {},
+            "Hip & Waist Supports": {},
+            "Kinesiology Recovery Tapes": {},
+            "Leg & Foot Supports": {
+                "Ankle Braces": {},
+                "Bunion Splints": {},
+                "Calf & Shin Supports": {},
+                "Foot Supports": {},
+                "Fracture & Cast Boots": {},
+                "Knee Braces": {},
+                "Plantar Fasciitis Braces": {},
+                "Thigh Supports": {}
+            },
+            "Medical Support Hose": {}
+        },
+        "Funeral": {},
+        "Health Monitors": {
+            "Activity & Fitness Trackers": {},
+            "Blood Pressure Monitors": {},
+            "Body Composition Monitors": {},
+            "Body Fat Monitors": {},
+            "Body Weight Scales": {
+                "Digital": {},
+                "Mechanical": {}
+            },
+            "Breathing Trainers & Monitors": {},
+            "Health Alert & Monitoring Systems": {},
+            "Heart Rate Monitors": {},
+            "Pedometers": {},
+            "Pulse Oximeters": {},
+            "Stethoscopes": {},
+            "Thermometers": {
+                "Basal": {},
+                "Ear": {},
+                "Oral": {},
+                "Rectal": {}
+            }
+        },
+        "Home Tests": {
+            "Drug Tests": {
+                "Alcohol Tests": {},
+                "Breathalyzers": {},
+                "Cocaine Tests": {},
+                "Ecstasy Tests": {},
+                "Marijuana Tests": {},
+                "Multidrug Tests": {}
+            },
+            "Family Planning Tests": {
+                "Fertility Tests": {},
+                "Ovulation Tests": {},
+                "Pregnancy Tests": {}
+            },
+            "Health Tests": {
+                "Cholesterol Tests": {},
+                "Colorectal Disease Tests": {},
+                "HIV Tests": {},
+                "Urinary Tract Infection Tests": {}
+            }
+        },
+        "Mobility & Daily Living Aids": {
+            "Bathroom Safety, Aids & Accessories": {
+                "Bath & Shower Aids": {
+                    "Bath & Shower Grab Bars": {},
+                    "Bath & Shower Safety Mats": {},
+                    "Bath & Shower Safety Seating & Transfer Benches": {},
+                    "Bathtub Lifts": {},
+                    "Bathtub Rails": {}
+                },
+                "Bedpans & Urinals": {
+                    "Bedpans": {},
+                    "Female Urinals": {},
+                    "Male Urinals": {}
+                },
+                "Cast & Wound Covers": {},
+                "Commodes & Liners": {
+                    "Bedside Commodes": {},
+                    "Bedside Commode Liners": {}
+                },
+                "Foot & Nail Care": {},
+                "Hair Dryer Stands": {},
+                "Long Handled Brushes & Combs": {},
+                "Lotion Applicators": {},
+                "Rinse-Free Cleansers & Wipes": {
+                    "Rinse-Free Cleansers": {},
+                    "Rinse-Free Wipes": {}
+                },
+                "Shampoo Basins & Trays": {},
+                "Sitz Baths": {},
+                "Toilets & Toilet Aids": {
+                    "Raised Toilet Seats": {},
+                    "Toilet Assistance Cushions": {},
+                    "Toilet Assistance Steps": {},
+                    "Toilet Safety Frames & Rails": {},
+                    "Toilet Tissue Aids": {}
+                },
+                "Tube Squeezers": {}
+            },
+            "Bedroom Aids & Accessories": {
+                "Bed Safety Handles & Rails": {},
+                "Bedside Showers & Tubs": {},
+                "Contoured Support Pillows": {},
+                "IV Poles": {},
+                "Leg Positioner Pillows": {},
+                "Neck & Cervical Bed Pillows": {},
+                "Overbed Tables": {},
+                "Pressure Mattresses & Pumps": {},
+                "Specialty Medical Pillows": {},
+                "Transfer Boards": {},
+                "Wedge & Body Positioner Covers": {},
+                "Wedges & Body Positioners": {}
+            },
+            "Dressing Aids": {
+                "Dressing Aid Sticks": {},
+                "Shoe Fasteners & Laces": {},
+                "Sock & Stocking Aids": {},
+                "Zipper Pulls & Button Hooks": {}
+            },
+            "Eating & Drinking Aids": {
+                "Clothing Protectors": {},
+                "Cups & Glasses": {},
+                "Dinnerware": {},
+                "Plate Guards": {},
+                "Straws": {},
+                "Utensils & Holders": {}
+            },
+            "Hearing Aids, Amplifiers & Accessories": {
+                "Batteries & Chargers": {},
+                "Domes": {},
+                "Dryers & Cleaners": {
+                    "Cleaning Kits": {},
+                    "Dryers": {}
+                },
+                "Hearing Amplifiers": {},
+                "Wax Guards": {}
+            },
+            "Low Strength Aids": {
+                "Card Playing": {},
+                "Grip Aids": {},
+                "Mouth Sticks": {},
+                "Scissors": {}
+            },
+            "Medication Aids": {
+                "Eye Drop Guides": {},
+                "Pill Cases": {},
+                "Pill Crushers & Splitters": {},
+                "Pill Dispensers & Reminders": {}
+            },
+            "Mobility Aids & Equipment": {
+                "Canes, Crutches & Accessories": {
+                    "Cane Accessories": {
+                        "Cane Flashlights": {},
+                        "Cane Holders": {},
+                        "Cane Ice Attachments": {},
+                        "Cane Wrist Straps": {}
+                    },
+                    "Canes": {},
+                    "Crutch Accessories": {
+                        "Crutch Handgrips": {},
+                        "Crutch Pads": {}
+                    },
+                    "Crutches": {},
+                    "Feet & Tips": {}
+                },
+                "Leg & Thigh Lifters": {},
+                "Lift Chairs": {},
+                "Lifting Cushions": {},
+                "Stair Lifts": {},
+                "Standing Aids & Supports": {},
+                "Walkers, Rollators & Accessories": {
+                    "Accessory Sets": {},
+                    "Cup Holders": {},
+                    "Rolling Walkers": {},
+                    "Seat & Roller Bar Covers": {},
+                    "Standard Walkers": {},
+                    "Walker Accessories": {
+                        "Baskets, Organizers & Pouches": {},
+                        "Replacement Wheels": {},
+                        "Ski Glides & Pads": {},
+                        "Trays": {}
+                    }
+                },
+                "Wheelchairs, Mobility Scooters & Accessories": {
+                    "Accessories & Parts": {
+                        "Arm Rests": {},
+                        "Automotive Carrier Racks": {},
+                        "Covers": {},
+                        "Foot & Leg Rests": {},
+                        "Lifts": {},
+                        "Oxygen Tank Holders": {},
+                        "Replacement Batteries": {},
+                        "Seat Belts": {},
+                        "Tires & Wheels": {}
+                    },
+                    "Wheelchair Accessories": {
+                        "Backs": {},
+                        "Bags & Baskets": {},
+                        "Cushions": {},
+                        "Lap Trays": {}
+                    },
+                    "Wheelchairs": {
+                        "Attendant & Transport Wheelchairs": {},
+                        "Bathroom Wheelchairs": {},
+                        "Electric Wheelchairs": {},
+                        "Self-Propelled Wheelchairs": {}
+                    },
+                    "Mobility Scooters": {},
+                    "Motorized Scooter Accessories": {}
+                }
+            },
+            "Reaching Aids": {},
+            "Threshold & Wheelchair Ramps": {
+                "Threshold Ramps": {},
+                "Wheelchair Ramps": {}
+            },
+            "Visual Impairment Aids": {
+                "Big Button & Amplified Telephones": {},
+                "Braille Aids": {},
+                "Clocks & Watches": {},
+                "Magnifiers": {},
+                "Reading Glasses": {},
+                "Writing Aids": {}
+            }
+        },
+        "Occupational & Physical Therapy Aids": {
+            "Arm Exercisers": {},
+            "Exercise Balls & Accessories": {
+                "Exercise Balls": {},
+                "Exercise Ball Chairs": {},
+                "Exercise Ball Accessories": {}
+            },
+            "Exercise Putty": {},
+            "Hand Exercisers": {},
+            "Hip Replacement Recovery Kits": {},
+            "Leg Exercisers": {},
+            "Muscle Stimulators & Accessories": {},
+            "Sensory Motor Aids": {},
+            "Speech & Communication Aids": {},
+            "Traction Equipment": {}
+        }
+    },
+    "Oral Care": {
+        "Breath Fresheners": {},
+        "Children's Dental Care": {
+            "Electric Toothbrushes": {},
+            "Manual Toothbrushes": {}
+        },
+        "Dental Floss & Picks": {
+            "Power Dental Flossers": {},
+            "Dental Floss": {},
+            "Dental Picks": {}
+        },
+        "Denture Care": {
+            "Adhesives": {},
+            "Baths": {},
+            "Brushes": {},
+            "Cleansers": {},
+            "Repair Kits": {}
+        },
+        "Dry Mouth Relief": {},
+        "Gum Stimulators": {},
+        "Mouthwash": {},
+        "Oral Pain Relief": {
+            "Emergency Dental Care": {},
+            "Medications": {},
+            "Rinses": {}
+        },
+        "Orthodontic Supplies": {},
+        "Sensitivity Treatments": {},
+        "Teeth Grinding Guards": {},
+        "Teeth Whitening": {},
+        "Tongue Cleaners": {},
+        "Toothbrushes & Accessories": {
+            "Manual Toothbrushes": {},
+            "Powered Toothbrushes & Accessories": {
+                "Chargers": {},
+                "Powered Toothbrushes": {
+                    "Rotating": {},
+                    "Sonic": {},
+                    "Ultrasonic": {}
+                },
+                "Toothbrush Replacement Heads": {}
+            },
+            "Toothbrush Travel Containers": {}
+        },
+        "Toothpaste": {}
+    },
+    "Personal Care": {
+        "Bath & Bathing Accessories": {
+            "Bath": {
+                "Bath Bombs": {},
+                "Bath Pearls & Flakes": {},
+                "Bubble Bath": {},
+                "Minerals & Salts": {},
+                "Oils": {},
+                "Tub Tea": {}
+            },
+            "Bathing Accessories": {
+                "Bath & Body Brushes": {},
+                "Bath Pillows": {},
+                "Bath Sponges": {},
+                "Hair Drying Towels": {},
+                "Loofahs": {},
+                "Shower Caps": {}
+            }
+        },
+        "Deodorants & Antiperspirants": {
+            "Antiperspirants": {},
+            "Deodorants": {},
+            "Combination Deodorants & Antiperspirants": {}
+        },
+        "Hair Care": {
+            "Shampoo & Conditioner": {
+                "Shampoos": {},
+                "Conditioners": {},
+                "2-in-1 Shampoo & Conditioner": {},
+                "3-in-1 Shampoo, Conditioner & Body Wash": {},
+                "Deep Conditioners": {},
+                "Dry Shampoos": {},
+                "Shampoo & Conditioner Sets": {}
+            },
+            "Extensions, Wigs & Accessories": {
+                "Adhesives": {},
+                "Feather Extensions": {},
+                "Hair Extensions": {},
+                "Hairpieces": {},
+                "Wig Caps": {},
+                "Wigs": {}
+            },
+            "Hair & Scalp Treatments": {},
+            "Hair Accessories": {
+                "Barrettes": {},
+                "Bun & Crown Shapers": {},
+                "Clips": {},
+                "Elastics & Ties": {},
+                "Hair Drying Towels": {},
+                "Hair Pins": {},
+                "Headbands": {},
+                "Side Combs": {}
+            },
+            "Hair Coloring Products": {
+                "Hair Color": {},
+                "Color Additives & Fillers": {},
+                "Color Correctors": {},
+                "Color Glazes": {},
+                "Color Removers": {},
+                "Coloring & Highlighting Tools": {
+                    "Applicator Bottles": {},
+                    "Brushes, Combs & Needles": {},
+                    "Caps, Foils & Wraps": {},
+                    "Hair Color Mixing Bowls": {}
+                },
+                "Developers": {},
+                "Hair Chalk": {},
+                "Hair Mascaras & Root Touch Ups": {},
+                "Hennas": {}
+            },
+            "Hair Cutting Tools": {
+                "Hair Clippers & Accessories": {},
+                "Hair Cutting Kits": {},
+                "Shears": {}
+            },
+            "Hair Loss Products": {
+                "Hair Regrowth Shampoos": {},
+                "Hair Regrowth Conditioners": {},
+                "Hair Building Fibers": {},
+                "Hair Regrowth Tonics": {},
+                "Hair Regrowth Treatments": {}
+            },
+            "Hair Masks": {},
+            "Hair Perms, Relaxers & Texturizers": {},
+            "Hair Treatment Oils": {},
+            "Styling Products": {
+                "Detanglers": {},
+                "Gels": {},
+                "Hair Sprays": {},
+                "Mousses & Foams": {},
+                "Putties & Clays": {},
+                "Styling Treatments": {}
+            },
+            "Styling Tools & Appliances": {
+                "Hair Brushes": {},
+                "Hair Combs": {},
+                "Hair Dryers & Accessories": {},
+                "Hair Rollers": {},
+                "Hot-Air Brushes": {},
+                "Irons": {
+                    "Curling Wands": {},
+                    "Straighteners": {}
+                }
+            }
+        },
+        "Lip Care": {
+            "Balms & Moisturizers": {},
+            "Lip Butters": {},
+            "Scrubs": {}
+        },
+        "Oral Care": {
+            "Breath Fresheners": {},
+            "Children's Dental Care": {
+                "Electric Toothbrushes": {},
+                "Manual Toothbrushes": {}
+            },
+            "Dental Floss & Picks": {
+                "Power Dental Flossers": {},
+                "Dental Floss": {},
+                "Dental Picks": {}
+            },
+            "Denture Care": {
+                "Adhesives": {},
+                "Baths": {},
+                "Brushes": {},
+                "Cleansers": {},
+                "Repair Kits": {}
+            },
+            "Dry Mouth Relief": {},
+            "Gum Stimulators": {},
+            "Mouthwash": {},
+            "Oral Pain Relief": {
+                "Emergency Dental Care": {},
+                "Medications": {},
+                "Rinses": {}
+            },
+            "Orthodontic Supplies": {},
+            "Sensitivity Treatments": {},
+            "Teeth Grinding Guards": {},
+            "Teeth Whitening": {},
+            "Tongue Cleaners": {},
+            "Toothbrushes & Accessories": {
+                "Manual Toothbrushes": {},
+                "Powered Toothbrushes & Accessories": {
+                    "Chargers": {},
+                    "Powered Toothbrushes": {
+                        "Rotating": {},
+                        "Sonic": {},
+                        "Ultrasonic": {}
+                    },
+                    "Toothbrush Replacement Heads": {}
+                },
+                "Toothbrush Travel Containers": {}
+            },
+            "Toothpaste": {}
+        },
+        "Piercing & Tattoo Supplies": {
+            "Piercing Supplies": {
+                "Aftercare Products": {},
+                "Piercing Guns": {},
+                "Piercing Kits": {},
+                "Piercing Needles": {}
+            },
+            "Tattoo Supplies": {
+                "Aftercare Products": {},
+                "Tattoo Inks": {},
+                "Tattoo Kits": {},
+                "Tattoo Machine Parts": {},
+                "Tattoo Machines": {},
+                "Tattoo Needles": {}
+            }
+        },
+        "Shave & Hair Removal": {
+            "Men's": {
+                "After Shaves": {},
+                "Beard & Mustache Care": {
+                    "Beard & Mustache Combs": {},
+                    "Beard & Mustache Trimmers": {},
+                    "Beard Conditioners & Oils": {},
+                    "Mustache Scissors": {},
+                    "Mustache Waxes": {}
+                },
+                "Body Groomers": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Rotary Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {},
+                    "Cleaners": {}
+                },
+                "Eyebrow Trimmers": {},
+                "Nose & Ear Hair Trimmers": {},
+                "Razors & Blades": {
+                    "Razor Systems": {},
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Safety Razors": {},
+                    "Straight Razors": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Accessories": {
+                    "Alum": {},
+                    "Hot Lather Machines": {},
+                    "Razor & Brush Stands": {},
+                    "Razor Strops": {},
+                    "Shaving Brushes": {},
+                    "Shaving Soap Bowls": {},
+                    "Styptic": {}
+                },
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {},
+                    "Shaving Soaps": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            },
+            "Women's": {
+                "Bleaching": {},
+                "Depilatories": {},
+                "Electric Shavers": {
+                    "Foil Shavers": {},
+                    "Replacement Heads": {},
+                    "Accessories": {}
+                },
+                "Epilators, Groomers & Trimmers": {
+                    "Bikini Trimmers": {},
+                    "Epilators": {},
+                    "Personal Groomers": {}
+                },
+                "Laser, Light & Electrolysis Hair Removal": {
+                    "Electrolysis": {},
+                    "Light Hair Removal": {}
+                },
+                "Razors & Blades": {
+                    "Cartridges & Refills": {},
+                    "Disposable Razors": {},
+                    "Razor Systems": {},
+                    "Razors with Soap Bars": {}
+                },
+                "Shaving & Grooming Sets": {},
+                "Shaving Creams, Lotions & Gels": {
+                    "Shaving Creams": {},
+                    "Shaving Lotions": {},
+                    "Shaving Gels": {}
+                },
+                "Tweezers": {},
+                "Waxing": {
+                    "Powders": {},
+                    "Skin Cleansers": {},
+                    "Spatulas": {},
+                    "Strips": {},
+                    "Wax": {},
+                    "Wax Warmers & Accessories": {},
+                    "Waxing Kits": {}
+                }
+            }
+        },
+        "Skin Care": {
+            "Body": {
+                "Cleansers": {
+                    "Body Washes": {},
+                    "Soaps": {}
+                },
+                "Moisturizers": {
+                    "Body Butter": {},
+                    "Creams": {},
+                    "Lotions": {},
+                    "Oils": {}
+                },
+                "Scrubs & Body Treatments": {
+                    "Body Mud": {},
+                    "Body Scrubs": {},
+                    "Body Souffles & Mousse": {}
+                },
+                "Sets & Kits": {}
+            },
+            "Eyes": {
+                "Creams": {},
+                "Gels": {},
+                "Masks": {},
+                "Pillows": {},
+                "Rollers & Pens": {},
+                "Serums": {}
+            },
+            "Face": {
+                "Cleansers": {
+                    "Bars": {},
+                    "Cloths & Towelettes": {},
+                    "Gels": {},
+                    "Washes": {}
+                },
+                "Creams & Moisturizers": {
+                    "Face Mists": {},
+                    "Face Moisturizers": {},
+                    "Face Oil": {},
+                    "Neck & D\u00e9collet\u00e9": {},
+                    "Night Creams": {},
+                    "Tinted Moisturizers": {}
+                },
+                "Polishes & Scrubs": {
+                    "Polishes": {},
+                    "Scrubs": {}
+                },
+                "Toners & Astringents": {},
+                "Treatments & Masks": {
+                    "Acids & Peels": {},
+                    "Masks": {},
+                    "Microdermabrasion": {},
+                    "Pore Cleansing Strips": {},
+                    "Serums": {}
+                },
+                "Sets & Kits": {}
+            },
+            "Lip Care": {
+                "Balms & Moisturizers": {},
+                "Lip Butters": {},
+                "Scrubs": {}
+            },
+            "Maternity": {},
+            "Sets & Kits": {},
+            "Sunscreens & Tanning Products": {
+                "After Sun": {},
+                "Facial Self Tanners": {},
+                "Self-Tanners & Bronzers": {},
+                "Sunscreens": {
+                    "Body Sunscreens": {},
+                    "Children's Sunscreen": {},
+                    "Facial Sunscreens": {},
+                    "Lip Sunscreens": {}
+                },
+                "Tanning Oils & Lotions": {}
+            }
+        }
+    },
+    "Sexual Wellness": {
+        "Adult Toys & Games": {
+            "Sex Toys": {
+                "Anal Sex Toys": {
+                    "Beads": {},
+                    "Enemas": {},
+                    "Plugs": {},
+                    "Training Sets": {},
+                    "Vibrators": {}
+                },
+                "Catheters & Sounds": {},
+                "Dildos": {
+                    "Double-Ended": {},
+                    "G-Spot": {},
+                    "Harness & Strap-On": {},
+                    "Realistic": {},
+                    "Strapless Strap-On": {}
+                },
+                "Enema Products": {},
+                "Machines & Devices": {},
+                "Male Masturbators": {},
+                "Nipple Toys": {
+                    "Clamps": {},
+                    "Suckers": {},
+                    "Weights": {}
+                },
+                "Penis Rings": {},
+                "Pumps & Enlargers": {},
+                "Sex Dolls": {},
+                "Vibrators": {
+                    "Anal": {},
+                    "Bullets": {},
+                    "Butterflies": {},
+                    "Clitoral": {},
+                    "Couple": {},
+                    "Finger": {},
+                    "G-Spot": {},
+                    "Rabbits": {},
+                    "Realistic": {}
+                }
+            },
+            "Sex Games": {}
+        },
+        "Bondage Gear & Accessories": {
+            "Blindfolds": {},
+            "Chastity Devices": {},
+            "Gags & Muzzles": {},
+            "Paddles, Whips & Ticklers": {
+                "Crops": {},
+                "Floggers": {},
+                "Paddles": {},
+                "Ticklers": {},
+                "Whips": {}
+            },
+            "Restraints": {}
+        },
+        "Jewelry": {},
+        "Novelties": {},
+        "Safer Sex": {
+            "Condoms": {},
+            "Female Contraceptives": {},
+            "Lubricants": {}
+        },
+        "Sensual Delights": {
+            "Bath Items": {},
+            "Edible Items": {},
+            "Erotic Massage": {
+                "Gels, Lotions & Oils": {},
+                "Kits": {}
+            }
+        },
+        "Sex Furniture": {
+            "Bedding": {},
+            "Ramps & Cushions": {},
+            "Swings": {}
+        },
+        "Sexual Enhancers": {}
+    },
+    "Sports Nutrition": {
+        "Amino Acids": {
+            "Acetyl-L-Carnitine": {},
+            "BCAAs": {},
+            "Carnitine": {},
+            "Creatine": {},
+            "L-Arginine": {},
+            "L-Glutamine": {},
+            "L-Lysine": {}
+        },
+        "Endurance & Energy": {
+            "Candy & Mints": {},
+            "Chews & Gels": {},
+            "Drinks": {},
+            "Herbals": {},
+            "Powders": {},
+            "Shots": {},
+            "Supplements": {}
+        },
+        "Fat Burners & Thermogenics": {
+            "7-Keto": {},
+            "CLA": {},
+            "Fat Burners": {},
+            "L-Carnitine": {}
+        },
+        "Healthy Snacks & Beverages": {
+            "Cereal": {},
+            "Chips & Crisps": {},
+            "Chocolate & Carob": {},
+            "Cookies & Brownies": {},
+            "Pudding": {}
+        },
+        "Hydration": {},
+        "Nutrition Bars": {
+            "Endurance & Energy Bars": {},
+            "Food Bars": {},
+            "Protein Bars": {}
+        },
+        "Pre-Workout": {
+            "Nitric Oxide Boosters": {},
+            "Powders": {}
+        },
+        "Post-Workout & Recovery": {},
+        "Protein": {
+            "Powders": {
+                "Blends": {},
+                "Plant": {
+                    "Hemp": {},
+                    "Pea": {},
+                    "Rice": {},
+                    "Soy": {}
+                },
+                "Whey": {}
+            },
+            "Ready to Drink": {}
+        },
+        "Testosterone Boosters": {},
+        "Weight Gainers": {}
+    },
+    "Stationery & Gift Wrapping Supplies": {
+        "Gift Wrapping Supplies": {
+            "Enclosure Cards": {},
+            "Gift Bags": {},
+            "Gift Boxes": {},
+            "Gift Wrap Bows": {},
+            "Gift Wrap Cellophane": {},
+            "Gift Wrap Cellophane Bags": {},
+            "Gift Wrap Crinkle & Filler Paper": {},
+            "Gift Wrap Paper": {},
+            "Gift Wrap Ribbons": {},
+            "Gift Wrap Tags": {},
+            "Wrapping Sets": {},
+            "Wrapping Tissue": {}
+        },
+        "Stationery": {
+            "Announcements": {},
+            "Fine Writing Instruments": {},
+            "Invitations": {},
+            "Letter Writing Stationery": {},
+            "Notecard Sets": {},
+            "Notepads": {},
+            "Greeting Cards": {}
+        }
+    },
+    "Vision Care": {
+        "Contact Lens Care": {
+            "Cases": {},
+            "Cleaners": {},
+            "Hard Lens Care": {},
+            "Rewetting Drops": {},
+            "Soaking Solutions": {}
+        },
+        "Eye Drops, Lubricants & Washes": {},
+        "Eyeglasses Care": {
+            "Cleaning Fluids": {},
+            "Cleaning Tissues & Cloths": {},
+            "Repair Kits": {}
+        },
+        "Reading Glasses": {}
+    },
+    "Vitamins & Dietary Supplements": {
+        "Vitamins": {
+            "Blended Vitamin & Mineral Supplements": {},
+            "Choline": {},
+            "Flavonoids": {},
+            "Multivitamins": {},
+            "Prenatal Vitamins": {},
+            "Vitamin A": {},
+            "Vitamin B": {
+                "B-Complex": {},
+                "B1 (Thiamine)": {},
+                "B2 (Riboflavin)": {},
+                "B3 (Niacin)": {},
+                "B5 (Pantothenic Acid)": {},
+                "B7 (Biotin)": {},
+                "B8 (Inositol)": {},
+                "B9 (Folic Acid)": {},
+                "B6": {},
+                "B12": {}
+            },
+            "Vitamin C": {},
+            "Vitamin D": {},
+            "Vitamin E": {}
+        },
+        "Minerals": {
+            "Calcium": {},
+            "Chromium": {},
+            "Collagen": {},
+            "Colloidal Minerals": {
+                "Colloidal Gold": {},
+                "Colloidal Silver": {}
+            },
+            "Copper": {},
+            "Iodine": {},
+            "Iron": {},
+            "Magnesium": {},
+            "Manganese": {},
+            "Multiminerals": {},
+            "P-5-P": {},
+            "Potassium": {},
+            "Selenium": {},
+            "Silicon": {},
+            "Sodium": {},
+            "Trace Minerals": {},
+            "Zinc": {}
+        },
+        "Supplements": {
+            "5-HTP": {},
+            "Amino Acids": {
+                "Acetyl-L-Carnitine": {},
+                "BCAAs": {},
+                "Carnitine": {},
+                "Creatine": {},
+                "L-Arginine": {},
+                "L-Glutamine": {},
+                "L-Lysine": {}
+            },
+            "Antioxidants": {
+                "Alpha Lipoic Acid": {},
+                "Astaxanthin": {},
+                "Beta Carotenes": {},
+                "Carotenoids": {},
+                "Combinations": {},
+                "CoQ10": {},
+                "DMAE": {},
+                "Lutein": {},
+                "Lycopene": {},
+                "Pycnogenol": {},
+                "Resveratrol": {}
+            },
+            "Bromelain": {},
+            "Chondroitin & Glucosamine": {
+                "Chondroitin": {},
+                "Combinations": {},
+                "Glucosamine": {}
+            },
+            "Digestive Supplements": {
+                "Acidophilus": {},
+                "Charcoal": {},
+                "Dietary Fibers": {},
+                "Prebiotics": {},
+                "Probiotics": {},
+                "Psyllium": {}
+            },
+            "Enzymes": {
+                "Lactase": {},
+                "Lipase": {},
+                "Multi-Enzymes": {}
+            },
+            "Essential Fatty Acids": {
+                "Black Currant Oil": {},
+                "Black Seed Oil": {},
+                "Combinations": {},
+                "DHA": {},
+                "EPA": {},
+                "Flax Seed Oil": {},
+                "Krill Oils": {},
+                "Lecithin": {},
+                "Linseed Oil": {},
+                "Omega Oils": {
+                    "Omega-3": {},
+                    "Omega-6": {},
+                    "Omega-9": {},
+                    "Omega 3-6-9": {}
+                }
+            },
+            "Fish Oil": {},
+            "Glandular Extracts": {
+                "Adrenal Extracts": {},
+                "Liver Extracts": {},
+                "Thymus Extracts": {},
+                "Thyroid Extracts": {}
+            },
+            "Hyaluronic Acid": {},
+            "MCT Oil": {},
+            "MSM": {},
+            "Royal Jelly": {}
+        },
+        "Herbal Supplements": {
+            "Alfalfa": {},
+            "Aloe Vera": {},
+            "Artichoke": {},
+            "Astragalus": {},
+            "Bilberry": {},
+            "Black Cohosh": {},
+            "Cayenne": {},
+            "Chamomile": {},
+            "Chlorella": {},
+            "Chlorophyll": {},
+            "Cinnamon": {},
+            "Cranberry": {},
+            "Curcumin": {},
+            "Dong Quai": {},
+            "Echinacea": {},
+            "Elderberry": {},
+            "Evening Primrose": {},
+            "Flaxseed": {},
+            "Garlic": {},
+            "Ginger": {},
+            "Ginkgo Biloba": {},
+            "Ginseng": {},
+            "Goldenseal": {},
+            "Grape Seed Extract": {},
+            "Green Tea": {},
+            "Hawthorn": {},
+            "Horny Goat Weed": {},
+            "Kava Kava": {},
+            "Licorice Root": {},
+            "Marshmallow Root": {},
+            "Milk Thistle": {},
+            "Muira Puama": {},
+            "Mushrooms": {},
+            "Neem": {},
+            "Nettle": {},
+            "Noni": {},
+            "Olive Leaf": {},
+            "Oregano": {},
+            "Red Yeast Rice": {},
+            "Saw Palmetto": {},
+            "Spirulina": {},
+            "St. John's Wort": {},
+            "Stevia": {},
+            "Tribulus": {},
+            "Triphala": {},
+            "Turmeric": {},
+            "Valerian": {},
+            "Yohimbe": {}
+        },
+        "Weight Loss": {
+            "Appetite Control & Suppressants": {},
+            "Detox & Cleanse": {},
+            "Diet Kits & Systems": {},
+            "Diuretics": {},
+            "Supplements": {
+                "Carb Blockers": {},
+                "CLA": {},
+                "Fat Burners": {},
+                "Green Coffee Bean Extract": {},
+                "Raspberry Ketones": {},
+                "Relora": {}
+            }
+        }
+    },
+    "Wellness & Relaxation": {
+        "Alternative Medicine": {
+            "Acupuncture": {},
+            "Aromatherapy": {
+                "Candles": {},
+                "Carrier & Essential Oils": {
+                    "Carrier Oils": {},
+                    "Essential Oil Blends": {},
+                    "Essential Oil Sets": {},
+                    "Essential Oil Singles": {}
+                },
+                "Diffusers": {},
+                "Mists & Hydrosols": {}
+            },
+            "Ayurveda": {},
+            "Flower Essences": {},
+            "Light Therapy": {},
+            "Magnetic Field Therapy": {},
+            "Manipulation Therapies": {},
+            "Oxygen Therapy": {},
+            "Single Homeopathic Remedies": {},
+            "Sound Therapy": {}
+        },
+        "App-Enabled Activity Trackers": {
+            "Accessories": {
+                "Arm & Wristband Accessories": {},
+                "Smart Clip Accessories": {}
+            },
+            "Clips, Arm & Wristbands": {}
+        },
+        "Fitness & Activity Monitors": {
+            "Body Composition Monitors": {},
+            "Heart Rate Monitors": {},
+            "Pedometers": {}
+        },
+        "Massage Tools & Equipment": {
+            "Electric Massagers": {
+                "Back Massagers": {},
+                "Foot Massagers": {}
+            },
+            "Magnetic Therapy": {},
+            "Massage Lotions": {},
+            "Massage Oils": {},
+            "Massage Tools": {
+                "Scalp Massagers": {},
+                "Foot Massagers": {},
+                "Back Massagers": {},
+                "Back Scratchers": {},
+                "Massage Sticks": {},
+                "Massage Balls": {}
+            },
+            "Professional Massage Equipment": {
+                "Linens": {},
+                "Salon & Spa Chairs": {},
+                "Salon & Spa Tables": {},
+                "Table Pads": {}
+            }
+        }
+    }
+}

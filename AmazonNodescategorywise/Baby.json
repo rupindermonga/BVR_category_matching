@@ -1,0 +1,664 @@
+{
+    "Activity & Entertainment": {
+        "Baby Gyms & Playmats": {},
+        "Bouncers, Jumpers & Swings": {
+            "Bouncers": {},
+            "Jumpers": {},
+            "Swings": {}
+        },
+        "Floor Seats & Loungers": {},
+        "Playards": {},
+        "Playard Bedding": {},
+        "Walkers": {}
+    },
+    "Apparel & Accessories": {
+        "Baby Girls": {
+            "Clothing": {
+                "Bodysuits": {},
+                "Footies & Rompers": {
+                    "Footies": {},
+                    "Rompers": {}
+                },
+                "Layette Sets": {},
+                "Clothing Sets": {
+                    "Pant Sets": {},
+                    "Short Sets": {},
+                    "Skirt Sets": {}
+                },
+                "Dresses": {
+                    "Playwear": {},
+                    "Special Occasion": {}
+                },
+                "Tops": {
+                    "Tees": {},
+                    "Tank Tops": {},
+                    "Blouses": {}
+                },
+                "Sweaters": {},
+                "Hoodies & Active": {},
+                "Bottoms": {
+                    "Jeans": {},
+                    "Leggings": {},
+                    "Overalls": {},
+                    "Pants": {},
+                    "Shorts": {},
+                    "Skirts, Skooters & Skorts": {}
+                },
+                "Jackets & Coats": {
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Jackets": {},
+                    "Rain Wear": {},
+                    "Snow Wear": {},
+                    "Vests": {}
+                },
+                "Sleepwear & Robes": {
+                    "Blanket Sleepers": {},
+                    "Nightgowns": {},
+                    "Pajama Sets": {},
+                    "Robes": {}
+                },
+                "Bloomers, Diaper Covers & Underwear": {
+                    "Undershirts, Tanks & Camisoles": {},
+                    "Training Pants": {},
+                    "Bloomers": {}
+                },
+                "Swim": {
+                    "One Pieces": {},
+                    "Two-Pieces": {
+                        "Bikinis": {},
+                        "Tankinis": {},
+                        "Cover-Up Sets": {},
+                        "Rash Guard Sets": {}
+                    },
+                    "Rash Guard Shirts": {},
+                    "Cover-Ups": {},
+                    "Swim Diapers": {},
+                    "Sunsuits": {}
+                },
+                "Christening": {}
+            },
+            "Shoes": {
+                "Athletic & Outdoor": {},
+                "Boots": {},
+                "Clogs & Mules": {},
+                "Flats": {
+                    "Ballet": {},
+                    "Mary Jane": {},
+                    "Oxford & Loafer": {}
+                },
+                "Sandals": {},
+                "Slippers": {},
+                "Sneakers": {}
+            },
+            "Accessories": {
+                "Bibs & Burp Cloths": {
+                    "Bibs": {},
+                    "Burp Cloths": {},
+                    "Bibs & Burp Cloths Sets": {}
+                },
+                "Gloves & Mittens": {},
+                "Hair Accessories": {},
+                "Hats & Caps": {},
+                "Leg Warmers": {},
+                "Receiving Blankets": {},
+                "Socks": {},
+                "Tights": {}
+            }
+        },
+        "Baby Boys": {
+            "Clothing": {
+                "Bodysuits": {},
+                "Footies & Rompers": {
+                    "Footies": {},
+                    "Rompers": {}
+                },
+                "Layette Sets": {},
+                "Clothing Sets": {
+                    "Pant Sets": {},
+                    "Short Sets": {}
+                },
+                "Suits & Sport Coats": {
+                    "Suits": {},
+                    "Tuxedos": {}
+                },
+                "Tops": {
+                    "Tees": {},
+                    "Polos": {},
+                    "Button-Down & Dress Shirts": {}
+                },
+                "Sweaters": {},
+                "Hoodies & Active": {},
+                "Bottoms": {
+                    "Jeans": {},
+                    "Leggings": {},
+                    "Overalls": {},
+                    "Pants": {},
+                    "Shorts": {}
+                },
+                "Jackets & Coats": {
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Jackets": {},
+                    "Rain Wear": {},
+                    "Snow Wear": {},
+                    "Vests": {}
+                },
+                "Sleepwear & Robes": {
+                    "Blanket Sleepers": {},
+                    "Nightgowns": {},
+                    "Pajama Sets": {},
+                    "Robes": {}
+                },
+                "Bloomers, Diaper Covers & Underwear": {
+                    "Undershirts": {},
+                    "Training Pants": {},
+                    "Bloomers": {}
+                },
+                "Swim": {
+                    "Rash Guard Shirts": {},
+                    "Swim Diapers": {},
+                    "Trunks & Shorts": {},
+                    "Swimwear Sets": {},
+                    "Sunsuits": {}
+                },
+                "Christening": {}
+            },
+            "Shoes": {
+                "Athletic & Outdoor": {},
+                "Boots": {},
+                "Clogs & Mules": {},
+                "Oxfords & Loafers": {},
+                "Sandals": {},
+                "Slippers": {},
+                "Sneakers": {}
+            },
+            "Accessories": {
+                "Bibs & Burp Cloths": {
+                    "Bibs": {},
+                    "Burp Cloths": {},
+                    "Bibs & Burp Cloths Sets": {}
+                },
+                "Gloves & Mittens": {},
+                "Hats & Caps": {},
+                "Leg Warmers": {},
+                "Receiving Blankets": {},
+                "Socks": {}
+            }
+        }
+    },
+    "Baby & Toddler Toys": {
+        "Activity Play Centers": {},
+        "Balls": {},
+        "Bath Toys": {},
+        "Car Seat & Stroller Toys": {},
+        "Hammering & Pounding Toys": {},
+        "Indoor Climbers & Play Structures": {},
+        "Mirrors": {},
+        "Musical Toys": {},
+        "Push & Pull Toys": {},
+        "Rattles & Plush Rings": {},
+        "Sorting & Stacking Toys": {},
+        "Spinning Tops": {},
+        "Stick Horses": {},
+        "Teaching Clocks": {},
+        "Teethers": {}
+    },
+    "Baby Care": {
+        "Bathing": {
+            "Aromatherapy": {},
+            "Bathing Tubs & Seats": {},
+            "Bathroom Safety": {},
+            "Bubble Bath": {},
+            "Conditioners": {},
+            "Shampoo": {},
+            "Soaps & Cleansers": {
+                "Bar Soaps": {},
+                "Body Wash": {},
+                "Foaming Soaps": {},
+                "No-Rinse Cleansers": {}
+            },
+            "Travel Bathing Kits": {},
+            "Washcloths & Towels": {
+                "Bath & Hooded Towels": {},
+                "Washcloths & Wash Gloves": {}
+            }
+        },
+        "Grooming": {
+            "Grooming & Healthcare Kits": {},
+            "Hair Clippers": {},
+            "Nail Care": {},
+            "Skin Care": {
+                "Diaper Creams": {},
+                "Lip Balms": {},
+                "Lotions": {},
+                "Oils": {},
+                "Powders": {},
+                "Sun Protection": {}
+            }
+        },
+        "Health": {
+            "Colic & Gas Relief": {},
+            "Medicine Dispensers": {},
+            "Nasal Aspirators": {},
+            "Nasal Tweezers": {},
+            "Scales": {},
+            "Thermometers": {},
+            "Toothbrushes": {}
+        },
+        "Pacifiers, Teethers & Teething Relief": {
+            "Pacifier Accessories": {},
+            "Pacifiers": {},
+            "Teethers": {},
+            "Teething Relief": {}
+        }
+    },
+    "Baby Stationery": {
+        "Birth Announcements": {},
+        "Door Hangers": {},
+        "Invitations": {},
+        "Thank You Cards": {}
+    },
+    "Car Seats & Accessories": {
+        "Car Seats": {
+            "3-in-1": {},
+            "Booster": {},
+            "Convertible": {},
+            "Infant": {},
+            "Travel Systems": {}
+        },
+        "Car Seat Bases": {},
+        "Accessories": {
+            "Adapters": {},
+            "Automotive Seat Protector": {},
+            "Bunting Bags": {},
+            "Canopies & Covers": {},
+            "Chest & Harness Clips": {},
+            "Cushions": {},
+            "Head & Body Supports": {},
+            "Rear Facing Mirrors": {},
+            "Seat Back Kick Protectors": {},
+            "Seat Liners": {},
+            "Storage & Organizers": {},
+            "Strap & Belt Covers": {},
+            "Sun Protection": {},
+            "Travel Bags & Carts": {}
+        }
+    },
+    "Diapering": {
+        "Changing Table Pads & Covers": {
+            "Covers": {},
+            "Pads": {}
+        },
+        "Changing Tables": {},
+        "Cloth Diaper Accessories": {
+            "Pins & Fasteners": {},
+            "Inserts & Liners": {},
+            "Laundry Detergent": {},
+            "Sprayers": {},
+            "Wet Bags": {}
+        },
+        "Cloth Diapers": {},
+        "Diaper Bags": {},
+        "Diaper Creams & Ointments": {},
+        "Diaper Pails & Refills": {
+            "Diaper Pails": {},
+            "Diaper Pail Liners": {},
+            "Diaper Pail Deodorizers": {},
+            "Diaper Disposal Bags": {}
+        },
+        "Diaper Stackers & Caddies": {},
+        "Disposable Diapers": {},
+        "Portable Changing Pads": {},
+        "Powders": {},
+        "Wipes & Holders": {
+            "Wipes & Refills": {},
+            "Wipe Holders": {},
+            "Wipe Warmers": {}
+        }
+    },
+    "Feeding": {
+        "Baby Foods": {
+            "Baby Formula": {},
+            "Beverages": {},
+            "Cereal": {},
+            "Meals": {},
+            "Snack Foods": {}
+        },
+        "Bibs & Burp Cloths": {
+            "Bibs": {},
+            "Burp Cloths": {},
+            "Bibs & Burp Cloths Sets": {}
+        },
+        "Bottle-Feeding": {
+            "Bottle Accessories": {},
+            "Bottle Tote Bags": {},
+            "Bottles": {},
+            "Formula Dispensers & Mixers": {},
+            "Nipples": {},
+            "Warmers & Sterilizers": {}
+        },
+        "Breastfeeding": {
+            "Breast Pump Accessories": {},
+            "Breast Pumps": {
+                "Electric": {},
+                "Manual": {}
+            },
+            "Breast Shells & Creams": {},
+            "Nursing Covers": {},
+            "Nursing Pads": {}
+        },
+        "Food Mills": {},
+        "Food Storage": {},
+        "Highchairs & Booster Seats": {
+            "Accessories": {},
+            "Booster & Hook-On Seats": {},
+            "Highchairs": {}
+        },
+        "Pillows & Pillow Covers": {
+            "Pillow Covers": {},
+            "Pillows": {}
+        },
+        "Solid Feeding": {
+            "Cups": {},
+            "Dishes": {},
+            "Lunch Bags": {},
+            "Place Mats": {},
+            "Utensils": {}
+        }
+    },
+    "Gifts": {
+        "Albums, Frames & Journals": {
+            "Albums": {},
+            "Frames": {},
+            "Journals": {}
+        },
+        "Gift Baskets": {},
+        "Gift Sets": {},
+        "Keepsakes": {
+            "Hand & Footprint Makers": {},
+            "Keepsake Boxes & Tins": {},
+            "Keepsake Frames": {},
+            "Keepsake Rattles": {},
+            "Silver Baby Spoons": {},
+            "Christening": {}
+        },
+        "Money Banks": {},
+        "Rattles": {}
+    },
+    "Nursery": {
+        "Bedding": {
+            "Baby Bedding": {
+                "Bassinet Bedding": {
+                    "Bed Skirts": {},
+                    "Bedding Sets": {},
+                    "Bumpers": {},
+                    "Mattress Pads": {},
+                    "Sheets": {}
+                },
+                "Blankets & Swaddling": {
+                    "Bed Blankets": {},
+                    "Receiving Blankets": {},
+                    "Swaddling Blankets": {},
+                    "Wearable Blankets": {}
+                },
+                "Cradle Bedding": {
+                    "Bed Skirts": {},
+                    "Bedding Sets": {},
+                    "Sheets": {}
+                },
+                "Crib Bedding": {
+                    "Bed Skirts": {},
+                    "Bedding Sets": {},
+                    "Bumpers": {},
+                    "Crib Netting": {},
+                    "Mattress Pads": {},
+                    "Rail Covers": {},
+                    "Sheets": {}
+                },
+                "Pillows": {
+                    "Head Shaping": {},
+                    "Sleep Positioners": {},
+                    "Wedge": {}
+                },
+                "Playard Bedding": {},
+                "Quilts & Bed Covers": {}
+            },
+            "Mattresses": {
+                "Cradle Mattresses": {},
+                "Crib Mattresses": {},
+                "Portable Crib Mattresses": {}
+            },
+            "Toddler Bedding": {
+                "Bed Skirts": {},
+                "Bedding Sets": {},
+                "Duvets, Covers & Sets": {
+                    "Duvet Cover Sets": {},
+                    "Duvet Covers": {},
+                    "Duvets": {}
+                },
+                "Mattress Pads": {},
+                "Pillows": {},
+                "Sheets": {},
+                "Sheets & Pillowcases": {
+                    "Pillowcases": {},
+                    "Sheet & Pillowcase Sets": {}
+                },
+                "Blankets": {}
+            }
+        },
+        "Furniture": {
+            "Changing & Dressing": {
+                "Armoires": {},
+                "Changing Table Pads & Covers": {
+                    "Covers": {},
+                    "Pads": {}
+                },
+                "Changing Tables": {},
+                "Chests & Dressers": {},
+                "Diaper Pails": {},
+                "Diaper Stackers & Caddies": {},
+                "Hampers": {}
+            },
+            "Cribs & Nursery Beds": {
+                "Bassinets": {},
+                "Bedside Cribs": {},
+                "Co-Sleeping Cribs & Cradles": {},
+                "Cradles": {},
+                "Cribs": {},
+                "Moses Baskets": {},
+                "Portable Cribs": {},
+                "Toddler Beds": {},
+                "Travel Beds": {}
+            },
+            "Furniture Collections": {},
+            "Gliders, Ottomans & Rocking Chairs": {
+                "Glider & Ottoman Sets": {},
+                "Ottomans": {},
+                "Rocking Chairs": {},
+                "Gliders": {}
+            },
+            "Rails & Rail Guards": {},
+            "Storage & Organization": {
+                "Baskets & Liners": {},
+                "Hampers": {},
+                "Hanging Organizers": {},
+                "Step Stools": {},
+                "Storage Bins & Boxes": {},
+                "Toy Chests & Organizers": {}
+            }
+        },
+        "D\u00e9cor": {
+            "Baskets & Liners": {},
+            "Clocks": {},
+            "Door Hangers": {},
+            "Drawer Handles": {},
+            "Lamps & Shades": {},
+            "Memory Boards": {},
+            "Mirrors": {},
+            "Mobiles": {},
+            "Night Lights": {},
+            "Picture Frames": {},
+            "Pillows": {},
+            "Rugs": {},
+            "Sleep Soothers": {},
+            "Sleep Sound Machines": {},
+            "Switch Plates": {},
+            "Wall D\u00e9cor": {
+                "Growth Charts": {},
+                "Letters & Numbers": {},
+                "Stickers": {},
+                "Wall Plaques": {}
+            },
+            "Waste Bins": {},
+            "Window Treatments": {
+                "Curtain Panels": {},
+                "Valances": {},
+                "Window Stickers & Films": {
+                    "Window Films": {},
+                    "Window Stickers": {}
+                }
+            }
+        },
+        "Safety Equipment": {
+            "Baby Monitors": {},
+            "Crib Netting": {},
+            "Rails & Rail Gaurds": {}
+        }
+    },
+    "Potty Training": {
+        "Potties & Seats": {},
+        "Seat Covers": {},
+        "Training Pants": {},
+        "Travel Potties": {}
+    },
+    "Pregnancy & Maternity": {
+        "Breastfeeding Pillows & Stools": {
+            "Pillow Covers": {},
+            "Pillows": {}
+        },
+        "Family Planning Tests": {
+            "Fertility Tests": {},
+            "Ovulation Tests": {},
+            "Pregnancy Tests": {}
+        },
+        "Maternity Pillows": {},
+        "Prenatal Monitoring Devices": {}
+    },
+    "Safety": {
+        "Bathroom Safety": {},
+        "Cabinet Locks & Straps": {},
+        "Crib Netting": {},
+        "Edge & Corner Guards": {},
+        "Electrical Safety": {},
+        "Gates & Doorways": {},
+        "Harnesses & Leashes": {},
+        "Kitchen Safety": {},
+        "Monitors": {},
+        "Outdoor Safety": {},
+        "Rails & Rail Guards": {},
+        "Sleep Positioners": {}
+    },
+    "Strollers & Accessories": {
+        "Strollers": {
+            "Joggers": {},
+            "Lightweight": {},
+            "Prams": {},
+            "Standard": {},
+            "Tandem": {},
+            "Travel Systems": {}
+        },
+        "Accessories": {
+            "Bassinets & Carrycots": {},
+            "Bunting Bags": {},
+            "Insect Netting": {},
+            "Organizers": {},
+            "Parent Cup Holders": {},
+            "Seat Liners": {},
+            "Stroller Connectors": {},
+            "Stroller Fans": {},
+            "Stroller Hooks": {},
+            "Stroller Toys": {},
+            "Sun Protection": {},
+            "Travel Carry Bags": {},
+            "Weather Shields": {}
+        },
+        "Replacement Parts": {
+            "Bumper Bars": {},
+            "Canopies": {},
+            "Inner Tubes & Tires": {},
+            "Stroller Connectors": {}
+        }
+    },
+    "Travel Gear": {
+        "Backpacks & Carriers": {
+            "Accessories": {},
+            "Backpacks": {},
+            "Slings": {},
+            "Soft Carriers": {}
+        },
+        "Bicycle Child Seats & Trailers": {},
+        "Car Seats & Accessories": {
+            "Car Seats": {
+                "3-in-1": {},
+                "Booster": {},
+                "Convertible": {},
+                "Infant": {},
+                "Travel Systems": {}
+            },
+            "Car Seat Bases": {},
+            "Accessories": {
+                "Adapters": {},
+                "Automotive Seat Protector": {},
+                "Bunting Bags": {},
+                "Canopies & Covers": {},
+                "Chest & Harness Clips": {},
+                "Cushions": {},
+                "Head & Body Supports": {},
+                "Rear Facing Mirrors": {},
+                "Seat Back Kick Protectors": {},
+                "Seat Liners": {},
+                "Storage & Organizers": {},
+                "Strap & Belt Covers": {},
+                "Sun Protection": {},
+                "Travel Bags & Carts": {}
+            }
+        },
+        "Diaper Bags": {},
+        "Harnesses & Leashes": {},
+        "Portable Changing Pads": {},
+        "Shopping Cart Covers": {},
+        "Strollers & Accessories": {
+            "Strollers": {
+                "Joggers": {},
+                "Lightweight": {},
+                "Prams": {},
+                "Standard": {},
+                "Tandem": {},
+                "Travel Systems": {}
+            },
+            "Accessories": {
+                "Bassinets & Carrycots": {},
+                "Bunting Bags": {},
+                "Insect Netting": {},
+                "Organizers": {},
+                "Parent Cup Holders": {},
+                "Seat Liners": {},
+                "Stroller Connectors": {},
+                "Stroller Fans": {},
+                "Stroller Hooks": {},
+                "Stroller Toys": {},
+                "Sun Protection": {},
+                "Travel Carry Bags": {},
+                "Weather Shields": {}
+            },
+            "Replacement Parts": {
+                "Bumper Bars": {},
+                "Canopies": {},
+                "Inner Tubes & Tires": {},
+                "Stroller Connectors": {}
+            }
+        },
+        "Travel Beds": {}
+    }
+}

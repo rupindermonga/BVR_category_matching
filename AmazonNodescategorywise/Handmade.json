@@ -1,0 +1,821 @@
+{
+    "Jewelry": {
+        "Rings": {
+            "Band": {},
+            "Midi": {},
+            "Signet": {},
+            "Solitaire": {},
+            "Stacking": {},
+            "Statement": {},
+            "Wedding & Engagement": {
+                "Bridal Sets": {},
+                "Engagement": {},
+                "Wedding": {}
+            }
+        },
+        "Earrings": {
+            "Drop & Dangle": {},
+            "Ear Climbers & Jackets": {},
+            "Ear Cuff": {},
+            "Hoop": {},
+            "Stud": {},
+            "Threader": {}
+        },
+        "Necklaces": {
+            "Bib": {},
+            "Chain": {},
+            "Choker": {},
+            "Lariat & Y": {},
+            "Pendant": {},
+            "Strand": {}
+        },
+        "Bracelets": {
+            "Bangle": {},
+            "Charm": {},
+            "Cuff": {},
+            "Hand Chain": {},
+            "Link": {},
+            "Stretch": {},
+            "Wrap": {}
+        },
+        "Charms": {},
+        "Body Jewelry": {
+            "Anklets": {},
+            "Barefoot Sandals": {},
+            "Body Chains": {},
+            "Piercing Jewelry": {
+                "Barbells": {},
+                "Gauges & Plugs": {},
+                "Hoops": {},
+                "Studs": {},
+                "Faux Jewelry": {
+                    "Gauges & Plugs": {},
+                    "Hoops": {}
+                }
+            },
+            "Toe Rings": {}
+        },
+        "Hair Jewelry": {
+            "Clips & Barrettes": {},
+            "Headbands": {},
+            "Pins": {},
+            "Side Combs": {},
+            "Tiaras": {}
+        },
+        "Jewelry Sets": {},
+        "Prayer & Meditation Beads": {},
+        "Watches": {},
+        "Brooches, Buttons & Pins": {
+            "Brooches": {},
+            "Buttons": {},
+            "Pins": {},
+            "Sweater Clips": {}
+        },
+        "Cufflinks & Shirt Accessories": {
+            "Collar Stays": {},
+            "Cufflinks": {},
+            "Tie Clips": {},
+            "Tie Pins": {}
+        },
+        "Accessories": {
+            "Boxes & Organizers": {
+                "Dishes & Bowls": {},
+                "Jewelry Boxes": {},
+                "Ring Boxes": {},
+                "Ring Cones & Holders": {},
+                "Wall Mounts": {}
+            },
+            "Pouches": {},
+            "Ring Cushions": {}
+        }
+    },
+    "Home & Kitchen": {
+        "Artwork": {
+            "Drawings": {},
+            "Mixed Media": {},
+            "Paintings": {},
+            "Photographs": {},
+            "Posters": {},
+            "Prints": {},
+            "Wall Stickers": {}
+        },
+        "Bath": {
+            "Bath Linen": {},
+            "Bathroom Accessories": {
+                "Bathroom Cups": {},
+                "Shower Curtains": {},
+                "Towel Racks": {}
+            },
+            "Bathroom Fixtures": {}
+        },
+        "Bedding": {
+            "Bed Pillows": {},
+            "Bedspreads & Coverlets": {},
+            "Blankets & Quilts": {},
+            "Duvets & Duvet Covers": {},
+            "Nursery Bedding": {
+                "Blankets & Swaddling": {},
+                "Crib Bedding": {},
+                "Pillows, Covers & Protectors": {
+                    "Back & Body Supports": {},
+                    "Pillow Protectors": {},
+                    "Pillowcases": {},
+                    "Pillows": {}
+                },
+                "Playard Bedding": {},
+                "Quilts & Bed Covers": {}
+            },
+            "Sheets & Pillowcases": {}
+        },
+        "Cleaning Supplies": {
+            "Cleaning Tools": {
+                "Cloths & Sponges": {
+                    "Paperless Towels": {},
+                    "Sponges & Scouring Pads": {}
+                },
+                "Mopping": {}
+            },
+            "Dishwashing": {
+                "Dish Cloths & Towels": {},
+                "Sponges & Scouring Pads": {}
+            },
+            "Laundry": {
+                "Dryer Balls": {},
+                "Laundry Detergent": {}
+            }
+        },
+        "Furniture": {
+            "Bedroom Furniture": {},
+            "Children's Furniture": {},
+            "Hallway Furniture": {},
+            "Home Bar Furniture": {},
+            "Home Office Furniture": {},
+            "Kitchen & Dining Room Furniture": {},
+            "Living Room Furniture": {
+                "Bean Bag Chairs": {},
+                "Bookcases": {},
+                "Chairs": {},
+                "Footstools & Ottomans": {},
+                "Home Entertainment Furniture": {},
+                "Tables": {
+                    "Coffee Tables": {},
+                    "End Tables": {},
+                    "Sofa Tables": {}
+                }
+            },
+            "Nursery Furniture": {}
+        },
+        "Home D\u00e9cor": {
+            "Artificial Flora": {},
+            "Candles & Holders": {},
+            "Children's Room D\u00e9cor": {},
+            "Clocks": {},
+            "Curtains, Blinds & Shutters": {},
+            "Decorative Accessories": {
+                "Bowls": {},
+                "Boxes": {},
+                "Christmas Stockings & Holders": {
+                    "Christmas Stockings": {},
+                    "Christmas Stocking Holders": {}
+                },
+                "Christmas Tree Skirts": {},
+                "Christmas Tree Toppers": {},
+                "Display Stands": {},
+                "Figurines": {},
+                "Jars": {},
+                "Mobiles": {},
+                "Music Boxes": {},
+                "Ornaments": {},
+                "Plates": {},
+                "Pottery": {},
+                "Sculptures": {},
+                "Stained Glass Panels": {},
+                "Stickers": {},
+                "Tiles": {},
+                "Wall Crosses": {},
+                "Wall Pediments": {},
+                "Wreath Bows & Accessories": {},
+                "Wreaths": {}
+            },
+            "Doormats": {},
+            "Doorstops": {},
+            "Gift Baskets": {},
+            "Guestbooks": {},
+            "Home Fragrance": {},
+            "Lamps": {
+                "Bedside & Table Lamps": {},
+                "Desk Lamps": {},
+                "Lamp Shades": {},
+                "Pendant Lamps": {}
+            },
+            "Magnets": {},
+            "Memo Boards": {},
+            "Mirrors": {},
+            "Photo Albums & Frames": {
+                "Photo Albums": {},
+                "Picture Frames": {}
+            },
+            "Signs & Plaques": {},
+            "Slipcovers": {},
+            "Tapestries": {},
+            "Terrariums": {},
+            "Throw Pillows": {},
+            "Vases": {}
+        },
+        "Kitchen & Dining": {
+            "Bakeware": {
+                "Bakeware Molds & Pans": {},
+                "Cake Carriers": {},
+                "Cake Toppers": {},
+                "Cupcake Toppers": {},
+                "Cupcake Wrappers": {},
+                "Rolling Pins": {}
+            },
+            "Containers & Storage": {},
+            "Cookware": {},
+            "Kitchen Linen": {
+                "Aprons": {},
+                "Dish Cloths & Towels": {},
+                "Kitchen Cozies": {},
+                "Napkins & Napkin Rings": {
+                    "Napkins": {},
+                    "Napkin Rings": {}
+                },
+                "Placemats": {},
+                "Table Runners": {},
+                "Tablecloths": {}
+            },
+            "Kitchen Utensils & Tools": {
+                "Barware": {
+                    "Bottle Openers": {},
+                    "Bottle Stoppers": {},
+                    "Coasters": {},
+                    "Wine Glass Charms": {}
+                },
+                "Cutting Boards": {},
+                "Kitchen Knives": {},
+                "Spoon Rests": {},
+                "Trivets": {}
+            },
+            "Tableware": {
+                "Cups, Mugs & Saucers": {
+                    "Cups": {},
+                    "Mugs": {},
+                    "Travel Mugs": {}
+                },
+                "Dishware & Serveware": {
+                    "Bowls": {},
+                    "Plates": {},
+                    "Serving Dishes": {},
+                    "Teapots": {}
+                },
+                "Flatware": {
+                    "Forks": {},
+                    "Spoons": {},
+                    "Serving Utensils": {}
+                },
+                "Glassware": {
+                    "Beer Glasses": {},
+                    "Champagne Glasses": {},
+                    "Cocktail Glasses": {},
+                    "Martini Glasses": {},
+                    "Shot Glasses": {},
+                    "Tumblers": {},
+                    "Wine Glasses": {}
+                },
+                "Napkins & Napkin Rings": {
+                    "Napkins": {},
+                    "Napkin Rings": {}
+                }
+            }
+        },
+        "Lighting": {
+            "Ceiling Lighting": {},
+            "Lamps": {
+                "Bedside & Table Lamps": {},
+                "Desk Lamps": {},
+                "Lamp Shades": {},
+                "Pendant Lamps": {}
+            },
+            "Lightswitch Plates": {},
+            "Outdoor Lighting": {},
+            "Wall Lighting Fixtures": {}
+        },
+        "Patio, Lawn & Garden": {
+            "Backyard Birding": {},
+            "Outdoor D\u00e9cor": {
+                "Chimes": {},
+                "Decorative Stones": {},
+                "Garden Sculptures & Statues": {},
+                "Garden Stakes": {},
+                "Pots, Planters & Container Accessories": {
+                    "Planters & Boxes": {},
+                    "Flower Pots": {},
+                    "Hanging Planters": {}
+                },
+                "Sun Catchers": {},
+                "Wind Sculptures & Spinners": {},
+                "Yard Signs": {}
+            }
+        },
+        "Storage & Organization": {
+            "Baskets & Bins": {
+                "Baskets": {},
+                "Storage Bins": {},
+                "Storage Boxes & Chests": {}
+            },
+            "Bathroom Storage & Organization": {
+                "Bathroom Cups": {},
+                "Towel Racks": {}
+            },
+            "Beauty & Personal Care Storage & Organization": {
+                "Cosmetic Bags": {},
+                "Toiletry Bags": {}
+            },
+            "Clothing & Wardrobe Storage": {},
+            "Home Storage Hooks": {},
+            "Kitchen Storage & Organization": {},
+            "Racks & Shelves": {},
+            "Storage Bags": {},
+            "Wedding Dress Hangers": {}
+        }
+    },
+    "Clothing, Shoes & Accessories": {
+        "Women": {
+            "Clothing": {
+                "Blouses & Shirts": {},
+                "Costumes": {},
+                "Dresses": {},
+                "Hoodies & Sweatshirts": {},
+                "Leggings": {},
+                "Outerwear": {},
+                "Pants": {},
+                "Shorts": {},
+                "Skirts": {},
+                "Sleepwear, Lingerie & Underwear": {
+                    "Sleepwear & Robes": {
+                        "Nightgowns": {},
+                        "Pajama Sets": {},
+                        "Robes": {}
+                    },
+                    "Lingerie": {
+                        "Bodysuits": {},
+                        "Lingerie Sets": {}
+                    },
+                    "Undergarments": {
+                        "Bras": {},
+                        "Slips": {},
+                        "Panties": {}
+                    }
+                },
+                "Socks, Tights & Leg Warmers": {
+                    "Leg Warmers": {},
+                    "Socks": {},
+                    "Tights": {}
+                },
+                "Sweaters, Cardigans & Capes": {},
+                "Swimwear": {
+                    "Two Pieces": {},
+                    "Cover-Ups & Sarongs": {},
+                    "One Pieces": {}
+                },
+                "Tops & Tees": {
+                    "T-Shirts": {},
+                    "Tank Tops": {},
+                    "Tunics": {}
+                }
+            },
+            "Shoes": {
+                "Flats": {},
+                "Boots": {},
+                "Pumps": {},
+                "Sandals": {},
+                "Slippers": {},
+                "Sneakers & Athletic Shoes": {}
+            },
+            "Accessories": {
+                "Arm Warmers & Muffs": {},
+                "Belt Buckles": {},
+                "Belts": {},
+                "Earmuffs": {},
+                "Eyewear & Accessories": {
+                    "Cases": {},
+                    "Chains & Straps": {},
+                    "Prescription Eyewear Frames": {}
+                },
+                "Garters": {},
+                "Gloves & Mittens": {},
+                "Handkerchiefs": {},
+                "Hats & Caps": {
+                    "Baseball Caps": {},
+                    "Bomber Hats": {},
+                    "Cowboy Hats": {},
+                    "Fedoras & Trilby Hats": {},
+                    "Sun Hats": {},
+                    "Visors": {}
+                },
+                "Sashes": {},
+                "Scarves & Wraps": {
+                    "Neckerchiefs": {},
+                    "Pashminas": {},
+                    "Scarves": {},
+                    "Shawls": {}
+                }
+            }
+        },
+        "Men": {
+            "Clothing": {
+                "Button Down Shirts": {},
+                "Costumes": {},
+                "Hoodies & Sweatshirts": {},
+                "Sweaters, Cardigans & Vests": {},
+                "Swimwear": {},
+                "Tops & Tees": {
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                }
+            },
+            "Shoes": {
+                "Boots": {},
+                "Loafers & Slip-Ons": {},
+                "Oxfords": {},
+                "Slippers": {},
+                "Sneakers & Athletic Shoes": {}
+            },
+            "Accessories": {
+                "Arm Warmers": {},
+                "Belt Buckles": {},
+                "Belts": {},
+                "Eyewear & Accessories": {
+                    "Cases": {},
+                    "Chains & Straps": {}
+                },
+                "Gloves & Mittens": {},
+                "Handkerchiefs": {},
+                "Hats & Caps": {
+                    "Baseball Caps": {},
+                    "Beanies": {}
+                },
+                "Scarves": {},
+                "Ties": {
+                    "Bolo": {},
+                    "Bow Ties": {},
+                    "Neckties": {}
+                }
+            }
+        },
+        "Girls": {
+            "Clothing": {
+                "Activewear": {},
+                "Bottoms": {
+                    "Leggings": {},
+                    "Skirts": {}
+                },
+                "Clothing Sets": {},
+                "Costumes": {},
+                "Dresses": {},
+                "Hoodies & Sweatshirts": {},
+                "Socks, Tights & Leg Warmers": {},
+                "Sweaters, Cardigans & Capes": {},
+                "Swimwear": {},
+                "Tops & Tees": {}
+            },
+            "Shoes": {},
+            "Accessories": {
+                "Gloves & Mittens": {},
+                "Hats & Caps": {},
+                "Scarves": {}
+            }
+        },
+        "Boys": {
+            "Clothing": {
+                "Bottoms": {},
+                "Costumes": {},
+                "Tops & Tees": {}
+            },
+            "Shoes": {},
+            "Accessories": {
+                "Hats & Caps": {},
+                "Ties": {}
+            }
+        },
+        "Hair Accessories": {
+            "Bun Shapers": {},
+            "Clips & Barrettes": {},
+            "Hair Extensions & Wigs": {},
+            "Hair Pins": {},
+            "Hair Ties & Elastics": {},
+            "Headbands": {},
+            "Side Combs": {},
+            "Tiaras": {}
+        },
+        "Handbags & Shoulder Bags": {
+            "Backpack Handbags": {},
+            "Clutches": {},
+            "Cross-Body Bags": {},
+            "Satchels": {},
+            "Totes": {},
+            "Wristlets": {}
+        },
+        "Insoles & Shoe Accessories": {
+            "Boot Bracelets": {},
+            "Decorative Shoe Clips": {}
+        },
+        "Luggage & Travel Gear": {
+            "Bags": {
+                "Briefcases": {},
+                "Diaper Bags": {},
+                "Fanny Packs": {},
+                "Laptop & Tablet Bags": {
+                    "Laptop & Netbook Briefcases": {},
+                    "Laptop & Netbook Messenger & Shoulder Bags": {}
+                },
+                "Messenger Bags": {},
+                "Schoolbags & Backpacks": {}
+            },
+            "Luggage": {},
+            "Travel Accessories": {
+                "Cosmetic Bags": {},
+                "Luggage Straps": {},
+                "Luggage Tags": {},
+                "Neck Pouches": {},
+                "Passport Covers & Wallets": {},
+                "Toiletry Bags": {},
+                "Umbrellas": {}
+            },
+            "Wallets & Bag Accessories": {
+                "Bag Organizers": {},
+                "Card Cases": {},
+                "Cigarette Cases": {},
+                "Coin Purses & Pouches": {},
+                "Money Clips": {},
+                "Purse Hangers & Hooks": {},
+                "Wallet Chains": {},
+                "Wallet Inserts": {}
+            },
+            "Key & Identification Accessories": {
+                "Badge Clips & Reels": {},
+                "Key Cases": {},
+                "Keychains & Keyrings": {},
+                "Lanyards": {}
+            }
+        }
+    },
+    "Electronics Accessories": {
+        "Camera & Photo Accessories": {},
+        "Cell Phone Accessories": {},
+        "Computer Accessories": {
+            "Mouse Pads": {},
+            "Wrist Rests": {}
+        },
+        "Fitness Tracker Bands & Straps": {},
+        "Laptop Accessories": {
+            "Bags, Cases & Sleeves": {
+                "Briefcases": {},
+                "Hard Case Shells": {},
+                "Messenger & Shoulder Bags": {},
+                "Sleeves": {}
+            },
+            "Skins & Decals": {}
+        }
+    },
+    "Beauty & Grooming": {
+        "Fragrance": {
+            "Men": {
+                "Cologne": {},
+                "Essential Oils": {}
+            },
+            "Women": {
+                "Body Sprays": {},
+                "Eau de Parfum": {},
+                "Essential Oils": {}
+            }
+        },
+        "Hair Care": {
+            "Hair & Scalp Care": {},
+            "Hair Styling Accessories": {
+                "Bun Shapers": {},
+                "Clips & Barrettes": {},
+                "Hair Extensions & Wigs": {},
+                "Hair Pins": {},
+                "Hair Ties & Elastics": {},
+                "Headbands": {},
+                "Side Combs": {},
+                "Tiaras": {}
+            },
+            "Styling Products": {},
+            "Shampoo & Conditioner": {
+                "Conditioner": {},
+                "Shampoo": {}
+            }
+        },
+        "Makeup": {
+            "Eyes": {},
+            "Face": {},
+            "Lips": {
+                "Balms & Moisturizers": {},
+                "Lipstick": {}
+            },
+            "Nails": {}
+        },
+        "Shaving & Hair Removal": {
+            "Aftershaves": {},
+            "Beard & Mustache Care": {
+                "Beard & Mustache Combs": {},
+                "Beard Conditioners & Oils": {}
+            },
+            "Razors & Blades": {},
+            "Shaving & Grooming Sets": {},
+            "Shaving Accessories": {},
+            "Shaving Creams, Lotions & Gels": {}
+        },
+        "Skin Care": {
+            "Body": {
+                "Body Washes": {},
+                "Moisturizers": {
+                    "Body Butter": {},
+                    "Creams": {},
+                    "Lotions": {},
+                    "Oils": {}
+                },
+                "Scrubs & Body Treatments": {},
+                "Soaps": {}
+            },
+            "Eyes": {},
+            "Face": {
+                "Cleansers": {},
+                "Creams & Moisturizers": {},
+                "Oils & Serums": {},
+                "Treatments & Masks": {}
+            },
+            "Feet, Hands & Nails": {},
+            "Lip Care": {
+                "Balms & Moisturizers": {},
+                "Scrubs": {}
+            },
+            "Sets & Kits": {}
+        },
+        "Tools & Accessories": {
+            "Bathing Accessories": {},
+            "Feet, Hand & Nail Tools": {},
+            "Mirrors & Magnifiers": {},
+            "Shaving & Hair Removal Tools": {
+                "Beard & Mustache Combs": {},
+                "Razors & Blades": {},
+                "Shaving Accessories": {}
+            },
+            "Storage & Organization": {
+                "Cosmetic Bags": {},
+                "Toiletry Bags": {}
+            }
+        }
+    },
+    "Health & Personal Care": {
+        "Personal Care": {
+            "Bath & Bathing Accessories": {
+                "Bath Additives": {
+                    "Bath Bombs": {},
+                    "Minerals & Salts": {}
+                },
+                "Bathing Accessories": {}
+            },
+            "Deodorants & Antiperspirants": {}
+        },
+        "Wellness & Relaxation": {}
+    },
+    "Stationery & Party Supplies": {
+        "Party Supplies": {
+            "Aisle Runners": {},
+            "Centerpieces": {},
+            "Ceremony Programs": {},
+            "Confetti": {},
+            "Decorations": {},
+            "Garlands & Decorative Banners": {},
+            "Menu Cards": {},
+            "Party Favors": {},
+            "Place Cards": {},
+            "Table Numbers": {}
+        },
+        "Pens & Pencils": {},
+        "Stationery": {
+            "Appointment Books & Planners": {},
+            "Books & Journals": {},
+            "Gift Tags": {},
+            "Gift Wrapping Paper": {},
+            "Invitations": {},
+            "Labels": {},
+            "Notecards & Greeting Cards": {},
+            "Paper": {},
+            "Stamps": {},
+            "Stickers": {},
+            "Wall Calendars": {}
+        }
+    },
+    "Toys & Games": {
+        "Baby & Toddler Toys": {},
+        "Dolls, Toy Figures & Accessories": {},
+        "Lawn & Playground": {},
+        "Learning & Education": {},
+        "Musical Toy Instruments": {},
+        "Novelty & Gag Toys": {
+            "Magnets & Magnetic Toys": {},
+            "Money Banks": {},
+            "Temporary Tattoos": {}
+        },
+        "Plushies & Stuffed Animals": {},
+        "Pretend Play": {},
+        "Puppets": {},
+        "Puzzles": {}
+    },
+    "Pet Supplies": {
+        "Dogs": {
+            "Apparel & Accessories": {
+                "Bandanas": {},
+                "Coats": {},
+                "Neckwear": {},
+                "Shirts": {},
+                "Sweaters & Hoodies": {}
+            },
+            "Beds & Furniture": {
+                "Beds": {},
+                "Bed Blankets": {}
+            },
+            "Collars, Harnesses & Leashes": {
+                "Collars": {},
+                "Harnesses": {},
+                "ID Tags & Collar Accessories": {}
+            },
+            "Crates & Kennels": {},
+            "Feeding & Watering Supplies": {},
+            "Housebreaking": {},
+            "Memorials & Urns": {
+                "Grave Markers": {},
+                "Portraits": {}
+            },
+            "Storage & Organization": {},
+            "Toys": {},
+            "Treats": {}
+        },
+        "Cats": {
+            "Apparel & Accessories": {
+                "Bandanas": {},
+                "Neckwear": {},
+                "Sweaters & Hoodies": {}
+            },
+            "Beds & Furniture": {},
+            "Collars, Leashes & Accessories": {
+                "Collars": {},
+                "Harnesses": {},
+                "ID Tags & Collar Accessories": {}
+            },
+            "Feeding & Watering Supplies": {},
+            "Toys": {}
+        }
+    },
+    "Sports & Outdoors": {
+        "Camping & Hiking": {
+            "Axes": {},
+            "Fire Starters": {},
+            "Flasks": {},
+            "Knives": {},
+            "Lighters": {},
+            "Survival Bracelets": {},
+            "Walking Sticks": {}
+        },
+        "Car & Vehicle Accessories": {
+            "Decals": {},
+            "Door Straps & Grab Handles": {},
+            "Golf Cart Seats & Covers": {},
+            "Hitch Covers": {},
+            "Plates": {},
+            "Tire Covers": {}
+        },
+        "Cycling": {},
+        "Fishing": {},
+        "Hunting & Shooting": {
+            "Archery": {},
+            "Gun Accessories": {
+                "Belts, Holsters & Slings": {},
+                "Grips": {},
+                "Magazine Pouches": {}
+            },
+            "Knives & Accessories": {
+                "Display Stands": {},
+                "Handles": {},
+                "Knives": {},
+                "Sheaths": {}
+            }
+        },
+        "Sports & Fitness": {
+            "Accessories": {},
+            "Golf": {
+                "Balls & Accessories": {},
+                "Golf Cart Seats & Covers": {},
+                "Markers": {},
+                "Tees & Tee Holders": {}
+            },
+            "Skateboarding": {},
+            "Yoga": {}
+        }
+    }
+}

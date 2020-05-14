@@ -1,0 +1,53 @@
+{
+    "Backpacks": {
+        "Casual Daypacks": {},
+        "Hiking Daypacks": {},
+        "Kids' Backpacks": {},
+        "Laptop Backpacks": {}
+    },
+    "Briefcases": {},
+    "Gym Bags": {
+        "Sports Duffels": {},
+        "Gym Totes": {},
+        "Drawstring Bags": {}
+    },
+    "Laptop Bags": {
+        "Backpacks": {},
+        "Briefcases": {},
+        "Messenger & Shoulder Bags": {}
+    },
+    "Luggage": {
+        "Carry-Ons": {},
+        "Suitcases": {},
+        "Garment Bags": {},
+        "Luggage Sets": {},
+        "Kids' Luggage": {}
+    },
+    "Messenger Bags": {},
+    "Travel Accessories": {
+        "Cosmetic Cases": {},
+        "Luggage Carts": {},
+        "Luggage Locks": {},
+        "Luggage Scales": {},
+        "Luggage Straps": {},
+        "Luggage Tags & Handle Wraps": {
+            "Luggage Handle Wraps": {},
+            "Luggage Tags": {},
+            "Tag & Handle Wrap Sets": {}
+        },
+        "Packing Organizers": {},
+        "Passport Covers": {},
+        "Passport Wallets": {},
+        "Shoe Bags": {},
+        "Toiletry Bags": {},
+        "Travel Bottles & Containers": {},
+        "Travel Wallets": {}
+    },
+    "Travel Duffels": {},
+    "Travel Totes": {},
+    "Umbrellas": {
+        "Stick Umbrellas": {},
+        "Folding Umbrellas": {}
+    },
+    "Waist Packs": {}
+}

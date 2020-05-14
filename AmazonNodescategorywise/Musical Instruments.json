@@ -1,0 +1,1023 @@
+{
+    "Guitars": {
+        "Electric Guitars": {
+            "Beginner Kits": {},
+            "Hollow & Semi-Hollow Body": {},
+            "Lap & Pedal Steel Guitars": {},
+            "Solid Body": {}
+        },
+        "Acoustic Guitars": {
+            "Steel-String Acoustics": {},
+            "Resonators": {},
+            "Beginner Kits": {}
+        },
+        "Acoustic-Electric Guitars": {},
+        "Classical & Nylon-String Guitars": {}
+    },
+    "Bass Guitars": {
+        "Acoustic & Acoustic-Electric Basses": {},
+        "Beginner Kits": {},
+        "Electric Basses": {}
+    },
+    "Ukuleles, Mandolins & Banjos": {
+        "Ukuleles": {},
+        "Mandolins": {},
+        "Banjos": {}
+    },
+    "Amplifiers & Effects": {
+        "Guitar & Bass Amplifiers & Preamps": {
+            "Acoustic Guitar Amplifiers & Preamps": {
+                "Amplifiers": {},
+                "Preamps": {}
+            },
+            "Bass Guitar Amplifiers & Preamps": {
+                "Cabinets": {},
+                "Combo Amps": {},
+                "Heads": {},
+                "Preamps": {}
+            },
+            "Electric Guitar Amplifiers & Preamps": {
+                "Cabinets": {},
+                "Combo Amps": {},
+                "Footswitches & Controllers": {},
+                "Heads": {},
+                "Mini & Headphone Amps": {},
+                "Power Amps": {},
+                "Preamps": {},
+                "Stacks": {}
+            }
+        },
+        "Keyboard Amplifiers": {},
+        "Power Amplifiers": {},
+        "Accessories": {
+            "Bags, Cases & Covers": {},
+            "Footswitches & Controllers": {},
+            "Parts": {
+                "Speakers": {},
+                "Tubes": {}
+            },
+            "Stands": {}
+        },
+        "Guitar Effects": {
+            "Acoustic Guitar Effects": {},
+            "Bass Guitar Effects": {
+                "Multieffects": {},
+                "Single Effects": {
+                    "Chorus, Flange & Tremolo": {},
+                    "Compression": {},
+                    "Distortion & Overdrive": {},
+                    "Wah & Filter": {}
+                }
+            },
+            "Electric Guitar Effects": {
+                "Multieffects": {
+                    "Floor Multieffects": {},
+                    "Desktop & Rack Multieffects": {}
+                },
+                "Single Effects": {
+                    "Chorus, Flange & Tremolo": {},
+                    "Compression": {},
+                    "Delay & Reverb": {},
+                    "Distortion & Overdrive": {},
+                    "Equalization": {},
+                    "Loopers & Samplers": {},
+                    "Noise Gates": {},
+                    "Pitch & Octave": {},
+                    "Signal Path & Pedal Tuners": {},
+                    "Volume & Expression": {},
+                    "Wah & Filter": {}
+                }
+            },
+            "Pedalboards": {}
+        }
+    },
+    "Drums & Percussion": {
+        "Drum Sets & Set Components": {
+            "Drum Sets": {},
+            "Drums": {
+                "Bass Drums": {},
+                "Snare Drums": {},
+                "Tom-Toms": {
+                    "Floor Toms": {},
+                    "Mounted Toms": {},
+                    "Roto Toms": {}
+                }
+            },
+            "Cymbals": {
+                "China & Effect": {},
+                "Crash": {},
+                "Crash-Ride": {},
+                "Hi-Hat": {},
+                "Ride": {},
+                "Splash": {},
+                "Variety Packs": {}
+            },
+            "Gongs": {},
+            "Bells & Chimes": {
+                "Agogo Bells": {},
+                "Bar Chimes": {},
+                "Barbells": {},
+                "Cowbells": {}
+            },
+            "Mounted Tambourines": {}
+        },
+        "Electronic Drums": {
+            "Controllers": {},
+            "Drum Machines": {},
+            "Drum Sets": {},
+            "Electronic Drum Amps": {},
+            "Electronic Pads": {},
+            "Triggers": {}
+        },
+        "Concert Percussion": {
+            "Bells & Chimes": {
+                "Chimes": {},
+                "Handbells": {},
+                "Jingle Bells": {}
+            },
+            "Concert Bass Drums": {},
+            "Concert Cymbals": {},
+            "Concert Snare Drums": {},
+            "Concert Tom-Toms": {},
+            "Glockenspiels": {},
+            "Gongs": {},
+            "Marimbas": {},
+            "Metallophones": {},
+            "Resonator Bells": {},
+            "Steel Drums": {},
+            "Timpanis": {},
+            "Xylophones": {}
+        },
+        "Marching Percussion": {
+            "Marching Bass Drums": {},
+            "Marching Snare Drums": {},
+            "Marching Tom-Toms": {},
+            "Marching Cymbals": {}
+        },
+        "Folk & World Hand Drums": {
+            "Ashikos": {},
+            "Bodhrans & Frame Drums": {},
+            "Bongos": {},
+            "Congas, Quintos & Tumbas": {
+                "Congas": {},
+                "Quintos": {},
+                "Tumbas": {}
+            },
+            "Djembes": {},
+            "Doumbeks & Darbukas": {
+                "Doumbeks": {},
+                "Darbukas": {}
+            },
+            "Ocean Drums": {},
+            "Tablas": {},
+            "Talking Drums": {},
+            "Timbales": {},
+            "Udu Drums": {}
+        },
+        "Hand Percussion": {
+            "Hand Bells & Chimes": {
+                "Chimes": {},
+                "Handbells": {},
+                "Jingle Bells": {}
+            },
+            "Cowbells": {},
+            "Finger Cymbals": {},
+            "Sound Effects": {},
+            "Tambourines": {},
+            "Triangles": {},
+            "Wood Blocks": {},
+            "Folk & World": {
+                "Cajons": {},
+                "Castanets": {},
+                "Latin Percussion": {
+                    "Agogo Bells": {},
+                    "Cabasas": {},
+                    "Claves": {},
+                    "Guiros": {}
+                },
+                "Maracas & Shakers": {
+                    "Maracas": {},
+                    "Rattles": {},
+                    "Shakers": {}
+                },
+                "Rainsticks": {},
+                "Singing Bowls": {},
+                "Washboards": {}
+            }
+        }
+    },
+    "Keyboards & MIDI": {
+        "Audio Samplers": {},
+        "Audio Sequencers": {},
+        "Drum Machines": {},
+        "Electronic Keyboards": {
+            "Digital Pianos": {
+                "Home Digital Pianos": {},
+                "Stage Digital Pianos": {}
+            },
+            "Portable & Arranger Keyboards": {},
+            "Synthesizer & Workstation Keyboards": {}
+        },
+        "Folk & World": {
+            "Accordions": {},
+            "Concertinas": {},
+            "Harmoniums": {},
+            "Melodicas": {},
+            "Thumb Pianos": {}
+        },
+        "MIDI Keyboards & Equipment": {
+            "MIDI Cables": {},
+            "MIDI Controllers": {},
+            "MIDI Interfaces": {},
+            "MIDI Software": {}
+        },
+        "Production Stations": {},
+        "Sound Modules": {},
+        "Tabletop Synthesizers": {}
+    },
+    "Microphones & Accessories": {
+        "Microphones": {
+            "Condenser Microphones": {
+                "Instrument": {},
+                "Multipurpose": {},
+                "Vocal": {}
+            },
+            "Dynamic Microphones": {
+                "Instrument": {},
+                "Multipurpose": {},
+                "Vocal": {}
+            },
+            "Ribbon Microphones": {},
+            "Wireless Microphones & Systems": {
+                "Handheld Wireless Microphones": {},
+                "Wireless Headset Microphones": {},
+                "Instrument Wireless Microphones": {},
+                "Wireless Lavalier Microphones": {},
+                "Wireless Microphone Transmitters & Receivers": {}
+            }
+        },
+        "Accessories": {
+            "Bags & Cases": {},
+            "Cables": {},
+            "Clips": {},
+            "Mounts": {},
+            "Phantom Power Supplies": {},
+            "Preamps": {},
+            "Stands": {},
+            "Windscreens & Pop Filters": {}
+        }
+    },
+    "Band & Orchestra": {
+        "Brass": {
+            "Alto Horns": {},
+            "Baritone Horns": {},
+            "Bugles": {},
+            "Cornets": {},
+            "Euphoniums": {},
+            "Flugelhorns": {},
+            "French Horns": {
+                "Single French Horns": {},
+                "Double French Horns": {}
+            },
+            "Mellophones": {},
+            "Sousaphones": {},
+            "Trombones": {},
+            "Trumpets": {
+                "Piccolo": {},
+                "Pocket": {},
+                "Standard": {}
+            },
+            "Tubas": {}
+        },
+        "Concert Percussion": {
+            "Bells & Chimes": {
+                "Chimes": {},
+                "Handbells": {},
+                "Jingle Bells": {}
+            },
+            "Concert Bass Drums": {},
+            "Concert Cymbals": {},
+            "Concert Snare Drums": {},
+            "Concert Tom-Toms": {},
+            "Glockenspiels": {},
+            "Gongs": {},
+            "Marimbas": {},
+            "Metallophones": {},
+            "Resonator Bells": {},
+            "Steel Drums": {},
+            "Timpanis": {},
+            "Xylophones": {}
+        },
+        "Marching Percussion": {
+            "Marching Bass Drums": {},
+            "Marching Snare Drums": {},
+            "Marching Tom-Toms": {},
+            "Marching Cymbals": {}
+        },
+        "Orchestral Strings": {
+            "Cellos": {
+                "Acoustic Cellos": {},
+                "Electric Cellos": {}
+            },
+            "Harps": {},
+            "Upright Basses": {
+                "Acoustic Upright Basses": {},
+                "Electric Upright Basses": {}
+            },
+            "Violas": {
+                "Acoustic Violas": {},
+                "Electric Violas": {}
+            },
+            "Violins": {
+                "Acoustic Violins": {},
+                "Electric Violins": {}
+            }
+        },
+        "Wind & Woodwinds": {
+            "Bassoons": {},
+            "Clarinets": {},
+            "English Horns": {},
+            "Flutes": {},
+            "Oboes": {},
+            "Piccolos": {},
+            "Recorders": {},
+            "Saxophones": {}
+        }
+    },
+    "Brass Instruments": {
+        "Alto Horns": {},
+        "Baritone Horns": {},
+        "Bugles": {},
+        "Cornets": {},
+        "Euphoniums": {},
+        "Flugelhorns": {},
+        "French Horns": {
+            "Single French Horns": {},
+            "Double French Horns": {}
+        },
+        "Mellophones": {},
+        "Sousaphones": {},
+        "Trombones": {},
+        "Trumpets": {
+            "Piccolo": {},
+            "Pocket": {},
+            "Standard": {}
+        },
+        "Tubas": {}
+    },
+    "Stringed Instruments": {
+        "Orchestral": {
+            "Cellos": {
+                "Acoustic Cellos": {},
+                "Electric Cellos": {}
+            },
+            "Harps": {},
+            "Upright Basses": {
+                "Acoustic Upright Basses": {},
+                "Electric Upright Basses": {}
+            },
+            "Violas": {
+                "Acoustic Violas": {},
+                "Electric Violas": {}
+            },
+            "Violins": {
+                "Acoustic Violins": {},
+                "Electric Violins": {}
+            }
+        },
+        "Folk & World": {
+            "Autoharps": {},
+            "Banjos": {},
+            "Bouzoukis": {},
+            "Dulcimers": {},
+            "Guzhengs": {},
+            "Lap & Pedal Steel Guitars": {},
+            "Lutes": {},
+            "Mandolins": {},
+            "Ouds": {},
+            "Psalteries": {},
+            "Santoors": {},
+            "Sarods": {},
+            "Sitars": {},
+            "Strum Sticks": {},
+            "Tamburas": {},
+            "Ukuleles": {},
+            "Veenas": {}
+        }
+    },
+    "Wind & Woodwind Instruments": {
+        "Band & Orchestral": {
+            "Bassoons": {},
+            "Clarinets": {},
+            "English Horns": {},
+            "Flutes": {},
+            "Oboes": {},
+            "Piccolos": {},
+            "Recorders": {},
+            "Saxophones": {}
+        },
+        "Folk & World": {
+            "Bagpipes": {},
+            "Bamboo Clarinets": {},
+            "Bamboo Flutes": {},
+            "Bamboo Saxophones": {},
+            "Bombards": {},
+            "Conch Shells": {},
+            "Didgeridoos": {},
+            "Fifes": {},
+            "Harmonicas": {},
+            "Kazoos": {},
+            "Mouth Harps": {},
+            "Neys": {},
+            "Ocarinas": {},
+            "Pan Pipes": {},
+            "Shakuhachis": {},
+            "Shawms": {},
+            "Shenais": {},
+            "Shofars": {},
+            "Shruti Boxes": {},
+            "Suonas": {},
+            "Whistles": {},
+            "Zurnas": {}
+        }
+    },
+    "Instrument Accessories": {
+        "Guitar & Bass Accessories": {
+            "Acoustic & Classical Guitar Parts": {
+                "Bindings & Trim": {},
+                "Bridge & Bridge Parts": {},
+                "Frets": {},
+                "Necks": {},
+                "Nuts": {},
+                "Pick Guards": {},
+                "Pickups & Pickup Covers": {},
+                "Saddles": {},
+                "Tailpieces": {},
+                "Tuning Pegs": {},
+                "Wood & Inlay Material": {}
+            },
+            "Amplifier Accessories": {
+                "Bags, Cases & Covers": {},
+                "Footswitches & Controllers": {},
+                "Parts": {
+                    "Speakers": {},
+                    "Tubes": {}
+                },
+                "Stands": {}
+            },
+            "Bags & Cases": {
+                "Acoustic & Classical Guitar Bags & Cases": {},
+                "Bass Guitar Bags & Cases": {},
+                "Electric Guitar Bags & Cases": {}
+            },
+            "Bass Guitar Parts": {
+                "Bodies": {},
+                "Bridges & Bridge Parts": {},
+                "Frets": {},
+                "Hardware": {},
+                "Knobs": {},
+                "Necks": {},
+                "Nuts": {},
+                "Pick Guards": {},
+                "Pickups & Pickup Covers": {},
+                "Tailpieces": {},
+                "Tuning Machines": {}
+            },
+            "Capos": {},
+            "Cleaning & Care": {},
+            "Electric Guitar Parts": {
+                "Bindings & Trim": {},
+                "Bodies": {},
+                "Bridges & Bridge Parts": {},
+                "Frets": {},
+                "Hardware": {},
+                "Knobs": {},
+                "Necks": {},
+                "Nuts": {},
+                "Pick Guards": {},
+                "Pickups & Pickup Covers": {},
+                "Saddles": {},
+                "Tailpieces": {},
+                "Tuning Pegs": {},
+                "Wood & Inlay Material": {}
+            },
+            "Footstools": {},
+            "Pedal Boards & Cases": {},
+            "Picks & Pick Holders": {
+                "Picks": {},
+                "Pick Holders": {}
+            },
+            "Slides": {},
+            "Guitar & Bass Stands & Hangers": {
+                "Acoustic Guitar Stands & Hangers": {},
+                "Electric Guitar Stands & Hangers": {},
+                "Multiple-Guitar Stands & Hangers": {}
+            },
+            "Straps & Strap Locks": {
+                "Straps": {},
+                "Strap Locks": {}
+            },
+            "String Winders": {},
+            "Strings": {
+                "Acoustic Guitar Strings": {},
+                "Bass Guitar Strings": {},
+                "Classical Guitar Strings": {},
+                "Electric Guitar Strings": {}
+            },
+            "Tools": {},
+            "Tuners": {}
+        },
+        "Drum & Percussion Accessories": {
+            "Bags, Cases & Covers": {
+                "Bass Drum Bags, Cases & Covers": {},
+                "Drum Set Bags, Cases & Covers": {},
+                "Pedal Bags & Cases": {},
+                "Stick & Mallet Bags & Cases": {}
+            },
+            "Cleaning & Care": {},
+            "Concert Percussion Accessories": {
+                "Cymbal & Gong Accessories": {},
+                "Cymbal Stands": {
+                    "Boom": {},
+                    "Hi-Hat": {},
+                    "Straight": {}
+                },
+                "Drum Accessories": {
+                    "Bass Drum Accessories": {
+                        "Drumheads": {},
+                        "Stands": {},
+                        "Pedals": {}
+                    },
+                    "Snare Drum Accessories": {
+                        "Drumheads": {},
+                        "Snare Drum Wire": {},
+                        "Stands": {}
+                    },
+                    "Tom-Tom Accessories": {}
+                },
+                "Drumsticks, Mallets & Brushes": {
+                    "Drumsticks": {},
+                    "Mallets": {},
+                    "Brushes": {}
+                },
+                "Glockenspiel Accessories": {},
+                "Gong Stands": {},
+                "Metallophone Accessories": {},
+                "Timpani Drumheads": {},
+                "Xylophone Accessories": {}
+            },
+            "Drum Set Accessories": {
+                "Drum Accessories": {
+                    "Bass Drum Pedals": {},
+                    "Bongo Accessories": {},
+                    "Snare Drum Wire": {}
+                },
+                "Drum Keys & Wrenches": {},
+                "Drumheads": {
+                    "Bass Drumheads": {},
+                    "Snare Drumheads": {},
+                    "Tom-Tom Drumheads": {}
+                },
+                "Drumsticks, Mallets & Brushes": {
+                    "Drumsticks": {},
+                    "Mallets": {},
+                    "Brushes": {}
+                },
+                "Stands": {
+                    "Bass Drum Stands": {},
+                    "Cymbal Stands": {
+                        "Boom": {},
+                        "Hi-Hat": {},
+                        "Straight": {}
+                    },
+                    "Gong Stands": {},
+                    "Snare Drum Stands": {},
+                    "Tom-Tom Stands": {}
+                }
+            },
+            "Drumheads": {
+                "Bass Drumheads": {},
+                "Snare Drumheads": {},
+                "Timpani Drumheads": {}
+            },
+            "Drumsticks, Mallets & Brushes": {
+                "Drumsticks": {},
+                "Mallets": {},
+                "Brushes": {}
+            },
+            "Electronic Drum Accessories": {},
+            "Electronic Drum Amps": {},
+            "Hardware": {
+                "Bass Drum Pedals": {},
+                "Drum Keys & Wrenches": {},
+                "Stands & Racks": {
+                    "Bass Drum Stands": {},
+                    "Bongo Stands": {},
+                    "Cymbal Stands": {
+                        "Boom": {},
+                        "Hi-Hat": {},
+                        "Straight": {}
+                    },
+                    "Gong Stands": {},
+                    "Snare Drum Stands": {}
+                },
+                "Mounting Hardware": {
+                    "Clamps": {},
+                    "Cymbal Stackers": {},
+                    "Mounting Arms": {},
+                    "Percussion Holders & Tables": {},
+                    "Percussion Mounts": {},
+                    "Racks": {}
+                }
+            },
+            "Marching Percussion Accessories": {
+                "Carriers": {},
+                "Drum Accessories": {
+                    "Bass Drum Accessories": {
+                        "Bags, Cases & Covers": {},
+                        "Carriers": {}
+                    },
+                    "Snare Drum Accessories": {}
+                },
+                "Drumsticks, Mallets & Brushes": {
+                    "Drumsticks": {},
+                    "Mallets": {},
+                    "Brushes": {}
+                },
+                "Marching Drumheads": {
+                    "Bass Drum": {},
+                    "Snare Drum": {},
+                    "Tom-Toms": {}
+                }
+            },
+            "Practice Pads & Devices": {},
+            "Rugs": {},
+            "Thrones": {}
+        },
+        "Keyboard Accessories": {
+            "Accordion Accessories": {},
+            "Bags, Cases & Covers": {},
+            "Benches": {},
+            "Cleaning & Care": {},
+            "Expansion Boards & Sound Libraries": {},
+            "Keyboard Amplifiers": {},
+            "Music Wire": {},
+            "Organ Accessories": {},
+            "Pedals & Footswitches": {},
+            "Power Supplies": {},
+            "Stands": {}
+        },
+        "Brass Accessories": {
+            "Bags & Cases": {
+                "French Horn": {},
+                "Trombone": {},
+                "Trumpet": {},
+                "Tuba": {}
+            },
+            "Cleaning & Care": {},
+            "Mouthpieces": {
+                "Cornet": {},
+                "Euphonium": {},
+                "Flugelhorn": {},
+                "French Horn": {},
+                "Trombone": {},
+                "Trumpet": {},
+                "Tuba": {}
+            },
+            "Mutes": {
+                "French Horn": {},
+                "Trombone": {},
+                "Trumpet": {},
+                "Tuba": {}
+            },
+            "Stands": {}
+        },
+        "Wind & Woodwind Accessories": {
+            "Bags & Cases": {
+                "Clarinet": {},
+                "Flute & Piccolo": {},
+                "Oboe & English Horn": {},
+                "Saxophone": {
+                    "Alto Sax": {},
+                    "Baritone Sax": {},
+                    "Bass Sax": {},
+                    "Soprano Sax": {},
+                    "Tenor Sax": {}
+                }
+            },
+            "Cleaning & Care": {
+                "Clarinets": {},
+                "Flutes & Piccolos": {},
+                "Saxophones": {}
+            },
+            "Ligatures": {
+                "Clarinet": {},
+                "Saxophone": {
+                    "Alto Sax": {},
+                    "Baritone Sax": {},
+                    "Soprano Sax": {},
+                    "Tenor Sax": {}
+                }
+            },
+            "Mouthpieces": {
+                "Clarinet": {},
+                "Saxophone": {
+                    "Alto Sax": {},
+                    "Baritone Sax": {},
+                    "Soprano Sax": {},
+                    "Tenor Sax": {}
+                }
+            },
+            "Parts": {
+                "Bassoon": {},
+                "Clarinet": {},
+                "Flute": {},
+                "Oboe": {},
+                "Saxophone": {}
+            },
+            "Reeds": {
+                "Bassoon": {},
+                "Clarinet": {},
+                "Oboe": {},
+                "Saxophone": {
+                    "Alto Sax": {},
+                    "Baritone Sax": {},
+                    "Soprano Sax": {},
+                    "Tenor Sax": {}
+                }
+            },
+            "Stands": {
+                "Clarinet": {},
+                "Flute": {},
+                "Saxophone": {
+                    "Alto Sax": {},
+                    "Baritone Sax": {},
+                    "Soprano Sax": {},
+                    "Tenor Sax": {}
+                }
+            },
+            "Straps": {}
+        },
+        "Orchestral Strings Accessories & Parts": {
+            "Bags & Cases": {
+                "Cello": {},
+                "Upright Bass": {},
+                "Viola": {},
+                "Violin": {}
+            },
+            "Bows": {
+                "Cello": {},
+                "Upright Bass": {},
+                "Viola": {},
+                "Violin": {}
+            },
+            "Cleaning & Care": {},
+            "Endpins, Rests & Wheels": {},
+            "Parts": {
+                "Cello": {},
+                "Upright Bass": {},
+                "Viola": {},
+                "Violin": {}
+            },
+            "Rosin": {
+                "Cello": {},
+                "Upright Bass": {},
+                "Viola": {},
+                "Violin": {}
+            },
+            "Shoulder & Chin Rests": {
+                "Viola": {},
+                "Violin": {}
+            },
+            "Stands & Hangers": {},
+            "Strings": {
+                "Cello": {},
+                "Upright Bass": {},
+                "Viola": {},
+                "Violin": {}
+            }
+        },
+        "Folk & World Instrument Accessories": {
+            "Autoharp Accessories": {},
+            "Banjo Accessories": {},
+            "Dulcimer Accessories": {},
+            "Mandolin Accessories": {},
+            "Ukulele Accessories": {}
+        },
+        "General Accessories": {
+            "Conducting": {},
+            "Conducting Batons": {},
+            "Metronomes": {},
+            "Music Lyres": {},
+            "Sheet Music Folders": {},
+            "Sheet Music Stands": {},
+            "Staff Boards": {},
+            "Staff Paper": {},
+            "Stand Lights": {},
+            "Tuning": {}
+        }
+    },
+    "Live Sound & Stage": {
+        "Powered Mixers": {},
+        "Monitors, Speakers & Subwoofers": {
+            "Speakers": {
+                "Powered Cabinets": {},
+                "Unpowered Cabinets": {}
+            },
+            "Stage Speaker Stands": {},
+            "Stage Monitors": {},
+            "Stage Subwoofers": {},
+            "Bags, Cases & Covers": {},
+            "Monitor, Speaker & Subwoofer Parts": {}
+        },
+        "Microphones": {
+            "Dynamic Microphones": {
+                "Instrument": {},
+                "Multipurpose": {},
+                "Vocal": {}
+            },
+            "Wireless Microphones": {
+                "Handheld Wireless Microphones": {},
+                "Wireless Headset Microphones": {},
+                "Instrument Wireless Microphones": {},
+                "Wireless Lavalier Microphones": {},
+                "Wireless Microphone Transmitters & Receivers": {}
+            }
+        },
+        "PA Systems": {},
+        "Power Amplifiers": {},
+        "Lighting Equipment & Accessories": {
+            "Black Lights": {},
+            "Laser & Strobe Effects": {
+                "Stage Laser Lights": {},
+                "Strobe Effects": {}
+            },
+            "LED Strip Lights": {},
+            "Lighting Accessories": {},
+            "Mirror Balls": {},
+            "Projection Effects": {},
+            "Rope Lights": {},
+            "Stage Lights": {}
+        },
+        "Special Effects": {
+            "Bubble Machines": {},
+            "Flame Effects": {},
+            "Fog Machines": {},
+            "Snow Machines": {}
+        },
+        "Stage & Studio Cables": {
+            "Instrument Cables": {},
+            "MIDI Cables": {},
+            "Microphone Cables": {},
+            "Recording Snakes": {},
+            "Patch Cables": {},
+            "Speaker Cables": {}
+        },
+        "Bags & Cases": {}
+    },
+    "Studio Recording Equipment": {
+        "Computer Recording": {
+            "Audio Interfaces": {},
+            "Digital Audio Workstation Controllers": {},
+            "MIDI Controllers": {},
+            "MIDI Interfaces": {},
+            "Software": {
+                "Audio Plug-Ins": {},
+                "Instruction": {},
+                "Looping & Remixing": {},
+                "MIDI": {},
+                "Music Creation & Sequencing": {},
+                "Notation & Composition": {},
+                "Production Stations": {},
+                "Recording": {},
+                "Sampling": {},
+                "Sound Editing": {},
+                "Sound Libraries": {},
+                "Synthesizers": {},
+                "Virtual Instruments": {}
+            }
+        },
+        "Headphone & In-Ear Audio Monitors": {
+            "Earphones": {},
+            "Headphones": {}
+        },
+        "Mastering Recorders": {
+            "CD Recorders & Duplicators": {},
+            "Cassette Recorders & Duplicators": {},
+            "Combo Decks": {},
+            "CompactFlash Recorders": {},
+            "DAT Recorders": {},
+            "DVD Recorders & Duplicators": {
+                "Duplicators": {},
+                "Recorders": {}
+            },
+            "Minidisc Recorders": {}
+        },
+        "Microphones": {
+            "Condenser Microphones": {
+                "Instrument": {},
+                "Multipurpose": {},
+                "Vocal": {}
+            },
+            "Ribbon Microphones": {}
+        },
+        "Mixers & Accessories": {
+            "Accessories": {
+                "Bags, Cases & Covers": {},
+                "Stands": {}
+            },
+            "Mixers": {
+                "Powered": {},
+                "Unpowered": {}
+            }
+        },
+        "Multitrack Recorders": {
+            "Analog": {},
+            "Digital": {}
+        },
+        "Portable Recorders": {},
+        "Power Conditioners": {},
+        "Signal Processors": {
+            "A-B Boxes": {},
+            "A-D & D-A Converters": {},
+            "Converters": {},
+            "Direct Boxes": {},
+            "Effects Processors": {
+                "Compressors, Limiters & Gates": {},
+                "Digital Reverb & Delay": {},
+                "Equalizers & Feedback Controllers": {},
+                "Exciters & Enhancers": {},
+                "Multieffects Processors": {},
+                "Vocal Effects Processors": {}
+            }
+        },
+        "Stage & Studio Cables": {
+            "Instrument Cables": {},
+            "MIDI Cables": {},
+            "Microphone Cables": {},
+            "Recording Snakes": {},
+            "Patch Cables": {},
+            "Speaker Cables": {}
+        },
+        "Studio Environment": {
+            "Acoustical Treatments": {},
+            "Furniture": {},
+            "Rack Accessories": {},
+            "Racks": {},
+            "Studio Speaker Stands": {}
+        },
+        "Studio Monitors": {},
+        "Studio Subwoofers": {}
+    },
+    "Electronic Music, DJ & Karaoke": {
+        "DJ Equipment": {
+            "Accessories": {
+                "Bags & Cases": {
+                    "CD Players": {},
+                    "Cartridges": {},
+                    "Mixers": {},
+                    "Turntables": {}
+                },
+                "Headphone Stands & Hangers": {},
+                "Racks & Stands": {},
+                "Replacement Cartridge Needles": {},
+                "Slipmats": {},
+                "Turntable Cartridges": {}
+            },
+            "CD Players": {
+                "Multiple Disc": {},
+                "Single Disc": {}
+            },
+            "DJ Controllers": {},
+            "DJ Digital Media Players": {},
+            "DJ Headphones": {},
+            "DJ Sets": {},
+            "Mixers": {},
+            "Tape Decks": {},
+            "Turntables": {
+                "Belt Drive": {},
+                "Direct Drive": {},
+                "Digital Turntables": {}
+            }
+        },
+        "Electronic Music": {
+            "Audio Samplers": {},
+            "Audio Sequencers": {},
+            "Drum Machines": {},
+            "MIDI Interfaces": {},
+            "Production Stations": {},
+            "Sound Modules": {},
+            "Synthesizer & Workstation Keyboards": {},
+            "Tabletop Synthesizers": {}
+        },
+        "Karaoke Equipment": {
+            "Bags & Cases": {},
+            "Players": {},
+            "Stands & Hardware": {},
+            "Systems": {
+                "Home System Packages": {},
+                "Portable Systems": {}
+            }
+        }
+    }
+}

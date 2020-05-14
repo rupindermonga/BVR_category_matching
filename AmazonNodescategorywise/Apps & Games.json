@@ -1,0 +1,53 @@
+{
+    "Books & Comics": {
+        "Books & Readers": {},
+        "Graphic Novels": {},
+        "Children's Books": {},
+        "Comic Strips": {},
+        "Manga": {}
+    },
+    "Business & Finance": {},
+    "City Info": {},
+    "Communication": {},
+    "Cooking": {},
+    "Education": {},
+    "Entertainment": {},
+    "Games": {},
+    "Health & Fitness": {},
+    "Kids": {},
+    "Lifestyle": {},
+    "Music": {
+        "Artists": {},
+        "Instruments": {},
+        "Radio": {},
+        "Songbooks": {},
+        "Music Players": {}
+    },
+    "Navigation": {},
+    "News & Magazines": {
+        "News": {},
+        "Magazines": {},
+        "Newspapers": {}
+    },
+    "Novelty": {},
+    "Photography": {},
+    "Podcasts": {},
+    "Productivity": {},
+    "Real Estate": {},
+    "Reference": {},
+    "Ringtones": {},
+    "Shopping": {},
+    "Social Networking": {},
+    "Sports": {},
+    "Themes": {},
+    "Travel": {},
+    "Utilities": {
+        "Battery Savers": {},
+        "Alarms & Clocks": {},
+        "Calculators": {},
+        "Calendars": {},
+        "Notes": {}
+    },
+    "Weather": {},
+    "Web Browsers": {}
+}

@@ -1,0 +1,621 @@
+{
+    "Alternative Rock": {
+        "American Alternative": {},
+        "British Alternative": {
+            "British Punk": {},
+            "British Ska": {},
+            "Britpop": {}
+        },
+        "Goth & Industrial": {
+            "Goth": {},
+            "Industrial": {
+                "Alt Industrial": {},
+                "Industrial Dance": {}
+            }
+        },
+        "Hardcore & Punk": {
+            "American Punk": {},
+            "British Punk": {},
+            "Emo": {},
+            "Garage Punk": {},
+            "Hardcore": {},
+            "Post Hardcore": {},
+            "Proto Punk": {},
+            "Punk": {},
+            "Punk Revival": {},
+            "Punk-Pop": {},
+            "Riot Grrl": {},
+            "Ska Punk": {},
+            "Straight Edge": {}
+        },
+        "Indie & Lo-Fi": {
+            "Ambient Pop": {},
+            "Chamber Pop": {},
+            "Dream Pop": {},
+            "Electronic Pop": {},
+            "Emo": {},
+            "Indie Rock": {},
+            "Jangle Pop": {},
+            "Lo-Fi": {},
+            "Riot Grrl": {},
+            "Shoegazing": {},
+            "Twee Pop": {}
+        },
+        "Krautrock": {},
+        "Math Rock": {},
+        "New Wave & Post-Punk": {
+            "New Wave": {},
+            "Post-Punk": {},
+            "Urban Folk": {}
+        },
+        "Singer-Songwriters": {},
+        "Ska": {
+            "British Ska": {},
+            "Ska Punk": {},
+            "Third Wave Ska": {}
+        }
+    },
+    "Blues": {
+        "Acoustic Blues": {},
+        "Contemporary Blues": {},
+        "Electric Blues": {},
+        "Harmonica Blues": {},
+        "Jump Blues": {},
+        "Modern Blues": {},
+        "Piano Blues": {},
+        "Regional Blues": {
+            "Cajun & Zydeco": {},
+            "Chicago Blues": {},
+            "Delta Blues": {},
+            "Detroit Blues": {},
+            "East Coast Blues": {},
+            "Memphis Blues": {},
+            "New Orleans Blues": {},
+            "New York Blues": {},
+            "St. Louis Blues": {},
+            "Texas Blues": {},
+            "West Coast Blues": {}
+        },
+        "Slide Guitar": {},
+        "Traditional Blues": {},
+        "Vocal Blues": {}
+    },
+    "Broadway & Vocalists": {
+        "Cabaret": {},
+        "Classic Vocalists": {},
+        "Musicals": {},
+        "Traditional Vocal Pop": {}
+    },
+    "Children's Music": {
+        "Disney": {},
+        "Educational": {},
+        "Lullabies": {},
+        "Sing-A-Longs": {},
+        "Stories": {}
+    },
+    "Christian": {
+        "Accompaniment": {},
+        "Children's": {},
+        "Country & Bluegrass": {},
+        "Hard Rock & Metal": {},
+        "Instrumental": {},
+        "Pop & Contemporary": {},
+        "Praise & Worship": {},
+        "Rap & Hip-Hop": {},
+        "Rock & Alternative": {},
+        "Southern Gospel": {}
+    },
+    "Classic Rock": {
+        "Album-Oriented Rock (AOR)": {},
+        "Arena Rock": {},
+        "British Invasion": {},
+        "Glam": {},
+        "Psychedelic Rock": {},
+        "Southern Rock": {},
+        "Supergroups": {}
+    },
+    "Classical": {
+        "Ballets & Dances": {
+            "Ballets": {},
+            "Baroque Dance Suites": {
+                "Allemandes": {},
+                "Courantes": {},
+                "Gigue": {},
+                "Sarabande": {}
+            },
+            "Dances": {},
+            "Ecossaises": {},
+            "Mazurkas": {},
+            "Minuets": {},
+            "Pavanes": {},
+            "Polkas": {},
+            "Polonaises": {},
+            "Tangos": {},
+            "Waltzes": {}
+        },
+        "Chamber Music": {
+            "Quartets": {},
+            "Quintets": {},
+            "Septets": {},
+            "Sextets": {},
+            "Trios": {}
+        },
+        "Forms & Genres": {
+            "Ballads": {},
+            "Canons": {},
+            "Concertos": {
+                "Concertinos": {},
+                "Concerto Grossi": {}
+            },
+            "Etudes": {},
+            "Fantasies": {},
+            "Fugues": {},
+            "Improvisation": {},
+            "Inventions": {},
+            "Lullabies & Berceuse": {},
+            "Oratorio": {},
+            "Preludes": {},
+            "Requiems, Elegies & Tombeau": {
+                "Elegies": {},
+                "Requiems": {}
+            },
+            "Rondos": {},
+            "Scherzo": {},
+            "Serenades & Divertimentos": {},
+            "Short Forms": {
+                "Character Pieces": {},
+                "Impromptus": {},
+                "Nocturnes": {}
+            },
+            "Sonatas": {
+                "Canzones": {},
+                "Sonatinas": {},
+                "Trio Sonatas": {}
+            },
+            "Suites": {},
+            "Symphonies": {},
+            "Theatrical, Incidental & Program Music": {
+                "Incidental Music": {},
+                "Marches": {},
+                "Overtures": {},
+                "Tone Poems": {}
+            },
+            "Toccatas": {},
+            "Variations": {
+                "Grounds": {},
+                "Passacaglias": {}
+            }
+        },
+        "Sacred & Religious": {
+            "Hymns": {},
+            "Magnificats": {},
+            "Masses": {},
+            "Noels": {},
+            "Oratorios": {},
+            "Passions": {},
+            "Psalms": {},
+            "Requiems": {},
+            "Te Deum": {},
+            "Voluntaries": {}
+        },
+        "Symphonies": {}
+    },
+    "Comedy & Spoken Word": {
+        "Comedic Music": {},
+        "Country Comedy": {},
+        "Interviews": {},
+        "Poetry": {},
+        "Shock Comedy": {},
+        "Spoken Word": {},
+        "Stand-Up Comedy": {}
+    },
+    "Country": {
+        "Americana": {},
+        "Bluegrass": {},
+        "Cajun & Zydeco": {},
+        "Christian Country": {},
+        "Classic Country": {
+            "Bakersfield Sound": {},
+            "Nashville Sound": {},
+            "Old-Time Country": {}
+        },
+        "Cowboy": {},
+        "Instrumental": {},
+        "Neotraditional": {},
+        "Outlaw Country": {},
+        "Roadhouse Country": {},
+        "Today's Country": {},
+        "Western Swing": {}
+    },
+    "Dance & Electronic": {
+        "Ambient": {},
+        "Big Beat": {},
+        "Disco": {},
+        "Drum & Bass": {},
+        "Dubstep": {},
+        "Electronica": {},
+        "Freestyle": {},
+        "House": {},
+        "IDM": {},
+        "Rave": {},
+        "Techno": {},
+        "Trance": {},
+        "Trip-Hop": {},
+        "Turntablists": {},
+        "World Dance": {}
+    },
+    "Folk": {
+        "British & Celtic Folk": {
+            "British Folk": {},
+            "Celtic Folk": {},
+            "Irish Folk": {},
+            "Scottish Folk": {}
+        },
+        "Contemporary Folk": {},
+        "Jewish & Yiddish": {},
+        "Traditional Folk": {}
+    },
+    "Gospel": {
+        "Choir": {},
+        "Instrumental": {},
+        "Southern": {},
+        "Traditional": {},
+        "Urban & Contemporary": {}
+    },
+    "Holiday & Wedding": {
+        "Christmas": {},
+        "Easter": {},
+        "Halloween": {},
+        "Hanukkah": {},
+        "Kwanzaa": {},
+        "Wedding Music": {}
+    },
+    "Jazz": {
+        "Acid Jazz": {},
+        "Avant Garde & Free Jazz": {},
+        "Bebop": {},
+        "Brazilian Jazz": {},
+        "Cool Jazz": {},
+        "Dixieland": {},
+        "European Jazz": {},
+        "Jazz Fusion": {},
+        "Jazz Jam Bands": {},
+        "Jive Jazz": {},
+        "Latin Jazz": {},
+        "Modern Postbebop": {},
+        "New Orleans Jazz": {},
+        "Orchestral Jazz": {},
+        "Smooth Jazz": {},
+        "Soul-Jazz & Boogaloo": {},
+        "Swing Jazz": {
+            "Classic Big Band": {},
+            "Contemporary Big Band": {},
+            "Retro Swing": {},
+            "Vintage Dance Bands": {}
+        },
+        "Traditional Jazz & Ragtime": {
+            "Boogie-Woogie": {},
+            "Ragtime": {},
+            "Stride Piano": {}
+        },
+        "Vocal Jazz": {}
+    },
+    "Karaoke": {},
+    "Latin Music": {
+        "Latin Pop": {},
+        "Latin Hip-Hop": {},
+        "Latin Rock": {},
+        "Latin Electronica": {},
+        "Latin Children's": {},
+        "Latin Christian": {},
+        "Banda": {},
+        "Bachata": {},
+        "Bolero": {},
+        "Charanga": {},
+        "Cumbia": {},
+        "Duranguense": {},
+        "Flamenco": {},
+        "Grupero": {},
+        "Mambo": {},
+        "Mariachi": {},
+        "Merengue": {},
+        "Mexican Cumbia": {},
+        "Norte\u00f1o": {},
+        "Ranchera": {},
+        "Reggaeton": {},
+        "Rhumba": {},
+        "Salsa": {},
+        "Samba": {},
+        "Sierreno": {},
+        "Tango": {},
+        "Tejano": {},
+        "Tierra Caliente": {},
+        "Vallenato": {}
+    },
+    "Metal": {
+        "Alternative Metal": {},
+        "Black Metal": {},
+        "British Metal": {},
+        "Death Metal": {},
+        "Pop Metal": {},
+        "Progressive Metal": {},
+        "Thrash & Speed Metal": {}
+    },
+    "New Age": {
+        "Celtic New Age": {},
+        "Healing": {},
+        "Instrumental": {},
+        "Meditation": {},
+        "Nature & Environment": {},
+        "Relaxation": {}
+    },
+    "Opera & Classical Vocal": {
+        "Arias": {},
+        "Operettas": {},
+        "Oratorios": {},
+        "Vocal Non-Opera": {
+            "Anthems": {},
+            "Cantatas": {},
+            "Caprices": {},
+            "Chansons": {},
+            "Chants": {},
+            "Choruses": {},
+            "Hymns": {},
+            "Lullabies & Berceuse": {},
+            "Magnificats": {},
+            "Masses": {},
+            "Motets": {},
+            "Noels": {},
+            "Odes": {},
+            "Oratorios": {},
+            "Partsongs": {},
+            "Passions": {},
+            "Psalms": {},
+            "Requiems": {},
+            "Songs & Lieder": {
+                "Folk Songs": {},
+                "Lieder": {},
+                "Madrigals": {}
+            },
+            "Te Deum": {},
+            "Virelais": {}
+        },
+        "Voices": {}
+    },
+    "Pop": {
+        "Adult Alternative": {},
+        "Adult Contemporary": {},
+        "Britpop": {},
+        "Dance Pop": {},
+        "Easy Listening": {},
+        "Euro Pop": {
+            "French Pop": {},
+            "Italian Pop": {},
+            "Swedish Pop": {}
+        },
+        "Korean Pop": {},
+        "Latin Pop": {},
+        "New Wave": {},
+        "Oldies": {
+            "Baroque Pop": {},
+            "Bubblegum": {},
+            "Doo Wop": {},
+            "Girl Groups": {},
+            "Tin Pan Alley": {},
+            "Traditional Pop": {}
+        },
+        "Singer-Songwriters": {},
+        "Soft Rock": {},
+        "Teen Pop": {},
+        "Tributes": {},
+        "Vocal Pop": {}
+    },
+    "R&B": {
+        "Classic R&B": {},
+        "Contemporary R&B": {},
+        "Funk": {},
+        "Motown": {},
+        "Neo-Soul": {},
+        "New Jack": {},
+        "Quiet Storm": {},
+        "Soul": {
+            "Blue-Eyed Soul": {},
+            "Memphis Soul": {},
+            "Northern": {},
+            "Philly Soul": {},
+            "Southern Soul": {}
+        }
+    },
+    "Rap & Hip-Hop": {
+        "Bass": {},
+        "Christian Rap": {},
+        "East Coast": {},
+        "Experimental Rap": {},
+        "Gangsta & Hardcore": {},
+        "International Rap": {},
+        "Latin Rap": {},
+        "Old School": {},
+        "Pop Rap": {},
+        "Southern Rap": {},
+        "West Coast": {}
+    },
+    "Reggae": {
+        "Dance Hall": {},
+        "Dub": {},
+        "Jamaican Ska": {},
+        "Rocksteady": {}
+    },
+    "Rock": {
+        "Blues Rock": {},
+        "Country Rock": {},
+        "Folk Rock": {},
+        "Funk Rock": {},
+        "Hard Rock": {},
+        "Jam Bands": {},
+        "Latin Rock": {},
+        "Oldies & Retro": {
+            "Garage Bands": {},
+            "Rockabilly": {},
+            "Surf Rock": {}
+        },
+        "Power Pop": {},
+        "Progressive": {
+            "Electronic": {},
+            "Progressive Metal": {},
+            "Progressive Rock": {}
+        },
+        "Rap Rock": {},
+        "Rock Guitarists": {
+            "Guitar Gods": {},
+            "Shred": {},
+            "Surf Guitar": {}
+        },
+        "Roots Rock": {},
+        "Singer-Songwriters": {}
+    },
+    "Soundtracks": {
+        "Broadway Musicals": {},
+        "Movie Scores": {},
+        "Movie Soundtracks": {},
+        "Television Soundtracks": {}
+    },
+    "Special Interest": {
+        "Exercise": {},
+        "Instructional": {},
+        "Radio Shows": {},
+        "Self-Help": {},
+        "Sound Effects": {}
+    },
+    "World Music": {
+        "Africa": {
+            "Algeria": {},
+            "Cameroon": {},
+            "Cape Verde": {},
+            "Congo": {},
+            "Egypt": {},
+            "Ghana": {},
+            "Guinea": {},
+            "Ivory Coast": {},
+            "Madagascar": {},
+            "Mali": {},
+            "Morocco": {},
+            "Nigeria": {},
+            "Senegal & Gambia": {},
+            "Soukous": {},
+            "South Africa": {},
+            "Tanzania": {},
+            "Zimbabwe": {}
+        },
+        "Australia & New Zealand": {},
+        "Caribbean & Cuba": {
+            "Afro-Cuban": {},
+            "Bahamas": {},
+            "Calypso": {},
+            "Cuba": {
+                "Big Band": {},
+                "Bolero": {},
+                "Charanga": {},
+                "Mambo": {},
+                "Rhumba": {},
+                "Salsa": {}
+            },
+            "Dominican Republic": {},
+            "Haiti": {},
+            "Jamaica": {},
+            "Puerto Rico": {},
+            "Soca": {},
+            "Trinidad": {},
+            "Zouk": {}
+        },
+        "Europe": {
+            "British Isles": {
+                "Britain": {},
+                "Ireland": {},
+                "Scotland": {}
+            },
+            "Continental Europe": {
+                "Austria": {},
+                "Belgium": {},
+                "Denmark": {},
+                "France": {},
+                "Germany": {},
+                "Greece": {},
+                "Italy": {},
+                "Netherlands": {},
+                "Portugal": {},
+                "Spain": {},
+                "Switzerland": {}
+            },
+            "Eastern Europe": {
+                "Armenia": {},
+                "Bulgaria": {},
+                "Czech Republic": {},
+                "Gypsy": {},
+                "Hungary": {},
+                "Jewish & Yiddish Music": {},
+                "Poland": {},
+                "Polka": {},
+                "Romania": {},
+                "Russia": {},
+                "Ukraine": {}
+            },
+            "Scandinavia": {
+                "Finland": {},
+                "Norway": {},
+                "Sweden": {}
+            }
+        },
+        "Far East & Asia": {
+            "China": {},
+            "Indonesia": {},
+            "Japan": {},
+            "Korea": {},
+            "Russia": {},
+            "Tibet": {},
+            "Vietnam": {}
+        },
+        "India & Pakistan": {},
+        "Middle East": {
+            "Arabic": {},
+            "Egypt": {},
+            "Iran": {},
+            "Iraq": {},
+            "Islamic": {},
+            "Israel": {},
+            "Lebanon": {},
+            "Turkey": {}
+        },
+        "North America": {
+            "Appalachian": {},
+            "Cajun & Zydeco": {},
+            "Eskimo & Inuit": {},
+            "Jewish & Yiddish Music": {},
+            "Native American": {},
+            "Tejano": {}
+        },
+        "Pacific Islands": {
+            "Hawaii": {},
+            "Polynesian Music": {},
+            "Tahiti": {}
+        },
+        "South & Central America": {
+            "Andes": {},
+            "Argentina": {},
+            "Bolivia": {},
+            "Brazil": {
+                "Afro Brazilian": {},
+                "Bossa Nova": {},
+                "Tropic\u00e1lia": {}
+            },
+            "Chile": {},
+            "Colombia": {},
+            "Costa Rica": {},
+            "Ecuador": {},
+            "El Salvador": {},
+            "Nicaragua": {},
+            "Peru": {},
+            "Uruguay": {},
+            "Venezuela": {}
+        }
+    }
+}

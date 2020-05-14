@@ -1,0 +1,145 @@
+{
+    "Clothing": {
+        "Active": {
+            "Active Hoodies": {},
+            "Active Sweatshirts": {},
+            "Track & Active Jackets": {},
+            "Active Tracksuits": {},
+            "Active Shirts & Tees": {},
+            "Active Pants": {},
+            "Active Shorts": {},
+            "Active Base Layers": {},
+            "Active Underwear": {},
+            "Athletic Socks": {},
+            "Athletic Supporters": {}
+        },
+        "Clothing Sets": {
+            "Pant Sets": {},
+            "Short Sets": {}
+        },
+        "Fashion Hoodies & Sweatshirts": {},
+        "Jackets & Coats": {
+            "Down & Down Alternative": {},
+            "Dress Coats": {},
+            "Fleece": {},
+            "Jackets": {},
+            "Rain Wear": {},
+            "Snow Wear": {},
+            "Vests": {}
+        },
+        "Jeans": {},
+        "Overalls": {},
+        "Pants": {},
+        "Shorts": {},
+        "Sleepwear & Robes": {
+            "Pajama Tops": {},
+            "Pajama Bottoms": {},
+            "Pajama Sets": {},
+            "Blanket Sleepers": {},
+            "Robes": {}
+        },
+        "Socks": {
+            "Athletic Socks": {},
+            "Dress Socks": {}
+        },
+        "Suits & Sport Coats": {
+            "Suits": {},
+            "Sport Coats & Blazers": {},
+            "Tuxedos": {}
+        },
+        "Sweaters": {
+            "Pullover": {},
+            "Cardigan": {},
+            "Vests": {}
+        },
+        "Swim": {
+            "Trunks": {},
+            "Board Shorts": {},
+            "Rash Guard Shirts": {},
+            "Swimwear Sets": {}
+        },
+        "Tops, Tees & Shirts": {
+            "Button-Down Shirts": {},
+            "Polos": {},
+            "Tank Tops": {},
+            "Tees": {}
+        },
+        "Underwear": {
+            "Boxer Briefs": {},
+            "Boxers": {},
+            "Briefs": {},
+            "Thermal Underwear": {
+                "Bottoms": {},
+                "Sets": {},
+                "Tops": {}
+            },
+            "Undershirts": {}
+        }
+    },
+    "Shoes": {
+        "Athletic": {
+            "Baseball & Softball": {},
+            "Basketball": {},
+            "Bowling": {},
+            "Dance": {},
+            "Equestrian Sport Boots": {},
+            "Fitness & Cross-Training": {},
+            "Football": {},
+            "Handball": {},
+            "Racquet Sports": {},
+            "Running": {},
+            "Skateboarding": {},
+            "Soccer": {},
+            "Sport Sandals": {},
+            "Trail Running": {},
+            "Walking": {},
+            "Water Shoes": {}
+        },
+        "Boots": {},
+        "Clogs & Mules": {},
+        "Loafers": {},
+        "Outdoor": {
+            "Hiking & Trekking": {
+                "Hiking Boots": {},
+                "Hiking Shoes": {}
+            },
+            "Rain Boots": {},
+            "Snow Boots": {},
+            "Sport Sandals": {},
+            "Trail Running": {},
+            "Water Shoes": {}
+        },
+        "Oxfords": {},
+        "Sandals": {},
+        "Slippers": {},
+        "Sneakers": {}
+    },
+    "Watches": {
+        "Wrist Watches": {},
+        "Watch Bands": {},
+        "Pocket Watches": {}
+    },
+    "Accessories": {
+        "Cold Weather": {
+            "Sets": {},
+            "Gloves": {},
+            "Mittens": {},
+            "Hats & Caps": {},
+            "Earmuffs": {}
+        },
+        "Hats & Caps": {},
+        "Neckties": {},
+        "Bow Ties": {},
+        "Belts": {},
+        "Suspenders": {},
+        "Sunglasses": {}
+    },
+    "Jewelry": {
+        "Bracelets": {},
+        "Necklaces": {},
+        "Cuff Links": {},
+        "Rings": {},
+        "Tie Clips": {}
+    },
+    "Shops": {}
+}

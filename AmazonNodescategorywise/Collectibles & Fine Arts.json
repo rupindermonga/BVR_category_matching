@@ -1,0 +1,165 @@
+{
+    "Advertising": {},
+    "Collectible Currencies": {
+        "Individual Coins": {},
+        "Coin Sets": {}
+    },
+    "Entertainment": {
+        "Animation": {
+            "Animation Cels": {},
+            "Backgrounds": {},
+            "Concept Art & Storyboards": {},
+            "Production Art": {}
+        },
+        "Apparel": {},
+        "Artwork By Celebrities": {},
+        "Backstage Passes": {},
+        "Books": {},
+        "Comic Art": {},
+        "Comic Books": {},
+        "Contracts": {},
+        "Correspondence": {},
+        "Cut Signatures": {},
+        "Figurines": {},
+        "Flyers": {},
+        "Framed Record Award Sets": {},
+        "Lobby Cards": {},
+        "Magazines": {},
+        "Movies & Music": {
+            "CDs & Inserts": {
+                "Compact Discs": {},
+                "Compact Disc Inserts": {}
+            },
+            "DVDs": {},
+            "Laser Discs": {},
+            "Vinyl Record Sleeves": {},
+            "Vinyl Records": {}
+        },
+        "Musical Instruments": {},
+        "Photographs": {},
+        "Plates": {},
+        "Playbills": {},
+        "Postcards": {},
+        "Prints & Posters": {},
+        "Programs": {},
+        "Props": {},
+        "Publicity Photo Cards": {},
+        "Scripts": {},
+        "Sheet Music": {},
+        "Signed Personal Checks": {},
+        "Ticket Stubs": {},
+        "Trading Cards": {},
+        "Wardrobe Items": {}
+    },
+    "Fine Art": {
+        "Paintings": {
+            "Acrylic Paintings": {},
+            "Oil Paintings": {},
+            "Watercolor Paintings": {},
+            "Fresco Paintings": {},
+            "Gouache Paintings": {},
+            "Enamel Paintings": {},
+            "Ink Wash Paintings": {},
+            "Encaustic Paintings": {}
+        },
+        "Prints": {
+            "Etchings": {},
+            "Lithographs": {},
+            "Screen Prints": {},
+            "Woodcuts": {},
+            "Engravings": {},
+            "Mezzotint Prints": {},
+            "Aquatint Prints": {},
+            "Monotype Prints": {},
+            "Foil Imaging Prints": {},
+            "Archival Digital Prints": {}
+        },
+        "Photographs": {
+            "C-Print Photographs": {},
+            "R-Print Photographs": {},
+            "Silver Gelatin Photographs": {},
+            "Toned Print Photographs": {},
+            "Archival Digital Photographs": {}
+        },
+        "Drawings": {
+            "Chalk Drawings": {},
+            "Charcoal Drawings": {},
+            "Ink Drawings": {},
+            "Pastel Drawings": {},
+            "Pencil Drawings": {}
+        },
+        "Mixed Media": {}
+    },
+    "Historical & Political": {
+        "Clothing & Accessories": {},
+        "Correspondence": {},
+        "Photographs": {}
+    },
+    "Sports": {
+        "Balls": {},
+        "Baseball Bases": {},
+        "Bats": {},
+        "Bobbleheads": {},
+        "Books": {},
+        "Clothing & Uniforms": {
+            "Boxing Robes": {},
+            "Hats": {},
+            "Jerseys": {},
+            "Pants": {},
+            "Shirts": {},
+            "Shoes": {},
+            "Shorts & Trunks": {}
+        },
+        "Cut Signatures": {},
+        "Diecast Cars": {},
+        "Figurines": {},
+        "Flags & Banners": {},
+        "Gloves": {},
+        "Golf Clubs": {},
+        "Hats": {},
+        "Helmets": {
+            "Full Sized Helmets": {},
+            "Mini Helmets": {}
+        },
+        "Hockey Pucks": {},
+        "Hockey Sticks & Blades": {},
+        "Jerseys": {},
+        "Lineup Cards": {},
+        "Magazines": {},
+        "Personal Checks": {},
+        "Photographs": {},
+        "Postcards & Index Cards": {},
+        "Prints & Posters": {},
+        "Publications & Media": {
+            "Books": {},
+            "Magazines": {},
+            "Media Guides": {}
+        },
+        "Shoes": {},
+        "Stadium Components": {},
+        "Ticket Stubs": {},
+        "Trading Cards": {
+            "Single Cards": {
+                "Base Singles": {},
+                "Parallel Singles": {},
+                "Graded Singles": {},
+                "Insert Singles": {},
+                "Promo Singles": {}
+            },
+            "Packs & Boxes": {
+                "Boxes": {},
+                "Packs": {}
+            },
+            "Cases": {},
+            "Sets": {
+                "Base Sets": {},
+                "Parallel Sets": {},
+                "Team Sets": {},
+                "Sealed Sets": {},
+                "Promo Sets": {}
+            },
+            "Lots": {}
+        },
+        "Trophies": {}
+    }
+}

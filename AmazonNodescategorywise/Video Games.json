@@ -1,0 +1,576 @@
+{
+    "PlayStation 4": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Batteries": {},
+                "Chargers": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Controllers": {
+                "Gamepads & Standard Controllers": {},
+                "Racing Wheels": {},
+                "Remotes": {}
+            },
+            "Cooling Systems": {},
+            "Faceplates, Protectors & Skins": {},
+            "Headsets": {},
+            "Mounts, Brackets & Stands": {},
+            "Thumb Grips": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "PlayStation Network": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        },
+        "Virtual Reality": {
+            "Accessories": {},
+            "Cameras": {},
+            "Controllers": {},
+            "Headsets": {}
+        }
+    },
+    "PlayStation 3": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Batteries": {},
+                "Chargers": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Controllers": {
+                "Dance Pads": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Gaming Keyboards": {},
+                "Music Controllers": {
+                    "Drums": {},
+                    "Guitars": {},
+                    "Microphones": {}
+                },
+                "Racing Wheels": {},
+                "Remotes": {}
+            },
+            "Cooling Systems": {},
+            "Faceplates, Protectors & Skins": {
+                "Faceplates": {},
+                "Skins": {}
+            },
+            "Headsets": {},
+            "Memory": {},
+            "Mounts, Brackets & Stands": {},
+            "Thumb Grips": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "PlayStation Network": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Xbox One": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Battery & Charger Sets": {},
+                "Batteries": {},
+                "Chargers": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Controllers": {
+                "Dance Pads": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Racing Wheels": {},
+                "Remotes": {}
+            },
+            "Cooling Systems": {},
+            "Faceplates, Protectors & Skins": {},
+            "Headsets": {},
+            "Memory": {},
+            "Mounts, Brackets & Stands": {},
+            "Thumb Grips": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "Xbox Live": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Xbox 360": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Batteries": {},
+                "Chargers": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Controllers": {
+                "Dance Pads": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Keyboards": {},
+                "Music Controllers": {
+                    "Drums": {},
+                    "Guitars": {},
+                    "Keyboards": {},
+                    "Microphones": {}
+                },
+                "Racing Wheels": {},
+                "Remotes": {}
+            },
+            "Cooling Systems": {},
+            "Faceplates, Protectors & Skins": {
+                "Faceplates": {},
+                "Skins": {}
+            },
+            "Headsets": {},
+            "Memory": {},
+            "Mounts, Brackets & Stands": {},
+            "Thumb Grips": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "Xbox Live": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Nintendo Switch": {
+        "Accessories": {
+            "Batteries & Chargers": {},
+            "Cables & Adapters": {},
+            "Cases & Storage": {},
+            "Controllers": {},
+            "Faceplates, Protectors & Skins": {
+                "Screen Protectors": {},
+                "Skin & Protector Sets": {}
+            },
+            "Hand Grips": {},
+            "Mounts, Brackets & Stands": {},
+            "Repair Tools & Replacement Parts": {},
+            "Thumb Grips": {}
+        },
+        "Consoles": {},
+        "Games": {},
+        "Nintendo eShop": {
+            "Store Currency & Points Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Wii": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Chargers": {},
+                "Batteries": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Controllers": {
+                "Dance Pads": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Keyboards": {},
+                "Motion Controllers": {},
+                "Music Controllers": {
+                    "Drums": {},
+                    "Guitars": {},
+                    "Keyboards": {},
+                    "Microphones": {}
+                },
+                "Racing Wheels": {},
+                "Remotes": {}
+            },
+            "Cooling Systems": {},
+            "Faceplates, Protectors & Skins": {
+                "Faceplates": {},
+                "Protectors": {},
+                "Skins": {}
+            },
+            "Fitness Accessories": {},
+            "Headsets": {},
+            "Memory": {},
+            "Mounts, Brackets & Stands": {},
+            "Sensor Bars": {}
+        },
+        "Consoles": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "Nintendo eShop": {
+            "Store Currency & Points Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "PC": {
+        "Accessories": {
+            "Controllers": {
+                "Flight Controls": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Light Guns": {},
+                "Music Controllers": {},
+                "Racing Wheels": {}
+            },
+            "Gaming Keyboards": {},
+            "Gaming Mice": {},
+            "Headsets": {}
+        },
+        "Games": {},
+        "Virtual Reality": {
+            "Accessories": {},
+            "Cameras": {},
+            "Controllers": {},
+            "Headsets": {}
+        }
+    },
+    "Mac": {
+        "Accessories": {
+            "Controllers": {
+                "Flight Controls": {},
+                "Gamepads & Standard Controllers": {},
+                "Joysticks": {},
+                "Light Guns": {},
+                "Music Controllers": {},
+                "Steering Wheels": {}
+            },
+            "Gaming Keyboards": {},
+            "Gaming Mice": {},
+            "Headsets": {}
+        },
+        "Games": {}
+    },
+    "Nintendo 3DS & 2DS": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Batteries": {},
+                "Chargers": {}
+            },
+            "Cables & Adapters": {
+                "Adapters": {},
+                "Cables": {}
+            },
+            "Cases & Storage": {},
+            "Headsets": {},
+            "Faceplates, Protectors & Skins": {
+                "Faceplates": {},
+                "Screen Protectors": {},
+                "Skins": {}
+            },
+            "Hand Grips": {},
+            "Stylus Pens": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "Interactive Gaming Figures": {},
+        "Nintendo eShop": {
+            "Store Currency & Points Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Nintendo DS": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Chargers": {},
+                "Batteries": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Hand Grips": {},
+            "Headsets": {},
+            "Stylus Pens": {}
+        },
+        "Consoles": {},
+        "Games": {}
+    },
+    "PlayStation Vita": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Chargers": {},
+                "Batteries": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Faceplates, Protectors & Skins": {
+                "Protectors": {},
+                "Faceplates": {},
+                "Skins": {}
+            },
+            "Hand Grips": {},
+            "Headsets": {},
+            "Memory": {}
+        },
+        "Consoles": {},
+        "Downloadable Content": {},
+        "Games": {},
+        "PlayStation Network": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Sony PSP": {
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Chargers": {
+                "Chargers": {},
+                "Batteries": {}
+            },
+            "Cables & Adapters": {
+                "Cables": {},
+                "Adapters": {}
+            },
+            "Cases & Storage": {},
+            "Faceplates, Protectors & Skins": {
+                "Faceplates": {},
+                "Screen Protectors": {},
+                "Skins": {}
+            },
+            "Hand Grips": {},
+            "Headsets": {},
+            "Memory": {},
+            "Speakers": {}
+        },
+        "Consoles": {},
+        "Games": {}
+    },
+    "Legacy Systems": {
+        "3DO": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Atari 2600": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Atari 5200": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Atari 7800": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Atari Jaguar": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Atari Lynx": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "ColecoVision": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Commodore 64": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Commodore Amiga": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Game Boy": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Game Boy Advance": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Game Boy Color": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "GameCube": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Intellivision": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Linux Games": {},
+        "NEOGEO Pocket": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Nintendo 64": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Nintendo NES": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "PlayStation": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "PlayStation 2": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega CD": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega Dreamcast": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega Game Gear": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega Genesis": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega Master System": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Sega Saturn": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Super Nintendo": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "TurboGrafx 16": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        },
+        "Wii U": {
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Gamepads & Standard Controllers": {},
+                    "Racing Wheels": {},
+                    "Motion Controllers": {},
+                    "Music Controllers": {}
+                },
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Protectors": {},
+                    "Skins": {}
+                },
+                "Fitness Accessories": {},
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Sensor Bars": {}
+            },
+            "Consoles": {},
+            "Downloadable Content": {},
+            "Games": {},
+            "Interactive Gaming Figures": {},
+            "Nintendo eShop": {
+                "Store Currency & Points Cards": {},
+                "Subscriptions": {}
+            }
+        },
+        "Xbox": {
+            "Accessories": {},
+            "Consoles": {},
+            "Games": {}
+        }
+    },
+    "Online Game Services": {
+        "Nintendo eShop": {
+            "Store Currency & Points Cards": {},
+            "Subscriptions": {}
+        },
+        "PlayStation Network": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        },
+        "Xbox Live": {
+            "Store Currency Cards": {},
+            "Subscriptions": {}
+        }
+    },
+    "Microconsoles": {
+        "GEM Box": {},
+        "NVIDIA SHIELD": {},
+        "Ouya": {},
+        "Playstation TV": {}
+    }
+}

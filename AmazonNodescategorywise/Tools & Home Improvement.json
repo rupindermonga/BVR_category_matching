@@ -1,0 +1,2227 @@
+{
+    "Building Supplies": {
+        "Building Materials": {
+            "Built-in Cabinetry": {},
+            "Decking & Fencing": {
+                "Gates": {},
+                "Hardware": {
+                    "Decking Nails": {},
+                    "Decking Screws": {},
+                    "Wire Fencing Staples": {}
+                },
+                "Materials": {
+                    "Plastic Decking": {},
+                    "Solid Wood Decking": {},
+                    "Treated Wood Decking": {},
+                    "Wood Composite Decking": {},
+                    "Hardware Cloth": {}
+                },
+                "Railings & Pickets": {
+                    "Pickets": {},
+                    "Posts & Accessories": {
+                        "Sleeves, Wraps & Trim": {},
+                        "Caps": {},
+                        "Posts": {}
+                    },
+                    "Railings": {},
+                    "Weatherproofing": {}
+                }
+            },
+            "Doors": {
+                "Door Frames": {},
+                "Door Sills": {},
+                "Exterior Doors": {
+                    "Entry Doors": {},
+                    "Patio Doors": {},
+                    "Screen Doors": {},
+                    "Storm Doors": {}
+                },
+                "Garage Doors, Openers & Parts": {
+                    "Garage Door Seals": {},
+                    "Garage Doors": {},
+                    "Hardware": {
+                        "Circuit Boards": {},
+                        "Gears": {},
+                        "Locks": {},
+                        "Rollers": {},
+                        "Sensors": {},
+                        "Springs & Wires": {}
+                    },
+                    "Keypads & Remotes": {},
+                    "Opener System Parts": {},
+                    "Opener Systems": {}
+                },
+                "Interior & Closet Doors": {
+                    "Folding Doors": {},
+                    "Hollow Core Doors": {},
+                    "Slab Doors": {},
+                    "Sliding & Pocket Doors": {},
+                    "Solid Core Doors": {},
+                    "Swinging Doors": {}
+                }
+            },
+            "Flooring": {
+                "Accessories": {
+                    "Acid Cleaners": {},
+                    "Adhesive Primer": {},
+                    "Adhesive Remover": {},
+                    "Finish Compound": {},
+                    "Grout": {},
+                    "Grout Cleaner": {},
+                    "Leveling Compounds": {},
+                    "Tile Cleaner": {},
+                    "Underlayments": {}
+                },
+                "Adhesives & Mortars": {},
+                "Flooring Materials": {
+                    "Bamboo Flooring": {},
+                    "Carpet & Carpet Tiles": {},
+                    "Ceramic Floor Tile": {},
+                    "Hardwood Flooring": {},
+                    "Rubber Flooring": {},
+                    "Vinyl Flooring": {},
+                    "Wood Laminate Flooring": {}
+                }
+            },
+            "Millwork": {
+                "Ceiling Medallions": {},
+                "Columns": {},
+                "Corbels": {},
+                "Moldings & Trims": {
+                    "Ceiling Molding & Trim": {},
+                    "Door Molding & Trim": {},
+                    "Floor Molding & Trim": {},
+                    "Wall Molding & Trim": {},
+                    "Window Molding & Trim": {}
+                }
+            },
+            "Raw Building Materials": {
+                "Bricks & Blocks": {},
+                "Construction Boards": {},
+                "Glass": {
+                    "Glass Blocks": {},
+                    "Plate Glass": {}
+                },
+                "Rebar": {},
+                "Siding": {},
+                "Concrete": {},
+                "Mortar Mix": {},
+                "Lumber": {},
+                "Plywood": {},
+                "Veneers": {}
+            },
+            "Roofing": {
+                "Flashing": {},
+                "Gutters & Accessories": {
+                    "Downspouts": {},
+                    "Elbows": {},
+                    "Guards": {},
+                    "Gutters": {}
+                },
+                "Roof Caps": {},
+                "Shingles & Shakes": {},
+                "Trusses": {},
+                "Vents": {
+                    "Gable Vents": {},
+                    "Roof Vents": {},
+                    "Soffit Vents": {}
+                }
+            },
+            "Stair Parts": {
+                "Balusters": {},
+                "Brackets": {},
+                "Handrails": {},
+                "Newel Posts": {},
+                "Risers": {},
+                "Rods": {},
+                "Treads": {}
+            },
+            "Tiles": {
+                "Ceramic Tiles": {},
+                "Glass Tiles": {},
+                "Stone Tiles": {
+                    "Limestone Tiles": {},
+                    "Marble Tiles": {}
+                }
+            },
+            "Windows": {
+                "Casement Windows": {},
+                "Double Hung Windows": {},
+                "Louvered Windows": {},
+                "Skylights & Roof Windows": {},
+                "Sliding Windows": {},
+                "Storm Windows": {},
+                "Window Awnings & Canopies": {},
+                "Window Shutters": {
+                    "Board & Batten Shutters": {},
+                    "Louver Shutters": {},
+                    "Panel Shutters": {}
+                },
+                "Window Sills": {}
+            }
+        },
+        "HVAC": {
+            "Ducting": {},
+            "Furnace Parts & Accessories": {
+                "Furnace Filters": {},
+                "Furnace Humidifiers": {},
+                "Circuit Boards": {},
+                "Fans": {},
+                "Heating Elements": {},
+                "Ignitors": {},
+                "Knobs": {},
+                "Motors": {},
+                "Power Cords": {},
+                "Relays": {}
+            },
+            "HVAC Controls": {},
+            "Heaters & Accessories": {},
+            "Registers, Grilles & Vents": {},
+            "Thermostats & Accessories": {
+                "Thermostats": {
+                    "Programmable": {},
+                    "Nonprogrammable": {}
+                },
+                "Accessories": {}
+            },
+            "Ventilation Fans": {},
+            "Weatherproofing": {
+                "Garage Door Seals": {},
+                "Pipe Coverings": {},
+                "Weather Stripping": {},
+                "Window Insulation Kits": {}
+            }
+        },
+        "Job Site Lighting": {},
+        "Ladders": {
+            "Extension Ladders": {},
+            "Step Ladders": {},
+            "Stepstools": {},
+            "Telescoping Ladders": {},
+            "Accessories": {}
+        },
+        "Material Handling": {
+            "Beam Trolleys": {},
+            "Dollies": {},
+            "Drywall Lifts": {},
+            "Drywall Stilts": {},
+            "Forklifts": {},
+            "Hand Trucks": {},
+            "Jacks & Accessories": {
+                "Bottle Jacks": {},
+                "Floor Jacks": {},
+                "Pump Jacks": {},
+                "Tongue Jacks": {},
+                "Accessories": {}
+            },
+            "Lift Tables": {},
+            "Lifting Cranes": {
+                "Bridge": {},
+                "Gantry": {},
+                "Hydraulic": {},
+                "Jib": {},
+                "Winch": {}
+            },
+            "Load Binders": {},
+            "Pallet Trucks": {},
+            "Pallets": {},
+            "Platform Trucks": {},
+            "Ramps": {},
+            "Roller Stands": {},
+            "Service Carts": {},
+            "Snatch Blocks": {},
+            "Straps": {},
+            "Winches, Hoists & Pulleys": {
+                "Hoists": {},
+                "Hoist Accessories": {},
+                "Pulleys": {
+                    "Flat Belt Pulleys": {},
+                    "Idler Belt Pulleys": {},
+                    "Round Belt Pulleys": {},
+                    "Timing Belt Pulleys": {},
+                    "Timing Pulley Flanges": {},
+                    "V-Belt Pulleys & Sheaves": {}
+                },
+                "Winches": {},
+                "Winch Accessories": {
+                    "Cables": {},
+                    "Choker Chains": {},
+                    "Covers": {},
+                    "Fairleads": {},
+                    "Hook Straps": {},
+                    "Kits": {},
+                    "Mounts": {},
+                    "Quick Connect Systems": {},
+                    "Recovery Straps": {},
+                    "Remote Control Systems": {},
+                    "Shackles": {},
+                    "Snatch Blocks": {},
+                    "Switches": {}
+                }
+            },
+            "Workbenches": {}
+        },
+        "Scaffolding & Accessories": {}
+    },
+    "Electrical": {
+        "Ballasts": {},
+        "Breakers, Load Centers & Fuses": {
+            "Accessories": {
+                "Grounding Bars": {},
+                "Hubs": {},
+                "Meter Sockets": {},
+                "Safety Switches": {}
+            },
+            "Circuit Breaker Panels": {},
+            "Circuit Breakers": {
+                "Arc Fault Circuit Breakers": {},
+                "Ground Fault Circuit Interrupters": {},
+                "Magnetic Circuit Breakers": {},
+                "Miniature Circuit Breakers": {},
+                "Thermal Circuit Breakers": {},
+                "Thermal-Magnetic Circuit Breakers": {}
+            },
+            "Disconnects": {},
+            "Fuses": {
+                "Blade Fuses": {},
+                "Cartridge Fuses": {},
+                "Fuse Accessories": {},
+                "Fuse Blocks & Fuse Holders": {
+                    "Fuse Blocks": {},
+                    "Fuse Holders": {}
+                },
+                "Fuse Links": {},
+                "Plug Fuses": {}
+            }
+        },
+        "Cord Management": {
+            "Cable Raceways": {},
+            "Cable Sleeves": {},
+            "Cable Straps": {},
+            "Cable Ties": {},
+            "Cord Reels": {},
+            "Floor Cord Covers": {}
+        },
+        "Cords, Adapters & Multi-Outlets": {
+            "Adapters & Multi-Outlets": {
+                "Adapters": {},
+                "Multi-Outlets": {}
+            },
+            "Appliance Cords": {},
+            "Extension Cords": {}
+        },
+        "Door Chimes & Bells": {
+            "Push Buttons": {},
+            "Kits": {},
+            "Chimes": {},
+            "Transformers": {}
+        },
+        "Electrical Boxes, Conduits & Fittings": {
+            "Brackets": {},
+            "Conduits": {},
+            "Conduit Fittings": {},
+            "Conduit Mounts": {},
+            "Electrical Boxes": {},
+            "Outlet Boxes": {}
+        },
+        "Electrical Connectors": {
+            "Cam-Type Connectors": {},
+            "Split-Bolt Connectors": {}
+        },
+        "Electrical Wire": {},
+        "Electric Motors": {
+            "Fan Motors": {},
+            "Mounts & Accessories": {
+                "Mounts": {},
+                "Accessories": {},
+                "Controls": {}
+            },
+            "Permanent Magnet Motors": {}
+        },
+        "Home Automation Devices": {
+            "Hubs & Controllers": {},
+            "Modules": {}
+        },
+        "Light Sockets": {},
+        "Outlets & Accessories": {
+            "Ground Fault Circuit Interrupter Outlets": {},
+            "Outlet Covers": {},
+            "Outlet Switches": {},
+            "Range Receptacles": {},
+            "RV Receptacles": {},
+            "Standard Outlets": {}
+        },
+        "Plugs": {},
+        "Power Strips & Surge Protectors": {
+            "Power Strips": {},
+            "Surge Protectors": {}
+        },
+        "Recessed Lighting": {
+            "Housings": {},
+            "Trim": {},
+            "Housing & Trim Kits": {}
+        },
+        "Switches & Dimmers": {
+            "Foot Switches": {},
+            "Plug-In Switches": {
+                "Dimmers": {},
+                "Outlet Switches": {},
+                "Timers": {}
+            },
+            "Wall Switches": {
+                "Ceiling Fan Controls": {},
+                "Dimmer Switches": {},
+                "Light Switches": {},
+                "Motion-Activated Switches": {},
+                "Timer Switches": {}
+            }
+        },
+        "Terminals": {
+            "Butt": {},
+            "Disconnect": {},
+            "Flag": {},
+            "Hook": {},
+            "IDC Electrical": {},
+            "Multiple Stud": {},
+            "Rectangular": {},
+            "Ring": {},
+            "Screw": {},
+            "Snap Plug": {},
+            "Spade": {}
+        },
+        "Testers": {
+            "Battery Testers": {},
+            "Circuit Testers": {},
+            "EMF Meters": {},
+            "Multi Testers": {},
+            "Resistance Meters": {
+                "Capacitance Meters": {},
+                "Ground Resistance Meters": {},
+                "Insulation Resistance Meters": {},
+                "LCR Meters": {}
+            },
+            "Voltage Testers": {}
+        },
+        "Timers": {},
+        "Tools & Hardware": {
+            "Cable Insertion & Extraction Tools": {
+                "Fish Tape": {},
+                "Pulling Grips": {},
+                "Punchdown Tools": {}
+            },
+            "Cable Staples": {},
+            "Electrical Tape": {},
+            "Wire Crimpers": {},
+            "Wire Strippers": {}
+        },
+        "Wall Plates & Accessories": {
+            "Wall Plate Screws": {},
+            "Wall Plates": {}
+        }
+    },
+    "Hardware": {
+        "Address Numbers & Plaques": {},
+        "Adhesives & Sealers": {
+            "Caulk": {
+                "Adhesive Caulk": {},
+                "Fire Barrier Caulk": {},
+                "High Temperature Caulk": {},
+                "Latex Caulk": {},
+                "Rope Caulk": {},
+                "Silicone Caulk": {},
+                "Tape Caulk": {}
+            },
+            "Chemical Anchors": {},
+            "Contact Cement": {},
+            "Duct Tape": {},
+            "Epoxies": {
+                "Metal Filled Epoxies": {},
+                "Tile Epoxy Adhesives": {}
+            },
+            "Glue Gun Sticks": {},
+            "Masking Tape": {},
+            "Sealers": {},
+            "Silicone": {},
+            "Super Glue": {},
+            "Tile Grout": {},
+            "Wood Filler": {},
+            "Wood Glue": {}
+        },
+        "Bathroom Hardware": {
+            "Bathroom Shelves": {},
+            "Robe & Towel Hooks": {},
+            "Toilet Paper Holders": {},
+            "Towel Bars": {},
+            "Towel Rings": {}
+        },
+        "Braces": {},
+        "Cabinet Hardware": {
+            "Back Plates": {},
+            "Catches": {},
+            "Drawer Slides": {},
+            "Hinges": {},
+            "Knobs": {},
+            "Latches": {},
+            "Locks": {},
+            "Pulls": {}
+        },
+        "Cable Ties": {},
+        "Clock Hardware": {
+            "Clock Hands": {},
+            "Clock Keys": {},
+            "Clock Kits": {},
+            "Clock Movements": {}
+        },
+        "Door Hardware & Locks": {
+            "Deadbolts": {},
+            "Door Closers": {},
+            "Door Levers": {},
+            "Door Viewers": {},
+            "Door Knobs": {},
+            "Handlesets": {},
+            "Hinges": {},
+            "Kick Plates": {},
+            "Knockers": {},
+            "Latches & Bolts": {},
+            "Lock Replacement Parts": {},
+            "Mail Slots": {},
+            "Pocket & Bifold Door Hardware": {},
+            "Screen Door Hardware": {},
+            "Shed Door Hardware": {},
+            "Sliding Door Hardware": {},
+            "Stops": {},
+            "Thresholds": {}
+        },
+        "Flashlights": {
+            "Handheld Flashlights": {},
+            "Hands Free Flashlights & Headlamps": {
+                "Hands Free Flashlights": {},
+                "Headlamps": {}
+            },
+            "Lantern Flashlights": {}
+        },
+        "Furniture Hardware": {
+            "Casters": {
+                "Ball Casters": {},
+                "Plate Casters": {},
+                "Stem Casters": {}
+            },
+            "Edge & Corner Guards": {},
+            "Furniture Cups": {},
+            "Furniture Legs": {},
+            "Furniture Pads": {},
+            "Furniture Sliders": {},
+            "Moving Blankets": {}
+        },
+        "Gate Hardware": {
+            "Gate Handles": {},
+            "Gate Hinges": {},
+            "Gate Latches": {},
+            "Gate Locks": {},
+            "Gate Openers": {}
+        },
+        "Grommets": {
+            "Continuous Grommets": {},
+            "Extended Neck Washer Grommets": {},
+            "Grommet Kits": {},
+            "Plain Washer Grommets": {},
+            "Self-Piercing Grommets": {},
+            "Teeth Washer Grommets": {}
+        },
+        "Hooks": {
+            "Magnetic Hooks": {},
+            "Nail-In Hooks": {},
+            "Over-the-Door Hooks": {},
+            "Pegboard Hooks": {},
+            "S-Hooks": {},
+            "Screw-In Hooks": {}
+        },
+        "Mailboxes & Accessories": {
+            "Multi-Family & Cluster Box Mailboxes": {},
+            "Post-Mount Mailboxes": {},
+            "Wall-Mount Mailboxes": {},
+            "Mail Drop & Collection Boxes": {},
+            "Package Drop Boxes & Lockers": {},
+            "Newspaper Holders": {},
+            "Mailbox Accessories & Hardware": {
+                "Decorative Mailbox Accessories": {},
+                "Mailbox Covers": {},
+                "Mailbox Hardware": {},
+                "Mailbox Locks": {},
+                "Mailbox Numbers": {},
+                "Mailbox Posts": {}
+            }
+        },
+        "Nails, Screws & Fasteners": {
+            "Bolts": {
+                "Anchor Bolts": {},
+                "Carriage Bolts": {},
+                "Elevator Bolts": {},
+                "Expansion Bolts": {},
+                "Eyebolts": {},
+                "Hanger Bolts": {},
+                "Hex Bolts": {},
+                "Penta Head Bolts": {},
+                "Plow Bolts": {},
+                "Square Head Bolts": {},
+                "Step Bolts": {},
+                "Structural Bolts": {},
+                "T-Handle Bolts": {},
+                "T-Slot Bolts": {},
+                "Tension Control Bolts": {},
+                "Toggle Bolts": {},
+                "U-Bolts": {},
+                "Wheel Bolts": {}
+            },
+            "Screws": {
+                "Binding Screws": {},
+                "Concrete Screws": {},
+                "Drywall Screws": {},
+                "Lag Screws": {},
+                "Machine Screws": {},
+                "Panel Screws": {},
+                "Screw Eyes": {},
+                "Self-Tapping Screws": {},
+                "Set Screws": {},
+                "Sheet Metal Screws": {},
+                "Shoulder Screws": {},
+                "Socket Head Screws": {},
+                "Thread Forming & Cutting Screws": {},
+                "Thumb Screws": {},
+                "Wood Screws": {}
+            },
+            "Screw & Bolt Assortment Sets": {},
+            "Nuts": {
+                "Acorn Nuts": {},
+                "Allen Nuts": {},
+                "Ball Nuts": {},
+                "Barrel & Binding Nuts": {},
+                "Bearing Nuts": {},
+                "Clip-On Nuts": {},
+                "Coupling Nuts": {},
+                "Eye Nuts": {},
+                "Flange Nuts": {},
+                "Handle Nuts": {},
+                "Hex Nuts": {},
+                "Locknuts": {},
+                "Lug Nuts": {},
+                "Nut Inserts": {},
+                "Panel Nuts": {},
+                "Pipe Locknuts": {},
+                "Press-In Nuts": {},
+                "Push Nuts": {},
+                "Regulator Inlet Nuts": {},
+                "Rivet Nuts": {},
+                "Self-Clinching Nuts": {},
+                "Slip Joint Nuts": {},
+                "Slotted Nuts": {},
+                "Speed Nuts": {},
+                "Square Nuts": {},
+                "Strut-Channel Nuts": {},
+                "T-Nuts": {},
+                "T-Slot Nuts": {},
+                "Tamper-Resistant Nuts": {},
+                "Thumb Nuts": {},
+                "Tube Nuts": {
+                    "Compression Nuts": {},
+                    "Flared Nuts": {},
+                    "Tube Adapter Nuts": {},
+                    "Union Nuts": {}
+                },
+                "Twist-On Wire Connectors": {},
+                "Weld Nuts": {},
+                "Wing Nuts": {}
+            },
+            "Nut & Bolt Assortment Sets": {},
+            "Anchors": {
+                "Bolt Anchors": {},
+                "Chemical Anchors": {},
+                "Drive Anchors": {},
+                "Drop-In Anchors": {},
+                "Drywall Anchors": {},
+                "Expansion Shield Anchors": {},
+                "Hollow-Wall Anchors": {},
+                "Hook Anchors": {},
+                "Sleeve Anchors": {},
+                "Stud Anchors": {},
+                "T-Anchors": {},
+                "Toggle Anchors": {},
+                "Wedge Anchors": {}
+            },
+            "Collated Fasteners": {
+                "Collated Nails": {
+                    "Brad Nails": {},
+                    "Finish Nails": {},
+                    "Framing Nails": {},
+                    "Pinner Nails": {},
+                    "Roofing Nails": {},
+                    "Siding Nails": {}
+                },
+                "Collated Screws": {},
+                "Powder Actuated Fasteners": {},
+                "Staples": {}
+            },
+            "Nails": {
+                "Cap Nails": {},
+                "Collated Nails": {
+                    "Brad Nails": {},
+                    "Finish Nails": {},
+                    "Framing Nails": {},
+                    "Pinner Nails": {},
+                    "Roofing Nails": {},
+                    "Siding Nails": {}
+                },
+                "Common Nails": {},
+                "Drywall Nails": {},
+                "Duplex Nails": {},
+                "Escutcheon Pins": {},
+                "Finishing Nails": {},
+                "Flooring Nails": {},
+                "Masonry Nails": {},
+                "Pole Barn Nails": {},
+                "Roofing Nails": {},
+                "Siding Nails": {},
+                "Sinker Nails": {},
+                "Tacks": {},
+                "Wood Joiner Nails": {}
+            },
+            "Pins": {},
+            "Retaining Rings": {
+                "External Retaining Rings": {},
+                "Internal Retaining Rings": {}
+            },
+            "Rivets": {
+                "Blind Rivets": {},
+                "Push-In Rivets": {},
+                "Solid Rivets": {},
+                "Split & Bifurcated Rivets": {},
+                "Tubular Rivets": {}
+            },
+            "Spacers & Standoffs": {
+                "Bumpers": {},
+                "Spacers": {},
+                "Standoffs": {}
+            },
+            "Staples": {
+                "Cable Staples": {},
+                "Collated Staples": {},
+                "Wire Fencing Staples": {}
+            },
+            "Threaded Inserts": {
+                "Crack Repairing Inserts": {},
+                "Externally Threaded Inserts": {},
+                "Heat Set Inserts": {},
+                "Helical Threaded Inserts": {},
+                "Key Locking Inserts": {},
+                "Press-In Inserts": {},
+                "Rivet Nuts": {},
+                "Tapping Inserts": {},
+                "Thread Locking Inserts": {},
+                "T-Nuts": {}
+            },
+            "Threaded Rods & Studs": {
+                "Equal Thread Length Rods & Studs": {},
+                "Fully Threaded Rods & Studs": {},
+                "Press-In Captive Studs": {},
+                "Rivet Studs": {},
+                "Single End Threaded Studs": {},
+                "Unequal Thread Length Rods & Studs": {},
+                "Weld Studs": {}
+            },
+            "Washers": {
+                "Belleville Washers": {},
+                "Beveled Washers": {},
+                "Countersunk Washers": {},
+                "Cup Washers": {},
+                "Curved Washers": {},
+                "D-Shaped Washers": {},
+                "Flat Washers": {},
+                "Lock Washers": {
+                    "Spring Lock Washers": {},
+                    "Tooth Lock Washers": {},
+                    "Wedge Lock Washers": {}
+                },
+                "Retaining Washers": {},
+                "Rigid Insulation Washers": {},
+                "Rivet Washers": {},
+                "Sealing Washers": {},
+                "Shoulder Washers": {},
+                "Slotted Washers": {},
+                "Spherical Washers": {},
+                "Square Washers": {},
+                "Tab Washers": {},
+                "Wave Washers": {}
+            }
+        },
+        "Padlocks & Hasps": {
+            "Cables & Chains": {},
+            "Combination Padlocks": {},
+            "Hasps": {},
+            "Keyed Padlocks": {}
+        },
+        "Picture Hangers": {},
+        "Plugs": {},
+        "Shelf Brackets & Supports": {
+            "Brackets": {},
+            "Shelf Clips": {},
+            "Pegs & Pins": {}
+        },
+        "Snaps": {
+            "Bolt Snaps": {},
+            "Quick-Release Snaps": {},
+            "Spring Snaps": {},
+            "Trigger Snaps": {}
+        },
+        "Tarps & Tie-Downs": {
+            "Bungee Cords": {},
+            "Chains": {
+                "Ball & Bead Chains": {},
+                "Chain Links": {},
+                "Loop Chains": {},
+                "Register Chains": {},
+                "Sash Chains": {},
+                "Twist Chains": {}
+            },
+            "Ratcheting": {},
+            "Rope": {},
+            "Straps": {},
+            "Tarps": {},
+            "Twine": {}
+        },
+        "Window Hardware": {
+            "Locks & Latches": {},
+            "Screens": {},
+            "Shutter Hardware": {
+                "Shutter Dogs": {},
+                "Shutter Hinges": {}
+            },
+            "Window Insulation Kits": {},
+            "Window-Dressing Hardware": {}
+        }
+    },
+    "Kitchen & Bath Fixtures": {
+        "Bathroom Fixtures": {
+            "Bathroom Sink Faucets & Parts": {
+                "Touch On Faucets": {},
+                "Touchless Faucets": {},
+                "Replacement Parts": {}
+            },
+            "Bathtub Faucets & Showerheads": {
+                "Bathtub Faucets": {},
+                "Showerheads": {
+                    "Fixed Showerheads": {},
+                    "Handheld Showerheads": {},
+                    "Shower Body Sprays": {},
+                    "Showerhead Filters": {}
+                },
+                "Bathtub & Shower Systems": {},
+                "Bathtub Faucet Replacement Parts": {}
+            },
+            "Bathroom Sinks": {
+                "Console Sinks": {},
+                "Corner Sinks": {},
+                "Pedestal Sinks": {},
+                "Vanity Sink Tops": {},
+                "Vessel Sinks": {}
+            },
+            "Bathroom Sink Vanities & Accessories": {
+                "Bathroom Vanities": {},
+                "Vanity Sink Tops": {},
+                "Vanity Sidesplashes": {},
+                "Vanity Suites": {}
+            },
+            "Bathtubs": {
+                "Clawfoot Bathtubs": {},
+                "Drop-In Bathtubs": {},
+                "Freestanding Bathtubs": {},
+                "Recessed Bathtubs": {},
+                "Walk-In Bathtubs": {},
+                "Bathtub Sliding Doors": {},
+                "Bathtub Walls & Surrounds": {}
+            },
+            "Showers & Shower Parts": {
+                "Shower Arms & Slide Bars": {},
+                "Shower Bases & Pans": {},
+                "Shower Doors": {},
+                "Shower Installation Kits": {},
+                "Shower Panels": {},
+                "Shower Walls & Surrounds": {},
+                "Steam Showers": {}
+            },
+            "Toilets & Toilet Parts": {
+                "Toilets": {
+                    "One-Piece Toilets": {},
+                    "Two-Piece Toilets": {}
+                },
+                "Toilet Bowls": {},
+                "Toilet Seats": {},
+                "Toilet Tanks": {},
+                "Toilet Tank Covers": {},
+                "Toilet Replacement Parts": {}
+            },
+            "Bidet & Bidet Parts": {
+                "Bidets": {},
+                "Bidet Faucets": {},
+                "Bidet Seats": {},
+                "Bidet Attachments": {}
+            },
+            "Urinals & Urinal Parts": {
+                "Urinals": {},
+                "Urinal Flush Valves": {},
+                "Urinal Accessories": {},
+                "Urinal Replacement Parts": {}
+            },
+            "Bathroom Sink & Bathtub Accessories": {
+                "Built In Soap Dispensers": {},
+                "Drain Strainers": {},
+                "Sink & Bathtub Drains": {
+                    "Sink Drains": {},
+                    "Bathtub Drains": {}
+                }
+            },
+            "Bathroom Fixture Accessories": {
+                "Bath Towel Warmers": {},
+                "Bathroom Backsplash Tiles": {
+                    "Ceramic Tiles": {},
+                    "Glass Tiles": {},
+                    "Stone Tiles": {
+                        "Limestone Tiles": {},
+                        "Marble Tiles": {}
+                    }
+                },
+                "Bathroom Vanity Lighting": {}
+            },
+            "Bathroom Hardware & Installation": {
+                "Bath Towel Bars": {},
+                "Bath Towel Rings": {},
+                "Bathroom Fixture Hardware Parts": {},
+                "Installation & Mounting Kits": {},
+                "Robe & Towel Hooks": {},
+                "Shower Curtain Rings": {},
+                "Shower Curtain Rods": {},
+                "Toilet Paper Holders": {}
+            },
+            "Bathroom Safety & Accessibility": {
+                "Bath & Shower Stools & Benches": {},
+                "Bathtub Rails": {},
+                "Shower Grab Bars": {},
+                "Toilet Safety Frames": {},
+                "Toilet Seats & Commodes": {
+                    "Raised Toilet Seats": {},
+                    "Toilet Assistance Cushions": {},
+                    "Toilet Assistance Steps": {},
+                    "Toilet Safety Frames & Rails": {},
+                    "Toilet Tissue Aids": {}
+                }
+            },
+            "Bathroom Storage & Mirrors": {
+                "Bathroom Mirrors": {
+                    "Makeup Mirrors": {},
+                    "Shower Mirrors": {},
+                    "Wall-Mounted Vanity Mirrors": {}
+                },
+                "Bathroom Shelves": {},
+                "Medicine Cabinets": {}
+            },
+            "Bathroom Furniture Sets": {}
+        },
+        "Kitchen Fixtures": {
+            "Kitchen Faucets": {
+                "Bar Sink Faucets": {},
+                "Kitchen Sink Faucets": {
+                    "Touch On Kitchen Sink Faucets": {},
+                    "Touchless Kitchen Sink Faucets": {},
+                    "Pot Filler Faucets": {}
+                },
+                "Kitchen Sink Faucet Replacement Parts": {}
+            },
+            "Kitchen & Bar Sinks": {
+                "Bar Sinks": {},
+                "Kitchen Sinks": {
+                    "Single Bowl": {},
+                    "Double Bowl": {},
+                    "Triple Bowl": {}
+                }
+            },
+            "Kitchen Sink Aerators": {},
+            "Kitchen Sink Accessories": {
+                "Built In Soap Dispensers": {},
+                "Drains & Strainers": {},
+                "Garbage Disposals & Parts": {
+                    "Garbage Disposals": {},
+                    "Garbage Disposal Parts": {}
+                },
+                "Kitchen Backsplash Tiles": {
+                    "Ceramic Tiles": {},
+                    "Glass Tiles": {},
+                    "Stone Tiles": {
+                        "Limestone Tiles": {},
+                        "Marble Tiles": {}
+                    }
+                },
+                "Sink Installation Parts": {}
+            },
+            "Water Dispensers & Coolers": {
+                "Hot & Cold Water Dispensers": {},
+                "Hot Water Dispensers": {},
+                "Water Coolers": {},
+                "Water Dispenser Replacement Parts": {}
+            }
+        },
+        "Water Filtration & Softeners": {
+            "Faucet Mount Filters": {},
+            "Replacement Water Filters": {
+                "Replacement Countertop Water Filters": {},
+                "Replacement Faucet Water Filters": {},
+                "Replacement Pitcher Water Filters": {},
+                "Replacement Under-Sink Water Filters": {}
+            },
+            "Under-Sink & Countertop Filtration": {},
+            "Water Filtration Replacement Parts": {},
+            "Water Softeners": {}
+        },
+        "Laundry & Utility Fixtures": {
+            "Laundry & Utility Faucets": {},
+            "Laundry & Utility Sinks": {}
+        }
+    },
+    "Light Bulbs": {
+        "Compact Fluorescent Bulbs": {},
+        "Fluorescent Tubes": {},
+        "Halogen Bulbs": {},
+        "High Intensity Discharge Bulbs": {},
+        "Incandescent Bulbs": {},
+        "Krypton & Xenon Bulbs": {},
+        "LED Bulbs": {},
+        "Black Light Bulbs": {}
+    },
+    "Lighting & Ceiling Fans": {
+        "Ceiling Fans & Accessories": {
+            "Ceiling Fans": {},
+            "Accessories": {
+                "Ceiling Fan Blades": {},
+                "Downrod Couplers": {},
+                "Downrods": {},
+                "Mount Adapters": {},
+                "Pull Chain Ornaments": {},
+                "Pull Chains": {},
+                "Remote Controls": {},
+                "Wall Controls": {}
+            },
+            "Ceiling Fan Light Kits": {}
+        },
+        "Ceiling Lights": {
+            "Billiard & Pool Table Lights": {},
+            "Chandeliers": {},
+            "Close To Ceiling Lights": {},
+            "Island Lights": {},
+            "Pendant Lights": {},
+            "Recessed Lighting": {
+                "Housings": {},
+                "Trim": {},
+                "Housing & Trim Kits": {}
+            },
+            "Track Lighting": {
+                "Accessories": {},
+                "Complete Kits": {},
+                "Connectors": {},
+                "Heads": {},
+                "Pendants": {},
+                "Tracks & Rails": {}
+            }
+        },
+        "Commercial Lighting": {
+            "Bay Lighting": {},
+            "Emergency Light Fixtures": {},
+            "Lighted Exit Signs": {},
+            "Street & Area Lighting": {},
+            "Strobe Lights": {}
+        },
+        "Lamps & Shades": {
+            "Desk Lamps": {},
+            "Floor Lamps": {},
+            "Table Lamps": {},
+            "Lamp Sets": {},
+            "Lamp Shades": {}
+        },
+        "Lighting Accessories": {
+            "Ceiling Medallions": {},
+            "Fixture Replacement Globes & Shades": {},
+            "Lamp Finials": {},
+            "Lampshades": {},
+            "Lighting Chains": {},
+            "Lighting Downrods & Stems": {},
+            "Low Voltage Transformers": {},
+            "Pull Chain Ornaments": {},
+            "Pull Chains": {},
+            "Under-Cabinet Mounting Accessories": {},
+            "Wall Plates": {}
+        },
+        "Novelty Lighting": {
+            "Black Light Fixtures": {},
+            "Book Lights": {},
+            "Disco Ball Lamps": {},
+            "Fiber Optic Lights": {},
+            "Figurine Lamps": {},
+            "Indoor String Lights": {},
+            "Lava Lamps": {},
+            "LED Strip Lights": {},
+            "Neon Signs": {},
+            "Paper Lanterns": {},
+            "Rope Lights": {},
+            "Tap Lights": {},
+            "Salt Lamps": {},
+            "Flameless Candles": {}
+        },
+        "Outdoor Lighting": {
+            "Decorative Lighting Projectors": {},
+            "Flood & Security Lights": {},
+            "Floor Lamps": {},
+            "Landscape Lighting": {
+                "Deck Lights": {},
+                "Figurine Lights": {},
+                "In-Ground Lights": {},
+                "Step Lights": {},
+                "Path Lights": {},
+                "Spotlights": {}
+            },
+            "Porch & Patio Lights": {
+                "Close to Ceiling Lights": {},
+                "Pendant Lights": {},
+                "Wall Lights": {}
+            },
+            "Post Lights": {},
+            "String Lights": {},
+            "Tabletop Lighting": {
+                "Flameless Candles": {},
+                "Lanterns": {},
+                "Table Lamps": {}
+            },
+            "Torches": {},
+            "Umbrella Lights": {},
+            "Lighting Accessories": {
+                "Lamp Oil": {},
+                "Low-Voltage Transformers": {},
+                "Post Light Accessories": {}
+            }
+        },
+        "Wall Lights": {
+            "Night Lights": {},
+            "Picture & Display Lighting": {},
+            "Spotlights": {},
+            "Step Lights": {},
+            "Under-Cabinet Lights": {},
+            "Vanity Lights": {},
+            "Wall Lamps & Sconces": {}
+        }
+    },
+    "Measuring & Layout Tools": {
+        "Calipers": {
+            "Caliper Gages": {},
+            "Caliper Kits & Sets": {},
+            "Dial Calipers": {},
+            "Digital Calipers": {},
+            "Joint Calipers & Dividers": {},
+            "Vernier Calipers": {}
+        },
+        "Carpentry Squares": {},
+        "Laser Levels & Accessories": {
+            "Horizontal & Vertical Lasers": {},
+            "Line Lasers": {},
+            "Rotary Lasers": {}
+        },
+        "Levels": {},
+        "Linear Measurement": {
+            "Laser Distance Meters": {},
+            "Rulers": {},
+            "Tape Measures": {},
+            "Tape Reels": {}
+        },
+        "Marking Tools": {
+            "Chalk Lines": {},
+            "Scribers": {}
+        },
+        "Measuring Wheels": {},
+        "Pipe Locators": {},
+        "Plumb Bobs": {},
+        "Protractors": {},
+        "Saw Gauges": {},
+        "Scanners & Testers": {
+            "Electrical Testers": {
+                "Battery Testers": {},
+                "Circuit Testers": {},
+                "EMF Meters": {},
+                "Multi Testers": {},
+                "Resistance Meters": {
+                    "Capacitance Meters": {},
+                    "Ground Resistance Meters": {},
+                    "Insulation Resistance Meters": {},
+                    "LCR Meters": {}
+                },
+                "Voltage Testers": {}
+            },
+            "Moisture Meters": {},
+            "Stud Finders": {},
+            "Temperature Controllers": {},
+            "Temperature Indicators": {},
+            "Temperature Probes & Sensors": {},
+            "Thermal Imagers": {},
+            "Thermometers": {
+                "Dial Thermometers": {},
+                "Digital Thermometers": {},
+                "Glass Thermometers": {},
+                "Infrared Thermometers": {}
+            }
+        },
+        "Sound Measurement": {}
+    },
+    "Paint, Wall Treatments & Supplies": {
+        "Finishes, Sealers & Stains": {
+            "Polyurethanes, Shellac & Varnish": {},
+            "Stains": {},
+            "Wood Conditioners, Waxes & Oils": {},
+            "Wood Polish": {}
+        },
+        "Paint & Primer": {
+            "Interior & Exterior House Paint": {},
+            "Primer": {},
+            "Spray Paint": {},
+            "Specialty Paint": {
+                "Appliance Paint": {},
+                "Countertop & Tile Paint": {},
+                "Furniture Paint": {}
+            },
+            "Paint Additives": {}
+        },
+        "Painting Supplies & Tools": {
+            "Caulk": {
+                "Adhesive Caulk": {},
+                "Fire Barrier Caulk": {},
+                "High Temperature Caulk": {},
+                "Latex Caulk": {},
+                "Rope Caulk": {},
+                "Silicone Caulk": {},
+                "Tape Caulk": {}
+            },
+            "Caulking Guns": {},
+            "Drop Cloths & Plastic Sheeting": {},
+            "Heat Guns": {},
+            "Knives & Razor Blades": {},
+            "Manual Sanding Products": {
+                "Sanding Blocks": {},
+                "Sanding Cords": {},
+                "Sanding Pads": {},
+                "Sanding Rolls": {},
+                "Sanding Sheets": {},
+                "Sanding Sponges": {},
+                "Sanding Sticks": {},
+                "Sanding Tapes": {},
+                "Steel Wool": {}
+            },
+            "Paint Application": {
+                "Paint Brushes": {},
+                "Paint Buckets": {},
+                "Paint Edgers": {},
+                "Paint Grids": {},
+                "Paint Roller Extension Poles": {},
+                "Paint Roller Frames": {},
+                "Paint Rollers": {},
+                "Paint Sprayers": {},
+                "Paint Trays": {},
+                "Roller Covers": {}
+            },
+            "Paint Coveralls": {},
+            "Paint Gloves": {},
+            "Paint Scrapers": {},
+            "Paint Strippers & Removers": {},
+            "Paint Thinners & Solvents": {},
+            "Putty Knives": {},
+            "Safety Masks & Respirators": {
+                "Cartridges & Filters": {},
+                "Respirator Parts": {},
+                "Respirators": {},
+                "Safety Masks": {}
+            },
+            "Tape": {
+                "Adhesive Transfer Tape": {},
+                "Duct Tape": {},
+                "Masking Tape": {},
+                "Painter's Tape": {}
+            },
+            "Taping Knives": {},
+            "Wall Repair": {},
+            "Wall Stencils": {},
+            "Wire Scratch Brushes": {},
+            "Wood Filler": {}
+        },
+        "Wall Stickers & Murals": {},
+        "Wallpaper & Wallpapering Supplies": {
+            "3D Wall Panels": {},
+            "Wallpaper": {},
+            "Wallpaper Adhesives": {},
+            "Wallpaper Borders": {},
+            "Wallpaper Removers": {},
+            "Wallpaper Tools": {}
+        }
+    },
+    "Power & Hand Tools": {
+        "Gardening Tools": {
+            "Axes": {},
+            "Bonsai Tools": {
+                "Bonsai Cutters": {},
+                "Bonsai Training Wire": {},
+                "Bonsai Tweezers": {}
+            },
+            "Bulb Planters": {},
+            "Cultivators & Tillers": {},
+            "Garden Twine & Twist Ties": {},
+            "Hand Edgers": {},
+            "Hoes": {},
+            "Loppers": {},
+            "Machetes": {},
+            "Manual Lawn Aerators": {},
+            "Manual Weeders": {},
+            "Picks": {},
+            "Pitchforks": {},
+            "Post Hole Diggers": {},
+            "Rakes": {},
+            "Saws": {
+                "Manual Pole Saws": {},
+                "Pruning Saws": {}
+            },
+            "Shears & Scissors": {
+                "Bonsai Cutters": {},
+                "Grass Clippers & Shears": {},
+                "Hedge Clippers & Shears": {},
+                "Scissors": {}
+            },
+            "Soil Test Kits": {},
+            "Spades, Shovels & Trowels": {
+                "Shovels": {},
+                "Spades": {},
+                "Trowels": {}
+            },
+            "Tool Sets": {}
+        },
+        "Hand Tools": {
+            "Adhesive Dispensers & Accessories": {
+                "Caulking Guns": {},
+                "Glue Guns": {},
+                "Tape Applicators": {},
+                "Adhesive Dispenser Accessories": {}
+            },
+            "Axes": {},
+            "Caulking Guns": {},
+            "Chisels": {
+                "Concrete Chisels": {},
+                "Masonry Chisels": {},
+                "Metalworking Chisels": {},
+                "Wood Chisels": {}
+            },
+            "Clamps": {
+                "Angle Clamps": {},
+                "Bar Clamps": {},
+                "Bench Clamps": {},
+                "C-Clamps": {},
+                "Edge Clamps": {},
+                "Hand-Screw Clamps": {},
+                "Hold Down Clamps": {},
+                "Pipe Clamps": {},
+                "Pneumatic Clamps": {
+                    "Pneumatic Swing Line Clamps": {},
+                    "Pneumatic Hold Down Clamps": {}
+                },
+                "Spreader Clamps": {},
+                "Spring Clamps": {},
+                "Squeeze Action Clamps": {},
+                "Strap Clamps": {},
+                "Toggle Clamps": {}
+            },
+            "Crimpers": {},
+            "Cutters": {
+                "Bolt Cutters": {},
+                "Pipe Cutters": {},
+                "Rebar Cutters & Benders": {},
+                "Tile Cutters": {},
+                "Tube Cutters": {},
+                "Wire Cutters": {},
+                "Wire Rope Cutters": {}
+            },
+            "Files & Rasps": {
+                "American Pattern Files": {},
+                "Swiss Pattern Files": {},
+                "File Handles": {}
+            },
+            "Hacksaw Blades": {},
+            "Hammers": {
+                "Ball-Peen Hammers": {},
+                "Claw Hammers": {},
+                "Dead-Blow Hammers": {},
+                "Drilling Hammers": {},
+                "Drywall Hammers": {},
+                "Engineers' Hammers": {},
+                "Hammer Handles": {},
+                "Hammer Holsters": {},
+                "Mallets": {},
+                "Masonry Hammers": {},
+                "Shingle Hammers": {},
+                "Sledgehammers": {},
+                "Tack Hammers": {},
+                "Welding Hammers": {}
+            },
+            "Hand Planes & Accessories": {},
+            "Handsaws": {},
+            "Industrial Tweezers": {},
+            "Knives": {
+                "Knife Blades": {},
+                "Fixed-Blade Knives": {},
+                "Pocket Knives & Folding Knives": {},
+                "Hunting Knives": {
+                    "Fixed Blade Hunting Knives": {},
+                    "Folding Hunting Knives": {}
+                },
+                "Knife Sheaths": {},
+                "Utility Knives": {},
+                "Knife Sets": {},
+                "Tactical Knives": {}
+            },
+            "Lubricants": {},
+            "Magnetic Sweepers": {},
+            "Masonry Tools": {
+                "Masonry Brushes": {},
+                "Floats": {},
+                "Forms": {},
+                "String Lines": {},
+                "Trowels": {}
+            },
+            "Multitools & Accessories": {
+                "Multitools": {},
+                "Accessories": {}
+            },
+            "Nail Pullers": {},
+            "Nippers & Snips": {},
+            "Paint Scrapers": {},
+            "Pliers": {
+                "Vise Grips & Locking Pliers": {},
+                "Needle-Nose Pliers": {},
+                "Plier Sets": {},
+                "Side-Cutting Pliers": {},
+                "Slip-Joint Pliers": {},
+                "Snap-Ring Pliers": {},
+                "Tongue-and-Groove Pliers": {}
+            },
+            "Pry Bars": {},
+            "Punches": {
+                "Arch Punches": {},
+                "Center Punches": {},
+                "Drift Punches": {},
+                "Hole Punches": {},
+                "Knockout Punches": {},
+                "Pin Punches": {},
+                "Transfer Punches": {}
+            },
+            "Putty Knives": {},
+            "Sanding Blocks": {},
+            "Scissors & Shears": {},
+            "Screwdrivers & Nut Drivers": {
+                "Screwdrivers": {},
+                "Screwdriver Sets": {},
+                "Nut Drivers": {},
+                "Multi-Bit Drivers": {}
+            },
+            "Sharpening Stones": {},
+            "Sockets & Socket Sets": {
+                "Individual Drive Sockets": {
+                    "Square Drive": {},
+                    "Star Drive": {},
+                    "Triple Square Drive": {}
+                },
+                "Drive Socket Sets": {},
+                "Socket & Socket Wrench Sets": {},
+                "Socket Wrenches": {}
+            },
+            "Staplers & Tackers": {},
+            "Strippers": {
+                "Shingle Removers": {},
+                "Wire Strippers": {}
+            },
+            "Tape Applicators": {},
+            "Taping Knives": {},
+            "Taps & Dies": {
+                "Dies": {
+                    "Hex Threading Dies": {},
+                    "Round Threading Dies": {},
+                    "Two Piece Threading Dies": {}
+                },
+                "Tap & Die Sets": {},
+                "Tap Extractors": {},
+                "Taps": {
+                    "Combination Drill & Taps": {},
+                    "Extension, Pulley & Nut Taps": {},
+                    "Hand Threading Taps": {},
+                    "Pipe Taps": {},
+                    "Spiral Flute Taps": {},
+                    "Spiral Point Taps": {},
+                    "Thread Forming Taps": {},
+                    "Thread Milling Taps": {}
+                }
+            },
+            "Tool Sets": {},
+            "Vises": {
+                "Bench Vises": {},
+                "Pin Vises": {}
+            },
+            "Wrench Sets": {},
+            "Wrenches": {
+                "Adjustable Wrenches": {},
+                "Box Wrenches": {},
+                "Combination Wrenches": {},
+                "Hex Keys": {},
+                "Open-End Wrenches": {},
+                "Pipe Wrenches": {},
+                "Socket Wrenches": {},
+                "Torque Wrenches": {},
+                "Wrench Sets": {}
+            }
+        },
+        "Power Tool Parts & Accessories": {
+            "Abrasive Wheels & Discs": {
+                "Angle Grinder Wheels": {},
+                "Bench & Pedestal Grinding Wheels": {},
+                "Bristle Discs": {},
+                "Cut-Off Wheels": {},
+                "Die Grinder Wheels": {},
+                "Flap Discs": {},
+                "Flap Wheels": {},
+                "Grinding Discs": {},
+                "OD Grinding Wheels": {
+                    "Centerless Grinding Wheels": {},
+                    "Cylindrical Grinding Wheels": {},
+                    "Feed Regulating Grinding Wheels": {}
+                },
+                "Oscillating Tool Sanding Pads": {},
+                "Sanding Disc Backing Pads": {},
+                "Sanding Discs": {
+                    "Fiber Backed Abrasive Discs": {},
+                    "Hook & Loop Discs": {},
+                    "PSA Discs": {},
+                    "Quick Change Discs": {}
+                },
+                "Snagging Wheels": {},
+                "Surface Grinding Wheels": {},
+                "Tool Post Grinding Wheels": {},
+                "Toolroom Grinding Wheels": {},
+                "Unitized & Convolute Wheels": {}
+            },
+            "Air Tool Parts & Accessories": {
+                "Air Compressor Replacement Parts": {},
+                "Air Nailer Accessories": {},
+                "Air-Compressor Accessories": {},
+                "Fittings": {},
+                "Hose Reels": {},
+                "Hoses": {},
+                "Maintenance Kits": {}
+            },
+            "Battery Packs & Chargers": {
+                "Battery Packs": {},
+                "Charger & Converters": {
+                    "Battery Chargers": {},
+                    "Battery Converters": {}
+                }
+            },
+            "Blower Replacement Parts": {},
+            "End Mills": {
+                "Ball Nose": {},
+                "Chamfer": {},
+                "Corner Radius": {},
+                "Corner Rounding": {},
+                "Drill": {},
+                "Square Nose": {},
+                "Tapered": {}
+            },
+            "Jig Accessories": {},
+            "Lathe Parts & Accessories": {
+                "Accessories": {},
+                "Boring Bars": {},
+                "Chucks": {},
+                "Turning Tools": {}
+            },
+            "Lubricants": {},
+            "Oscillating Tool Accessories": {
+                "Blades": {},
+                "Kits": {},
+                "Sanding Pads": {}
+            },
+            "Power Drill Parts & Accessories": {
+                "Drill Bit Extensions": {},
+                "Drill Bit Sharpeners": {},
+                "Drill Bits": {
+                    "Auger Drill Bits": {},
+                    "Boring Drill Bits": {},
+                    "Brad-Point Drill Bits": {},
+                    "Countersink Drill Bits": {},
+                    "Forstner Drill Bits": {},
+                    "Installer Drill Bits": {},
+                    "Masonry Core Drill Bits": {},
+                    "Masonry Drill Bits": {
+                        "Core Drill Bits": {},
+                        "Masonry Drill Bit Sets": {},
+                        "Rotary Hammer Drill Bits": {}
+                    },
+                    "Self-Feed Drill Bits": {},
+                    "Spade Drill Bits": {},
+                    "Step Drill Bits": {},
+                    "Twist Drill Bits": {
+                        "Extra Long Drill Bits": {},
+                        "Hex-Shank Drill Bits": {},
+                        "Jobber Drill Bits": {},
+                        "Long Length Drill Bits": {},
+                        "Mechanic's Length Drill Bits": {},
+                        "Short Length Drill Bits": {}
+                    }
+                },
+                "Drill Chucks": {},
+                "Hole Saws & Accessories": {
+                    "Hole Saw Arbors": {},
+                    "Hole Saw Sets": {},
+                    "Hole Saws": {}
+                }
+            },
+            "Power Fastening Tool Parts & Accessories": {
+                "Collated Fasteners": {
+                    "Collated Nails": {
+                        "Brad Nails": {},
+                        "Finish Nails": {},
+                        "Framing Nails": {},
+                        "Pinner Nails": {},
+                        "Roofing Nails": {},
+                        "Siding Nails": {}
+                    },
+                    "Collated Screws": {},
+                    "Powder Actuated Fasteners": {},
+                    "Staples": {}
+                },
+                "Screwdriver Bit Sets": {},
+                "Screwdriver Bits": {
+                    "Bit Holders": {},
+                    "Double End Bits": {},
+                    "Extension Bits": {},
+                    "Nut Driver Bits": {},
+                    "Socket Bits": {},
+                    "Specialty Bits": {}
+                }
+            },
+            "Power Finishing Tool Parts & Accessories": {
+                "Power Grinder Parts & Accessories": {
+                    "Cutoff Wheels": {},
+                    "Flap Discs": {},
+                    "Wire Wheels & Brushes": {
+                        "Cup Brushes": {},
+                        "Flat End Brushes": {},
+                        "Spiral Brushes": {},
+                        "Wheel Brushes": {}
+                    }
+                },
+                "Planer Knives & Blades": {},
+                "Plate Joiner Accessories": {},
+                "Power Polishing Parts & Accessories": {
+                    "Buffing & Polishing Pads": {},
+                    "Buffing Kits": {},
+                    "Buffing Wheels": {},
+                    "Felt Bobs": {},
+                    "Felt Sticks": {},
+                    "Felt Wheels": {}
+                },
+                "Power Sander Parts & Accessories": {
+                    "Accessories": {},
+                    "Belts": {},
+                    "Detail Sander Paper": {},
+                    "Oscillating Tool Sanding Pads": {},
+                    "Replacement Parts": {},
+                    "Sanding Disc Backing Pads": {},
+                    "Sanding Discs": {
+                        "Fiber Backed Abrasive Discs": {},
+                        "Hook & Loop Discs": {},
+                        "PSA Discs": {},
+                        "Quick Change Discs": {}
+                    },
+                    "Sanding Frames": {},
+                    "Sanding Sheets": {},
+                    "Sanding Sleeves": {}
+                }
+            },
+            "Power Milling Replacement Parts": {},
+            "Power Rotary Tool Parts & Accessories": {
+                "Attachments": {},
+                "Blades": {},
+                "Buffing Wheels": {},
+                "Burs": {},
+                "Cutting Wheels": {},
+                "Sanders": {}
+            },
+            "Power Tools Replacement Parts": {},
+            "Router Parts & Accessories": {
+                "Collets": {},
+                "Router Bits": {
+                    "Bearings & Bit-Repair Parts": {},
+                    "Door & Window Bits": {},
+                    "Edge Treatment & Grooving Bits": {},
+                    "Joinery Bits": {},
+                    "Solid Surface Bits": {},
+                    "Straight, Spiral & Trim Bits": {
+                        "Spiral": {},
+                        "Straight": {},
+                        "Trim": {}
+                    }
+                },
+                "Router Fences": {},
+                "Tables": {},
+                "Templates": {}
+            },
+            "Sand Blaster Accessories, Parts & Media": {},
+            "Saw Blades, Parts & Accessories": {
+                "Accessories": {
+                    "Band Saw Accessories": {},
+                    "Circular Saw Accessories": {},
+                    "Jig Saw Accessories": {},
+                    "Miter Saw Accessories": {},
+                    "Reciprocating Saw Accessories": {},
+                    "Saw Fences": {},
+                    "Scroll Saw Accessories": {},
+                    "Table Saw Accessories": {},
+                    "Tile & Masonry Saw Accessories": {}
+                },
+                "Blades": {
+                    "Band Saw Blades": {},
+                    "Circular Saw Blades": {},
+                    "Diamond Blades": {},
+                    "Jig Saw Blades": {},
+                    "Jointer Knives": {},
+                    "Miter Saw Blades": {},
+                    "Planer Knives": {},
+                    "Reciprocating Saw Blades": {},
+                    "Scroll Saw Blades": {},
+                    "Table Saw Blades": {}
+                }
+            },
+            "Shaper Accessories": {
+                "Cutters": {},
+                "Cutter Bushings": {},
+                "Cutter Spacers": {}
+            },
+            "Stands & Mobile Bases": {
+                "Stands": {},
+                "Mobile Bases": {}
+            },
+            "Vacuum & Dust Collector Accessories": {
+                "Bags": {},
+                "Ducts": {},
+                "Filters": {},
+                "Hose Clamps": {},
+                "Hoses": {},
+                "Motors": {},
+                "Vacuum & Dust Collector Parts": {}
+            },
+            "Woodworking Project Plans & Kits": {
+                "Project Plans": {},
+                "Woodworking Project Kits": {}
+            }
+        },
+        "Power Tools": {
+            "Air Compressors & Inflators": {
+                "Portable Air Compressors": {},
+                "Stationary Air Compressors": {}
+            },
+            "Arbor Presses": {},
+            "Biscuit & Plate Joiners": {},
+            "Combo Kits": {},
+            "Concrete Tools": {
+                "Concrete Mixers": {},
+                "Concrete Vibrators": {},
+                "Demolition Drills & Hammers": {
+                    "Hammer Drills": {},
+                    "Rotary Hammers": {}
+                },
+                "Tile & Masonry Saws": {}
+            },
+            "Drill Presses": {
+                "Benchtop Drill Presses": {},
+                "Magnetic Drill Presses": {},
+                "Mortisers": {},
+                "Stationary Drill Presses": {}
+            },
+            "Drills": {
+                "Core Drills": {},
+                "Demolition Drills & Hammers": {
+                    "Hammer Drills": {},
+                    "Rotary Hammers": {}
+                },
+                "Drill Drivers": {},
+                "Right-Angle Drills": {},
+                "Screw Guns": {}
+            },
+            "Dust Collectors & Air Cleaners": {},
+            "Glue Guns": {},
+            "Grinders": {
+                "Angle Grinders": {},
+                "Bench Grinders": {},
+                "Die Grinders": {},
+                "Straight Grinders": {}
+            },
+            "Impact Drivers": {},
+            "Impact Wrenches": {},
+            "Jointers": {},
+            "Lathes": {
+                "Metal Lathes": {},
+                "Wood Lathes": {}
+            },
+            "Milling Machines": {},
+            "Nailers & Staplers": {
+                "Nailers": {
+                    "Brad Nailers": {},
+                    "Finish Nailers": {},
+                    "Flooring Nailers": {},
+                    "Framing Nailers": {},
+                    "Pinners": {},
+                    "Roofing Nailers": {},
+                    "Siding Nailers": {}
+                },
+                "Staplers": {
+                    "Construction Staplers": {},
+                    "Finish Staplers": {},
+                    "Upholstery Staplers": {}
+                }
+            },
+            "Oscillating Tools": {},
+            "Planers": {
+                "Benchtop Planers": {},
+                "Handheld Planers": {}
+            },
+            "Polishers & Buffers": {},
+            "Powder-Actuated Tools": {},
+            "Ratchet Wrenches": {},
+            "Regenerative Blowers": {},
+            "Rotary Tools": {},
+            "Routers": {},
+            "Sand Blasters": {},
+            "Sanders": {
+                "Belt Sanders": {},
+                "Combination Disc & Belt Sanders": {},
+                "Detail Sanders": {},
+                "Disc Sanders": {},
+                "Drum Sanders": {},
+                "Random-Orbit Sanders": {},
+                "Sheet Sanders": {},
+                "Spindle Sanders": {}
+            },
+            "Saws": {
+                "Band Saws": {},
+                "Circular Saws": {},
+                "Jig Saws": {},
+                "Metal-Cutting & Chop Saws": {},
+                "Miter Saws": {},
+                "Reciprocating Saws": {},
+                "Scroll Saws": {},
+                "Table Saws": {},
+                "Tile & Masonry Saws": {}
+            },
+            "Screw Guns & Screwdrivers": {
+                "Power Screwdrivers": {},
+                "Screw Guns": {}
+            },
+            "Shears & Nibblers": {
+                "Shears": {},
+                "Nibblers": {}
+            },
+            "Wet-Dry Vacuums": {}
+        },
+        "Tool Organizers": {
+            "Bucket Organizers": {},
+            "Tool Aprons": {},
+            "Tool Bags": {},
+            "Tool Belts": {},
+            "Tool Boxes": {},
+            "Tool Holsters": {},
+            "Tool Pouches": {},
+            "Tool Trays": {},
+            "Craft Cabinets": {},
+            "Tool Chests & Cabinets": {}
+        }
+    },
+    "Rough Plumbing": {
+        "Drain Cleaning Equipment": {
+            "Drain Augers": {},
+            "Plungers": {}
+        },
+        "Faucet Parts": {
+            "Aerators": {},
+            "Cartridges": {},
+            "Escutcheons": {},
+            "Faucet Balls": {},
+            "Faucet Extension Tubes": {},
+            "Faucet Handles": {},
+            "Faucet Index Buttons": {},
+            "Faucet O-Rings": {},
+            "Faucet Seat & Spring Sets": {},
+            "Faucet Seats": {},
+            "Faucet Spray Hoses": {},
+            "Faucet Stems": {},
+            "Faucet Supply Lines": {},
+            "Faucet Valves": {},
+            "Faucet Washers": {},
+            "Faucet Flanges": {},
+            "Sink & Bathtub Spouts": {},
+            "Trim & Repair Kits": {},
+            "Diverter Valves": {},
+            "Shower Flow Control Valves": {}
+        },
+        "Garbage Disposals & Parts": {
+            "Garbage Disposals": {},
+            "Garbage Disposal Parts": {}
+        },
+        "Pipes, Pipe Fittings & Accessories": {
+            "Pipes": {},
+            "Pipe Fittings": {},
+            "Pipe Insulation": {},
+            "Pipe Heat Cables": {},
+            "Pipe Supports": {},
+            "Pipe Clamps": {},
+            "Tubing/Hoses": {}
+        },
+        "Toilet Parts": {
+            "Toilet Flappers": {},
+            "Toilet Flush Valves": {},
+            "Toilet Repair Kits": {},
+            "Toilet Tank Balls & Rods": {},
+            "Toilet Trip Levers": {},
+            "Toilet Wax Rings": {},
+            "Toilet Mounting Parts": {
+                "Floor Bolts & Caps Set": {},
+                "Floor Bolts & Screw Sets": {},
+                "Floor Bolts & Washer Sets": {},
+                "Floor Caps": {}
+            }
+        },
+        "Valves": {
+            "Bathtub & Shower Diverter Valves": {},
+            "Shower Flow Control Valves": {}
+        },
+        "Water Heaters & Parts": {
+            "Water Heaters": {},
+            "Water Heater Parts": {}
+        },
+        "Water Pumps, Parts & Accessories": {
+            "Power Water Pumps": {},
+            "Pump Accessories": {},
+            "Pump Replacement Parts": {},
+            "Sewage/Effluent Pumps": {},
+            "Sump Pumps": {},
+            "Utility Pumps": {},
+            "Well Pumps": {}
+        }
+    },
+    "Safety & Security": {
+        "Child Safety": {
+            "Cabinet Locks & Straps": {},
+            "Electrical Safety": {},
+            "Indoor Safety Gates": {}
+        },
+        "Emergency Kits & Supplies": {
+            "Emergency Food Supplies": {},
+            "Emergency Survival Kits": {}
+        },
+        "Facility Safety Products": {
+            "Emergency Light Fixtures": {},
+            "Emergency Light Sticks": {},
+            "Eye Wash Units": {},
+            "Eyewash Solution": {},
+            "Floor Matting": {},
+            "Safety Barriers": {
+                "Chain Barriers": {},
+                "Cones": {},
+                "Rope Barriers": {}
+            },
+            "Showers": {},
+            "Warning Alarms": {},
+            "Warning Lights": {}
+        },
+        "Fire Safety": {
+            "Carbon Monoxide Detectors": {},
+            "Combination Gas & Carbon Monoxide Detectors": {},
+            "Combination Smoke & Carbon Monoxide Detectors": {},
+            "Fire Escape Ladders": {},
+            "Fire Extinguisher Mounts & Brackets": {},
+            "Fire Extinguishers": {},
+            "Smoke Detectors & Fire Alarms": {}
+        },
+        "First Aid Kits": {},
+        "Flashlights": {
+            "Handheld Flashlights": {},
+            "Hands Free Flashlights & Headlamps": {
+                "Hands Free Flashlights": {},
+                "Headlamps": {}
+            },
+            "Lantern Flashlights": {}
+        },
+        "Home Security & Surveillance": {
+            "Biometrics": {},
+            "Complete Surveillance Systems": {
+                "Surveillance DVR Kits": {},
+                "Surveillance NVR Kits": {}
+            },
+            "Home Security Systems": {},
+            "Motion Detectors": {},
+            "Surveillance Cameras": {
+                "Bullet Cameras": {},
+                "Dome Cameras": {},
+                "Hidden Cameras": {},
+                "Simulated Cameras": {},
+                "Trail & Game Cameras": {}
+            },
+            "Surveillance Video Equipment": {
+                "Security Monitors & Displays": {},
+                "Surveillance DVR Kits": {},
+                "Surveillance NVR Kits": {},
+                "Surveillance Video Recorders": {},
+                "Video Multiplexers & Quads": {},
+                "Video Transmission Systems": {}
+            }
+        },
+        "Household Sensors & Alarms": {
+            "Carbon Monoxide Detectors": {},
+            "Combination Smoke & Carbon Monoxide Detectors": {},
+            "Gas Detectors & Alarms": {},
+            "Smoke Detectors & Fire Alarms": {},
+            "Water Detectors & Alarms": {}
+        },
+        "Lockout & Tagout Products": {
+            "Devices": {},
+            "Kits": {},
+            "Padlocks & Hasps": {
+                "Cables & Chains": {},
+                "Combination Padlocks": {},
+                "Hasps": {},
+                "Keyed Padlocks": {}
+            },
+            "Tags": {}
+        },
+        "Padlocks & Hasps": {
+            "Cables & Chains": {},
+            "Combination Padlocks": {},
+            "Hasps": {},
+            "Keyed Padlocks": {}
+        },
+        "Personal Defense Equipment": {
+            "Pepper Spray": {},
+            "Tactical Flashlights": {},
+            "Stun Guns": {}
+        },
+        "Personal Protective Equipment": {
+            "Ergonomic Supports": {
+                "Ankle Supports": {},
+                "Back Supports": {},
+                "Hand & Wrist Braces": {},
+                "Kneepads": {}
+            },
+            "Eye Protection": {
+                "Safety Goggles & Glasses": {},
+                "Eyewear Retainers": {},
+                "Eye Protection Accessories": {}
+            },
+            "Face Protection": {
+                "Beard Covers": {},
+                "Masks & Respirators": {
+                    "Cartridges & Filters": {},
+                    "Respirator Parts": {},
+                    "Respirators": {},
+                    "Safety Masks": {}
+                },
+                "Safety Face Shields": {},
+                "Welding Helmets": {}
+            },
+            "Fall Protection": {
+                "Fall Arrest Kits": {},
+                "Restraint Ropes & Lanyards": {},
+                "Safety Clips": {},
+                "Safety Harnesses": {}
+            },
+            "Hand & Arm Protection": {
+                "Finger Cots": {},
+                "Lab, Safety & Work Gloves": {
+                    "Anti-Vibration Gloves": {},
+                    "Chemical Resistant Gloves": {},
+                    "Cleanroom Gloves": {},
+                    "Controlled Environment Gloves": {},
+                    "Cryogenic Gloves": {},
+                    "Cut Resistant Gloves": {},
+                    "Disposable Gloves": {
+                        "Non-Sterile Gloves": {},
+                        "Sterile Gloves": {}
+                    },
+                    "Glove Liners": {},
+                    "Impact Reducing Gloves": {},
+                    "Safety Work Gloves": {},
+                    "Welding Gloves": {}
+                },
+                "Oven Mitts": {},
+                "Sleeves": {}
+            },
+            "Head Protection": {
+                "Caps, Hoods & Hairnets": {},
+                "Hard Hats": {},
+                "Hard Hat Accessories": {},
+                "Welding Helmets": {}
+            },
+            "Hearing Protection": {
+                "Earplugs": {},
+                "Safety Ear Muffs": {},
+                "Ear Protection Accessories": {}
+            },
+            "Masks & Respirators": {
+                "Cartridges & Filters": {},
+                "Respirator Parts": {},
+                "Respirators": {},
+                "Safety Masks": {}
+            },
+            "Protective Workwear": {
+                "Controlled Environment Disposable Apparel": {},
+                "Safety Apparel": {
+                    "Aprons": {},
+                    "Coveralls": {},
+                    "Gowns": {},
+                    "Jackets": {},
+                    "Overalls": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Vests": {}
+                }
+            },
+            "Safety Footwear": {
+                "Men's Safety Shoes": {},
+                "Women's Safety Shoes": {},
+                "Boot & Shoe Covers": {}
+            }
+        },
+        "Safes": {
+            "Cabinet Safes": {},
+            "Diversion Safes": {},
+            "Drop Slot Safes": {},
+            "Gun Safes & Cabinets": {},
+            "Hotel Safes": {},
+            "Lock Boxes": {},
+            "Safe Accessories": {},
+            "Wall Safes": {}
+        }
+    },
+    "Storage & Home Organization": {
+        "Closet Organization Systems": {},
+        "Garage Storage": {
+            "Bike Racks & Stands": {},
+            "Cabinets & Storage Systems": {},
+            "Ceiling Mounted Storage Racks": {},
+            "Rack Accessories": {},
+            "Ski Storage Racks": {},
+            "Storage Racks": {},
+            "System Attachments": {
+                "Hardware": {},
+                "Hooks": {},
+                "Shelves": {}
+            },
+            "Utility Shelves": {}
+        },
+        "Outdoor Storage": {
+            "Storage Benches": {},
+            "Storage Sheds": {},
+            "Deck Boxes": {},
+            "Carports": {}
+        },
+        "Tool Organizers": {
+            "Bucket Organizers": {},
+            "Tool Aprons": {},
+            "Tool Bags": {},
+            "Tool Belts": {},
+            "Tool Boxes": {},
+            "Tool Holsters": {},
+            "Tool Pouches": {},
+            "Tool Trays": {},
+            "Craft Cabinets": {},
+            "Tool Chests & Cabinets": {}
+        }
+    },
+    "Welding & Soldering": {
+        "Soldering & Brazing Equipment": {
+            "Soldering Guns & Irons": {
+                "Guns": {},
+                "Irons": {},
+                "Torches": {}
+            },
+            "Soldering Stations": {},
+            "Brazing Torches": {},
+            "Heat Guns": {},
+            "Solder & Flux": {
+                "Solder": {},
+                "Soldering Flux": {},
+                "Brazing Flux": {},
+                "Brazing Rods": {}
+            },
+            "Fume & Smoke Extraction": {
+                "Extractors": {},
+                "Extractor Filters": {},
+                "Extractor Accessories": {}
+            },
+            "Parts & Accessories": {
+                "Brazing Kits": {},
+                "Desoldering Pumps": {},
+                "Desoldering Wicks": {},
+                "Inserters & Extractors": {
+                    "Extraction Tools": {},
+                    "Insertion-Extraction Tools": {}
+                },
+                "Tips": {},
+                "Tip Cleaners": {}
+            }
+        },
+        "Welding Equipment": {
+            "Welding Systems": {},
+            "Welding Equipment & Accessories": {
+                "Arc Welding Equipment": {
+                    "Clamps": {},
+                    "Electrode Holders": {},
+                    "Kits": {},
+                    "Nozzles": {},
+                    "Plasma Arc Cutting Equipment": {},
+                    "Rods": {},
+                    "Stick Electrodes": {},
+                    "Tips": {}
+                },
+                "Cable": {},
+                "Clamps": {},
+                "Gas Welding Equipment": {
+                    "Fuel Cylinders": {},
+                    "Gas Regulators": {},
+                    "Hoses": {},
+                    "Kits": {},
+                    "Tips": {},
+                    "Torches": {
+                        "Oxyacetylene Torches": {},
+                        "Oxypropane Torches": {},
+                        "Propane Torches": {}
+                    },
+                    "Valves": {}
+                },
+                "MIG Welding Equipment": {},
+                "Plasma Cutting Equipment": {},
+                "Spot Welding Equipment": {},
+                "TIG Welding Equipment": {},
+                "Tip Cleaners": {},
+                "Welding Wire": {}
+            },
+            "Protective Equipment": {
+                "Welding Blankets": {},
+                "Welding Gloves": {},
+                "Welding Helmets": {},
+                "Welding Screens": {}
+            }
+        }
+    }
+}

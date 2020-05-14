@@ -1,0 +1,815 @@
+{
+    "Arts & Crafts": {
+        "Adhesives": {},
+        "Aprons & Smocks": {},
+        "Clay & Dough": {},
+        "Craft Kits": {
+            "Felt Kits": {},
+            "Flower Pressing": {},
+            "Jewelry": {},
+            "Mosaics": {},
+            "Paint with Water Kits": {},
+            "Paint-By-Number Kits": {},
+            "Paper Craft": {},
+            "Sand Art": {},
+            "Scrapbooking": {},
+            "Sewing": {},
+            "Wood": {}
+        },
+        "Drawing & Painting Supplies": {
+            "Chalk": {},
+            "Colored Pencils": {},
+            "Coloring Pens & Markers": {},
+            "Crayon Sharpeners": {},
+            "Crayons": {},
+            "Paintbrushes": {},
+            "Paints": {
+                "Finger Paint": {},
+                "Tempera & Poster Paint": {},
+                "Watercolor Paint": {}
+            },
+            "Pencil Erasers": {},
+            "Pencils": {}
+        },
+        "Drawing & Writing Boards": {},
+        "Easels": {},
+        "Fuse & Perler Beads": {},
+        "Pipe Cleaners": {},
+        "Printing & Stamping": {},
+        "Scissors": {},
+        "Stickers": {}
+    },
+    "Baby & Toddler Toys": {
+        "Activity Play Centers": {},
+        "Balls": {},
+        "Bath Toys": {},
+        "Car Seat & Stroller Toys": {},
+        "Hammering & Pounding Toys": {},
+        "Indoor Climbers & Play Structures": {},
+        "Mirrors": {},
+        "Musical Toys": {},
+        "Push & Pull Toys": {},
+        "Rattles & Plush Rings": {},
+        "Sorting & Stacking Toys": {},
+        "Spinning Tops": {},
+        "Stick Horses": {},
+        "Teaching Clocks": {},
+        "Teethers": {}
+    },
+    "Building Toys": {
+        "Building Sets": {},
+        "Gear Sets": {},
+        "Marble Runs": {},
+        "Stacking Blocks": {}
+    },
+    "Collectible Toys": {
+        "Collectible Display & Storage": {
+            "Card Storage & Display": {
+                "Albums": {},
+                "Cases": {},
+                "Protective Sleeves": {}
+            },
+            "Carrying Cases": {},
+            "Display Cases & Stands": {
+                "Display Cases": {},
+                "Display Stands": {}
+            }
+        },
+        "Statues, Bobbleheads & Busts": {
+            "Bobbleheads": {},
+            "Statues": {}
+        }
+    },
+    "Dolls & Accessories": {
+        "Doll Accessories": {
+            "Clothing & Shoes": {},
+            "Furniture": {},
+            "Strollers": {}
+        },
+        "Dollhouse Accessories": {
+            "D\u00e9cor": {},
+            "Furniture": {}
+        },
+        "Dollhouses": {},
+        "Dolls": {},
+        "Playsets": {}
+    },
+    "Dress Up & Pretend Play": {
+        "Accessories": {},
+        "Beauty & Fashion": {
+            "Bracelets": {},
+            "Makeup": {},
+            "Necklaces": {},
+            "Rings": {},
+            "Vanities": {}
+        },
+        "Costumes": {},
+        "Hats": {},
+        "Masks": {},
+        "Pretend Play": {
+            "Housekeeping": {},
+            "Kitchen Toys": {
+                "Cooking & Baking Kits": {},
+                "Cookware": {},
+                "Kitchen Playsets": {},
+                "Play Food": {},
+                "Real-Food Appliances": {}
+            },
+            "Magnetic & Felt Playboards": {},
+            "Medical Kits": {},
+            "Money & Banking": {},
+            "Paper & Magnetic Dolls": {
+                "Magnetic Dress-up Dolls": {},
+                "Paper Dolls": {}
+            },
+            "Play Tools": {},
+            "Pretend Phones & Smartphones": {},
+            "Shops & Accessories": {
+                "Cash Registers": {},
+                "Shopping Carts": {}
+            }
+        },
+        "Wigs": {}
+    },
+    "Games & Accessories": {
+        "Arcade & Table Games": {
+            "Air Hockey": {},
+            "Combination Tables": {},
+            "Dome Hockey": {},
+            "Drinking Games": {},
+            "Electronic Basketball": {},
+            "Foosball": {
+                "Foosball Tables": {},
+                "Foosball Accessories": {}
+            },
+            "Home Bowling Alleys": {},
+            "Mini Pinball": {},
+            "Shuffleboard": {
+                "Shuffleboard Tables": {},
+                "Shuffleboard Accessories": {}
+            },
+            "Skee-Ball": {},
+            "Tabletop Billiards & Pool": {},
+            "Tabletop Table Tennis": {}
+        },
+        "Board Games": {},
+        "Card Games": {
+            "Collectible Card Games": {
+                "Boxes": {},
+                "Polyhedral Dice": {}
+            },
+            "Standard Playing Card Decks": {}
+        },
+        "Dice Games": {},
+        "DVD Games": {},
+        "Floor Games": {},
+        "Game Accessories": {
+            "Game Pieces": {},
+            "Role Playing Dice": {},
+            "Standard Game Dice": {}
+        },
+        "Game Collections": {},
+        "Gaming Tops": {},
+        "Handheld Games": {},
+        "Stacking Games": {},
+        "Tile Games": {},
+        "Travel Games": {}
+    },
+    "Hobbies": {
+        "Coin Collecting": {},
+        "Hobby Building Tools & Hardware": {
+            "Adhesives": {},
+            "Hobby Tool Sets": {},
+            "Magnifying Tools": {},
+            "Painting Tools": {},
+            "Paints": {},
+            "RC Linkages": {},
+            "RC Turnbuckles & Pro-Links": {}
+        },
+        "Models & Model Kits": {
+            "Model Kits": {
+                "Airplane & Jet Kits": {},
+                "Architecture Kits": {},
+                "Figure Kits": {},
+                "Helicopter Kits": {},
+                "Motorcycle Kits": {},
+                "Spacecraft Kits": {},
+                "Watercraft Kits": {}
+            },
+            "Pre-Built & Diecast Models": {
+                "Aircraft": {},
+                "Spacecraft": {},
+                "Vehicles": {},
+                "Watercraft": {}
+            },
+            "Diorama Kits": {}
+        },
+        "Pinewood Derby": {},
+        "Remote & App Controlled Vehicles & Parts": {
+            "Remote & App Controlled Vehicles": {
+                "Airplanes & Jets": {},
+                "Cars": {},
+                "Crawlers": {},
+                "Helicopters": {},
+                "Quadcopters & Multirotors": {},
+                "Trucks": {},
+                "Watercraft": {}
+            },
+            "Remote & App Controlled Vehicle Parts": {
+                "Battery Chargers": {},
+                "Flight Gyroscopes & Governors": {},
+                "Lighting": {},
+                "Onboard Camera Mounts": {},
+                "Power Plant & Driveline Systems": {
+                    "Axles": {},
+                    "Brakes": {},
+                    "Bushings": {},
+                    "Combustion Engines & Parts": {
+                        "Complete Engines": {},
+                        "Air Filters": {},
+                        "Bearings": {},
+                        "Carburetors & Parts": {},
+                        "Clutch Bells": {},
+                        "Connecting Rods & Parts": {},
+                        "Crankshafts & Parts": {},
+                        "Engine Mounts": {},
+                        "Exhaust Systems & Parts": {},
+                        "Fuel System Parts": {},
+                        "Gaskets & O-Rings": {},
+                        "Glow Plugs & Spark Plugs": {},
+                        "Heat Sinks": {},
+                        "Pistons & Parts": {},
+                        "Starters & Parts": {}
+                    },
+                    "Drive Belts & Chains": {},
+                    "Drive Pulleys": {},
+                    "Electric Motors & Parts": {
+                        "Complete Motors": {},
+                        "Cooling Fans": {},
+                        "Heat Sinks": {},
+                        "Motor Mounts": {}
+                    },
+                    "Electric Speed Controllers": {},
+                    "Propellers": {},
+                    "Rotor Shafts": {},
+                    "Rotors": {},
+                    "Suspension Systems & Parts": {
+                        "A-Arms": {},
+                        "Shock Caps & Seals": {},
+                        "Shock Kits": {},
+                        "Shock Pistons": {},
+                        "Shock Shafts": {},
+                        "Shock Springs": {},
+                        "Sway Parts": {}
+                    },
+                    "Transmissions & Differentials": {
+                        "Differentials": {},
+                        "Gear Boxes": {},
+                        "Gears": {},
+                        "Transmissions": {}
+                    }
+                },
+                "Remote & App Controlled Vehicle Batteries": {},
+                "Radios & Parts": {
+                    "Radio Antennas": {},
+                    "Radio Crystals": {},
+                    "Radio Receivers": {},
+                    "Radio Transmitters": {},
+                    "Transmitter & Receiver Sets": {}
+                },
+                "Servos & Parts": {
+                    "Servos": {},
+                    "Servo Arms": {},
+                    "Servo Bearings": {},
+                    "Servo Cases": {},
+                    "Servo Gears": {},
+                    "Servo Horns": {},
+                    "Servo Mounts": {},
+                    "Servo Plugs & Wires": {}
+                },
+                "Vehicle Bodies & Scale Accessories": {
+                    "Car & Truck Bodies": {},
+                    "Car & Truck Body Clips": {},
+                    "Car & Truck Bumpers": {},
+                    "Car & Truck Spoilers": {},
+                    "Fuselages": {},
+                    "Ship & Submarine Hulls": {},
+                    "Vehicle Scale Accessories": {},
+                    "Wings": {}
+                },
+                "Wheels & Tires": {
+                    "Wheels": {},
+                    "Tires": {},
+                    "Tire & Wheel Sets": {},
+                    "Wheel Hubs": {},
+                    "Tire Foam Inserts": {},
+                    "Aircraft Landing Gear": {},
+                    "Accessories": {}
+                }
+            },
+            "Fuel": {},
+            "Oil & Lubricants": {}
+        },
+        "Rockets": {
+            "Model Rocket Kits": {},
+            "Model Rockets": {},
+            "Rocket Accessories": {},
+            "Rocket Engines": {}
+        },
+        "Slot Cars, Race Tracks & Accessories": {
+            "Race Sets": {},
+            "Race Tracks": {},
+            "Slot Cars": {}
+        },
+        "Stamp Collecting": {},
+        "Trains & Accessories": {
+            "Accessories": {
+                "Bridges & Tunnels": {
+                    "Bridges": {},
+                    "Tunnels": {}
+                },
+                "Buildings & Structures": {},
+                "Couplers & Trucks": {},
+                "Figures": {},
+                "Scenery": {},
+                "Scratch Building Supplies": {},
+                "Tracks": {},
+                "Train Signals, Signs & Lights": {},
+                "Vehicles, Boats & Airplanes": {}
+            },
+            "Control & Power Supplies": {},
+            "Train Cars": {
+                "Freight Cars": {
+                    "Auto Carriers": {},
+                    "Boxcars": {},
+                    "Cabooses": {},
+                    "Crane & Boom Cars": {},
+                    "Flatcars": {},
+                    "Gondolas": {},
+                    "Hoppers": {},
+                    "Reefers": {},
+                    "Stock Cars": {},
+                    "Tank Cars": {}
+                },
+                "Locomotives": {
+                    "Diesel": {},
+                    "Electric": {},
+                    "Steam": {}
+                },
+                "Passenger Cars": {}
+            },
+            "Train Sets": {}
+        }
+    },
+    "Kids' Electronics": {
+        "Dance Mats": {},
+        "Electronic Learning Toys": {},
+        "Electronic Pets": {},
+        "Karaoke Machines": {},
+        "MP3 Players": {},
+        "Personal Video Players & Accessories": {},
+        "Plug & Play Video Games": {},
+        "Remote- & App-Controlled Figures & Robots": {},
+        "Systems & Accessories": {
+            "Electronic Systems": {},
+            "Electronic System Accessories": {},
+            "Electronic Software & Books": {}
+        },
+        "Walkie Talkies": {}
+    },
+    "Kids' Furniture, D\u00e9cor & Storage": {
+        "Backpacks & Lunch Boxes": {
+            "Backpacks": {},
+            "Lunch Boxes": {},
+            "Lunch Bags": {}
+        },
+        "Bedding & Slumber Bags": {
+            "Bedding Sets & Collections": {
+                "Bedspread & Coverlet Sets": {},
+                "Comforter Sets": {},
+                "Duvet Cover Sets": {},
+                "Quilt Sets": {}
+            },
+            "Comforters & Sets": {
+                "Comforters": {},
+                "Comforter Sets": {}
+            },
+            "Duvet Covers & Sets": {
+                "Duvet Covers": {},
+                "Duvet Cover Sets": {}
+            },
+            "Quilts & Sets": {
+                "Quilts": {},
+                "Quilt Sets": {}
+            },
+            "Blankets & Throws": {
+                "Bed Blankets": {},
+                "Throws": {},
+                "Plush Toy & Blanket Sets": {},
+                "Wearable Blankets": {},
+                "Weighted Blankets": {}
+            },
+            "Sheets & Pillowcases": {
+                "Sheet & Pillowcase Sets": {},
+                "Fitted Sheets": {},
+                "Flat Sheets": {},
+                "Pillowcases": {},
+                "Pillow Shams": {}
+            },
+            "Decorative Pillows & Covers": {
+                "Throw Pillows": {},
+                "Throw Pillow Covers": {},
+                "Plush Toy Pillows": {},
+                "Body Pillows": {},
+                "Travel Pillows": {},
+                "Reading & Bed Rest Pillows": {},
+                "Floor Pillows & Cushions": {}
+            },
+            "Canopies": {},
+            "Bed Skirts": {},
+            "Air Mattresses": {},
+            "Sleeping Bags": {}
+        },
+        "Indoor Furniture": {
+            "Armoires & Dressers": {},
+            "Bed Frames, Headboards & Footboards": {},
+            "Bedroom Sets": {},
+            "Bookcases, Cabinets & Shelves": {},
+            "Chairs & Seats": {
+                "Armchairs": {},
+                "Bean Bags": {},
+                "Benches": {},
+                "Desk Chairs": {},
+                "Folding Chairs": {},
+                "Recliners": {},
+                "Rocking Chairs": {},
+                "Stools": {}
+            },
+            "Chests & Trunks": {},
+            "Desks & Desk Sets": {
+                "Desks": {},
+                "Sets": {}
+            },
+            "Hampers": {},
+            "Nightstands": {},
+            "Ottomans & Storage Ottomans": {},
+            "Poufs": {},
+            "Sofas": {},
+            "Step Stools": {},
+            "Tables & Chairs": {
+                "Table & Chair Sets": {},
+                "Tables": {}
+            },
+            "Toy Chests & Organizers": {},
+            "Vanities": {}
+        },
+        "Outdoor Furniture": {
+            "Benches": {},
+            "Chairs": {},
+            "Picnic Tables": {},
+            "Table & Chair Sets": {}
+        },
+        "Room D\u00e9cor": {
+            "Accents": {
+                "Bookends": {},
+                "Canopies": {},
+                "Clocks": {},
+                "Decorative Pillows & Covers": {
+                    "Throw Pillows": {},
+                    "Throw Pillow Covers": {},
+                    "Plush Toy Pillows": {},
+                    "Body Pillows": {},
+                    "Travel Pillows": {},
+                    "Reading & Bed Rest Pillows": {},
+                    "Floor Pillows & Cushions": {}
+                },
+                "Door Hangers": {},
+                "Drawer Handles & Pulls": {},
+                "Picture Frames": {},
+                "Wastebaskets": {}
+            },
+            "Lamps & Lighting": {},
+            "Mirrors": {},
+            "Rugs": {},
+            "Wall D\u00e9cor": {
+                "Growth Charts": {},
+                "Letters & Numbers": {},
+                "Memory Boards": {},
+                "Pennants & Banners": {},
+                "Wall Plaques": {},
+                "Wall Stickers & Murals": {}
+            },
+            "Window Treatments": {
+                "Curtain Panels": {},
+                "Valances": {},
+                "Window Stickers & Films": {
+                    "Window Films": {},
+                    "Window Stickers": {}
+                }
+            }
+        },
+        "Tents & Tunnels": {},
+        "Toy Chests & Storage": {
+            "Toy Bags & Nets": {},
+            "Toy Chests & Organizers": {}
+        }
+    },
+    "Learning & Education": {
+        "Counting & Math Toys": {},
+        "Detective & Spy": {},
+        "Electronic Learning Products": {
+            "Cartridges & Books": {},
+            "Electronic Learning Toys": {},
+            "Systems": {},
+            "System Accessories": {}
+        },
+        "Flash Cards": {},
+        "Geographic Globes": {},
+        "Habitats": {},
+        "Musical Instruments": {
+            "Accessories": {},
+            "Drums & Percussion": {},
+            "Guitars & Strings": {},
+            "Pianos & Keyboards": {},
+            "Wind & Brass": {}
+        },
+        "Optics": {
+            "Microscopes": {},
+            "Microscope Accessories": {},
+            "Telescopes": {},
+            "Telescope Accessories": {}
+        },
+        "Reading & Writing": {
+            "Diaries, Journals & Notebooks": {},
+            "Handwriting Aids": {},
+            "Magnetic Letters & Words": {}
+        },
+        "Rock Tumblers": {},
+        "Science Kits & Toys": {},
+        "Solar Power Kits": {}
+    },
+    "Novelty & Gag Toys": {
+        "Executive Desk Toys": {},
+        "Fidget Toys": {
+            "Fidget Blocks": {},
+            "Fidget Spinners": {}
+        },
+        "Finger Boards & Finger Bikes": {
+            "Bikes": {},
+            "Skateboards": {}
+        },
+        "Flying Toys": {
+            "Airplane Construction Kits": {},
+            "Toy Parachute Figures": {}
+        },
+        "Fortune Telling Toys": {},
+        "Gag Toys & Practical Jokes": {},
+        "Juggling Sets": {},
+        "Magic Kits & Accessories": {},
+        "Magnets & Magnetic Toys": {},
+        "Miniatures": {},
+        "Money Banks": {},
+        "Nesting Dolls": {},
+        "Novelty Spinning Tops": {},
+        "Prisms & Kaleidoscopes": {},
+        "Slime & Putty Toys": {},
+        "Spy Gadgets": {},
+        "Viewfinders": {},
+        "Water Balloons": {},
+        "Wind-up Toys": {}
+    },
+    "Party Supplies": {
+        "Balloons": {},
+        "Banners": {},
+        "Birthday Candles": {},
+        "Cake & Cupcake Toppers": {
+            "Cake Toppers": {},
+            "Cupcake Toppers": {}
+        },
+        "Centerpieces": {},
+        "Noisemakers": {},
+        "Party Favors": {},
+        "Party Hats": {},
+        "Party Packs": {},
+        "Party Tableware": {
+            "Cups": {},
+            "Napkins": {},
+            "Plates": {}
+        },
+        "Pi\u00f1atas": {},
+        "Tablecovers": {}
+    },
+    "Play Vehicles": {
+        "Die-Cast Vehicles": {},
+        "Play Trains & Railway Sets": {
+            "Accessories": {
+                "Buildings & Scenery": {},
+                "Train Tracks": {}
+            },
+            "Train Cars": {},
+            "Train Sets": {}
+        },
+        "Toy Vehicles": {},
+        "Pull Back Vehicles": {},
+        "Vehicle Playsets": {}
+    },
+    "Puppets & Puppet Theaters": {
+        "Finger Puppets": {},
+        "Hand Puppets": {},
+        "Marionettes": {},
+        "Plush Puppets": {},
+        "Puppet Theaters": {},
+        "Ventriloquist": {}
+    },
+    "Puzzles": {
+        "3-D Puzzles": {},
+        "Brain Teasers": {
+            "Assembly & Disentanglement Puzzles": {},
+            "Puzzle Boxes": {}
+        },
+        "Floor Puzzles": {},
+        "Jigsaw Puzzles": {},
+        "Pegged Puzzles": {},
+        "Puzzle Accessories": {},
+        "Puzzle Play Mats": {},
+        "Sudoku Puzzles": {}
+    },
+    "Sports & Outdoor Play": {
+        "Ball Pits & Accessories": {},
+        "Bean Bags & Footbags": {
+            "Bean Bag Game Sets": {},
+            "Footbags": {}
+        },
+        "Blasters & Foam Play": {},
+        "Bubbles": {},
+        "Fitness Equipment": {},
+        "Flying Toys": {
+            "Airplane Construction Kits": {},
+            "Toy Parachute Figures": {}
+        },
+        "Gardening Tools": {},
+        "Inflatable Bouncers": {},
+        "Kickball & Playground Balls": {
+            "Kickballs": {},
+            "Playground Balls": {}
+        },
+        "Kites & Wind Spinners": {
+            "Kite Accessories": {},
+            "Kites": {},
+            "Wind Spinners": {}
+        },
+        "Marble Games": {},
+        "Nature Exploration Toys": {},
+        "Outdoor Furniture": {
+            "Benches": {},
+            "Chairs": {},
+            "Picnic Tables": {},
+            "Table & Chair Sets": {}
+        },
+        "Play Sets & Playground Equipment": {
+            "Freestanding Climbers": {},
+            "Freestanding Slides": {},
+            "Parts & Hardware": {},
+            "Play & Swing Sets": {},
+            "Play Set Attachments": {
+                "Climber Attachments": {},
+                "Glider Attachments": {},
+                "Ring & Trapeze Attachments": {},
+                "Slide Attachments": {},
+                "Swings": {}
+            },
+            "Playground Fitness Equipment": {},
+            "Teeter Totters": {},
+            "Tetherball": {}
+        },
+        "Play Tents & Tunnels": {},
+        "Playhouses": {},
+        "Pogo Sticks & Hoppers": {
+            "Pogo Sticks": {},
+            "Hoppers": {}
+        },
+        "Pools & Water Toys": {
+            "Baby Floats": {},
+            "Basketball & Volleyball Sets": {},
+            "Beach Balls": {},
+            "Beach Toys": {},
+            "Kiddie Pools": {},
+            "Lawn Water Slides": {},
+            "Pool Rafts & Inflatable Ride-ons": {},
+            "Pool Toys": {
+                "Dive Rings & Toys": {},
+                "Inflatable Water Slides": {},
+                "Swim Noodles": {},
+                "Swim Rings": {}
+            },
+            "Sprinklers": {},
+            "Squirt Guns": {},
+            "Water Balloons": {}
+        },
+        "Sand & Water Tables": {},
+        "Sandboxes": {},
+        "Slumber Bags": {},
+        "Toy Sports": {
+            "Toy Baseball": {},
+            "Toy Basketball": {},
+            "Toy Football": {},
+            "Toy Golf": {},
+            "Toy Hockey": {},
+            "Toy Soccer": {}
+        },
+        "Trampolines & Accessories": {
+            "Trampolines": {},
+            "Parts & Accessories": {
+                "Covers": {},
+                "Enclosures": {},
+                "Mats": {},
+                "Pads": {},
+                "Parts": {}
+            }
+        },
+        "Yo-yos": {}
+    },
+    "Stuffed Animals & Plush Toys": {
+        "Plush Figures": {},
+        "Plush Interactive Toys": {},
+        "Plush Pillows": {},
+        "Plush Puppets": {},
+        "Plush Toy & Blanket Sets": {},
+        "Stuffed Animal Clothing & Accessories": {},
+        "Stuffed Animals & Teddy Bears": {}
+    },
+    "Toy Figures & Playsets": {
+        "Action Figures": {},
+        "Playsets & Vehicles": {
+            "Playsets": {},
+            "Vehicles": {}
+        }
+    },
+    "Tricycles, Scooters & Wagons": {
+        "Balance Bikes": {},
+        "Bike Accessories": {},
+        "Electric Vehicles": {},
+        "Kids' Bikes": {},
+        "Kids' Helmets": {},
+        "Kids' Protective Gear": {},
+        "Pedal Cars": {},
+        "Pull-Along Wagons": {},
+        "Ride-On Toys & Accessories": {},
+        "Scooters & Equipment": {
+            "Scooters": {
+                "Kick Scooters": {},
+                "Self Balancing Scooters": {},
+                "Stunt Scooters": {}
+            },
+            "Components & Parts": {
+                "Motors": {},
+                "Grip Tape": {},
+                "Batteries & Battery Chargers": {},
+                "Stems & Forks": {},
+                "Hardware": {},
+                "Decks": {},
+                "Replacement Wheels": {}
+            },
+            "Helmets": {},
+            "Padded Shorts": {},
+            "Accessories": {}
+        },
+        "Skateboards": {
+            "Standard Skateboards": {},
+            "Longboards": {}
+        },
+        "Skates": {
+            "Roller Skates": {
+                "Children's Roller Skates": {},
+                "Jam Skates": {},
+                "Outdoor Skates": {},
+                "Roller Derby Skates": {},
+                "Speed Skates": {}
+            },
+            "Inline Skates": {
+                "Children's Inline Skates": {},
+                "Racing Skates": {},
+                "Hockey Skates": {}
+            },
+            "Helmets": {},
+            "Protective Gear": {
+                "Elbow Pads": {},
+                "Knee Pads": {},
+                "Padded Shorts": {},
+                "Wrist Guards": {}
+            },
+            "Inline Skate Parts": {
+                "Bearings": {},
+                "Wheels": {}
+            },
+            "Roller Skate Parts": {
+                "Laces": {},
+                "Plates": {},
+                "Toe Stops & Plugs": {},
+                "Wheels": {}
+            }
+        },
+        "Tricycles": {},
+        "Unicycles": {}
+    }
+}

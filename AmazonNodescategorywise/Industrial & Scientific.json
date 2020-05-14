@@ -1,0 +1,5093 @@
+{
+    "Abrasive & Finishing Products": {
+        "Abrasive Accessories": {
+            "Dressing Tools": {},
+            "Mandrels": {},
+            "Wheel Adapters": {},
+            "Wheel Flanges": {}
+        },
+        "Abrasive Belts": {},
+        "Abrasive Brushes": {
+            "Bristle Discs": {},
+            "Power Brushes": {
+                "Cup Brushes": {},
+                "Flat End Brushes": {},
+                "Spiral Brushes": {},
+                "Wheel Brushes": {}
+            },
+            "Scratch Brushes": {}
+        },
+        "Abrasive Mounted Points": {
+            "Bands": {},
+            "Cartridge Rolls": {},
+            "Grinding Cones": {},
+            "Grinding Mounted Points": {},
+            "Grinding Plugs": {},
+            "Non-Woven Bits": {},
+            "Sanding Sleeves": {}
+        },
+        "Abrasive Wheels & Discs": {
+            "Angle Grinder Wheels": {},
+            "Bench & Pedestal Grinding Wheels": {},
+            "Bristle Discs": {},
+            "Cut-Off Wheels": {},
+            "Die Grinder Wheels": {},
+            "Flap Discs": {},
+            "Flap Wheels": {},
+            "Grinding Discs": {},
+            "OD Grinding Wheels": {
+                "Centerless Grinding Wheels": {},
+                "Cylindrical Grinding Wheels": {},
+                "Feed Regulating Grinding Wheels": {}
+            },
+            "Oscillating Tool Sanding Pads": {},
+            "Sanding Disc Backing Pads": {},
+            "Sanding Discs": {
+                "Fiber Backed Abrasive Discs": {},
+                "Hook & Loop Discs": {},
+                "PSA Discs": {},
+                "Quick Change Discs": {}
+            },
+            "Snagging Wheels": {},
+            "Surface Grinding Wheels": {},
+            "Tool Post Grinding Wheels": {},
+            "Toolroom Grinding Wheels": {},
+            "Unitized & Convolute Wheels": {}
+        },
+        "Finishing Products": {
+            "Buffing & Polishing Accessories": {
+                "Buffing Kits": {},
+                "Buffing Wheels": {},
+                "Felt Bobs": {},
+                "Felt Sticks": {},
+                "Felt Wheels": {},
+                "Grinding Compounds": {},
+                "Industrial Polishing Stones": {},
+                "Mounted Points": {},
+                "Polishing Bonnets": {}
+            },
+            "Finishing Compounds": {},
+            "Hand Files": {},
+            "Laps & Hones": {
+                "Blind Hole Barrel Laps": {},
+                "Flex Hones": {},
+                "Hand Hones": {},
+                "Honing Stones": {}
+            },
+            "Manual Sanding Products": {
+                "Sanding Blocks": {},
+                "Sanding Cords": {},
+                "Sanding Pads": {},
+                "Sanding Rolls": {},
+                "Sanding Sheets": {},
+                "Sanding Sponges": {},
+                "Sanding Sticks": {},
+                "Sanding Tapes": {},
+                "Steel Wool": {}
+            },
+            "Sand Blasters": {},
+            "Sharpening Stones": {},
+            "Tumbling Media": {}
+        }
+    },
+    "Additive Manufacturing Products": {
+        "3D Printers": {},
+        "3D Printing Supplies": {
+            "3D Printing Filament": {},
+            "3D Printing Granules": {},
+            "3D Printing Liquid": {}
+        },
+        "3D Printer Parts & Accessories": {
+            "3D Printer Extruders": {},
+            "3D Printer Platforms": {},
+            "3D Printer Motors": {},
+            "3D Printer Interface & Driver Modules": {},
+            "3D Printer Controllers": {},
+            "3D Printer Accessories": {}
+        },
+        "3D Scanners": {}
+    },
+    "Adhesives, Sealants & Lubricants": {
+        "Adhesive Accelerators": {},
+        "Adhesive Dispensers & Accessories": {
+            "Caulking Guns": {},
+            "Glue Guns": {},
+            "Tape Applicators": {},
+            "Adhesive Dispenser Accessories": {}
+        },
+        "Adhesive Dots": {},
+        "Adhesive Primers": {},
+        "Adhesive Tapes": {
+            "Adhesive Transfer Tape": {},
+            "Carton Sealing Tape": {},
+            "Duct Tape": {},
+            "Electrical Tape": {},
+            "Filament Tape": {},
+            "Foam Tape": {},
+            "Friction Tape": {},
+            "Gaffer Tape": {},
+            "High Temperature Tape": {},
+            "Hook & Loop Strips": {},
+            "Masking Tape": {},
+            "Painter's Tape": {}
+        },
+        "Aerosol Adhesives": {},
+        "Anti-Seizes": {},
+        "Catalysts": {},
+        "Caulk": {
+            "Adhesive Caulk": {},
+            "Fire Barrier Caulk": {},
+            "High Temperature Caulk": {},
+            "Latex Caulk": {},
+            "Rope Caulk": {},
+            "Silicone Caulk": {},
+            "Tape Caulk": {}
+        },
+        "Coatings": {},
+        "Contact Cements": {},
+        "Cyanoacrylate Adhesives": {},
+        "Epoxy Adhesives": {
+            "Metal Filled Epoxies": {},
+            "Tile Epoxy Adhesives": {}
+        },
+        "Hot Glue Sticks": {},
+        "Industrial Adhesives": {
+            "Acrylic Adhesives": {},
+            "Electrically Conductive Adhesives": {},
+            "Methacrylate Adhesives": {},
+            "Polyurethane Adhesives": {},
+            "Polyvinyl Acetate Adhesives": {},
+            "Resorcinol Adhesives": {},
+            "Solvent-Based Adhesives": {},
+            "Thermoplastic Adhesives": {},
+            "Urea Resin Adhesives": {},
+            "Urethane Adhesives": {},
+            "UV-Curable Adhesives": {},
+            "Water-Based Adhesives": {}
+        },
+        "Industrial Lubricants": {},
+        "Industrial Sealants": {
+            "Gasket Sealants": {
+                "Gasket Makers": {},
+                "Gasket Removers": {}
+            },
+            "Joint Sealants": {},
+            "Thread Sealants": {}
+        },
+        "Light Cure Pens": {},
+        "Retaining Compounds": {},
+        "Silicone Adhesives": {}
+    },
+    "Agricultural Irrigation Equipment": {
+        "Accessories": {},
+        "Drip Irrigation Kits": {},
+        "Drippers": {},
+        "Irrigation System Controllers": {},
+        "Irrigation Tubing": {},
+        "Sprinkler Heads": {},
+        "Underground Sprinkler Systems": {}
+    },
+    "Commercial Door Products": {
+        "Commercial Access Control": {
+            "Card Readers": {},
+            "Cards": {},
+            "Door Contacts": {},
+            "Door Control": {
+                "Access-Control Keypads": {},
+                "Call Boxes": {},
+                "Intercoms": {},
+                "Push Plates": {}
+            },
+            "Electromagnetic Locks": {},
+            "Power Supplies": {}
+        },
+        "Commercial Door Hardware": {
+            "Deadbolts": {},
+            "Door Closers": {},
+            "Door Guards": {},
+            "Door Stops": {},
+            "Exit Devices": {
+                "Thresholds": {},
+                "Touch Bar Devices": {},
+                "Weather Stripping": {}
+            },
+            "Hinges": {},
+            "Locksets & Handles": {
+                "Keyed": {},
+                "Keypad & Pushbutton": {},
+                "Passage": {},
+                "Privacy": {},
+                "Push & Pull": {}
+            },
+            "Sliding Door Hardware": {},
+            "Strikes": {}
+        },
+        "Commercial Doors": {
+            "Bathroom Doors & Partitions": {},
+            "Entry Doors": {},
+            "Swinging Doors": {}
+        }
+    },
+    "Commercial Lighting": {
+        "Bay Lighting": {},
+        "Emergency Light Fixtures": {},
+        "Lighted Exit Signs": {},
+        "Street & Area Lighting": {},
+        "Strobe Lights": {}
+    },
+    "Cutting Tools": {
+        "Band Saw Blades": {},
+        "Boring Bars": {},
+        "Brazed Tools": {},
+        "Broaches": {},
+        "Counterbores": {},
+        "Countersinks": {
+            "Combined Drill": {},
+            "Double End": {},
+            "Single End": {}
+        },
+        "Cutting Burrs": {},
+        "Cutting Tool Coolants": {},
+        "Deburring Cutters": {},
+        "Drill & Tap Sets": {},
+        "Drill Adapters": {},
+        "Fixturing Clamps": {},
+        "Hole Saws & Accessories": {
+            "Hole Saw Arbors": {},
+            "Hole Saw Sets": {},
+            "Hole Saws": {}
+        },
+        "Indexable Insert Holders": {
+            "Coolant Hole Turning Holders": {},
+            "Drilling Holders": {},
+            "Grooving Holders": {
+                "Part Off Holders": {},
+                "Threading Holders": {}
+            },
+            "Milling Holders": {
+                "End Mill Holders": {},
+                "Face Mill Holders": {},
+                "Slotting Mill Holders": {}
+            },
+            "Spade Blade Holders": {},
+            "Threading Holders": {},
+            "Turning Holders": {}
+        },
+        "Indexable Inserts": {
+            "Boring Inserts": {},
+            "Center Drill Inserts": {},
+            "Drilling Inserts": {},
+            "Grooving Inserts": {
+                "Face Grooving Inserts": {},
+                "Internal Grooving Inserts": {}
+            },
+            "Milling Inserts": {},
+            "Parting Inserts": {},
+            "Profiling Inserts": {},
+            "Spade Blade Inserts": {},
+            "Threading Inserts": {},
+            "Turning Inserts": {}
+        },
+        "Industrial Drill Bits": {
+            "Combination Drill & Taps": {},
+            "Masonry Drill Bits": {
+                "Core Drill Bits": {},
+                "Masonry Drill Bit Sets": {},
+                "Rotary Hammer Drill Bits": {}
+            },
+            "Metalworking & Multipurpose Drill Bits": {
+                "Annular Cutters": {},
+                "Circuit Board Drill Bits": {},
+                "Drill Bit Sets": {},
+                "Drill Blanks": {},
+                "Gun Drill Bits": {},
+                "Hole Enlarging Drill Bits": {},
+                "Indexable Drilling Holders": {},
+                "Indexable Drilling Inserts": {},
+                "Micro Drill Bits": {},
+                "Reduced Shank Drill Bits": {},
+                "Spotting Drill Bits": {},
+                "Step Drill Bits": {},
+                "Subland Drill Bits": {},
+                "Taper Shank Drill Bits": {},
+                "Threaded Shank Bits": {},
+                "Twist Bits": {
+                    "Extra Long Drill Bits": {},
+                    "Hex-Shank Drill Bits": {},
+                    "Jobber Drill Bits": {},
+                    "Long Length Drill Bits": {},
+                    "Mechanic's Length Drill Bits": {},
+                    "Short Length Drill Bits": {}
+                }
+            },
+            "Wood Drill Bit Sets": {},
+            "Wood Drill Bits": {
+                "Auger Drill Bits": {},
+                "Boring Drill Bits": {},
+                "Brad-Point Drill Bits": {},
+                "Countersink Bits": {},
+                "Forstner Drill Bits": {},
+                "Self-Feed Drill Bits": {},
+                "Spade Drill Bits": {},
+                "Taper Point Drill Bits": {}
+            }
+        },
+        "Live Centers": {},
+        "Metal Cutting Circular Saw Blades": {},
+        "Metal Cutting Circular Saws": {},
+        "Milling Accessories": {
+            "Arbor Type Milling Cutters": {
+                "Concave Radius Milling Cutters": {},
+                "Convex Radius Milling Cutters": {},
+                "Hobbing Cutters": {},
+                "Involute Gear Cutters": {},
+                "Side & Face Milling Cutters": {},
+                "Side Milling Cutters": {},
+                "Slab & Plain Milling Cutters": {}
+            },
+            "End Mills": {
+                "Ball Nose": {},
+                "Chamfer": {},
+                "Corner Radius": {},
+                "Corner Rounding": {},
+                "Drill": {},
+                "Square Nose": {},
+                "Tapered": {}
+            },
+            "Shank Type Milling Cutters": {
+                "Dovetail Milling Cutters": {},
+                "T-Slot Milling Cutters": {},
+                "Woodruff Keyseat Milling Cutters": {}
+            }
+        },
+        "Port Contour Cutters": {},
+        "Punches": {
+            "Arch Punches": {},
+            "Center Punches": {},
+            "Drift Punches": {},
+            "Hole Punches": {},
+            "Knockout Punches": {},
+            "Pin Punches": {},
+            "Transfer Punches": {}
+        },
+        "Reamers": {
+            "Bridge & Construction Reamers": {},
+            "Chucking Reamers": {},
+            "Expansion Reamers": {},
+            "Hand Reamers": {},
+            "Shell Reamers": {},
+            "Taper Pin Reamers": {},
+            "Taper Pipe Reamers": {}
+        },
+        "Router Bits": {
+            "Bearings & Bit-Repair Parts": {},
+            "Door & Window Bits": {},
+            "Edge Treatment & Grooving Bits": {},
+            "Joinery Bits": {},
+            "Solid Surface Bits": {},
+            "Straight, Spiral & Trim Bits": {
+                "Spiral": {},
+                "Straight": {},
+                "Trim": {}
+            }
+        },
+        "Shell Reamer Arbors": {},
+        "Slotting Cutters": {
+            "Four Wing Slotting Cutters": {},
+            "Slotting Cutter Arbors": {},
+            "Three Wing Slotting Cutters": {},
+            "Two Wing Slotting Cutters": {}
+        },
+        "Thread Mills": {
+            "Helical Flute": {},
+            "Straight Flute": {},
+            "Thread Forming": {}
+        },
+        "Thread Repair Kits": {
+            "Inch Inserts & Kits": {},
+            "Metric Inserts & Kits": {},
+            "Spark Plug Thread Repair Kits": {}
+        },
+        "Threading Dies": {
+            "Hex Threading Dies": {},
+            "Round Threading Dies": {},
+            "Two Piece Threading Dies": {}
+        },
+        "Threading Taps": {
+            "Combination Drill & Taps": {},
+            "Extension, Pulley & Nut Taps": {},
+            "Hand Threading Taps": {},
+            "Pipe Taps": {},
+            "Spiral Flute Taps": {},
+            "Spiral Point Taps": {},
+            "Thread Forming Taps": {},
+            "Thread Milling Taps": {}
+        },
+        "Tool Holders": {}
+    },
+    "Digital Signage": {
+        "Commercial TVs & Displays": {},
+        "Digital Kiosks & Interactive Displays": {},
+        "Digital Signage Display Mounts": {},
+        "Media Players": {},
+        "Video Wall Controllers": {},
+        "Video Wall Mounts": {},
+        "Video Walls": {}
+    },
+    "Fasteners": {
+        "Bolts": {
+            "Anchor Bolts": {},
+            "Carriage Bolts": {},
+            "Elevator Bolts": {},
+            "Expansion Bolts": {},
+            "Eyebolts": {},
+            "Hanger Bolts": {},
+            "Hex Bolts": {},
+            "Penta Head Bolts": {},
+            "Plow Bolts": {},
+            "Square Head Bolts": {},
+            "Step Bolts": {},
+            "Structural Bolts": {},
+            "T-Handle Bolts": {},
+            "T-Slot Bolts": {},
+            "Tension Control Bolts": {},
+            "Toggle Bolts": {},
+            "U-Bolts": {},
+            "Wheel Bolts": {}
+        },
+        "Screws": {
+            "Binding Screws": {},
+            "Concrete Screws": {},
+            "Drywall Screws": {},
+            "Lag Screws": {},
+            "Machine Screws": {},
+            "Panel Screws": {},
+            "Screw Eyes": {},
+            "Self-Tapping Screws": {},
+            "Set Screws": {},
+            "Sheet Metal Screws": {},
+            "Shoulder Screws": {},
+            "Socket Head Screws": {},
+            "Thread Forming & Cutting Screws": {},
+            "Thumb Screws": {},
+            "Wood Screws": {}
+        },
+        "Screw & Bolt Assortment Sets": {},
+        "Nuts": {
+            "Acorn Nuts": {},
+            "Allen Nuts": {},
+            "Ball Nuts": {},
+            "Barrel & Binding Nuts": {},
+            "Bearing Nuts": {},
+            "Clip-On Nuts": {},
+            "Coupling Nuts": {},
+            "Eye Nuts": {},
+            "Flange Nuts": {},
+            "Handle Nuts": {},
+            "Hex Nuts": {},
+            "Locknuts": {},
+            "Lug Nuts": {},
+            "Nut Inserts": {},
+            "Panel Nuts": {},
+            "Pipe Locknuts": {},
+            "Press-In Nuts": {},
+            "Push Nuts": {},
+            "Regulator Inlet Nuts": {},
+            "Rivet Nuts": {},
+            "Self-Clinching Nuts": {},
+            "Slip Joint Nuts": {},
+            "Slotted Nuts": {},
+            "Speed Nuts": {},
+            "Square Nuts": {},
+            "Strut-Channel Nuts": {},
+            "T-Nuts": {},
+            "T-Slot Nuts": {},
+            "Tamper-Resistant Nuts": {},
+            "Thumb Nuts": {},
+            "Tube Nuts": {
+                "Compression Nuts": {},
+                "Flared Nuts": {},
+                "Tube Adapter Nuts": {},
+                "Union Nuts": {}
+            },
+            "Twist-On Wire Connectors": {},
+            "Weld Nuts": {},
+            "Wing Nuts": {}
+        },
+        "Nut & Bolt Assortment Sets": {},
+        "Anchors": {
+            "Bolt Anchors": {},
+            "Chemical Anchors": {},
+            "Drive Anchors": {},
+            "Drop-In Anchors": {},
+            "Drywall Anchors": {},
+            "Expansion Shield Anchors": {},
+            "Hollow-Wall Anchors": {},
+            "Hook Anchors": {},
+            "Sleeve Anchors": {},
+            "Stud Anchors": {},
+            "T-Anchors": {},
+            "Toggle Anchors": {},
+            "Wedge Anchors": {}
+        },
+        "Collated Fasteners": {
+            "Collated Nails": {
+                "Brad Nails": {},
+                "Finish Nails": {},
+                "Framing Nails": {},
+                "Pinner Nails": {},
+                "Roofing Nails": {},
+                "Siding Nails": {}
+            },
+            "Collated Screws": {},
+            "Powder Actuated Fasteners": {},
+            "Staples": {}
+        },
+        "Nails": {
+            "Cap Nails": {},
+            "Collated Nails": {
+                "Brad Nails": {},
+                "Finish Nails": {},
+                "Framing Nails": {},
+                "Pinner Nails": {},
+                "Roofing Nails": {},
+                "Siding Nails": {}
+            },
+            "Common Nails": {},
+            "Drywall Nails": {},
+            "Duplex Nails": {},
+            "Escutcheon Pins": {},
+            "Finishing Nails": {},
+            "Flooring Nails": {},
+            "Masonry Nails": {},
+            "Pole Barn Nails": {},
+            "Roofing Nails": {},
+            "Siding Nails": {},
+            "Sinker Nails": {},
+            "Tacks": {},
+            "Wood Joiner Nails": {}
+        },
+        "Pins": {},
+        "Retaining Rings": {
+            "External Retaining Rings": {},
+            "Internal Retaining Rings": {}
+        },
+        "Rivets": {
+            "Blind Rivets": {},
+            "Push-In Rivets": {},
+            "Solid Rivets": {},
+            "Split & Bifurcated Rivets": {},
+            "Tubular Rivets": {}
+        },
+        "Spacers & Standoffs": {
+            "Bumpers": {},
+            "Spacers": {},
+            "Standoffs": {}
+        },
+        "Staples": {
+            "Cable Staples": {},
+            "Collated Staples": {},
+            "Wire Fencing Staples": {}
+        },
+        "Threaded Inserts": {
+            "Crack Repairing Inserts": {},
+            "Externally Threaded Inserts": {},
+            "Heat Set Inserts": {},
+            "Helical Threaded Inserts": {},
+            "Key Locking Inserts": {},
+            "Press-In Inserts": {},
+            "Rivet Nuts": {},
+            "Tapping Inserts": {},
+            "Thread Locking Inserts": {},
+            "T-Nuts": {}
+        },
+        "Threaded Rods & Studs": {
+            "Equal Thread Length Rods & Studs": {},
+            "Fully Threaded Rods & Studs": {},
+            "Press-In Captive Studs": {},
+            "Rivet Studs": {},
+            "Single End Threaded Studs": {},
+            "Unequal Thread Length Rods & Studs": {},
+            "Weld Studs": {}
+        },
+        "Washers": {
+            "Belleville Washers": {},
+            "Beveled Washers": {},
+            "Countersunk Washers": {},
+            "Cup Washers": {},
+            "Curved Washers": {},
+            "D-Shaped Washers": {},
+            "Flat Washers": {},
+            "Lock Washers": {
+                "Spring Lock Washers": {},
+                "Tooth Lock Washers": {},
+                "Wedge Lock Washers": {}
+            },
+            "Retaining Washers": {},
+            "Rigid Insulation Washers": {},
+            "Rivet Washers": {},
+            "Sealing Washers": {},
+            "Shoulder Washers": {},
+            "Slotted Washers": {},
+            "Spherical Washers": {},
+            "Square Washers": {},
+            "Tab Washers": {},
+            "Wave Washers": {}
+        }
+    },
+    "Filtration": {
+        "Compressed Air Treatment": {
+            "Air Dryers": {},
+            "Drains": {},
+            "Filters, Regulators & Lubricators": {
+                "Coalescing Filter Elements": {},
+                "Filter & Regulator Combos": {},
+                "Filter Cartridges": {},
+                "Filter, Regulator & Lubricator Combos": {},
+                "Filters": {},
+                "Lubricators": {},
+                "Regulators": {}
+            },
+            "Pneumatic Mufflers": {},
+            "Separators": {}
+        },
+        "HVAC Filtration": {},
+        "Hydraulic Filtration": {},
+        "Industrial Process Filtration": {
+            "Filter Bags": {},
+            "Filter Cartridges": {},
+            "Filter Housings": {}
+        },
+        "Lab Filters": {
+            "Air Sampling Filters": {},
+            "Bottletop Filters": {},
+            "Cell Strainers": {},
+            "Centrifugal Filters": {},
+            "Filter Membrane": {},
+            "Glass Fiber Filters": {},
+            "Inline Filters": {},
+            "Qualitative Filter Paper": {},
+            "Quantitative Filter Paper": {},
+            "Syringe Filters": {},
+            "Ultrafiltration Filters": {}
+        },
+        "Strainers": {
+            "Basket Strainers": {},
+            "Inline Strainers": {},
+            "Suction Strainers": {},
+            "T Strainers": {},
+            "Y Strainers": {}
+        },
+        "Water Purification": {
+            "Faucet Mount Filters": {},
+            "Replacement Water Filters": {
+                "Replacement Countertop Water Filters": {},
+                "Replacement Faucet Water Filters": {},
+                "Replacement Pitcher Water Filters": {},
+                "Replacement Under-Sink Water Filters": {}
+            },
+            "Under-Sink & Countertop Filtration": {},
+            "Water Filtration Replacement Parts": {},
+            "Water Softeners": {}
+        }
+    },
+    "Food Service Equipment & Supplies": {
+        "Concession & Vending Equipment": {
+            "Beverage Dispensers": {},
+            "Concession Food Preparation Equipment": {
+                "Cotton Candy": {},
+                "Hot Dog": {},
+                "Popcorn": {}
+            },
+            "Frozen Concessions Equipment & Supplies": {
+                "Frozen Drink Machines": {},
+                "Frozen Yogurt & Ice Cream Machines": {},
+                "Shaved Ice": {}
+            },
+            "Vending Machines & Parts": {
+                "Vending Machines": {},
+                "Replacement Parts": {
+                    "Coin & Money Exchangers": {},
+                    "Keys & Locks": {},
+                    "Labels": {}
+                }
+            }
+        },
+        "Cookware, Bakeware & Tools": {
+            "Bakeware": {},
+            "Cookware": {},
+            "Knives & Knife Accessories": {
+                "Asian Knives": {
+                    "Chinese Chef's Knives & Cleavers": {},
+                    "Chinese Vegetable Knives": {},
+                    "Deba Knives": {},
+                    "Gyutou Knives": {},
+                    "Santoku Knives": {},
+                    "Sashimi Knives": {},
+                    "Usuba & Nakiri Knives": {}
+                },
+                "Boning Knives": {},
+                "Bread Knives": {},
+                "Cake Knives": {},
+                "Carving Knives & Forks": {
+                    "Carving Knives": {},
+                    "Carving Sets": {},
+                    "Meat & Carving Forks": {}
+                },
+                "Chef's Knives": {},
+                "Cleavers": {
+                    "Meat Cleavers": {},
+                    "Vegetable Cleavers": {}
+                },
+                "Cutting Boards": {},
+                "Electric Knives": {},
+                "Fillet Knives": {},
+                "Knife Accessories": {},
+                "Knife Blocks & Storage": {
+                    "Knife Blocks": {},
+                    "Knife Cases, Holders & Protectors": {},
+                    "Magnetic Knife Strips": {}
+                },
+                "Knife Sets": {
+                    "Knife Block Sets": {},
+                    "Boxed Knife Sets": {},
+                    "Carving Sets": {},
+                    "Steak Sets": {}
+                },
+                "Knife Sharpeners": {},
+                "Paring Knives": {},
+                "Shears": {},
+                "Specialty Knives": {
+                    "Cheese Knives": {},
+                    "Fruit Knives": {},
+                    "Garnishing Knives": {},
+                    "Mincing Knives": {},
+                    "Seafood Knives": {},
+                    "Tomato Knives": {}
+                },
+                "Steak Knives": {},
+                "Utility Knives": {}
+            },
+            "Tools & Utensils": {}
+        },
+        "Displayware & Signage": {
+            "Displayware": {
+                "Countertop Display Cases": {},
+                "Display Baskets": {},
+                "Display Refrigerators": {},
+                "Display Risers": {},
+                "Display Stands": {},
+                "Display Trays": {},
+                "Merchandisers": {}
+            },
+            "Signage": {
+                "Outdoor Signs": {},
+                "Symbol Signs": {},
+                "Tabletop Signs": {},
+                "Window Display Signs": {}
+            }
+        },
+        "Disposables": {
+            "Apparel": {
+                "Gloves": {
+                    "Non-Sterile Gloves": {},
+                    "Sterile Gloves": {}
+                },
+                "Masks": {}
+            },
+            "Butcher Paper": {},
+            "Cookware": {},
+            "Cups & Straws": {
+                "Cups": {},
+                "Shot Glasses": {},
+                "Souffle & Shot Cups": {},
+                "Stemware": {},
+                "Straws": {}
+            },
+            "Drink Stirrers": {},
+            "Freezer Paper": {},
+            "Napkins": {},
+            "Paper Towels": {},
+            "Plates & Cutlery": {
+                "Bowls": {},
+                "Forks": {},
+                "Knives": {},
+                "Plates": {},
+                "Spoons": {},
+                "Sporks": {}
+            },
+            "Serving Trays": {},
+            "Table Covers": {
+                "Doilies": {},
+                "Table Skirts": {}
+            },
+            "Take Out Containers": {
+                "Bags": {},
+                "Bakery Take Out Containers": {},
+                "Bowls": {},
+                "Boxes": {},
+                "Cake & Pizza Circles": {},
+                "Clamshell Take Out Containers": {},
+                "Container Lids": {},
+                "Cup Carriers": {},
+                "Oyster Pails": {},
+                "Pizza Boxes": {},
+                "Souffle Cups": {}
+            }
+        },
+        "Furniture": {
+            "Portable Bars": {},
+            "Seating & Booths": {},
+            "Tables & Table Parts": {
+                "Table Bases": {},
+                "Table Tops": {},
+                "Tables": {}
+            }
+        },
+        "Restaurant Appliances & Equipment": {
+            "Commercial Beverage Equipment": {
+                "Commercial Beverage Dispensers": {},
+                "Commercial Espresso Machines & Coffee Makers": {},
+                "Commercial Frozen Drink Machines": {}
+            },
+            "Commercial Cooking Equipment": {
+                "Commercial Broilers": {},
+                "Commercial Charbroilers": {},
+                "Commercial Deep Fryers": {},
+                "Commercial Griddles": {},
+                "Commercial Hot Plates": {},
+                "Commercial Microwaves": {},
+                "Commercial Ovens": {},
+                "Commercial Pasta Cookers": {},
+                "Commercial Ranges": {},
+                "Commercial Rice Cookers": {},
+                "Commercial Rotisseries": {},
+                "Commercial Sandwich Makers & Panini Presses": {},
+                "Commercial Steamers": {},
+                "Commercial Toaster Ovens": {},
+                "Commercial Waffle Makers": {}
+            },
+            "Commercial Dishwashers & Dishwashing Equipment": {
+                "Dish Racks": {},
+                "Dishwashers": {},
+                "Glass Washers": {},
+                "Grease Traps": {}
+            },
+            "Commercial Food Holding & Warming Equipment": {
+                "Food Warmers": {},
+                "Food Wells": {},
+                "Steam Tables": {}
+            },
+            "Commercial Food Preparation Equipment": {
+                "Commercial Dough Presses": {},
+                "Commercial Dough Sheeters": {},
+                "Commercial Drink Mixers": {},
+                "Commercial Food Packaging Equipment": {
+                    "Bag Sealers": {},
+                    "Shrink Wrappers": {},
+                    "Vacuum Sealer Bags": {}
+                },
+                "Commercial Fry Baggers": {},
+                "Commercial Mixers": {},
+                "Commercial Mixing Paddles": {},
+                "Commercial Pasta Machines": {},
+                "Concession Food Preparation Equipment": {
+                    "Cotton Candy": {},
+                    "Hot Dog": {},
+                    "Popcorn": {}
+                }
+            },
+            "Commercial Refrigerators & Refrigeration Equipment": {
+                "Beverage Refrigerators": {},
+                "Chef Bases": {},
+                "Cold Pans": {},
+                "Display Refrigerators": {},
+                "Freezers": {},
+                "Glass Frosters": {},
+                "Ice Machines": {},
+                "Refrigerators": {}
+            },
+            "Commercial Sinks": {},
+            "Commercial Worktables & Workstations": {}
+        },
+        "Storage & Transport": {
+            "Dollies": {},
+            "Food & Dish Transport": {
+                "Bus Tubs": {},
+                "Pizza Delivery Bags": {}
+            },
+            "Food Storage": {
+                "Drain Trays": {},
+                "Food Crocks": {},
+                "Food Pans": {},
+                "Liquid & Syrup Pourers": {},
+                "Scoops": {},
+                "Storage Container Lids": {}
+            },
+            "Shelves & Racks": {
+                "Bakery Racks": {},
+                "Lug Racks": {},
+                "Rack Accessories": {},
+                "Rack Shelves": {}
+            }
+        },
+        "Tabletop & Serveware": {
+            "Bar Equipment": {
+                "Bar Refrigeration": {
+                    "Back Bar Refrigerators": {},
+                    "Beverage Refrigerators": {},
+                    "Glass Frosters": {},
+                    "Wine & Bottle Chillers": {}
+                },
+                "Bar Tools & Glasses": {
+                    "Bar Sets": {},
+                    "Bar Strainers": {},
+                    "Coasters": {},
+                    "Cocktail Napkins": {},
+                    "Cocktail Shakers": {},
+                    "Corkscrews & Openers": {
+                        "Screwpull Levers": {},
+                        "Waiter Corkscrews": {},
+                        "Wing Corkscrews": {},
+                        "Bottle Openers": {}
+                    },
+                    "Flasks": {},
+                    "Glass Markers": {},
+                    "Ice Buckets & Tongs": {
+                        "Ice Buckets": {},
+                        "Ice Tongs": {}
+                    },
+                    "Ice Crushers": {},
+                    "Jiggers": {},
+                    "Muddlers": {},
+                    "Rimming Salts & Sugars": {},
+                    "Seltzer Bottles & Chargers": {},
+                    "Wine Stoppers & Pourers": {
+                        "Wine Pourers": {},
+                        "Wine Stoppers": {}
+                    }
+                },
+                "Beer Dispensers": {},
+                "Glass Washers": {},
+                "Kegerators": {},
+                "Portable Bars": {}
+            },
+            "Beverage Serveware": {
+                "Carafes & Pitchers": {},
+                "Cream & Sugar": {
+                    "Cream & Sugar Sets": {},
+                    "Creamers": {},
+                    "Sugar Bowls": {},
+                    "Sugar Packet Holders": {}
+                },
+                "Decanters": {
+                    "Liquor Decanters": {},
+                    "Wine Decanters": {}
+                },
+                "Punch Bowls": {},
+                "Iced Beverage Dispensers": {},
+                "Teapots & Coffee Servers": {
+                    "Coffee Servers": {},
+                    "Coffee Serving Sets": {},
+                    "Coffee Urns": {},
+                    "Tea Sets": {},
+                    "Tea-For-One Sets": {},
+                    "Teapots": {}
+                }
+            },
+            "Condiment Holders & Dispensers": {
+                "Butter Dishes & Servers": {},
+                "Caddies & Racks": {},
+                "Dredges": {},
+                "Gravy Boats & Stands": {
+                    "Gravy Boat & Stand Sets": {},
+                    "Gravy Boat Stands": {},
+                    "Gravy Boats": {}
+                },
+                "Jars & Jar Holders": {},
+                "Liquid & Syrup Pourers": {},
+                "Oil & Vinegar Cruets": {},
+                "Pump Dispensers": {},
+                "Salt & Pepper": {
+                    "Pepper Mills": {},
+                    "Salt Mills": {},
+                    "Pepper Shakers": {},
+                    "Salt Shakers": {},
+                    "Salt & Pepper Mill Sets": {},
+                    "Salt & Pepper Shaker Sets": {}
+                },
+                "Squeeze Bottles": {},
+                "Sugar Sets": {},
+                "Sugar Shakers": {}
+            },
+            "Dinnerware": {
+                "Bowls": {
+                    "Bouillon Cups": {},
+                    "Bowl Sets": {},
+                    "Cereal Bowls": {},
+                    "Dessert Bowls": {},
+                    "Pasta Bowls": {},
+                    "Rice Bowls": {},
+                    "Salad Bowls": {},
+                    "Snack Bowls": {},
+                    "Soup Bowls": {}
+                },
+                "Cups, Mugs, & Saucers": {
+                    "Coffee Cups & Mugs": {},
+                    "Cup & Saucer Sets": {},
+                    "Espresso Cups": {},
+                    "Mug Sets": {},
+                    "Saucers": {},
+                    "Teacups": {}
+                },
+                "Dinnerware Sets": {},
+                "Plates": {
+                    "Appetizer Plates": {},
+                    "Bread & Butter Plates": {},
+                    "Charger & Service Plates": {},
+                    "Dessert Plates": {},
+                    "Dinner Plates": {},
+                    "Salad Plates": {},
+                    "Specialty Plates": {
+                        "Cheese Plates": {},
+                        "Seder Plates": {},
+                        "Side Dishes": {},
+                        "Sushi Plates": {}
+                    }
+                }
+            },
+            "Flatware": {
+                "Forks": {
+                    "Dessert Forks": {},
+                    "Dinner Forks": {},
+                    "Salad Forks": {},
+                    "Specialty Forks": {}
+                },
+                "Knives": {
+                    "Butter Knives": {},
+                    "Dessert Knives": {},
+                    "Dinner Knives": {},
+                    "Steak Knives": {}
+                },
+                "Spoons": {
+                    "Caviar Spoons": {},
+                    "Coffee & Espresso Spoons": {},
+                    "Dessert Spoons": {},
+                    "Iced Tea Spoons": {},
+                    "Jam Spoons": {},
+                    "Soup Spoons": {},
+                    "Specialty Spoons": {},
+                    "Teaspoons": {}
+                },
+                "Flatware Sets": {},
+                "Chopsticks & Chopstick Holders": {},
+                "Children's Flatware": {},
+                "Grapefruit Utensils": {},
+                "Serving Utensils": {
+                    "Asparagus Servers": {},
+                    "Cake, Pie & Pastry Servers": {},
+                    "Cheese Servers": {},
+                    "Fish Servers": {},
+                    "Flat Servers": {},
+                    "Ladles": {
+                        "Cream Ladles": {},
+                        "Gravy & Sauce Ladles": {},
+                        "Punch Ladles": {},
+                        "Soup Ladles": {}
+                    },
+                    "Salad Servers": {},
+                    "Serving Forks": {
+                        "Cold-Meat Forks": {},
+                        "Lemon Forks": {},
+                        "Pasta Forks": {},
+                        "Pickle & Olive Forks": {},
+                        "Sardine Forks": {}
+                    },
+                    "Serving Spoons": {
+                        "Berry Spoons": {},
+                        "Casserole Spoons": {},
+                        "Cracker Spoons": {},
+                        "Olive Spoons": {},
+                        "Pierced Serving Spoons": {},
+                        "Rice & Potato Servers": {},
+                        "Sugar Spoons": {},
+                        "Tablespoons": {}
+                    },
+                    "Tongs": {
+                        "Buffet Tongs": {},
+                        "Ice Tongs": {},
+                        "Salad Tongs": {},
+                        "Sugar Tongs": {}
+                    }
+                },
+                "Serving Sets": {},
+                "Chests & Caddies": {}
+            },
+            "Glassware & Drinkware": {
+                "Beer Glasses": {},
+                "Beer Mugs & Steins": {},
+                "Cocktail Drinkware": {
+                    "Collins Glasses": {},
+                    "Drinking Jars": {},
+                    "Highball Glasses": {},
+                    "Hurricane Glasses": {},
+                    "Irish Coffee Glasses": {},
+                    "Margarita Glasses": {},
+                    "Martini Glasses": {},
+                    "Mint Julep Cups": {},
+                    "Moscow Mule Mugs": {},
+                    "Old Fashioned Glasses": {}
+                },
+                "Drinking Jars": {},
+                "Goblets & Chalices": {},
+                "Growlers": {},
+                "Iced Tea Glasses": {},
+                "Kiddush Cups & Sets": {},
+                "Liqueur & Spirits Glasses": {
+                    "Cordial Glasses": {},
+                    "Old Fashioned Glasses": {},
+                    "Shot Glasses": {},
+                    "Snifters": {}
+                },
+                "Mixed Drinkware Sets": {},
+                "Sake Cups": {},
+                "Sake Sets": {},
+                "Stemmed Water Glasses": {},
+                "Tumblers & Water Glasses": {},
+                "Wine & Champagne Glasses": {
+                    "Champagne Glasses": {},
+                    "Wine Glasses": {}
+                }
+            },
+            "Linen & Table Accessories": {
+                "Chair Covers": {},
+                "Cloth Napkins": {},
+                "Disposable Table Covers": {
+                    "Doilies": {},
+                    "Table Skirts": {}
+                },
+                "Place Mats": {},
+                "Table Pads": {},
+                "Table Runners": {},
+                "Tablecloths": {},
+                "Tabletop Accessories": {
+                    "Ashtrays": {},
+                    "Napkin Dispensers": {},
+                    "Napkin Rings": {},
+                    "Plate & Napkin Holders": {},
+                    "Spoon Rests": {},
+                    "Tabletop Signs": {},
+                    "Toothpick Dispensers": {},
+                    "Trivets & Underliners": {}
+                }
+            },
+            "Menu, Order & Reservation Supplies": {
+                "Check Presenters & Server Books": {},
+                "Guest Checks": {},
+                "Menu Covers": {},
+                "Menu Holders": {}
+            },
+            "Serveware & Accessories": {
+                "Beverage Serveware": {
+                    "Carafes & Pitchers": {},
+                    "Cream & Sugar": {
+                        "Cream & Sugar Sets": {},
+                        "Creamers": {},
+                        "Sugar Bowls": {},
+                        "Sugar Packet Holders": {}
+                    },
+                    "Decanters": {
+                        "Liquor Decanters": {},
+                        "Wine Decanters": {}
+                    },
+                    "Punch Bowls": {},
+                    "Iced Beverage Dispensers": {},
+                    "Teapots & Coffee Servers": {
+                        "Coffee Servers": {},
+                        "Coffee Serving Sets": {},
+                        "Coffee Urns": {},
+                        "Tea Sets": {},
+                        "Tea-For-One Sets": {},
+                        "Teapots": {}
+                    }
+                },
+                "Bread Baskets": {},
+                "Butter Dishes": {},
+                "Cake Stands": {},
+                "Condiment Racks": {},
+                "Condiment Squeeze Bottles": {},
+                "Cupcake Stands": {},
+                "Egg Cups": {},
+                "Gravy Boats & Stands": {
+                    "Gravy Boat & Stand Sets": {},
+                    "Gravy Boat Stands": {},
+                    "Gravy Boats": {}
+                },
+                "Plate Serving Covers": {},
+                "Salad Serving Sets": {},
+                "Serveware Accessories": {},
+                "Serving Bowls & Tureens": {
+                    "Centerpiece Bowls": {},
+                    "Compotes": {},
+                    "Condiment Pots": {},
+                    "Fruit Bowls": {},
+                    "Nut Bowls": {},
+                    "Serving Bowls": {},
+                    "Trifle Bowls": {},
+                    "Tureens": {},
+                    "Vegetable Bowls": {}
+                },
+                "Serving Dishes, Trays & Platters": {
+                    "Candy Dishes": {},
+                    "Celery, Pickle & Relish Dishes": {},
+                    "Chip & Dip Sets": {},
+                    "Deviled Egg Plates": {},
+                    "Divided Trays & Platters": {},
+                    "Olive Dishes": {},
+                    "Platters": {},
+                    "Serving Trays": {},
+                    "Taco Holders": {},
+                    "Tiered Trays & Platters": {},
+                    "Tortilla Servers": {}
+                }
+            }
+        }
+    },
+    "Hydraulics, Pneumatics & Plumbing": {
+        "Fittings": {
+            "Expansion Plugs": {},
+            "Flow Switches": {},
+            "Hose Fittings": {
+                "Barbed Fittings": {},
+                "Cam & Groove Fittings": {},
+                "Clamps": {
+                    "Band Clamps": {},
+                    "Ear Clamps": {},
+                    "Hose Clamping Tools": {},
+                    "Quick Release Clamps": {},
+                    "Snap Grip Clamps": {},
+                    "Spring Clamps": {},
+                    "T-Bolt Clamps": {
+                        "Spring Loaded": {},
+                        "Standard": {}
+                    },
+                    "Worm Gear Hose Clamps": {}
+                },
+                "Fire Hose Fittings": {},
+                "Push-On Fittings": {},
+                "Quick Connect Fittings": {},
+                "Universal Fittings": {}
+            },
+            "Manifold Fittings": {},
+            "Pipe Fittings": {},
+            "Tube Fittings": {
+                "Barbed Fittings": {
+                    "Elbow Fittings": {},
+                    "Fitting Kits": {},
+                    "Fitting Sleeves": {},
+                    "Manifold Fittings": {},
+                    "Press-In Plugs": {},
+                    "Reducer Fittings": {},
+                    "Straight Fittings": {},
+                    "Tee Fittings": {},
+                    "Y Fittings": {}
+                },
+                "Chromatography Fittings": {},
+                "Compression Fittings": {
+                    "Bulkhead Fittings": {},
+                    "Cap Fittings": {},
+                    "Cross Fittings": {},
+                    "Elbow Fittings": {},
+                    "Ferrule Fittings": {},
+                    "Nut Fittings": {},
+                    "Plug Fittings": {},
+                    "Tube Insert Fittings": {},
+                    "Union Fittings": {
+                        "Reducers": {},
+                        "Straights": {}
+                    }
+                },
+                "Flared Tube Fittings": {},
+                "Luer Fittings": {
+                    "Luer-to-Barbed Fittings": {
+                        "Bulkhead Fittings": {},
+                        "Cap Fittings": {},
+                        "Elbow Fittings": {},
+                        "Panel Mount Fittings": {},
+                        "Slip Fittings": {},
+                        "Straight Fittings": {},
+                        "Tee Fittings": {},
+                        "Y Fittings": {}
+                    },
+                    "Luer-to-Threaded Fittings": {
+                        "Bulkhead Fittings": {},
+                        "Cap Fittings": {},
+                        "Elbow Fittings": {},
+                        "Panel Mount Fittings": {},
+                        "Stopcock Fittings": {},
+                        "Straight Fittings": {},
+                        "Tee Fittings": {},
+                        "Y Fittings": {}
+                    },
+                    "Cap Fittings": {},
+                    "Injection Sites": {},
+                    "Lock Rings": {},
+                    "Nuts": {},
+                    "Plugs": {},
+                    "Stopcocks": {},
+                    "Straight Fittings": {},
+                    "Tee Fittings": {}
+                },
+                "Manifold Tube Fittings": {},
+                "Microbore Tubing Connectors": {},
+                "Push-to-Connect Fittings": {},
+                "Quick Connect Fittings": {
+                    "Quick-Connect-to-Barbed Fittings": {},
+                    "Quick-Connect-to-Threaded Fittings": {}
+                },
+                "Sanitary Fittings": {},
+                "Threaded Tube Fittings": {},
+                "Threaded-to-Barbed Fittings": {},
+                "Welded Tube Fittings": {
+                    "Reducer Tube Fittings": {},
+                    "Straight Tube Fittings": {},
+                    "Y Tube Fittings": {}
+                }
+            },
+            "Valves": {
+                "Ball Valves": {},
+                "Butterfly Valves": {},
+                "Check Valves": {},
+                "Control Valves": {},
+                "Diaphragm Valves": {},
+                "Filter Valves": {},
+                "Float Valves": {},
+                "Gate Valves": {},
+                "Globe Valves": {},
+                "Hydraulic Directional Control Valves": {},
+                "Needle Valves": {},
+                "Pinch Valves": {},
+                "Plug Valves": {},
+                "Pressure Regulators": {},
+                "Relief Valves": {},
+                "Solenoid Valves": {},
+                "Toggle Valves": {}
+            }
+        },
+        "Hose Nozzles": {
+            "Dispensing Nozzles": {},
+            "Fire Hose Nozzles": {},
+            "Washdown Nozzles": {}
+        },
+        "Hydraulic Equipment": {
+            "Adapters": {},
+            "Breather Caps": {},
+            "Couplings": {},
+            "Cylinders": {
+                "Lifting Cylinders": {},
+                "Accessories": {}
+            },
+            "Fittings": {},
+            "Gauges": {},
+            "Motors": {},
+            "Mounting Brackets": {},
+            "Pillow Blocks": {},
+            "Power Units": {},
+            "Pumps": {},
+            "Tanks & Reservoirs": {}
+        },
+        "Pneumatic Equipment": {
+            "Air Cylinders": {},
+            "Pneumatic Accessories": {}
+        },
+        "Protective Caps": {},
+        "Pumps & Accessories": {
+            "Centrifugal Pumps": {},
+            "Diaphragm Pumps": {},
+            "Drum Pumps": {},
+            "Flexible Impeller Pumps": {},
+            "Gear Pumps": {},
+            "Jet Pumps": {},
+            "Peristaltic Metering Pumps": {},
+            "Piston Pumps": {},
+            "Rotary Vane Pumps": {},
+            "Submersible Pumps": {}
+        },
+        "Push-In Plugs": {},
+        "Seals & O-Rings": {
+            "Bearing Isolators": {},
+            "Expansion Plugs": {},
+            "Gaskets": {
+                "Cured-in-Place Gaskets": {},
+                "Formed-in-Place Gaskets": {},
+                "Sheet Gaskets": {},
+                "Spiral Wound Gaskets": {},
+                "Spring Finger Gaskets": {},
+                "Tape Gaskets": {},
+                "Window Gaskets": {}
+            },
+            "O-Rings": {},
+            "Seals": {
+                "Bulb Seals": {},
+                "Diaphragm Seals": {},
+                "Labyrinth Seals": {},
+                "Lip Seals": {},
+                "Magnetic Seals": {},
+                "Mechanical Seals": {},
+                "Radial Shaft Seals": {},
+                "Rope Seals": {},
+                "Strapping Sealers": {},
+                "Strapping Seals": {},
+                "Tadpole Seals": {}
+            }
+        },
+        "Tubes, Pipes & Hoses": {
+            "Hoses": {
+                "Air Tool Hose Reels": {},
+                "Air Tool Hoses": {},
+                "Chemical Hoses": {},
+                "Duct Hoses": {},
+                "Food Grade Hoses": {},
+                "Hydraulic Hoses": {},
+                "Recoiling Hoses": {},
+                "Suction Hoses": {},
+                "Vacuum Hoses": {},
+                "Water Hoses": {}
+            },
+            "Pipes": {},
+            "Tubing": {
+                "Glass Tubing": {},
+                "Metal Tubing": {},
+                "Plastic Tubing": {},
+                "Rubber Tubing": {}
+            }
+        }
+    },
+    "Industrial Electrical": {
+        "Circuit Protection Products": {
+            "Circuit Breakers": {
+                "Arc Fault Circuit Breakers": {},
+                "Ground Fault Circuit Interrupters": {},
+                "Magnetic Circuit Breakers": {},
+                "Miniature Circuit Breakers": {},
+                "Thermal Circuit Breakers": {},
+                "Thermal-Magnetic Circuit Breakers": {}
+            },
+            "ESD Suppressors": {},
+            "Fuses": {
+                "Blade Fuses": {},
+                "Cartridge Fuses": {},
+                "Fuse Accessories": {},
+                "Fuse Blocks & Fuse Holders": {
+                    "Fuse Blocks": {},
+                    "Fuse Holders": {}
+                },
+                "Fuse Links": {},
+                "Plug Fuses": {}
+            },
+            "Gas Tube Arrestors": {},
+            "Thermistors": {},
+            "Varistors": {}
+        },
+        "Controls & Indicators": {
+            "Controllers": {
+                "Motor Speed Controllers": {},
+                "Phase Angle Controllers": {},
+                "Process Controllers": {},
+                "Thermostat Controllers": {}
+            },
+            "IO Modules": {},
+            "Indicator Lights": {},
+            "Industrial Motors": {
+                "Electric Motors": {
+                    "Fan Motors": {},
+                    "Mounts & Accessories": {
+                        "Mounts": {},
+                        "Accessories": {},
+                        "Controls": {}
+                    },
+                    "Permanent Magnet Motors": {}
+                },
+                "Hydraulic Motors": {},
+                "Pneumatic Motors": {}
+            },
+            "Industrial Switches": {
+                "Basic Switches": {},
+                "Current Switches": {},
+                "DIP Switches": {},
+                "Foot Switches": {},
+                "Key Operated Switches": {},
+                "Knife Switches": {},
+                "Limit Switches": {},
+                "Micro Switches": {},
+                "Pushbutton Switches": {},
+                "Reed Switches": {},
+                "Rocker Switches": {},
+                "Selector Switches": {},
+                "Slide Switches": {},
+                "Tactile Switches": {},
+                "Toggle Switches": {}
+            },
+            "Microphone Elements": {},
+            "Motion Actuated Switches": {},
+            "Motor Contactors": {},
+            "Motor Drives": {},
+            "Motor Starters": {},
+            "Relays": {
+                "Current Monitoring Relays": {},
+                "DIN Mount Relays": {},
+                "Electromechanical Relays": {},
+                "Overload Relays": {},
+                "PC Board Relays": {},
+                "Phase Monitoring Relays": {},
+                "Plug In Relays": {},
+                "Solid State Relays": {},
+                "Voltage Monitoring Relays": {}
+            },
+            "Solenoids": {},
+            "Tower Stack Lights": {}
+        },
+        "Decade Boxes": {},
+        "Fiber Optic Products": {
+            "Connectors": {},
+            "Transceivers": {},
+            "Transmitters": {}
+        },
+        "Lighting Components": {
+            "Ballasts": {},
+            "Light Bulbs": {
+                "Compact Fluorescent Bulbs": {},
+                "Fluorescent Tubes": {},
+                "Halogen Bulbs": {},
+                "High Intensity Discharge Bulbs": {},
+                "Incandescent Bulbs": {},
+                "Krypton & Xenon Bulbs": {},
+                "LED Bulbs": {},
+                "Black Light Bulbs": {}
+            },
+            "Light Sockets": {},
+            "Recessed Lighting": {
+                "Housings": {},
+                "Trim": {},
+                "Housing & Trim Kits": {}
+            }
+        },
+        "Optoelectronic Products": {
+            "Diode Lasers": {},
+            "Infrared Emitters": {},
+            "LED Equipment": {
+                "Edge Emitting LEDs": {},
+                "Super Luminescent LEDs": {},
+                "Surface Emitting LEDs": {}
+            },
+            "Lamp Holders": {},
+            "Lamps": {
+                "Arc Lamps": {},
+                "Fluorescent Lamps": {},
+                "HID Lamps": {},
+                "Incandescent Lamps": {},
+                "LED Lamps": {}
+            },
+            "Optocouplers": {},
+            "Optoelectronic Displays": {
+                "LCD Character Modules": {},
+                "LCD Dot Matrix Modules": {},
+                "LCD Graphic Displays": {},
+                "LCD Touch Panels": {},
+                "LED Segment Displays": {}
+            },
+            "Optoisolators": {},
+            "Optotransceivers": {},
+            "Photo Detectors": {}
+        },
+        "Passive Components": {
+            "Antennas": {},
+            "Attenuators": {
+                "Fiber Optic Attenuators": {},
+                "Radio Frequency Attenuators": {}
+            },
+            "Capacitors": {},
+            "Chokes": {},
+            "Coils": {},
+            "Crystals": {},
+            "Ferrites": {},
+            "Inductors": {},
+            "Oscillators": {},
+            "Resistors": {
+                "Fixed Resistors": {
+                    "Resistor Chip Arrays": {},
+                    "Resistor Networks": {},
+                    "Single Resistors": {}
+                },
+                "Variable Resistors": {
+                    "Potentiometers": {},
+                    "Rheostats": {}
+                }
+            },
+            "Resonators": {},
+            "Signal Filters": {
+                "Electromagnetic Interference Filters": {},
+                "Radio Frequency Filters": {}
+            },
+            "Switch Encoders": {},
+            "Transducers": {
+                "Current": {},
+                "Frequency": {},
+                "Piezo": {},
+                "Power": {},
+                "Temperature": {},
+                "Voltage": {}
+            },
+            "Transformers": {
+                "Audio Transformers": {},
+                "Power Transformers": {}
+            }
+        },
+        "Semiconductor Products": {
+            "Digital Signal Processors": {},
+            "Diodes": {
+                "Schottky Diodes": {},
+                "Varactor Diodes": {},
+                "Zener Diodes": {}
+            },
+            "Interfaces": {
+                "Communication Integrated Circuits": {},
+                "Electronic Line Receivers": {},
+                "Fiber Optic Transmitters": {},
+                "Prototyping Boards & Accessories": {},
+                "Radio Frequency Transceivers": {}
+            },
+            "Logic Products": {
+                "Logic Gates": {
+                    "AND": {},
+                    "Buffer": {},
+                    "Inverter": {},
+                    "NAND": {},
+                    "NOR": {}
+                },
+                "Programmable Logic Circuits": {}
+            },
+            "Memory Components": {},
+            "Microprocessors": {},
+            "Signal Components": {
+                "Amplifiers": {
+                    "Audio": {},
+                    "Comparator": {},
+                    "Current Sense": {},
+                    "Differential": {},
+                    "Instrumentation": {},
+                    "Isolation": {},
+                    "Logarithmic": {},
+                    "Variable Gain": {},
+                    "Video": {},
+                    "Voltage Feedback": {}
+                },
+                "Analog Multiplexers": {},
+                "Comparators": {},
+                "Digital Multiplexers": {},
+                "Signal Converters": {}
+            },
+            "Timing Management Products": {
+                "Clock Generators": {},
+                "Clock Integrated Circuits": {},
+                "Delay Lines": {},
+                "Phase Lock Loops": {},
+                "Timing Integrated Circuits": {}
+            },
+            "Transistors": {
+                "BJT": {},
+                "CMOS": {},
+                "Darlington": {},
+                "IGBT": {},
+                "JFET": {},
+                "MOSFET": {},
+                "RF": {},
+                "TEMPFET": {}
+            }
+        },
+        "Sensors": {
+            "Acceleration Sensors": {},
+            "Current Sensors": {},
+            "Flow Sensors": {},
+            "Hall Effect Sensors": {},
+            "Linear Sensors": {},
+            "Liquid Level Sensors": {},
+            "Motion Detectors": {},
+            "Optical Sensors": {},
+            "Photoelectric Sensors": {},
+            "Photomicrosensors": {},
+            "Pressure Sensors": {},
+            "Proximity Sensors": {
+                "Capacitive": {},
+                "Inductive": {},
+                "Ultrasonic": {}
+            },
+            "Switch Encoders": {},
+            "Temperature Sensors": {},
+            "Tilt Sensors": {},
+            "Vibration Sensors": {}
+        },
+        "Thermal Management Products": {
+            "Computer Heatsinks": {},
+            "Electronic Cooling Fans": {},
+            "Thermal Cutoffs": {}
+        },
+        "Wiring & Connecting": {
+            "Bulk Cables": {
+                "Coaxial Cables": {},
+                "Flat Ribbon Cables": {},
+                "Multiconductor Cables": {}
+            },
+            "Cable Assemblies": {
+                "Ethernet Cables": {
+                    "Cat 5 Cables": {},
+                    "Cat 5e Cables": {},
+                    "Cat 6 Cables": {},
+                    "Cat 7 Cables": {}
+                },
+                "Firewire Cables": {},
+                "Lightning Cables": {},
+                "Mini-SAS Cables": {},
+                "Modem Cables": {},
+                "Parallel Cables": {},
+                "Power Cables": {},
+                "PS/2 Cables": {},
+                "SATA Cables": {},
+                "SCSI Cables": {},
+                "Serial Cables": {},
+                "Thunderbolt Cables": {},
+                "USB Cables": {},
+                "VGA Cables": {}
+            },
+            "Connectors": {
+                "Circular Connectors": {
+                    "Cylindrical Connectors": {},
+                    "Miniature Cylindrical Connectors": {}
+                },
+                "Fiber Optic Connectors": {}
+            },
+            "Electrical Boxes, Conduits & Fittings": {
+                "Brackets": {},
+                "Conduits": {},
+                "Conduit Fittings": {},
+                "Conduit Mounts": {},
+                "Electrical Boxes": {},
+                "Outlet Boxes": {}
+            },
+            "Extension Cords": {},
+            "Heat-Shrink Tubing": {},
+            "IC Sockets & Plugs": {
+                "DIP Sockets": {},
+                "PLCC Sockets": {},
+                "SIP Sockets": {},
+                "SOIC Sockets": {}
+            },
+            "Isolation Transformers": {},
+            "Outlets": {
+                "Ground Fault Circuit Interrupter Outlets": {},
+                "Outlet Covers": {},
+                "Outlet Switches": {},
+                "Range Receptacles": {},
+                "RV Receptacles": {},
+                "Standard Outlets": {}
+            },
+            "Power Entry Modules": {},
+            "Terminal Blocks": {
+                "Actuator Blocks": {},
+                "Fuse Blocks": {},
+                "Ground Circuit Terminal Blocks": {},
+                "Sensor Blocks": {},
+                "Thermocouple Blocks": {}
+            },
+            "Terminals": {
+                "Butt": {},
+                "Disconnect": {},
+                "Flag": {},
+                "Hook": {},
+                "IDC Electrical": {},
+                "Multiple Stud": {},
+                "Rectangular": {},
+                "Ring": {},
+                "Screw": {},
+                "Snap Plug": {},
+                "Spade": {}
+            },
+            "Test Points": {},
+            "Wire": {}
+        }
+    },
+    "Industrial Hardware": {
+        "Biscuits & Plugs": {},
+        "Braces & Joist Hangers": {},
+        "Brackets": {},
+        "Bumpers": {
+            "Adhesive Bumpers": {},
+            "Threaded Bumpers": {}
+        },
+        "Catches": {},
+        "Chains": {
+            "Ball & Bead Chains": {},
+            "Chain Links": {},
+            "Loop Chains": {},
+            "Register Chains": {},
+            "Sash Chains": {},
+            "Twist Chains": {}
+        },
+        "Drawer Slides": {},
+        "Flexible Support Arms": {},
+        "Grommets": {
+            "Continuous Grommets": {},
+            "Extended Neck Washer Grommets": {},
+            "Grommet Kits": {},
+            "Plain Washer Grommets": {},
+            "Self-Piercing Grommets": {},
+            "Teeth Washer Grommets": {}
+        },
+        "Handles & Pulls": {
+            "Adjustable Handles": {},
+            "Ball-Knob Handles": {},
+            "Crank Handles": {},
+            "Folding Case & Instrument Handles": {},
+            "Pull Handles": {},
+            "Rope & Chain Pulls": {},
+            "Tapered Handles": {}
+        },
+        "Hasps": {},
+        "Hinges": {
+            "Bearing": {},
+            "Butt": {},
+            "Concealed": {},
+            "Continuous & Piano": {},
+            "Electric": {},
+            "Flag": {},
+            "Knife": {},
+            "Latch": {},
+            "Overlay": {},
+            "Pin": {},
+            "Pivot": {},
+            "Slip Joint & Lift-Off": {},
+            "Spring": {},
+            "Stop": {},
+            "Strap": {},
+            "T-Hinges": {},
+            "Weld-On": {}
+        },
+        "Hooks": {
+            "Magnetic Hooks": {},
+            "Nail-In Hooks": {},
+            "Over-the-Door Hooks": {},
+            "Pegboard Hooks": {},
+            "S-Hooks": {},
+            "Screw-In Hooks": {}
+        },
+        "Knobs & Hand Wheels": {
+            "Ball Knobs": {},
+            "Control Knobs": {},
+            "Fluted Knobs": {},
+            "Four Arm Knobs": {},
+            "Hand Wheels": {},
+            "Knurled Knobs": {},
+            "Push-Pull Knobs": {},
+            "Star Knobs": {},
+            "T-Knobs": {},
+            "Tapered Knobs": {},
+            "Trigon & Three Arm Knobs": {},
+            "Wing Knobs": {}
+        },
+        "Latches": {
+            "Cam": {},
+            "Compression": {},
+            "Draw & Tension": {},
+            "Hold-Down": {},
+            "Hook": {},
+            "Push-to-Close & Slam": {},
+            "Rotary": {}
+        },
+        "Lock Bolts": {},
+        "Snaps": {
+            "Bolt Snaps": {},
+            "Quick-Release Snaps": {},
+            "Spring Snaps": {},
+            "Trigger Snaps": {}
+        }
+    },
+    "Janitorial & Sanitation Supplies": {
+        "Cleaning Chemicals": {
+            "All-Purpose Cleaners": {},
+            "Bathroom Cleaners": {},
+            "Carpet Cleaners & Deodorizers": {},
+            "Cleaning Supply Dispensers": {},
+            "Degreasers": {},
+            "Dish Soap": {},
+            "Dishwasher Detergents": {},
+            "Disinfectants": {},
+            "Floor Cleaners": {},
+            "Glass Cleaners": {},
+            "Lab Detergents": {},
+            "Lab Glassware Washing Solutions": {}
+        },
+        "Cleaning Tools": {
+            "Cleaning Brushes": {},
+            "Cleaning Cloths": {},
+            "Dish Scouring Pads": {},
+            "Disposable Wipes": {},
+            "Dusting Tools": {
+                "Dust Mop Refill Pads": {},
+                "Dust Mops": {},
+                "Feather Dusters": {}
+            },
+            "Janitor & Housekeeping Carts": {},
+            "Lint Removers": {},
+            "Scouring Pads & Scrubbers": {},
+            "Sponges": {},
+            "Squeegees": {},
+            "Toilet Plungers & Holders": {}
+        },
+        "Floor Mats & Matting": {},
+        "Floor Stand Signs": {},
+        "Laundry Supplies": {
+            "Anti-Static Sprays": {},
+            "Bleach": {},
+            "Fabric Deodorizer": {},
+            "Fabric Softener": {},
+            "Laundry Detergent": {
+                "Liquid Detergent": {},
+                "Powder Detergent": {}
+            },
+            "Laundry Starch": {},
+            "Stain Removers": {}
+        },
+        "Mopping Supplies": {
+            "Dust Mops": {},
+            "Wet Mops": {},
+            "Buckets": {},
+            "Accessories": {
+                "Dust Mop Refill Pads": {},
+                "Mop Handles": {},
+                "Refill Sponges": {},
+                "Replacement Mop Heads": {}
+            }
+        },
+        "Odor & Drain Maintainers": {
+            "Air Fresheners": {},
+            "Drain Cleaning Equipment": {
+                "Drain Augers": {},
+                "Plungers": {}
+            },
+            "Drain Openers": {},
+            "Janitorial Deodorizers": {}
+        },
+        "Paper Products": {
+            "Facial Tissues": {},
+            "Paper Towels": {},
+            "Toilet Seat Covers": {},
+            "Toilet Tissue": {}
+        },
+        "Personal Care Products": {
+            "Feminine Hygiene Products": {},
+            "Hand Creams": {},
+            "Hand Lotions": {},
+            "Hand Sanitizers": {},
+            "Hand Soaps": {},
+            "Personal Care Product Dispensers": {},
+            "Sanitary Products Receptacles": {},
+            "Soap & Lotion Dispensers": {}
+        },
+        "Restroom Fixtures": {
+            "Baby Changing Stations": {},
+            "Commercial Bathroom Sink Faucets": {
+                "Touch On Faucets": {},
+                "Touchless Faucets": {},
+                "Replacement Parts": {}
+            },
+            "Commercial Paper Hand Towel Dispensers": {},
+            "Commercial Paper Hand Towel Holders": {},
+            "Commercial Toilet Bowls": {},
+            "Commercial Toilet Paper Holders": {},
+            "Commercial Toilets": {
+                "One-Piece Toilets": {},
+                "Two-Piece Toilets": {}
+            },
+            "Commercial Toilet Seat Cover Dispensers": {},
+            "Commercial Toilet Seats": {},
+            "Commercial Toilet Tanks": {},
+            "Commercial Toilet Tissue Dispensers": {},
+            "Commercial Urinals": {},
+            "Hand Dryers": {},
+            "Stall Parts": {}
+        },
+        "Sweeping Supplies": {
+            "Brooms": {
+                "Angle Brooms": {},
+                "Hand Brooms": {},
+                "Push Brooms": {}
+            },
+            "Dustpans": {},
+            "Broom Handles": {},
+            "Broom Heads": {}
+        },
+        "Vacuums & Floor Cleaning Machines": {
+            "Vacuums": {
+                "Canister Vacuums": {},
+                "Handheld Vacuums": {},
+                "Robotic Vacuums": {},
+                "Stick Vacuums & Electric Brooms": {},
+                "Upright Vacuums": {},
+                "Wet-Dry Vacuums": {}
+            },
+            "Vacuum Parts & Accessories": {
+                "Vacuum Bags": {
+                    "Canister Bags": {},
+                    "Handheld Bags": {},
+                    "Upright Bags": {}
+                },
+                "Vacuum Belts": {},
+                "Vacuum Covers": {},
+                "Vacuum Filters": {
+                    "Canister Filters": {},
+                    "Handheld Filters": {},
+                    "Upright Filters": {}
+                },
+                "Vacuum Fittings": {},
+                "Vacuum Hoses": {},
+                "Vacuum Light Bulbs": {},
+                "Vacuum Pads": {},
+                "Wet-Dry Vacuum Accessories": {}
+            },
+            "Floor Cleaning Machines": {
+                "Carpet Steamers": {},
+                "Carpet Sweepers": {},
+                "Floor Polishers": {}
+            },
+            "Floor & Carpet Cleaning Supplies": {
+                "Carpet Cleaners & Deodorizers": {},
+                "Carpet Steamer Accessories": {},
+                "Floor Cleaners": {},
+                "Floor Machine Pads": {},
+                "Rotary Floor Brushes & Pad Drivers": {}
+            }
+        },
+        "Waste Receptacles & Liners": {
+            "Outdoor Recycling Bins": {},
+            "Smoking Receptacles": {},
+            "Trash Bags & Liners": {
+                "Biohazard Waste Disposal Bags": {},
+                "Can Liners": {},
+                "Radioactive Waste Disposal Bags": {}
+            },
+            "Trash Cans": {},
+            "Trash Pickers": {}
+        }
+    },
+    "Lab & Scientific Products": {
+        "Glassware & Labware": {
+            "Ampules": {},
+            "Beakers": {},
+            "Burettes": {
+                "Automatic Burettes": {},
+                "Digital Burettes": {},
+                "Dispensing Burettes": {},
+                "Schellbach Burettes": {},
+                "Standard Burettes": {}
+            },
+            "Caps": {},
+            "Carboys": {},
+            "Condensers": {
+                "Allihn Condensers": {},
+                "Cold Finger Condensers": {},
+                "Dewar Condensers": {},
+                "Friedrich Condensers": {},
+                "Graham Condensers": {},
+                "Liebig Condensers": {},
+                "West Condensers": {}
+            },
+            "Crucibles": {},
+            "Cuvettes": {},
+            "Cylinders": {},
+            "Lab Bottles & Jars": {
+                "Centrifuge Bottles": {},
+                "Coplin Jars": {},
+                "Dispensing Bottles": {},
+                "Dispensing Needle Bottles": {},
+                "Dropping Bottles": {},
+                "Drying Jars": {},
+                "Environmental Bottles": {},
+                "Fluorinated Bottles": {},
+                "Media Bottles": {},
+                "Pump & Spray Bottles": {},
+                "Reagent Bottles": {},
+                "Roller Bottles": {},
+                "Serum Bottles": {},
+                "Wash Bottles": {},
+                "Weighing Bottles": {}
+            },
+            "Lab Bottletop Dispensers": {},
+            "Lab Dishes": {
+                "Cell Culture Dishes": {},
+                "Cellware Chambers": {},
+                "Cloning Rings": {},
+                "Evaporation Dishes": {},
+                "Lab Pitchers": {},
+                "Lab Trays": {},
+                "Petri Dishes": {},
+                "Watch Glasses": {},
+                "Weighing Dishes": {}
+            },
+            "Lab Flasks": {
+                "Boiling Flasks": {},
+                "Cell Culture Flasks": {},
+                "Dewar Flasks": {},
+                "Distillation Flasks": {},
+                "Erlenmeyer Flasks": {},
+                "Filtering Flasks": {},
+                "Freeze Dry Flasks": {},
+                "Kjeldahl Flasks": {},
+                "Reaction Kettle Flasks": {},
+                "Recovery Flasks": {},
+                "Spinner Flasks": {},
+                "Volumetric Flasks": {}
+            },
+            "Lab Funnels": {
+                "Addition Funnels": {},
+                "Buchner Funnels": {},
+                "Filling Funnels": {},
+                "Filtering Funnels": {},
+                "Long Stem Funnels": {},
+                "Separatory Funnels": {},
+                "Short Stem Funnels": {},
+                "Thistle Tube Funnels": {}
+            },
+            "Lab Tubes": {
+                "Capillary Tubes": {},
+                "Color Comparison Tubes": {},
+                "Culture Tubes": {},
+                "Drying Tubes": {},
+                "High-Speed Centrifuge Tubes": {},
+                "Microcentrifuge Tubes": {},
+                "NMR Tubes": {},
+                "PCR Tubes": {},
+                "Test Tubes": {}
+            },
+            "Lab Vials": {
+                "Autosampler Vials": {},
+                "Dilution Vials": {},
+                "Drosophila Vials": {},
+                "EPA Vials": {},
+                "Sample Vials": {},
+                "Scintillation Vials": {}
+            },
+            "Microplates": {
+                "Assay Microplates": {},
+                "Cell Culture Microplates": {},
+                "Coated Microplates": {},
+                "Filtering Microplates": {},
+                "Genomic Microplates": {},
+                "Nonbinding Microplates": {},
+                "Small Volume Microplates": {},
+                "Storage Microplates": {}
+            },
+            "Mortar & Pestles": {},
+            "Supports & Apparatus": {
+                "Clamp Holders": {},
+                "Distillation Apparatus": {},
+                "Lab Beaker Clamps": {},
+                "Support Rings": {},
+                "Test Tube Clamps": {}
+            }
+        },
+        "Lab Chemicals": {
+            "Acids": {},
+            "Alcohols": {},
+            "Analytical Reagents": {},
+            "Aqueous Solutions": {},
+            "Bases": {},
+            "Buffers": {},
+            "Caustics": {},
+            "Electrolyte Solutions": {},
+            "Inorganic Reagents": {},
+            "Organic Reagents": {},
+            "Phenols": {},
+            "Salts": {},
+            "Solvents": {},
+            "Standards": {},
+            "Surfactants & Detergents": {}
+        },
+        "Lab Filters": {
+            "Air Sampling Filters": {},
+            "Bottletop Filters": {},
+            "Cell Strainers": {},
+            "Centrifugal Filters": {},
+            "Filter Membrane": {},
+            "Glass Fiber Filters": {},
+            "Inline Filters": {},
+            "Qualitative Filter Paper": {},
+            "Quantitative Filter Paper": {},
+            "Syringe Filters": {},
+            "Ultrafiltration Filters": {}
+        },
+        "Lab Furniture": {
+            "Fume Hoods": {},
+            "Lab Benches": {},
+            "Lab Cabinets": {},
+            "Lab Carts": {},
+            "Lab Seats": {},
+            "Lab Desks": {},
+            "Lab Racks": {
+                "Bottle Racks": {},
+                "Drying Racks": {},
+                "Microcentrifuge Tube Racks": {},
+                "Pipette Racks": {},
+                "Tube Racks": {},
+                "Washing Racks": {}
+            },
+            "Lab Supply Dispensers": {},
+            "Lab Utility Islands": {},
+            "Storage Lockers": {}
+        },
+        "Lab Instruments & Equipment": {
+            "Cages & Aquariums": {
+                "Aquariums & Terrariums": {},
+                "Lab Cages & Restrainers": {}
+            },
+            "Centrifuges": {
+                "Benchtop Centrifuges": {},
+                "Benchtop Microcentrifuges": {},
+                "Centrifuge Rotors": {},
+                "Ultracentrifuges": {}
+            },
+            "Chromatography": {
+                "Chromatography Fittings": {},
+                "GC Columns & Column Supplies": {},
+                "LC Columns & Column Supplies": {},
+                "Thin Layer Chromatography (TLC)": {
+                    "Chromatography Paper": {},
+                    "TLC Developing Tanks": {},
+                    "TLC Plates": {},
+                    "TLC Sprayers": {}
+                }
+            },
+            "Electrochemistry Accessories": {},
+            "Evaporation & Drying Equipment": {
+                "Desiccators & Accessories": {
+                    "Non-Vacuum Desiccators": {},
+                    "Vacuum Desiccators": {},
+                    "Desiccants": {},
+                    "Desiccator Accessories": {}
+                },
+                "Evaporators & Accessories": {
+                    "Parallel Evaporators": {},
+                    "Rotary Evaporators": {},
+                    "Evaporator Accessories": {}
+                }
+            },
+            "Fluid & Liquid Handling": {
+                "Pipettes & Pipettors": {
+                    "Aspirating Pipettes": {},
+                    "Bacteriological Pipettes": {},
+                    "Diluter Dispensers": {},
+                    "Dropping Pipettes": {},
+                    "Electronic Pipettors": {},
+                    "Measuring Pipettes": {},
+                    "Microcapillary Pipettes": {},
+                    "Multichannel Pipettors": {},
+                    "Ostwald Folin Pipettes": {},
+                    "Pasteur Pipettes": {},
+                    "Pipette Tips": {
+                        "Filtering Pipette Tips": {},
+                        "Robotic Pipette Tips": {},
+                        "Specialty Pipette Tips": {},
+                        "Universal Pipette Tips": {}
+                    },
+                    "Pipetting Robotic Systems": {},
+                    "Pipettor Accessories": {},
+                    "Serological Pipettes": {},
+                    "Single Channel Pipettors": {},
+                    "Transfer Pipettes": {},
+                    "Volumetric Pipettes": {}
+                },
+                "Titrators": {}
+            },
+            "Gas Handling & Extraction": {
+                "Fume Hoods": {},
+                "Gas Handling Supplies": {}
+            },
+            "Heating & Cooling Equipment": {
+                "Autoclave Equipment": {
+                    "Autoclaves": {},
+                    "Autoclave Accessories": {}
+                },
+                "Burners & Heaters": {
+                    "Bunsen Burners": {},
+                    "Heating Mantles": {},
+                    "Hot Plates": {},
+                    "Immersion Heaters": {}
+                },
+                "Freeze Dryers": {},
+                "Furnace Equipment": {
+                    "Furnaces": {},
+                    "Furnace Accessories": {}
+                },
+                "Heat Blocks": {},
+                "Ice Makers": {},
+                "Incubators & Accessories": {
+                    "CO2 Incubators": {},
+                    "General Purpose Incubators": {},
+                    "Hybridization Incubators": {},
+                    "Incubator Accessories": {}
+                },
+                "Lab Baths & Accessories": {
+                    "Circulating Baths": {},
+                    "Water Baths": {},
+                    "Bath Accessories": {}
+                },
+                "Lab Refrigeration Equipment": {
+                    "Lab Coolers": {},
+                    "Lab Freezers": {},
+                    "Lab Refrigerators": {}
+                },
+                "Ovens & Accessories": {
+                    "Convection Ovens": {},
+                    "Vacuum Ovens": {},
+                    "Oven Accessories": {}
+                }
+            },
+            "Lab Scales & Balances": {
+                "Industrial Scales": {
+                    "Bench Scales": {},
+                    "Crane Scales": {},
+                    "Floor Scales": {},
+                    "Spring Scales": {}
+                },
+                "Laboratory Balances": {
+                    "Analytical Balances": {},
+                    "Mechanical Balances": {},
+                    "Moisture Balances": {},
+                    "Toploading Balances": {}
+                },
+                "Scale & Balance Parts & Accessories": {
+                    "Calibration Weights": {},
+                    "Scale & Balance Parts": {},
+                    "Scale & Balance Accessories": {}
+                }
+            },
+            "Light Sources": {},
+            "Meters": {
+                "Anemometers": {},
+                "Barometers": {},
+                "Calorimeters": {},
+                "Colorimeters": {},
+                "Electroscopes & Van de Graffs": {},
+                "Flowmeters": {},
+                "Fluorometers": {},
+                "Hydrometers": {},
+                "Light Meters & Photometers": {},
+                "Luminometers": {},
+                "Multiparameter Meters": {},
+                "Osmometers": {},
+                "Refractometers": {},
+                "Spectrometers": {},
+                "Spectrophotometer & Colorimeter Accessories": {},
+                "Spectrophotometers": {},
+                "Surface Tension Meters": {},
+                "Turbidity Meters": {},
+                "Viscometers": {},
+                "pH Meters": {}
+            },
+            "Microscopes & Equipment": {
+                "Microscopes": {
+                    "Compound Microscopes": {
+                        "Compound Monocular Microscopes": {},
+                        "Compound Binocular Microscopes": {},
+                        "Compound Trinocular Microscopes": {}
+                    },
+                    "USB Microscopes": {},
+                    "Stereo Microscopes": {}
+                },
+                "Microscope Accessories": {
+                    "Lens Adapters": {},
+                    "Lenses": {},
+                    "Slide Cover Slips": {},
+                    "Slide Holders": {},
+                    "Slides": {}
+                }
+            },
+            "Mixing & Blending Equipment": {
+                "Homogenizer Equipment": {
+                    "Homogenizers": {},
+                    "Homogenizer Accessories": {}
+                },
+                "Lab Shakers & Accessories": {
+                    "Orbital Shakers": {},
+                    "Reciprocating Shakers": {},
+                    "Rocking Shakers": {},
+                    "Shaker Accessories": {},
+                    "Vortex Shakers": {},
+                    "Wrist Action Shakers": {}
+                },
+                "Stirrers, Mixers & Accessories": {
+                    "Stirrer Bars": {},
+                    "Stirrers": {},
+                    "Mixers": {},
+                    "Stirrer Accessories": {}
+                }
+            },
+            "Power Supplies": {},
+            "Spectrometry": {
+                "Spectrometer Accessories": {},
+                "Spectrometers": {},
+                "Spectrophotometers": {}
+            },
+            "Vacuum & Pump Equipment": {
+                "Lab Pumps & Accessories": {
+                    "Aspirator Pumps": {},
+                    "Dosing Pumps": {},
+                    "Vacuum Pumps": {},
+                    "Lab Pump Accessories": {}
+                },
+                "Vacuum Chambers": {},
+                "Vacuum Traps": {}
+            },
+            "Water Purification Equipment": {
+                "Water Purification Systems": {},
+                "Water Purification System Accessories": {}
+            }
+        },
+        "Lab Supplies & Consumables": {
+            "Autoradiography Supplies": {},
+            "Dialysis Supplies": {},
+            "Lab Cleaning Supplies": {
+                "Glassware Washers": {},
+                "Lab Cleaning Brushes": {
+                    "Antistatic Brushes": {},
+                    "Beaker Cleaning Brushes": {},
+                    "Tube Cleaning Brushes": {}
+                },
+                "Lab Cleaning Chemicals": {
+                    "Lab Detergents": {},
+                    "Lab Glassware Washing Solutions": {}
+                },
+                "Ultrasonic Cleaner Solutions": {},
+                "Ultrasonic Cleaners": {}
+            },
+            "Lab Consumables": {
+                "Boiling Stones": {},
+                "Desiccants": {},
+                "Lab Filters": {
+                    "Air Sampling Filters": {},
+                    "Bottletop Filters": {},
+                    "Cell Strainers": {},
+                    "Centrifugal Filters": {},
+                    "Filter Membrane": {},
+                    "Glass Fiber Filters": {},
+                    "Inline Filters": {},
+                    "Qualitative Filter Paper": {},
+                    "Quantitative Filter Paper": {},
+                    "Syringe Filters": {},
+                    "Ultrafiltration Filters": {}
+                },
+                "Lab Stationery": {},
+                "Lab Stoppers": {
+                    "Cap Plugs": {},
+                    "Corks": {},
+                    "Rubber Stoppers": {}
+                },
+                "Lab Swabs": {},
+                "Lab Weights": {},
+                "pH Test Strips": {},
+                "Sample Bags": {}
+            },
+            "Lab Utensils": {
+                "Cell Scrapers & Spreaders": {},
+                "Dispensing Needles & Accessories": {},
+                "Dissection Equipment": {
+                    "Dissection Instruments": {},
+                    "Dissection Kits": {},
+                    "Dissection Pans": {}
+                },
+                "Lab Knives & Scalpels": {},
+                "Lab Ladles": {},
+                "Lab Samplers": {},
+                "Lab Scissors": {},
+                "Lab Scoops": {},
+                "Lab Spatulas": {},
+                "Lab Spoons": {},
+                "Lab Tongs": {
+                    "Beaker Tongs": {},
+                    "Crucible Tongs": {},
+                    "Test Tube Clamps": {}
+                },
+                "Lab Tweezers": {},
+                "Sharps Containers": {},
+                "Sieves": {},
+                "Stirring Rods": {},
+                "Syringe Needles": {},
+                "Syringes": {
+                    "Gas-Tight Syringes": {},
+                    "Sample Injection Syringes": {}
+                }
+            }
+        },
+        "Life Science Supplies": {
+            "Antigens": {},
+            "Assay Kits": {},
+            "Biomolecules": {
+                "Antibodies": {},
+                "Enzymes": {},
+                "Nucleic Acids": {
+                    "cDNA": {},
+                    "RNA": {}
+                },
+                "Proteins": {
+                    "Natural Proteins": {},
+                    "Recombinant Proteins": {}
+                }
+            },
+            "DNA & RNA Extraction Kits": {},
+            "Dyes, Fluorophores & Stains": {}
+        }
+    },
+    "Material Handling Products": {
+        "Cable Ties": {},
+        "Casters": {
+            "Ball Casters": {},
+            "Plate Casters": {},
+            "Stem Casters": {}
+        },
+        "Coil Chains": {},
+        "Drum & Pail Handling Equipment": {
+            "Deheaders": {},
+            "Drums": {},
+            "Faucets": {},
+            "Heaters": {},
+            "Lids": {},
+            "Liners": {},
+            "Mixers": {},
+            "Openers & Closers": {},
+            "Pails": {}
+        },
+        "Drywall Lifts": {},
+        "Forklift Booms": {},
+        "Forklifts": {},
+        "HVAC Equipment": {
+            "HVAC Blowers": {},
+            "HVAC Condensate Pumps": {},
+            "HVAC Controls": {},
+            "HVAC Fans & Circulators": {}
+        },
+        "Hydraulic Lifting Cylinders": {},
+        "Hydraulic Lifting Pumps": {},
+        "Industrial Light Towers": {},
+        "Industrial Magnets": {
+            "Alnico Magnets": {},
+            "Ceramic Magnets": {},
+            "Flexible Magnets": {},
+            "Rare Earth Magnets": {}
+        },
+        "Load Binders": {},
+        "Loading Dock Bumpers": {},
+        "Loading Dock Levelers": {},
+        "Loading Dock Plates": {},
+        "Loading Dock Wheel Chocks": {},
+        "Material Transport Equipment": {
+            "Dollies": {},
+            "Hand Trucks": {},
+            "Pallet Jacks & Trucks": {},
+            "Panel Carriers": {},
+            "Platform Trucks": {},
+            "Service Carts": {},
+            "Wheelbarrows": {}
+        },
+        "Pallet Strappers": {},
+        "Pallets": {},
+        "Personnel Lifts": {
+            "Boom Lifts": {},
+            "Scissor Lifts": {},
+            "Vertical Mast Lifts": {}
+        },
+        "Pneumatic Equipment": {
+            "Air Cylinders": {},
+            "Pneumatic Accessories": {}
+        },
+        "Pulling & Lifting": {
+            "Cable & Wire Rope": {},
+            "Chain & Rope Fittings": {
+                "Chain & Rope Snaps": {},
+                "Chain Links": {},
+                "Grab Hooks": {},
+                "S-Hooks": {},
+                "Shackles": {},
+                "Slip Hooks": {},
+                "Swivels": {},
+                "Turnbuckles": {},
+                "Wire Rope Clamps": {},
+                "Wire Rope Clips": {},
+                "Wire Rope Eye Fittings": {},
+                "Wire Rope Sleeves": {},
+                "Wire Rope Thimbles": {}
+            },
+            "Festoon Kits": {},
+            "Fibrous Rope": {},
+            "Grab Hooks": {},
+            "Hoist Rings": {},
+            "Hoists & Accessories": {
+                "Beam Trolleys": {},
+                "Manual Hoists": {
+                    "Hand Chain Hoists": {},
+                    "Lever Hoists": {},
+                    "Ratchet Puller Hoists": {}
+                },
+                "Power Hoists": {
+                    "Air Hoists": {},
+                    "Electric Hoists": {}
+                },
+                "Hoist Accessories": {}
+            },
+            "Jacks & Accessories": {
+                "Bottle Jacks": {},
+                "Floor Jacks": {},
+                "Pump Jacks": {},
+                "Tongue Jacks": {},
+                "Accessories": {}
+            },
+            "Lift Magnets": {},
+            "Lift Tables": {},
+            "Lifting Clamps": {},
+            "Lifting Cranes": {
+                "Bridge": {},
+                "Gantry": {},
+                "Hydraulic": {},
+                "Jib": {},
+                "Winch": {}
+            },
+            "Material Lifts": {},
+            "Pullers": {
+                "Bearing Pullers": {},
+                "Jaw Pullers": {},
+                "Puller Sets": {},
+                "Special Application Pullers": {},
+                "Steering Wheel Pullers": {}
+            },
+            "Pulley Blocks": {
+                "Mounted": {},
+                "Shell": {},
+                "Snatch": {}
+            },
+            "Sheaves": {},
+            "Slings": {
+                "Chain": {},
+                "Round": {},
+                "Web": {},
+                "Wire Rope": {}
+            },
+            "Winches": {
+                "Manual Winches": {},
+                "Power Winches": {
+                    "Electric Winches": {},
+                    "Hydraulic Winches": {},
+                    "Pneumatic Winches": {}
+                },
+                "Snatch Pulley Blocks": {}
+            }
+        },
+        "Ramps": {},
+        "Roller Stands": {},
+        "Securing Straps": {},
+        "Shelves & Racking Systems": {
+            "Storage Racks": {},
+            "Rack Accessories": {},
+            "Utility Shelves": {}
+        },
+        "Wheels": {
+            "Conveyor & Skate Wheels": {},
+            "Drive Rollers & Contact Wheels": {},
+            "Flanged Track Wheels": {},
+            "Pallet Jack & Lift Truck Wheels": {},
+            "Pneumatic Wheels": {},
+            "V-Grooved Wheels": {}
+        }
+    },
+    "Occupational Health & Safety Products": {
+        "Emergency Response Equipment": {
+            "Defibrillators": {},
+            "Emergency Blankets": {},
+            "Eye Wash Units": {},
+            "Fall Protection": {
+                "Fall Arrest Kits": {},
+                "Restraint Ropes & Lanyards": {},
+                "Safety Clips": {},
+                "Safety Harnesses": {}
+            },
+            "Fire Extinguishers": {},
+            "First Aid Kits": {},
+            "Lab Showers": {},
+            "Stretchers": {}
+        },
+        "Facility Safety Products": {
+            "Emergency Light Fixtures": {},
+            "Emergency Light Sticks": {},
+            "Eye Wash Units": {},
+            "Eyewash Solution": {},
+            "Floor Matting": {},
+            "Safety Barriers": {
+                "Chain Barriers": {},
+                "Cones": {},
+                "Rope Barriers": {}
+            },
+            "Showers": {},
+            "Warning Alarms": {},
+            "Warning Lights": {}
+        },
+        "Hazardous Material Handling": {
+            "Biohazardous Waste Containers": {},
+            "ESD Supplies": {},
+            "Geiger Counters": {},
+            "Hazardous Storage Equipment": {
+                "Cabinets": {},
+                "Cans": {},
+                "Drums": {},
+                "Lockers": {}
+            },
+            "Lab Matting": {},
+            "Radiation Protection Supplies": {},
+            "Radioactive Labels": {},
+            "Safety Storage Cabinets": {},
+            "Secondary Containment Equipment": {},
+            "Spill Control Supplies": {},
+            "Spill Response Kits": {},
+            "Waste Disposal Bags": {
+                "Biohazard Waste Disposal Bags": {},
+                "Radioactive Waste Disposal Bags": {}
+            }
+        },
+        "Lockout & Tagout Products": {
+            "Devices": {},
+            "Kits": {},
+            "Padlocks & Hasps": {
+                "Cables & Chains": {},
+                "Combination Padlocks": {},
+                "Hasps": {},
+                "Keyed Padlocks": {}
+            },
+            "Tags": {}
+        },
+        "Personal Protective Equipment": {
+            "Ergonomic Supports": {
+                "Ankle Supports": {},
+                "Back Supports": {},
+                "Hand & Wrist Braces": {},
+                "Kneepads": {}
+            },
+            "Eye Protection": {
+                "Safety Goggles & Glasses": {},
+                "Eyewear Retainers": {},
+                "Eye Protection Accessories": {}
+            },
+            "Face Protection": {
+                "Beard Covers": {},
+                "Masks & Respirators": {
+                    "Cartridges & Filters": {},
+                    "Respirator Parts": {},
+                    "Respirators": {},
+                    "Safety Masks": {}
+                },
+                "Safety Face Shields": {},
+                "Welding Helmets": {}
+            },
+            "Fall Protection": {
+                "Fall Arrest Kits": {},
+                "Restraint Ropes & Lanyards": {},
+                "Safety Clips": {},
+                "Safety Harnesses": {}
+            },
+            "Hand & Arm Protection": {
+                "Finger Cots": {},
+                "Lab, Safety & Work Gloves": {
+                    "Anti-Vibration Gloves": {},
+                    "Chemical Resistant Gloves": {},
+                    "Cleanroom Gloves": {},
+                    "Controlled Environment Gloves": {},
+                    "Cryogenic Gloves": {},
+                    "Cut Resistant Gloves": {},
+                    "Disposable Gloves": {
+                        "Non-Sterile Gloves": {},
+                        "Sterile Gloves": {}
+                    },
+                    "Glove Liners": {},
+                    "Impact Reducing Gloves": {},
+                    "Safety Work Gloves": {},
+                    "Welding Gloves": {}
+                },
+                "Oven Mitts": {},
+                "Sleeves": {}
+            },
+            "Head Protection": {
+                "Caps, Hoods & Hairnets": {},
+                "Hard Hats": {},
+                "Hard Hat Accessories": {},
+                "Welding Helmets": {}
+            },
+            "Hearing Protection": {
+                "Earplugs": {},
+                "Safety Ear Muffs": {},
+                "Ear Protection Accessories": {}
+            },
+            "Masks & Respirators": {
+                "Cartridges & Filters": {},
+                "Respirator Parts": {},
+                "Respirators": {},
+                "Safety Masks": {}
+            },
+            "Protective Workwear": {
+                "Controlled Environment Disposable Apparel": {},
+                "Safety Apparel": {
+                    "Aprons": {},
+                    "Coveralls": {},
+                    "Gowns": {},
+                    "Jackets": {},
+                    "Overalls": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Vests": {}
+                }
+            },
+            "Safety Footwear": {
+                "Men's Safety Shoes": {},
+                "Women's Safety Shoes": {},
+                "Boot & Shoe Covers": {}
+            }
+        },
+        "Safety Signs & Signals": {
+            "Flags": {},
+            "Floor Markers": {},
+            "Pipe Markers": {},
+            "Safety Barriers": {
+                "Chain Barriers": {},
+                "Cones": {},
+                "Rope Barriers": {}
+            },
+            "Safety Mirrors": {},
+            "Safety Tape": {},
+            "Signs": {},
+            "Warning Alarms": {},
+            "Warning Lights": {}
+        },
+        "Safety Training": {
+            "Safety Training Booklets": {},
+            "Safety Training DVDs & Videos": {},
+            "Safety Training Kits": {},
+            "Safety Training Signs & Posters": {}
+        }
+    },
+    "Packaging & Shipping Supplies": {
+        "Bubble Pack Supplies": {
+            "Bubble Wrap": {},
+            "Dispensers": {},
+            "Pouches": {}
+        },
+        "Carton Sealing Tape": {},
+        "Carton Sealing Tape Dispensers": {},
+        "Corrugated Boxes": {},
+        "Corrugated Pads": {},
+        "Dunnage & Protectors": {
+            "Packaging Air Bags": {},
+            "Packaging Edge Protectors": {},
+            "Packaging Foam": {},
+            "Packaging Newsprint": {},
+            "Packaging Peanuts": {}
+        },
+        "Industrial Shrink Wrap Supplies": {
+            "Shrink Wrap": {},
+            "Shrink Wrap Machines": {}
+        },
+        "Industrial Stretch Wrap Supplies": {
+            "Stretch Wrap": {},
+            "Stretch Wrap Dispensers": {}
+        },
+        "Labels & Labeling Equipment": {
+            "Desktop Thermal Label Printers": {},
+            "Industrial Label Makers": {},
+            "Industrial Labeling Tape": {},
+            "Industrial Labels": {}
+        },
+        "Mailers": {
+            "Bulk Envelope Mailers": {},
+            "CD, DVD & Media Mailers": {},
+            "Mailing Tubes": {}
+        },
+        "Packaging Labels & Tags": {
+            "Inventory Labels": {},
+            "Packing List Envelopes": {},
+            "Shipping & Handling Labels": {},
+            "Shipping Label Dispensers": {},
+            "Shipping Tags": {},
+            "Shipping Seals": {}
+        },
+        "Poly & Plastic Packaging Bags": {},
+        "Strapping": {}
+    },
+    "Power & Hand Tools": {
+        "Industrial Hand Tools": {
+            "Chisels": {
+                "Concrete Chisels": {},
+                "Masonry Chisels": {},
+                "Metalworking Chisels": {},
+                "Wood Chisels": {}
+            },
+            "Cutters": {
+                "Bolt Cutters": {},
+                "Pipe Cutters": {},
+                "Rebar Cutters & Benders": {},
+                "Tile Cutters": {},
+                "Tube Cutters": {},
+                "Wire Cutters": {},
+                "Wire Rope Cutters": {}
+            },
+            "Hammers": {
+                "Ball-Peen Hammers": {},
+                "Claw Hammers": {},
+                "Dead-Blow Hammers": {},
+                "Drilling Hammers": {},
+                "Drywall Hammers": {},
+                "Engineers' Hammers": {},
+                "Hammer Handles": {},
+                "Hammer Holsters": {},
+                "Mallets": {},
+                "Masonry Hammers": {},
+                "Shingle Hammers": {},
+                "Sledgehammers": {},
+                "Tack Hammers": {},
+                "Welding Hammers": {}
+            },
+            "Knives": {
+                "Knife Blades": {},
+                "Fixed-Blade Knives": {},
+                "Pocket Knives & Folding Knives": {},
+                "Hunting Knives": {
+                    "Fixed Blade Hunting Knives": {},
+                    "Folding Hunting Knives": {}
+                },
+                "Knife Sheaths": {},
+                "Utility Knives": {},
+                "Knife Sets": {},
+                "Tactical Knives": {}
+            },
+            "Nippers & Snips": {},
+            "Pliers": {
+                "Vise Grips & Locking Pliers": {},
+                "Needle-Nose Pliers": {},
+                "Plier Sets": {},
+                "Side-Cutting Pliers": {},
+                "Slip-Joint Pliers": {},
+                "Snap-Ring Pliers": {},
+                "Tongue-and-Groove Pliers": {}
+            },
+            "Scissors & Shears": {},
+            "Screwdrivers": {},
+            "Sockets & Socket Sets": {
+                "Individual Drive Sockets": {
+                    "Square Drive": {},
+                    "Star Drive": {},
+                    "Triple Square Drive": {}
+                },
+                "Drive Socket Sets": {},
+                "Socket & Socket Wrench Sets": {},
+                "Socket Wrenches": {}
+            },
+            "Strippers & Crimpers": {
+                "Shingle Removers": {},
+                "Wire Strippers": {}
+            },
+            "Tackers & Staplers": {},
+            "Tape Measures": {},
+            "Tool Sets": {},
+            "Wrenches": {
+                "Adjustable Wrenches": {},
+                "Box Wrenches": {},
+                "Combination Wrenches": {},
+                "Hex Keys": {},
+                "Open-End Wrenches": {},
+                "Pipe Wrenches": {},
+                "Socket Wrenches": {},
+                "Torque Wrenches": {},
+                "Wrench Sets": {}
+            }
+        },
+        "Industrial Power Tools": {
+            "Band Saws": {},
+            "Drill Presses": {
+                "Benchtop Drill Presses": {},
+                "Magnetic Drill Presses": {},
+                "Mortisers": {},
+                "Stationary Drill Presses": {}
+            },
+            "Drills": {
+                "Core Drills": {},
+                "Demolition Drills & Hammers": {
+                    "Hammer Drills": {},
+                    "Rotary Hammers": {}
+                },
+                "Drill Drivers": {},
+                "Right-Angle Drills": {},
+                "Screw Guns": {}
+            },
+            "Grinders": {
+                "Angle Grinders": {},
+                "Bench Grinders": {},
+                "Die Grinders": {},
+                "Straight Grinders": {}
+            },
+            "Lathes": {
+                "Metal Lathes": {},
+                "Wood Lathes": {}
+            },
+            "Milling Machines": {},
+            "Nailers & Staplers": {
+                "Nailers": {
+                    "Brad Nailers": {},
+                    "Finish Nailers": {},
+                    "Flooring Nailers": {},
+                    "Framing Nailers": {},
+                    "Pinners": {},
+                    "Roofing Nailers": {},
+                    "Siding Nailers": {}
+                },
+                "Staplers": {
+                    "Construction Staplers": {},
+                    "Finish Staplers": {},
+                    "Upholstery Staplers": {}
+                }
+            },
+            "Nibblers": {},
+            "Press Brakes": {},
+            "Rotary Hammers": {},
+            "Rotary Tools": {},
+            "Sand Blasters": {},
+            "Sanders": {
+                "Belt Sanders": {},
+                "Combination Disc & Belt Sanders": {},
+                "Detail Sanders": {},
+                "Disc Sanders": {},
+                "Drum Sanders": {},
+                "Random-Orbit Sanders": {},
+                "Sheet Sanders": {},
+                "Spindle Sanders": {}
+            },
+            "Screw Guns": {},
+            "Shears": {},
+            "Welding & Soldering": {
+                "Soldering & Brazing Equipment": {
+                    "Soldering Guns & Irons": {
+                        "Guns": {},
+                        "Irons": {},
+                        "Torches": {}
+                    },
+                    "Soldering Stations": {},
+                    "Brazing Torches": {},
+                    "Heat Guns": {},
+                    "Solder & Flux": {
+                        "Solder": {},
+                        "Soldering Flux": {},
+                        "Brazing Flux": {},
+                        "Brazing Rods": {}
+                    },
+                    "Fume & Smoke Extraction": {
+                        "Extractors": {},
+                        "Extractor Filters": {},
+                        "Extractor Accessories": {}
+                    },
+                    "Parts & Accessories": {
+                        "Brazing Kits": {},
+                        "Desoldering Pumps": {},
+                        "Desoldering Wicks": {},
+                        "Inserters & Extractors": {
+                            "Extraction Tools": {},
+                            "Insertion-Extraction Tools": {}
+                        },
+                        "Tips": {},
+                        "Tip Cleaners": {}
+                    }
+                },
+                "Welding Equipment": {
+                    "Welding Systems": {},
+                    "Welding Equipment & Accessories": {
+                        "Arc Welding Equipment": {
+                            "Clamps": {},
+                            "Electrode Holders": {},
+                            "Kits": {},
+                            "Nozzles": {},
+                            "Plasma Arc Cutting Equipment": {},
+                            "Rods": {},
+                            "Stick Electrodes": {},
+                            "Tips": {}
+                        },
+                        "Cable": {},
+                        "Clamps": {},
+                        "Gas Welding Equipment": {
+                            "Fuel Cylinders": {},
+                            "Gas Regulators": {},
+                            "Hoses": {},
+                            "Kits": {},
+                            "Tips": {},
+                            "Torches": {},
+                            "Valves": {}
+                        },
+                        "MIG Welding Equipment": {},
+                        "Plasma Cutting Equipment": {},
+                        "Spot Welding Equipment": {},
+                        "TIG Welding Equipment": {},
+                        "Tip Cleaners": {},
+                        "Welding Wire": {}
+                    },
+                    "Protective Equipment": {
+                        "Welding Blankets": {},
+                        "Welding Gloves": {},
+                        "Welding Helmets": {},
+                        "Welding Screens": {}
+                    }
+                }
+            }
+        },
+        "Workholding": {
+            "Angle Clamps": {},
+            "C-Clamps": {},
+            "Collets": {},
+            "Edge Clamps": {},
+            "Hand-Screw Clamps": {},
+            "Horizontal Hold Down Clamps": {},
+            "Pneumatic Clamps": {
+                "Pneumatic Swing Line Clamps": {},
+                "Pneumatic Hold Down Clamps": {}
+            },
+            "Spreader Clamps": {},
+            "Spring Clamps": {},
+            "Spring Plungers": {
+                "Ball Nose": {},
+                "Hex Nose": {},
+                "Push Fit Ball Nose": {},
+                "Push Fit Round Nose": {}
+            },
+            "Squeeze Action Clamps": {},
+            "Strap Clamps": {},
+            "Toggle Clamps": {},
+            "Vertical Hold Down Clamps": {},
+            "Vises": {
+                "Bench Vises": {},
+                "Pin Vises": {}
+            }
+        }
+    },
+    "Power Transmission Products": {
+        "Bearings": {
+            "Air Bearings": {},
+            "Ball Bearings": {
+                "Radial Ball Bearings": {
+                    "Angular Contact Bearings": {},
+                    "Deep-Groove Ball Bearings": {}
+                },
+                "Self-Aligning Ball Bearings": {},
+                "Thin-Section Ball Bearings": {},
+                "Thrust Ball Bearings": {}
+            },
+            "Ball Transfers": {},
+            "Bearing Housings": {},
+            "Bushings & Bushed Bearings": {
+                "Flanged Sleeve Bearings": {},
+                "Quick Disconnect Bushings": {},
+                "Sleeve Bearings": {},
+                "Split-Tapered Locking Bushings": {},
+                "Tapered Locking Bushings": {}
+            },
+            "Flexure Bearings & Pivot Bearings": {},
+            "Fluid Bearings": {},
+            "Insert Bearings": {},
+            "Jewel Bearings": {},
+            "Linear Bearings": {
+                "Linear Ball Bearings": {},
+                "Linear Roller Bearings": {},
+                "Track Runner Bearings": {}
+            },
+            "Magnetic Bearings": {},
+            "Mounted Bearings": {
+                "Cartridge Block Bearings": {},
+                "Flange Block Bearings": {},
+                "Hanger Bearings": {},
+                "Pillow Block Bearings": {},
+                "Take-Up Block Bearings": {}
+            },
+            "Precision Balls": {},
+            "Rod End Bearings": {},
+            "Roller Bearings": {
+                "Crossed": {},
+                "Cylindrical": {},
+                "Needle": {},
+                "Spherical": {},
+                "Tapered": {},
+                "Thrust": {}
+            }
+        },
+        "Belts": {
+            "Belt & Chain Tensioners": {},
+            "Conveyor Belts": {},
+            "Flat Belts": {},
+            "Round & O-Ring Belts": {},
+            "Timing Belts": {},
+            "V-Belts": {}
+        },
+        "Brakes & Clutches": {
+            "Assemblies": {
+                "Electric": {},
+                "Hydraulic": {},
+                "Mechanical": {},
+                "Pneumatic": {}
+            },
+            "Brakes": {
+                "Electric": {},
+                "Hydraulic": {},
+                "Mechanical": {},
+                "Pneumatic": {}
+            },
+            "Clutches": {
+                "Electric": {},
+                "Hydraulic": {},
+                "Mechanical": {},
+                "Pneumatic": {}
+            },
+            "Linear Brakes": {},
+            "Torque Limiters & Slip Clutches": {},
+            "Accessories": {}
+        },
+        "Chains": {
+            "Roller Chains": {},
+            "Silent Chains": {}
+        },
+        "Control Cables & Accessories": {
+            "Accessories": {},
+            "Assemblies": {},
+            "Control Cables": {}
+        },
+        "Couplings, Collars & Universal Joiners": {
+            "Flexible Couplings": {
+                "Beam": {},
+                "Bellows": {},
+                "Coil Spring": {},
+                "Disc": {},
+                "Double Loop": {},
+                "Gear & Sleeve": {},
+                "Grid": {},
+                "Multi-Flex": {},
+                "Pinhole Disc": {},
+                "Roller Chain": {},
+                "Shear": {},
+                "Sliding Block": {},
+                "Slotted Disc": {},
+                "Spider": {},
+                "Tire": {}
+            },
+            "Rigid Couplings": {
+                "Clamp-On": {},
+                "Set Screw": {}
+            },
+            "Shaft Collars": {
+                "Clamp-On": {},
+                "Heat-Shrinkable": {},
+                "Micro-Adjustable": {},
+                "Quick-Lock": {},
+                "Set-Screw": {}
+            },
+            "Shaft-Hub Locking Devices": {},
+            "Universal Joints": {
+                "Ball & Socket": {},
+                "Needle-Bearing": {},
+                "Pin & Block": {}
+            }
+        },
+        "Enclosures & Cases": {
+            "Belt & Chain Drive Enclosures": {},
+            "Carrying & Equipment Cases": {}
+        },
+        "Gear Stock & Pinion Wire": {},
+        "Gearboxes, Gearheads & Speed Reducers": {},
+        "Gears": {
+            "Bevel Gears": {},
+            "Change Gears": {},
+            "Cluster Gears": {},
+            "Differential End Gears": {},
+            "Gear Blanks": {},
+            "Helical Gears": {},
+            "Herringbone Gears": {},
+            "Hypoid Gears": {},
+            "Internal Gears": {},
+            "Miter Gears": {},
+            "Rack & Pinion Gears": {},
+            "Spur Gears": {},
+            "Worm Gears": {}
+        },
+        "Linear Motion Products": {
+            "Ball Screws": {},
+            "Ball Slides": {},
+            "Ball Splines": {},
+            "Bushing Shafts": {},
+            "Cross Roller Guides": {},
+            "Linear Bearings": {
+                "Linear Ball Bearings": {},
+                "Linear Roller Bearings": {},
+                "Track Runner Bearings": {}
+            },
+            "Linear Motion Actuators": {},
+            "Linear Motion Guide Actuators": {},
+            "Linear Motion Guides": {},
+            "Linear Motion Lead Screws": {},
+            "Roller Tables": {},
+            "Slide Packs": {},
+            "Slide Rails": {}
+        },
+        "Lubricants & Oils": {},
+        "Magnet Wire": {},
+        "Power Take-Offs (PTOs)": {},
+        "Pulleys & Sheaves": {
+            "Flat Belt Pulleys": {},
+            "Idler Belt Pulleys": {},
+            "Round Belt Pulleys": {},
+            "Timing Belt Pulleys": {},
+            "Timing Pulley Flanges": {},
+            "V-Belt Pulleys & Sheaves": {}
+        },
+        "Ratchets & Pawls": {},
+        "Roller Chain Sprockets": {},
+        "Shafting": {
+            "Flexible Shafts": {},
+            "Keyed Shafts": {},
+            "Precision Shafts": {},
+            "Rotary Shafts": {}
+        },
+        "Shock & Vibration Control": {
+            "Shock Absorbers": {},
+            "Vibration Damping Clamps": {},
+            "Vibration Damping Compounds": {},
+            "Vibration Damping Mounts": {},
+            "Vibration Damping Pads": {},
+            "Vibration Sensors": {}
+        },
+        "Springs": {
+            "Air": {},
+            "Compression": {},
+            "Constant Force": {},
+            "Extension": {},
+            "Flat": {},
+            "Gas": {},
+            "Power": {},
+            "Torsion": {}
+        },
+        "Worm Wheels": {}
+    },
+    "Professional Dental Supplies": {
+        "Anesthesia": {
+            "Anesthesia Equipment & Circuits": {},
+            "Anesthesia Syringes & Needles": {},
+            "Anesthetics": {
+                "Anesthetic Cartridges": {},
+                "Topical Anesthetics": {}
+            },
+            "Cartridge Warmers": {},
+            "Needle Cappers": {},
+            "Nitrous Oxide Masks & Accessories": {}
+        },
+        "Apparel, Gloves & Personal Protective Gear": {
+            "Patient Apparel": {
+                "Bottoms": {},
+                "Footwear": {},
+                "Patient Gowns & Robes": {},
+                "Pediatric Apparel": {},
+                "Undergarments": {}
+            },
+            "Professional Apparel": {
+                "Men's Medical Clothing": {
+                    "Lab Coats": {},
+                    "Scrub Bottoms": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Scrub Tops": {},
+                    "Shoes": {}
+                },
+                "Women's Medical Clothing": {
+                    "Lab Coats": {},
+                    "Scrub Bottoms": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Scrub Tops": {},
+                    "Shoes": {}
+                }
+            },
+            "Protective Apparel": {
+                "Chemotherapy Gloves": {},
+                "Coveralls": {},
+                "Exam Gloves": {},
+                "Eye Protection": {
+                    "Glasses": {},
+                    "Goggles": {}
+                },
+                "Face Masks & Shields": {
+                    "Face Shields": {},
+                    "Procedure Masks": {},
+                    "Surgical Masks": {}
+                },
+                "Gowns": {
+                    "Isolation Gowns": {},
+                    "Surgical Gowns": {}
+                },
+                "Surgical Gloves": {}
+            }
+        },
+        "Bonding Agents & Adhesives": {
+            "Amalgamators": {},
+            "Bases & Liners": {},
+            "Bonding Agents": {},
+            "Cements": {},
+            "Desensitizers": {},
+            "Etchants": {},
+            "Mixing Machines": {},
+            "Resin": {},
+            "Temporary Filling Materials": {}
+        },
+        "Consumables": {
+            "Barriers & Dispensers": {
+                "Barrier Dispensers": {},
+                "Headrest Covers & Chair Sleeves": {},
+                "Imaging & Sensor Sleeves": {},
+                "Syringe, Handpiece & Curing Light Sleeves": {}
+            },
+            "Bib Holders": {},
+            "Cotton, Sponges & Dispensers": {
+                "Cotton Rolls": {},
+                "Dispensers": {},
+                "Gauze": {},
+                "Sponges": {}
+            },
+            "Dental Bibs": {},
+            "Drinking Cup Dispensers": {},
+            "Drinking Cups": {},
+            "Mixing Pads & Trays": {},
+            "Oral Dispensing Syringes": {},
+            "Towels": {},
+            "Tray Paper": {}
+        },
+        "Cosmetics & Restoratives": {
+            "Acrylics": {},
+            "Amalgam Wells": {},
+            "Amalgams & Alloys": {},
+            "Articulators & Articulating Supplies": {
+                "Articulating Paper & Film": {},
+                "Articulator Accessories": {},
+                "Articulators": {},
+                "Occlusal & Pressure Indicators": {}
+            },
+            "Buildup Materials": {},
+            "Compomers": {},
+            "Composites": {
+                "Flowable": {},
+                "Packable": {},
+                "Universal": {}
+            },
+            "Crown Forms": {},
+            "Curing Light Accessories": {},
+            "Curing Lights": {},
+            "Denture Materials": {},
+            "Lathes": {},
+            "Modeling Wax": {},
+            "Ovens & Furnaces": {},
+            "Presses": {},
+            "Provisional Materials & Temporary Crowns": {},
+            "Retraction Materials": {
+                "Hemostatic Agents": {},
+                "Retraction Cords": {},
+                "Retraction Liquids & Pastes": {},
+                "Retraction Pellets": {}
+            },
+            "Shade Guides": {},
+            "Soft Reline Material": {},
+            "Whitening Supplies": {}
+        },
+        "Endodontics": {
+            "Apex Locators": {},
+            "Files": {},
+            "Irrigator Solution": {},
+            "Irrigators": {},
+            "Measuring Devices": {},
+            "Obturation Units & Accessories": {},
+            "Points": {},
+            "Reamers": {},
+            "Rotary Files": {},
+            "Stops": {}
+        },
+        "Evacuation": {
+            "Aspirating Tips": {},
+            "Evacuator Tips": {},
+            "Saliva Ejectors": {}
+        },
+        "Finishing & Polishing": {
+            "Cutting & Grinding Discs": {},
+            "Grinding Points & Cones": {},
+            "Mandrels": {},
+            "Polishing & Finishing Kits": {},
+            "Polishing Cups": {},
+            "Polishing Pastes": {},
+            "Polishing Wheels": {},
+            "Sanding Strips": {}
+        },
+        "Implants & Surgical Supplies": {
+            "Abutments": {},
+            "Bone Management": {},
+            "Implant Tools & Accessories": {},
+            "Implants": {},
+            "Pins & Posts": {},
+            "Reinforcement Ribbon": {},
+            "Sutures & Suture Needles": {}
+        },
+        "Impression Materials & Accessories": {
+            "Alginates": {},
+            "Bite Registration Supplies": {},
+            "Elastomerics": {},
+            "Impression Materials": {},
+            "Impression Tray Accessories": {},
+            "Impression Trays": {},
+            "Silicone": {}
+        },
+        "Infection Control": {
+            "Autoclave Tape": {},
+            "Biohazard Waste Containers": {},
+            "Biohazard Waste Disposal Bags": {},
+            "Dam Clamps & Accessories": {},
+            "Dental Autoclaves": {},
+            "Dental Dams": {},
+            "Eyewear": {},
+            "Finger Cots": {},
+            "Gauze": {},
+            "Instrument Sterilization Baskets": {},
+            "Sharps Containers": {},
+            "Sterilization Pouches": {},
+            "Sterilization Solutions": {},
+            "Sterilization Wrap": {},
+            "Surface Barriers": {},
+            "Surgical Hand Hygiene": {},
+            "Ultrasonic Cleaner Solutions": {},
+            "Ultrasonic Cleaners": {}
+        },
+        "Handpieces & Instruments": {
+            "Applicators": {},
+            "Band Removers": {},
+            "Bite Blocks": {},
+            "Brushes": {},
+            "Bur Blocks": {},
+            "Burnishers": {},
+            "Burs": {},
+            "Carvers": {},
+            "Cassettes & Caddies": {},
+            "Cheek Retractors": {},
+            "Chisels": {},
+            "Crown Removers": {},
+            "Curettes & Hand Scalers": {},
+            "Diamond Discs": {},
+            "Dispensing Guns": {},
+            "Dispensing Tips": {},
+            "Elevators & Periotomes": {},
+            "Evacuators": {
+                "Aspirating Tips": {},
+                "Evacuator Tips": {},
+                "Saliva Ejectors": {}
+            },
+            "Excavators": {},
+            "Explorers": {},
+            "Extraction Screws": {},
+            "Filling Instruments": {},
+            "Forceps": {},
+            "Gags": {},
+            "Handpiece Lubricants & Cleaners": {},
+            "Handpiece Turbines": {},
+            "Harvestors": {},
+            "Hatchets": {},
+            "Headlights & Loupe Lights": {},
+            "Hemostats": {},
+            "Instrument Handles": {},
+            "Instrument Organization & Maintenance": {
+                "Instrument Identification": {
+                    "Color Coding Tape": {},
+                    "Labels & Rings": {}
+                },
+                "Instrument Organizers & Tubs": {},
+                "Sharpening Kits & Accessories": {}
+            },
+            "Instrument Sets": {},
+            "Loupes": {},
+            "Mallets": {},
+            "Mirrors": {},
+            "Mixing Pads & Trays": {},
+            "Mixing Tips": {},
+            "Needle Holders": {},
+            "Oral Dispensing Syringes": {},
+            "Osteotomes": {},
+            "Placement Instruments": {},
+            "Plastic & Composite Instruments": {},
+            "Pliers & Tweezers": {},
+            "Pluggers": {},
+            "Probes": {},
+            "Procedure Trays": {},
+            "Rongeurs": {},
+            "Scissors": {},
+            "Spatulas": {},
+            "Spreaders": {},
+            "Sutures & Suture Needles": {},
+            "Ultrasonic Scaler Inserts & Tips": {},
+            "Ultrasonic Scalers": {}
+        },
+        "Lab Materials & Small Equipment": {
+            "Amalgamators": {},
+            "Articulators & Articulating Supplies": {
+                "Articulating Paper & Film": {},
+                "Articulator Accessories": {},
+                "Articulators": {},
+                "Occlusal & Pressure Indicators": {}
+            },
+            "Ceramics & Porcelain": {},
+            "Electrosurg & Accessories": {},
+            "Gypsum": {},
+            "Intraoral Cameras": {},
+            "Mixing Machines": {},
+            "Ovens & Furnaces": {},
+            "Sandblasting Equipment": {},
+            "Soldering Equipment": {},
+            "Vibrators": {}
+        },
+        "Oral Hygiene & Preventive Care": {
+            "Denture Care": {
+                "Adhesives": {},
+                "Baths": {},
+                "Brushes": {},
+                "Cleansers": {},
+                "Repair Kits": {}
+            },
+            "Fluoride Gels & Foams": {},
+            "Fluoride Trays": {},
+            "Fluoride Varnishers": {},
+            "Giveaway Bags": {},
+            "Interdental Brushes": {},
+            "Irrigators": {},
+            "Models & Educational Materials": {},
+            "Oral Hygiene & Patient Take Home Supplies": {
+                "Dental Floss & Flossers": {},
+                "Interdental Brushes": {},
+                "Models & Educational Materials": {},
+                "Mouthwash & Rinses": {},
+                "Picks": {},
+                "Toothbrushes": {},
+                "Toothpaste": {}
+            },
+            "Picks": {},
+            "Prophy Materials": {
+                "Angles": {},
+                "Brushes": {},
+                "Cups": {},
+                "Pastes": {},
+                "Strips": {}
+            }
+        },
+        "Orthodontic Supplies": {
+            "Archwire": {},
+            "Bond Brackets": {},
+            "Clasps": {},
+            "Elastics": {},
+            "Headgear": {},
+            "Interdental Brushes": {},
+            "Matrix Materials": {
+                "Bands": {},
+                "Kits": {},
+                "Rings": {},
+                "Strips": {},
+                "Wedges": {}
+            },
+            "Molar Bands & Tubes": {},
+            "Orthodontic Wax": {},
+            "Retainer Boxes": {},
+            "Rubber Bands": {},
+            "Springs": {},
+            "Straight Wire": {}
+        },
+        "Radiology & Diagnostic Imaging": {
+            "Aprons & Shields": {},
+            "Cheek Retractors": {},
+            "Darkroom Supplies": {},
+            "Extraoral X-Ray Equipment": {},
+            "Film Holders & Mounts": {},
+            "Film Processors": {},
+            "Illuminators": {},
+            "X-Ray Film": {}
+        },
+        "Recordkeeping & Labels": {
+            "Anesthesia Labels": {},
+            "Blood Labels": {},
+            "Color Coding Tape": {},
+            "Medical & Insurance Forms": {},
+            "Medical Filing Supplies": {},
+            "Medical Label Dispensers": {},
+            "Medical Record Labels": {},
+            "Medication Labels": {},
+            "Patient Wristbands": {},
+            "RFID Supplies": {},
+            "Radiology Labels": {},
+            "Reminder Cards": {},
+            "Sterile Labels": {}
+        },
+        "Treatment Room Furniture & Lighting": {
+            "Cabinetry & Carts": {
+                "Delivery System Carts": {},
+                "Mobile Cabinets & Carts": {},
+                "Stationary Cabinets": {},
+                "Cabinet & Cart Parts": {}
+            },
+            "Clinician Seating": {
+                "Dental Assistant Stools": {},
+                "Dentist Stools": {},
+                "Stool Parts": {}
+            },
+            "Light Parts & Bulbs": {
+                "Light Parts": {},
+                "Light Bulbs": {}
+            },
+            "Lights": {},
+            "Patient Chair Accessories": {},
+            "Patient Chair Parts": {},
+            "Patient Chairs": {}
+        },
+        "Water Treatment & Equipment": {}
+    },
+    "Professional Medical Supplies": {
+        "Apparel": {
+            "Face Masks & Shields": {
+                "Face Shields": {},
+                "Procedure Masks": {},
+                "Surgical Masks": {}
+            },
+            "Hair & Beard Covers": {},
+            "Isolation Gowns": {},
+            "Patient Apparel": {
+                "Bottoms": {},
+                "Footwear": {},
+                "Patient Gowns & Robes": {},
+                "Pediatric Apparel": {},
+                "Undergarments": {}
+            },
+            "Professional Apparel": {
+                "Men's Medical Clothing": {
+                    "Lab Coats": {},
+                    "Scrub Bottoms": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Scrub Tops": {},
+                    "Shoes": {}
+                },
+                "Women's Medical Clothing": {
+                    "Lab Coats": {},
+                    "Scrub Bottoms": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Scrub Tops": {},
+                    "Shoes": {}
+                }
+            },
+            "Protective Apparel & Gloves": {
+                "Chemotherapy Gloves": {},
+                "Coveralls": {},
+                "Exam Gloves": {},
+                "Eye Protection": {
+                    "Glasses": {},
+                    "Goggles": {}
+                },
+                "Face Masks & Shields": {
+                    "Face Shields": {},
+                    "Procedure Masks": {},
+                    "Surgical Masks": {}
+                },
+                "Gowns": {
+                    "Isolation Gowns": {},
+                    "Surgical Gowns": {}
+                },
+                "Surgical Gloves": {}
+            },
+            "Scrubs & Lab Coats": {
+                "Women": {
+                    "Scrub Bottoms": {},
+                    "Scrub Tops": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Lab Coats": {}
+                },
+                "Men": {
+                    "Scrub Bottoms": {},
+                    "Scrub Tops": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Lab Coats": {}
+                }
+            },
+            "Shoe Covers": {},
+            "Surgical Gowns": {}
+        },
+        "Diagnostics & Screening": {
+            "Calipers": {},
+            "Diabetic Blood Test Strips": {},
+            "Diabetic Urinalysis Strips": {},
+            "Electrocardiographs": {},
+            "Endoscopes": {},
+            "Laboratory Diagnostics": {
+                "Clinical Diagnostic Test Kits": {},
+                "Clinical Laboratory Analyzers": {}
+            },
+            "Laryngoscopes": {},
+            "Medical Electrodes": {},
+            "Medical Hammers": {},
+            "Ophthalmoscopes": {},
+            "Otoscopes": {},
+            "Pen Lights": {},
+            "Physician Scales": {},
+            "Retinoscopes": {},
+            "Sphygmomanometers": {},
+            "Spirometers": {},
+            "Stethoscope Accessories": {},
+            "Stethoscope Parts": {},
+            "Stethoscopes": {},
+            "Thermometers": {
+                "Basal": {},
+                "Ear": {},
+                "Oral": {},
+                "Rectal": {}
+            },
+            "Tympanometers": {},
+            "Ultrasound Equipment": {},
+            "Ultrasound Gel": {}
+        },
+        "Durable Medical Equipment": {
+            "Bathroom Safety, Aids & Accessories": {
+                "Bath & Shower Aids": {
+                    "Bath & Shower Grab Bars": {},
+                    "Bath & Shower Safety Mats": {},
+                    "Bath & Shower Safety Seating & Transfer Benches": {},
+                    "Bathtub Lifts": {},
+                    "Bathtub Rails": {}
+                },
+                "Bedpans & Urinals": {
+                    "Bedpans": {},
+                    "Female Urinals": {},
+                    "Male Urinals": {}
+                },
+                "Cast & Wound Covers": {},
+                "Commodes & Liners": {
+                    "Bedside Commodes": {},
+                    "Bedside Commode Liners": {}
+                },
+                "Foot & Nail Care": {},
+                "Hair Dryer Stands": {},
+                "Long Handled Brushes & Combs": {},
+                "Lotion Applicators": {},
+                "Rinse-Free Cleansers & Wipes": {
+                    "Rinse-Free Cleansers": {},
+                    "Rinse-Free Wipes": {}
+                },
+                "Shampoo Basins & Trays": {},
+                "Sitz Baths": {},
+                "Toilets & Toilet Aids": {
+                    "Raised Toilet Seats": {},
+                    "Toilet Assistance Cushions": {},
+                    "Toilet Assistance Steps": {},
+                    "Toilet Safety Frames & Rails": {},
+                    "Toilet Tissue Aids": {}
+                },
+                "Tube Squeezers": {}
+            },
+            "Bedroom Aids & Accessories": {
+                "Bed Safety Handles & Rails": {},
+                "Bedside Showers & Tubs": {},
+                "Contoured Support Pillows": {},
+                "IV Poles": {},
+                "Leg Positioner Pillows": {},
+                "Neck & Cervical Bed Pillows": {},
+                "Overbed Tables": {},
+                "Pressure Mattresses & Pumps": {},
+                "Specialty Medical Pillows": {},
+                "Transfer Boards": {},
+                "Wedge & Body Positioner Covers": {},
+                "Wedges & Body Positioners": {}
+            },
+            "Braces, Splints & Supports": {
+                "Arm, Hand & Finger Supports": {
+                    "Arm Supports": {},
+                    "Elbow Braces": {},
+                    "Finger Splints": {},
+                    "Hand & Wrist Braces": {}
+                },
+                "Arthritis Gloves": {},
+                "Athletic Tapes & Wraps": {},
+                "Back, Neck & Shoulder Supports": {
+                    "Back Braces": {},
+                    "Lumbar Supports": {},
+                    "Shoulder Supports": {}
+                },
+                "Chest Supports": {},
+                "Compression Socks": {},
+                "Hip & Waist Supports": {},
+                "Kinesiology Recovery Tapes": {},
+                "Leg & Foot Supports": {
+                    "Ankle Braces": {},
+                    "Bunion Splints": {},
+                    "Calf & Shin Supports": {},
+                    "Foot Supports": {},
+                    "Fracture & Cast Boots": {},
+                    "Knee Braces": {},
+                    "Plantar Fasciitis Braces": {},
+                    "Thigh Supports": {}
+                },
+                "Medical Support Hose": {}
+            },
+            "Dressing Aids": {
+                "Dressing Aid Sticks": {},
+                "Shoe Fasteners & Laces": {},
+                "Sock & Stocking Aids": {},
+                "Zipper Pulls & Button Hooks": {}
+            },
+            "Eating & Drinking Aids": {
+                "Clothing Protectors": {},
+                "Cups & Glasses": {},
+                "Dinnerware": {},
+                "Plate Guards": {},
+                "Straws": {},
+                "Utensils & Holders": {}
+            },
+            "Hearing Aids, Amplifiers & Accessories": {
+                "Batteries & Chargers": {},
+                "Domes": {},
+                "Dryers & Cleaners": {
+                    "Cleaning Kits": {},
+                    "Dryers": {}
+                },
+                "Hearing Amplifiers": {},
+                "Wax Guards": {}
+            },
+            "Low Strength Aids": {
+                "Card Playing": {},
+                "Grip Aids": {},
+                "Mouth Sticks": {},
+                "Scissors": {}
+            },
+            "Medication Aids": {
+                "Eye Drop Guides": {},
+                "Pill Cases": {},
+                "Pill Crushers & Splitters": {},
+                "Pill Dispensers & Reminders": {}
+            },
+            "Mobility Aids & Equipment": {
+                "Canes, Crutches & Accessories": {
+                    "Cane Accessories": {
+                        "Cane Flashlights": {},
+                        "Cane Holders": {},
+                        "Cane Ice Attachments": {},
+                        "Cane Wrist Straps": {}
+                    },
+                    "Canes": {},
+                    "Crutch Accessories": {
+                        "Crutch Handgrips": {},
+                        "Crutch Pads": {}
+                    },
+                    "Crutches": {},
+                    "Feet & Tips": {}
+                },
+                "Leg & Thigh Lifters": {},
+                "Lift Chairs": {},
+                "Lifting Cushions": {},
+                "Stair Lifts": {},
+                "Standing Aids & Supports": {},
+                "Walkers, Rollators & Accessories": {
+                    "Accessory Sets": {},
+                    "Cup Holders": {},
+                    "Rolling Walkers": {},
+                    "Seat & Roller Bar Covers": {},
+                    "Standard Walkers": {},
+                    "Walker Accessories": {
+                        "Baskets, Organizers & Pouches": {},
+                        "Replacement Wheels": {},
+                        "Ski Glides & Pads": {},
+                        "Trays": {}
+                    }
+                },
+                "Wheelchairs, Mobility Scooters & Accessories": {
+                    "Accessories & Parts": {
+                        "Arm Rests": {},
+                        "Automotive Carrier Racks": {},
+                        "Covers": {},
+                        "Foot & Leg Rests": {},
+                        "Lifts": {},
+                        "Oxygen Tank Holders": {},
+                        "Replacement Batteries": {},
+                        "Seat Belts": {},
+                        "Tires & Wheels": {}
+                    },
+                    "Wheelchair Accessories": {
+                        "Backs": {},
+                        "Bags & Baskets": {},
+                        "Cushions": {},
+                        "Lap Trays": {}
+                    },
+                    "Wheelchairs": {
+                        "Attendant & Transport Wheelchairs": {},
+                        "Bathroom Wheelchairs": {},
+                        "Electric Wheelchairs": {},
+                        "Self-Propelled Wheelchairs": {}
+                    },
+                    "Mobility Scooters": {},
+                    "Motorized Scooter Accessories": {}
+                }
+            },
+            "Reaching Aids": {},
+            "Threshold & Wheelchair Ramps": {
+                "Threshold Ramps": {},
+                "Wheelchair Ramps": {}
+            },
+            "Visual Impairment Aids": {
+                "Big Button & Amplified Telephones": {},
+                "Braille Aids": {},
+                "Clocks & Watches": {},
+                "Magnifiers": {},
+                "Reading Glasses": {},
+                "Writing Aids": {}
+            }
+        },
+        "Examination Supplies & Consumables": {
+            "Applicators & Swabs": {},
+            "Cadaver Bags": {},
+            "Exam Lights": {},
+            "Exam Table Paper": {},
+            "Eye Charts": {},
+            "Medical Lubricants": {},
+            "Medicine Cups": {},
+            "Privacy Curtains": {},
+            "Privacy Screens": {},
+            "Procedure Trays": {},
+            "Sundry Jars": {},
+            "Tongue Depressors": {}
+        },
+        "Fluid Administration & Collection": {
+            "Blood Collection Tubes": {},
+            "Blood Lancets": {},
+            "Cannulae": {},
+            "Catheters": {},
+            "Enteral Feeding Tubes & Pumps": {},
+            "Hypodermic Needles": {},
+            "IV Dressings": {},
+            "IV Poles": {},
+            "IV Pumps": {},
+            "IV Needles": {},
+            "Sharps Containers & Needle Destruction": {},
+            "Specimen Collection Containers": {},
+            "Syringe & Needle Sets": {},
+            "Syringes": {},
+            "Tourniquets": {}
+        },
+        "Furniture & Patient Transport": {
+            "Armboards": {},
+            "Bed Linens": {},
+            "Beds": {},
+            "Blanket Warmers": {},
+            "Carts": {},
+            "Equipment Covers & Drapes": {},
+            "Exam Lights": {},
+            "Exam Tables": {},
+            "Mattresses": {},
+            "Medical Chairs": {},
+            "Overbed Tables": {},
+            "Room Status Flags": {},
+            "Spine Boards": {},
+            "Stretchers & Gurneys": {},
+            "Surgical Drapes": {},
+            "Surgical Tables": {}
+        },
+        "Incontinence & Ostomy": {
+            "Adhesive Removers": {},
+            "Adhesives & Tapes": {},
+            "Barrier Rings & Strips": {},
+            "Bedding & Furniture Protection": {},
+            "Bedwetting Monitors": {},
+            "Bladder Control Devices": {},
+            "Cleansers, Cloths & Creams": {},
+            "Drain Pouches": {},
+            "Ostomy Belts": {},
+            "Ostomy Support Garments": {},
+            "Pads & Liners": {},
+            "Protective Briefs & Underwear": {},
+            "Stoma Pastes & Powders": {}
+        },
+        "Instruments & Surgical Tools": {
+            "Amnio Hooks": {},
+            "Aspirators": {},
+            "Bone Drill Bits": {},
+            "Bone Drills": {},
+            "Bougies": {},
+            "Calipers": {},
+            "Cast Cutters": {},
+            "Chisels": {},
+            "Clamps & Approximators": {},
+            "Curettes": {},
+            "Dilators": {},
+            "Dissectors": {},
+            "Distraction Screws": {},
+            "Ear Syringes": {},
+            "Elevators": {},
+            "Extractors": {},
+            "Forceps & Hemostats": {},
+            "Gouges": {},
+            "Graspers": {},
+            "Guides": {},
+            "Headlights & Loupe Lights": {},
+            "Impactors": {},
+            "Inserted & Implanted Devices": {
+                "Intracorneal Rings": {},
+                "Pessaries": {}
+            },
+            "Irrigation Units": {},
+            "Laryngeal Mirrors": {},
+            "Levers": {},
+            "Ligators": {},
+            "Loupes": {},
+            "Mallets": {},
+            "Nail & Tissue Nippers": {},
+            "Needle Counters": {},
+            "Needle Holders": {},
+            "Ocular Markers": {},
+            "Osteotomes": {},
+            "Pliers & Tweezers": {},
+            "Probes": {},
+            "Procedure Trays": {},
+            "Punches": {},
+            "Rasps & Files": {},
+            "Retractors & Spreaders": {},
+            "Ring Cutters": {},
+            "Rongeurs": {},
+            "Rotators": {},
+            "Saws": {},
+            "Scalpel Blades": {},
+            "Scalpels & Lancets": {},
+            "Scissors & Shears": {},
+            "Skin Hooks": {},
+            "Skin Markers": {},
+            "Snares": {},
+            "Specula": {},
+            "Suction Devices": {},
+            "Surgical Choppers": {},
+            "Surgical Instrument Caps": {},
+            "Surgical Instrument Kits": {},
+            "Surgical Knives": {},
+            "Surgical Needles": {},
+            "Sutures": {},
+            "Tendon Strippers": {},
+            "Trocars": {},
+            "Uterine Sounds": {},
+            "Wound Closure": {
+                "Pushers & Knot Tyers": {},
+                "Staple Removers": {},
+                "Staplers": {}
+            }
+        },
+        "Lab Supplies": {
+            "Glassware & Labware": {
+                "Ampules": {},
+                "Beakers": {},
+                "Cylinders": {},
+                "Lab Bottles & Jars": {
+                    "Centrifuge Bottles": {},
+                    "Coplin Jars": {},
+                    "Dispensing Bottles": {},
+                    "Dispensing Needle Bottles": {},
+                    "Dropping Bottles": {},
+                    "Drying Jars": {},
+                    "Environmental Bottles": {},
+                    "Fluorinated Bottles": {},
+                    "Media Bottles": {},
+                    "Pump & Spray Bottles": {},
+                    "Reagent Bottles": {},
+                    "Roller Bottles": {},
+                    "Serum Bottles": {},
+                    "Wash Bottles": {},
+                    "Weighing Bottles": {}
+                },
+                "Lab Dishes": {
+                    "Cell Culture Dishes": {},
+                    "Cellware Chambers": {},
+                    "Lab Pitchers": {},
+                    "Lab Trays": {},
+                    "Petri Dishes": {},
+                    "Weighing Dishes": {}
+                },
+                "Lab Flasks": {
+                    "Boiling Flasks": {},
+                    "Cell Culture Flasks": {},
+                    "Dewar Flasks": {},
+                    "Distillation Flasks": {},
+                    "Erlenmeyer Flasks": {},
+                    "Filtering Flasks": {},
+                    "Freeze Dry Flasks": {},
+                    "Kjeldahl Flasks": {},
+                    "Reaction Kettle Flasks": {},
+                    "Recovery Flasks": {},
+                    "Spinner Flasks": {},
+                    "Volumetric Flasks": {}
+                },
+                "Lab Funnels": {
+                    "Addition Funnels": {},
+                    "Buchner Funnels": {},
+                    "Filling Funnels": {},
+                    "Filtering Funnels": {},
+                    "Long Stem Funnels": {},
+                    "Separatory Funnels": {},
+                    "Short Stem Funnels": {},
+                    "Thistle Tube Funnels": {}
+                },
+                "Lab Tubes": {
+                    "Capillary Tubes": {},
+                    "Color Comparison Tubes": {},
+                    "Culture Tubes": {},
+                    "Drying Tubes": {},
+                    "High-Speed Centrifuge Tubes": {},
+                    "Microcentrifuge Tubes": {},
+                    "NMR Tubes": {},
+                    "PCR Tubes": {},
+                    "Test Tubes": {}
+                },
+                "Lab Vials": {
+                    "Autosampler Vials": {},
+                    "Dilution Vials": {},
+                    "Drosophila Vials": {},
+                    "EPA Vials": {},
+                    "Sample Vials": {},
+                    "Scintillation Vials": {}
+                },
+                "Microplates": {
+                    "Assay Microplates": {},
+                    "Cell Culture Microplates": {},
+                    "Coated Microplates": {},
+                    "Filtering Microplates": {},
+                    "Genomic Microplates": {},
+                    "Nonbinding Microplates": {},
+                    "Small Volume Microplates": {},
+                    "Storage Microplates": {}
+                },
+                "Mortar & Pestles": {}
+            },
+            "Lab Chemicals": {
+                "Alcohols": {},
+                "Analytical Reagents": {},
+                "Buffers": {},
+                "Inorganic Reagents": {},
+                "Organic Reagents": {},
+                "Standards": {},
+                "Surfactants & Detergents": {}
+            },
+            "Lab Filters": {
+                "Air Sampling Filters": {},
+                "Bottletop Filters": {},
+                "Cell Strainers": {},
+                "Centrifugal Filters": {},
+                "Filter Membrane": {},
+                "Glass Fiber Filters": {},
+                "Inline Filters": {},
+                "Qualitative Filter Paper": {},
+                "Quantitative Filter Paper": {},
+                "Syringe Filters": {},
+                "Ultrafiltration Filters": {}
+            },
+            "Lab Instruments & Equipment": {
+                "Centrifuges": {
+                    "Benchtop Centrifuges": {},
+                    "Benchtop Microcentrifuges": {},
+                    "Centrifuge Rotors": {},
+                    "Ultracentrifuges": {}
+                },
+                "Pipettes & Pipettors": {
+                    "Aspirating Pipettes": {},
+                    "Bacteriological Pipettes": {},
+                    "Diluter Dispensers": {},
+                    "Dropping Pipettes": {},
+                    "Electronic Pipettors": {},
+                    "Measuring Pipettes": {},
+                    "Microcapillary Pipettes": {},
+                    "Multichannel Pipettors": {},
+                    "Ostwald Folin Pipettes": {},
+                    "Pasteur Pipettes": {},
+                    "Pipette Tips": {
+                        "Filtering Pipette Tips": {},
+                        "Robotic Pipette Tips": {},
+                        "Specialty Pipette Tips": {},
+                        "Universal Pipette Tips": {}
+                    },
+                    "Pipetting Robotic Systems": {},
+                    "Pipettor Accessories": {},
+                    "Serological Pipettes": {},
+                    "Single Channel Pipettors": {},
+                    "Transfer Pipettes": {},
+                    "Volumetric Pipettes": {}
+                },
+                "Lab Racks": {
+                    "Bottle Racks": {},
+                    "Drying Racks": {},
+                    "Microcentrifuge Tube Racks": {},
+                    "Pipette Racks": {},
+                    "Tube Racks": {},
+                    "Washing Racks": {}
+                },
+                "Lab Refrigeration Equipment": {
+                    "Lab Coolers": {},
+                    "Lab Freezers": {},
+                    "Lab Refrigerators": {}
+                },
+                "Microscopes & Equipment": {
+                    "Microscopes": {
+                        "Compound Microscopes": {
+                            "Compound Monocular Microscopes": {},
+                            "Compound Binocular Microscopes": {},
+                            "Compound Trinocular Microscopes": {}
+                        },
+                        "USB Microscopes": {},
+                        "Stereo Microscopes": {}
+                    },
+                    "Microscope Accessories": {
+                        "Lens Adapters": {},
+                        "Lenses": {},
+                        "Slide Cover Slips": {},
+                        "Slide Holders": {},
+                        "Slides": {}
+                    }
+                },
+                "Mixing & Blending Equipment": {
+                    "Lab Shakers & Accessories": {
+                        "Orbital Shakers": {},
+                        "Reciprocating Shakers": {},
+                        "Rocking Shakers": {},
+                        "Shaker Accessories": {},
+                        "Vortex Shakers": {},
+                        "Wrist Action Shakers": {}
+                    },
+                    "Stirrers, Mixers & Accessories": {
+                        "Stirrer Bars": {},
+                        "Stirrers": {},
+                        "Mixers": {},
+                        "Stirrer Accessories": {}
+                    }
+                }
+            },
+            "Lab Utensils": {
+                "Cell Scrapers & Spreaders": {},
+                "Dispensing Needles & Accessories": {},
+                "Dissection Equipment": {
+                    "Dissection Instruments": {},
+                    "Dissection Kits": {},
+                    "Dissection Pans": {}
+                },
+                "Lab Scoops": {},
+                "Lab Spatulas": {},
+                "Lab Spoons": {},
+                "Lab Tongs": {
+                    "Beaker Tongs": {},
+                    "Crucible Tongs": {},
+                    "Test Tube Clamps": {}
+                },
+                "Lab Tweezers": {},
+                "Sharps Containers": {},
+                "Sieves": {},
+                "Stirring Rods": {}
+            }
+        },
+        "Occupational & Physical Therapy Aids": {
+            "Arm Exercisers": {},
+            "Exercise Balls & Accessories": {
+                "Exercise Balls": {},
+                "Exercise Ball Chairs": {},
+                "Exercise Ball Accessories": {}
+            },
+            "Exercise Putty": {},
+            "Hand Exercisers": {},
+            "Hip Replacement Recovery Kits": {},
+            "Leg Exercisers": {},
+            "Muscle Stimulators & Accessories": {},
+            "Sensory Motor Aids": {},
+            "Speech & Communication Aids": {},
+            "Traction Equipment": {}
+        },
+        "Patient Monitoring Equipment": {
+            "Blood Pressure Monitors": {},
+            "Electrocardiographs": {},
+            "Fetal Monitors": {},
+            "Medical Electrodes": {},
+            "Patient Alarms": {},
+            "Pulse Oximeters": {},
+            "Vital Signs Monitors": {}
+        },
+        "Patient Treatment Equipment": {
+            "Acupuncture Supplies": {},
+            "Braces & Splints": {},
+            "Defibrillators": {},
+            "Diathermic Devices": {},
+            "Hot & Cold Therapies": {
+                "Cold Packs": {},
+                "Heat Patches & Wraps": {},
+                "Heating Pads": {},
+                "Hot Water Bottles": {}
+            },
+            "Muscle Stimulators": {},
+            "Physical Therapy": {
+                "Arm Exercisers": {},
+                "Exercise Balls & Accessories": {
+                    "Exercise Balls": {},
+                    "Exercise Ball Chairs": {},
+                    "Exercise Ball Accessories": {}
+                },
+                "Exercise Putty": {},
+                "Hand Exercisers": {},
+                "Hip Replacement Recovery Kits": {},
+                "Leg Exercisers": {},
+                "Muscle Stimulators & Accessories": {},
+                "Sensory Motor Aids": {},
+                "Speech & Communication Aids": {},
+                "Traction Equipment": {}
+            },
+            "Skin Care": {
+                "Cleansing Cloths, Swabs & Wipes": {},
+                "Massage Lotions": {},
+                "Massage Oils": {},
+                "Skin Protectants & Barrier Creams": {}
+            },
+            "Surgical Clippers": {},
+            "Traction Equipment": {}
+        },
+        "Radiology & Imaging": {
+            "Aprons & Shields": {},
+            "CT Scanners & Supplies": {},
+            "Darkroom Supplies": {},
+            "Fluoroscopes & Supplies": {},
+            "Illuminators": {},
+            "Radiology Labels": {},
+            "Ultrasonic Imagers": {},
+            "X-Ray Film": {}
+        },
+        "Recordkeeping & Labels": {
+            "Anesthesia Labels": {},
+            "Blood Labels": {},
+            "Color Coding Tape": {},
+            "Medical & Insurance Forms": {},
+            "Medical Filing Supplies": {},
+            "Medical Label Dispensers": {},
+            "Medical Record Labels": {},
+            "Medication Labels": {},
+            "Patient Wristbands": {},
+            "RFID Supplies": {},
+            "Radiology Labels": {},
+            "Reminder Cards": {},
+            "Sterile Labels": {}
+        },
+        "Respiratory & Anesthesia Equipment": {
+            "Airway Management Equipment": {},
+            "Anesthesia Circuits": {},
+            "Breathing Bags": {},
+            "CPAP Accessories": {},
+            "CPAP Equipment": {},
+            "CPR Masks & Shields": {},
+            "Endotracheal Suctioning Systems": {},
+            "Heat & Moisture Exchangers": {},
+            "Laryngeal Masks": {},
+            "Nasal Cannulae": {},
+            "Nebulizers": {},
+            "Resuscitators": {},
+            "Tracheal & Endotracheal Tubes": {},
+            "Ventilator Equipment": {}
+        },
+        "Sterilization & Infection Prevention": {
+            "Biohazard Waste Containers": {},
+            "Biohazard Waste Disposal Bags": {},
+            "Disinfectant Sprays & Solutions": {},
+            "Disinfectant Wipes": {},
+            "Finger Cots": {},
+            "Instrument Sterilization Baskets": {},
+            "Sterilization Pouches": {},
+            "Sterilization Solutions": {},
+            "Sterilization Wrap": {},
+            "Surgical Hand Hygiene": {}
+        },
+        "Surgical Equipment": {
+            "Cryosurgery": {
+                "Accessories": {},
+                "Equipment": {}
+            },
+            "Electrosurgery": {
+                "Accessories": {},
+                "Cauteries": {},
+                "Electrodes": {},
+                "Grounding Pads": {},
+                "Pens": {},
+                "Smoke Evacuators": {},
+                "Suction Coagulators": {}
+            }
+        },
+        "Surgical Supplies": {
+            "Blanket Warmers": {},
+            "Exam Lights": {},
+            "Exam Tables": {},
+            "Needle Counters": {},
+            "Needle Holders": {},
+            "Operating Room Consumables": {
+                "Equipment Covers & Drapes": {},
+                "Floor Mats": {},
+                "Linens": {},
+                "Patient Positioners": {},
+                "Surgical Drapes": {},
+                "Surgical Gowns": {}
+            },
+            "Patient Skin Prep": {
+                "Skin Markers": {},
+                "Skin Prep Solutions": {},
+                "Surgical Clippers": {}
+            },
+            "Procedure Bowls & Basins": {},
+            "Surgical Drains": {},
+            "Surgical Mesh": {},
+            "Surgical Packing": {},
+            "Surgical Tables": {},
+            "Wound Closure": {
+                "Sutures": {},
+                "Suture Assisting Devices": {},
+                "Staplers": {},
+                "Skin Adhesives": {}
+            }
+        },
+        "Wound Care & Dressings": {
+            "Adhesive Bandages": {},
+            "Braces & Splints": {},
+            "Burn Care Products": {},
+            "Butterfly Stitches": {},
+            "Casting Supplies": {},
+            "Clotting Agents": {},
+            "Compression Bandages": {},
+            "Cotton": {},
+            "Debriding Agents": {},
+            "Dressings": {},
+            "Gauze": {},
+            "IV Dressings": {},
+            "Liquid Bandages": {},
+            "Medical Tapes": {},
+            "Moleskin": {},
+            "Negative Pressure Wound Therapy": {},
+            "Scar Dressings": {},
+            "Surgical Packing": {},
+            "Topical Antimicrobials": {},
+            "Tube Bandages": {}
+        }
+    },
+    "Raw Materials": {
+        "Ceramics, Glass & Industrial Gems": {
+            "Ceramics": {
+                "Rods": {},
+                "Sheets": {}
+            },
+            "Industrial Gems": {}
+        },
+        "Cork": {},
+        "Expanded & Perforated Sheets": {},
+        "Fabrics, Fibers & Textiles": {},
+        "Floor Grating": {
+            "Fiberglass Grating": {},
+            "Metal Bar Grating": {},
+            "Metal Safety Grating": {},
+            "Accessories": {}
+        },
+        "Foam": {},
+        "Graphite": {},
+        "Industrial Wire": {
+            "Aluminum Wire": {},
+            "Brass Wire": {},
+            "Copper Wire": {},
+            "Nitinol Wire": {},
+            "Stainless Steel Wire": {},
+            "Steel Wire": {},
+            "Tungsten Wire": {}
+        },
+        "Laminates & Composites": {
+            "Carbon Fiber": {
+                "Rods": {},
+                "Sheets": {},
+                "Tubes": {}
+            },
+            "Fiberglass": {},
+            "Laminates": {
+                "Rods": {},
+                "Sheets": {}
+            }
+        },
+        "Mesh & Wire Cloth": {},
+        "Metals & Alloys": {
+            "Aluminum": {
+                "Angles": {},
+                "Bars": {},
+                "Channels": {},
+                "I-Beams": {},
+                "Rods": {},
+                "Sheets & Plates": {},
+                "Shims & Shim Stock": {},
+                "Tubes": {},
+                "Wire": {}
+            },
+            "Brass": {
+                "Bars": {},
+                "Channels": {},
+                "Rods": {},
+                "Sheets": {},
+                "Shims & Shim Stock": {},
+                "Spheres": {},
+                "Tubes": {},
+                "Wire": {}
+            },
+            "Bronze": {
+                "Angles": {},
+                "Bars": {},
+                "Rods": {},
+                "Sheets": {},
+                "Shim Stock": {},
+                "Tubes": {}
+            },
+            "Copper": {
+                "Bars": {},
+                "Channels": {},
+                "Rods": {},
+                "Sheets": {},
+                "Shims & Shim Stock": {},
+                "Tubes": {},
+                "Wire": {}
+            },
+            "Iron": {},
+            "Lead": {
+                "Rods": {},
+                "Sheets": {},
+                "Shot": {}
+            },
+            "Magnesium": {},
+            "Nickel & Nickel Alloys": {
+                "Nitinol Wire": {},
+                "Rods": {},
+                "Sheets": {}
+            },
+            "Stainless Steel": {
+                "Bars": {},
+                "Rods": {},
+                "Sheets": {},
+                "Shims & Shim Stock": {},
+                "Spheres": {},
+                "Wire": {}
+            },
+            "Steel": {
+                "Angles": {},
+                "Bars": {},
+                "Rods": {},
+                "Sheets": {},
+                "Shims & Shim Stock": {},
+                "Tubes": {},
+                "Wire": {}
+            },
+            "Tin": {},
+            "Titanium & Titanium Alloys": {
+                "Nitinol Wire": {},
+                "Rods": {},
+                "Sheets": {}
+            },
+            "Tungsten": {
+                "Rods": {},
+                "Spheres": {},
+                "Tubes": {},
+                "Wire": {}
+            },
+            "Zinc": {
+                "Rods": {},
+                "Sheets": {}
+            },
+            "Specialty Metals": {}
+        },
+        "Plastics": {
+            "Bars": {},
+            "Film": {},
+            "Rods": {},
+            "Sheets": {},
+            "Shims & Shim Stock": {},
+            "Spheres": {},
+            "Tubes": {}
+        },
+        "Rubber": {
+            "Rods": {},
+            "Sheets, Rolls & Strips": {},
+            "Spheres": {}
+        },
+        "Shims & Shim Stock": {
+            "Horseshoe Shims": {},
+            "Notched Shims": {},
+            "Round Shims": {},
+            "Shim Stock": {},
+            "Slotted Shims": {}
+        },
+        "Wood": {}
+    },
+    "Retail Store Fixtures & Equipment": {
+        "Anti-Theft Equipment": {},
+        "Clothing Forms": {},
+        "Mannequins": {},
+        "Point-of-Sale (POS) Equipment & Accessories": {
+            "POS & Register Rolls": {},
+            "POS Equipment": {
+                "Bar Code Scanners": {},
+                "Credit Card Readers": {
+                    "Mobile Credit Card Readers": {},
+                    "Stationary Credit Card Readers": {}
+                },
+                "Receipt Printers": {}
+            },
+            "POS Software": {}
+        },
+        "Pricing Supplies": {
+            "Price Tags & Holders": {},
+            "Pricemarker Labels": {},
+            "Tag Attacher Guns": {},
+            "Tag Fasteners & Bag Seals": {}
+        },
+        "Retail Bags & Boxes": {
+            "Gift & Apparel Boxes": {},
+            "Gift Bags": {},
+            "Shopping & Merchandise Bags": {}
+        },
+        "Retail Displays & Racks": {
+            "Clothes Hangers": {
+                "Coat Hangers": {},
+                "Pants Hangers": {},
+                "Skirt Hangers": {},
+                "Standard Hangers": {},
+                "Suit Hangers": {},
+                "Children's Clothes Hangers": {}
+            },
+            "Clothing & Garment Racks": {},
+            "Display Cases": {},
+            "Display Racks": {},
+            "Display Tables": {},
+            "Dump Bins": {},
+            "Shoe Displays & Racks": {}
+        },
+        "Retail Shelving & Wall Displays": {
+            "Gondola Shelving": {},
+            "Gridwall & Fixtures": {
+                "Accessories": {},
+                "Baskets": {},
+                "Hooks & Hangers": {},
+                "Panels & Units": {},
+                "Shelves": {}
+            },
+            "Pegboard & Fixtures": {
+                "Accessories": {},
+                "Baskets": {},
+                "Hooks & Hangers": {},
+                "Panels & Units": {},
+                "Shelves": {}
+            },
+            "Slatwalls & Fixtures": {
+                "Accessories": {},
+                "Baskets": {},
+                "Hooks & Hangers": {},
+                "Panels & Units": {},
+                "Shelves": {}
+            }
+        },
+        "Shopping Baskets & Carts": {},
+        "Store Signs & Displays": {
+            "Changeable Letter Boards": {},
+            "Store Signs": {},
+            "Store Sign Holders": {}
+        }
+    },
+    "Robotics": {
+        "Robot Parts & Accessories": {
+            "Robot Accessories": {},
+            "Robot Parts": {},
+            "Robot Platforms": {}
+        },
+        "Security & Surveillance Robots": {},
+        "Unmanned Aerial Vehicles (UAVs)": {}
+    },
+    "Science Education": {
+        "Charts & Posters": {},
+        "Early Learning Classroom Supplies": {},
+        "Fossils": {},
+        "Insects & Insect Kits": {},
+        "Magnets & Magnetism Kits": {},
+        "Measurement Kits": {},
+        "Microscope Sample Slides": {},
+        "Microscopes": {
+            "Compound Microscopes": {
+                "Compound Monocular Microscopes": {},
+                "Compound Binocular Microscopes": {},
+                "Compound Trinocular Microscopes": {}
+            },
+            "USB Microscopes": {},
+            "Stereo Microscopes": {}
+        },
+        "Model Animals": {},
+        "Optics": {},
+        "Scales & Balances": {},
+        "Specimens": {},
+        "Telescopes": {
+            "Catadioptric": {},
+            "Reflectors": {},
+            "Refractors": {}
+        }
+    },
+    "Test, Measure & Inspect": {
+        "Airflow & Air Quality": {
+            "Anemometers": {},
+            "Barometers": {},
+            "Indoor Air Quality Meters": {},
+            "Manometers": {}
+        },
+        "Calibration": {
+            "Calibration Weights": {},
+            "Dimensional Calibration": {
+                "Gage Balls": {},
+                "Gage Block Accessories": {},
+                "Gage Blocks": {},
+                "Setting Rings": {},
+                "Space Blocks": {},
+                "Standard Rods": {},
+                "Surface Plates": {},
+                "V Blocks": {}
+            },
+            "Hardness Test Blocks": {},
+            "Pressure Calibrators": {},
+            "Temperature Calibrators": {}
+        },
+        "Dimensional Measurement": {
+            "Calipers": {
+                "Caliper Gages": {},
+                "Caliper Kits & Sets": {},
+                "Dial Calipers": {},
+                "Digital Calipers": {},
+                "Joint Calipers & Dividers": {},
+                "Vernier Calipers": {}
+            },
+            "Gauges": {
+                "Bore": {},
+                "Chamfer": {},
+                "Countersink": {},
+                "Depth": {},
+                "Height": {},
+                "Hole": {},
+                "Snap": {},
+                "Thickness": {},
+                "Angle": {},
+                "Feeler": {},
+                "Pin": {},
+                "Radius": {},
+                "Ring": {},
+                "Thread": {}
+            },
+            "Indicators & Accessories": {
+                "Dial Indicators": {},
+                "Electronic Indicators": {},
+                "Test Indicators": {},
+                "Indicator Stands & Bases": {}
+            },
+            "Layout Tools": {
+                "Levels": {},
+                "Line Lasers": {},
+                "Protractors": {},
+                "Rules": {},
+                "Squares": {},
+                "Straight Edges": {},
+                "Tape Measures": {}
+            },
+            "Micrometers & Accessories": {
+                "Outside Micrometers": {},
+                "Inside Micrometers": {},
+                "Micrometer Heads": {},
+                "Accessories": {}
+            }
+        },
+        "Electrical Testing": {
+            "Capacitance & Resistance Meters": {
+                "Capacitance Meters": {},
+                "Ground Resistance Meters": {},
+                "Insulation Resistance Meters": {},
+                "LCR Meters": {}
+            },
+            "Circuit Tracers & Analyzers": {},
+            "Component Testers": {},
+            "Current Testers": {
+                "Ammeters": {},
+                "Clamp Meters": {},
+                "Current Clamps": {},
+                "Current Probes": {}
+            },
+            "EMF Meters": {},
+            "Frequency Counters": {},
+            "Function Generators": {},
+            "Logic Analyzers": {},
+            "Multimeters": {},
+            "Ohmmeters": {},
+            "Oscilloscopes & Accessories": {
+                "Oscilloscope Accessories": {},
+                "Oscilloscope Probes": {},
+                "Oscilloscopes": {}
+            },
+            "Power Meters": {},
+            "Pulse Generators": {},
+            "Spectrum Analyzers": {},
+            "Test Probes & Leads": {},
+            "Voltage Testers": {}
+        },
+        "Inspection & Analysis": {
+            "Borescopes": {},
+            "Flaw Detection Tools": {},
+            "Leak Detection Tools": {},
+            "Microscopes": {
+                "Compound Microscopes": {
+                    "Compound Monocular Microscopes": {},
+                    "Compound Binocular Microscopes": {},
+                    "Compound Trinocular Microscopes": {}
+                },
+                "USB Microscopes": {},
+                "Stereo Microscopes": {}
+            },
+            "Optical Inspection Apparatus": {
+                "Machine Tools Lamps": {},
+                "Machine Tool Inspection Mirrors": {},
+                "Magnifiers": {}
+            },
+            "Video Inspection Equipment": {}
+        },
+        "Light Measurement": {},
+        "Motion, Speed & Force": {
+            "Force Gauges": {},
+            "Stroboscopes": {},
+            "Tachometers": {},
+            "Torque Gauges": {},
+            "Vibration Meters": {}
+        },
+        "Network & Cable Testers": {},
+        "Pressure & Vacuum": {
+            "Pressure & Vacuum Gauges": {
+                "Compound Gauges": {},
+                "Differential Pressure Gauges": {},
+                "Pressure Gauge Accessories": {},
+                "Pressure Gauges": {},
+                "Pressure Switches": {},
+                "Vacuum Gauges": {}
+            },
+            "Pressure Probes & Sensors": {},
+            "Pressure Transmitters": {}
+        },
+        "Recorders & Data Acquisition": {
+            "Circular Chart Recorders & Accessories": {
+                "Paper": {},
+                "Pens": {},
+                "Recorders": {}
+            },
+            "Data Loggers": {},
+            "Paperless Recorders": {},
+            "Power Quality Recorders": {},
+            "Strip Chart Recorders & Accessories": {}
+        },
+        "Scales & Balances": {
+            "Industrial Scales": {
+                "Bench Scales": {},
+                "Crane Scales": {},
+                "Floor Scales": {},
+                "Spring Scales": {}
+            },
+            "Laboratory Balances": {
+                "Analytical Balances": {},
+                "Mechanical Balances": {},
+                "Moisture Balances": {},
+                "Toploading Balances": {}
+            },
+            "Scale & Balance Parts & Accessories": {
+                "Calibration Weights": {},
+                "Scale & Balance Parts": {},
+                "Scale & Balance Accessories": {}
+            }
+        },
+        "Sensors": {
+            "Acceleration Sensors": {},
+            "Current Sensors": {},
+            "Flow Sensors": {},
+            "Hall Effect Sensors": {},
+            "Linear Sensors": {},
+            "Liquid Level Sensors": {},
+            "Motion Detectors": {},
+            "Optical Sensors": {},
+            "Photoelectric Sensors": {},
+            "Photomicrosensors": {},
+            "Pressure Sensors": {},
+            "Proximity Sensors": {
+                "Capacitive": {},
+                "Inductive": {},
+                "Ultrasonic": {}
+            },
+            "Switch Encoders": {},
+            "Temperature Sensors": {},
+            "Tilt Sensors": {},
+            "Vibration Sensors": {}
+        },
+        "Sound & Noise Meters": {},
+        "Substance Analysis Instrumentation": {
+            "Calorimeters": {},
+            "Colorimeters": {},
+            "Conductivity Meters & Accessories": {},
+            "Dissolved Oxygen Meters & Accessories": {},
+            "Dosimeters": {},
+            "Electrodes": {},
+            "Flowmeters": {},
+            "Fluorometers": {},
+            "Hydrometers": {},
+            "Luminometers": {},
+            "Multiparameter Meters": {},
+            "Osmometers": {},
+            "pH Testing": {
+                "pH Meters": {},
+                "pH Strips": {}
+            },
+            "Refractometers": {},
+            "Spectrometry": {
+                "Spectrometer Accessories": {},
+                "Spectrometers": {},
+                "Spectrophotometers": {}
+            },
+            "Spectrophotometer & Colorimeter Accessories": {},
+            "Surface Tension Meters": {},
+            "Turbidity Meters": {},
+            "Viscometers": {}
+        },
+        "Surface & Hardness Testing": {
+            "Hardness Testing Equipment": {},
+            "Roughness Testers": {},
+            "Surface Roughness Comparators": {},
+            "Surface Roughness Gauges": {}
+        },
+        "Temperature & Humidity": {
+            "Humidity & Moisture Meters": {},
+            "Temperature Controllers": {},
+            "Temperature Indicators": {},
+            "Temperature Probes & Sensors": {},
+            "Thermal Imagers": {},
+            "Thermometers": {
+                "Dial Thermometers": {},
+                "Digital Thermometers": {},
+                "Glass Thermometers": {},
+                "Infrared Thermometers": {}
+            },
+            "Thermowells": {}
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "Baby Girls": {
+        "Clothing": {
+            "Bodysuits": {},
+            "Footies & Rompers": {
+                "Footies": {},
+                "Rompers": {}
+            },
+            "Layette Sets": {},
+            "Clothing Sets": {
+                "Pant Sets": {},
+                "Short Sets": {},
+                "Skirt Sets": {}
+            },
+            "Dresses": {
+                "Playwear": {},
+                "Special Occasion": {}
+            },
+            "Tops": {
+                "Tees": {},
+                "Tank Tops": {},
+                "Blouses": {}
+            },
+            "Sweaters": {},
+            "Hoodies & Active": {},
+            "Bottoms": {
+                "Jeans": {},
+                "Leggings": {},
+                "Overalls": {},
+                "Pants": {},
+                "Shorts": {},
+                "Skirts, Skooters & Skorts": {}
+            },
+            "Jackets & Coats": {
+                "Down & Down Alternative": {},
+                "Fleece": {},
+                "Jackets": {},
+                "Rain Wear": {},
+                "Snow Wear": {},
+                "Vests": {}
+            },
+            "Sleepwear & Robes": {
+                "Blanket Sleepers": {},
+                "Nightgowns": {},
+                "Pajama Sets": {},
+                "Robes": {}
+            },
+            "Bloomers, Diaper Covers & Underwear": {
+                "Undershirts, Tanks & Camisoles": {},
+                "Training Pants": {},
+                "Bloomers": {}
+            },
+            "Swim": {
+                "One Pieces": {},
+                "Two-Pieces": {
+                    "Bikinis": {},
+                    "Tankinis": {},
+                    "Cover-Up Sets": {},
+                    "Rash Guard Sets": {}
+                },
+                "Rash Guard Shirts": {},
+                "Cover-Ups": {},
+                "Swim Diapers": {},
+                "Sunsuits": {}
+            },
+            "Christening": {}
+        },
+        "Shoes": {
+            "Athletic & Outdoor": {},
+            "Boots": {},
+            "Clogs & Mules": {},
+            "Flats": {
+                "Ballet": {},
+                "Mary Jane": {},
+                "Oxford & Loafer": {}
+            },
+            "Sandals": {},
+            "Slippers": {},
+            "Sneakers": {}
+        },
+        "Accessories": {
+            "Bibs & Burp Cloths": {
+                "Bibs": {},
+                "Burp Cloths": {},
+                "Bibs & Burp Cloths Sets": {}
+            },
+            "Gloves & Mittens": {},
+            "Hair Accessories": {},
+            "Hats & Caps": {},
+            "Leg Warmers": {},
+            "Receiving Blankets": {},
+            "Socks": {},
+            "Tights": {}
+        }
+    },
+    "Baby Boys": {
+        "Clothing": {
+            "Bodysuits": {},
+            "Footies & Rompers": {
+                "Footies": {},
+                "Rompers": {}
+            },
+            "Layette Sets": {},
+            "Clothing Sets": {
+                "Pant Sets": {},
+                "Short Sets": {}
+            },
+            "Suits & Sport Coats": {
+                "Suits": {},
+                "Tuxedos": {}
+            },
+            "Tops": {
+                "Tees": {},
+                "Polos": {},
+                "Button-Down & Dress Shirts": {}
+            },
+            "Sweaters": {},
+            "Hoodies & Active": {},
+            "Bottoms": {
+                "Jeans": {},
+                "Leggings": {},
+                "Overalls": {},
+                "Pants": {},
+                "Shorts": {}
+            },
+            "Jackets & Coats": {
+                "Down & Down Alternative": {},
+                "Fleece": {},
+                "Jackets": {},
+                "Rain Wear": {},
+                "Snow Wear": {},
+                "Vests": {}
+            },
+            "Sleepwear & Robes": {
+                "Blanket Sleepers": {},
+                "Nightgowns": {},
+                "Pajama Sets": {},
+                "Robes": {}
+            },
+            "Bloomers, Diaper Covers & Underwear": {
+                "Undershirts": {},
+                "Training Pants": {},
+                "Bloomers": {}
+            },
+            "Swim": {
+                "Rash Guard Shirts": {},
+                "Swim Diapers": {},
+                "Trunks & Shorts": {},
+                "Swimwear Sets": {},
+                "Sunsuits": {}
+            },
+            "Christening": {}
+        },
+        "Shoes": {
+            "Athletic & Outdoor": {},
+            "Boots": {},
+            "Clogs & Mules": {},
+            "Oxfords & Loafers": {},
+            "Sandals": {},
+            "Slippers": {},
+            "Sneakers": {}
+        },
+        "Accessories": {
+            "Bibs & Burp Cloths": {
+                "Bibs": {},
+                "Burp Cloths": {},
+                "Bibs & Burp Cloths Sets": {}
+            },
+            "Gloves & Mittens": {},
+            "Hats & Caps": {},
+            "Leg Warmers": {},
+            "Receiving Blankets": {},
+            "Socks": {}
+        }
+    }
+}

@@ -1,0 +1,594 @@
+{
+    "Dogs": {
+        "Food": {
+            "Dry": {},
+            "Wet": {
+                "Canned": {},
+                "Pouches": {},
+                "Rolls": {}
+            },
+            "Dehydrated & Freeze-Dried": {
+                "Dehydrated": {},
+                "Freeze-Dried": {}
+            },
+            "Food Toppers": {},
+            "Frozen": {}
+        },
+        "Treats": {
+            "Animal Ears": {},
+            "Bones": {},
+            "Bully Sticks": {},
+            "Cookies, Biscuits & Snacks": {},
+            "Hooves": {},
+            "Jerky": {},
+            "Rawhide": {
+                "Bones": {},
+                "Chips": {},
+                "Rolls": {},
+                "Sticks & Twists": {}
+            }
+        },
+        "Apparel & Accessories": {
+            "Backpacks": {},
+            "Bandanas": {},
+            "Boots & Paw Protectors": {
+                "Boots": {},
+                "Paw Protectors": {}
+            },
+            "Cold Weather Coats": {},
+            "Costumes": {},
+            "Dresses": {},
+            "Hair Accessories": {},
+            "Hats": {},
+            "Hoodies": {},
+            "Lifejackets": {},
+            "Necklaces & Pendants": {},
+            "Raincoats": {},
+            "Shirts": {},
+            "Sunglasses": {},
+            "Sweaters": {}
+        },
+        "Beds & Furniture": {
+            "Bed Blankets": {},
+            "Bed Covers": {},
+            "Bed Liners": {},
+            "Bed Mats": {},
+            "Bed Pillows": {},
+            "Beds": {},
+            "Furniture-Style Crates": {},
+            "Sofas & Chairs": {},
+            "Stairs & Steps": {}
+        },
+        "Cameras & Monitors": {},
+        "Carriers & Travel Products": {
+            "Backpacks": {},
+            "Bicycle Carriers": {},
+            "Bicycle Trailers": {},
+            "Car Travel Accessories": {
+                "Barriers": {},
+                "Booster Seats": {},
+                "Seat Covers": {},
+                "Vehicle Ramps": {},
+                "Vehicle Harnesses": {}
+            },
+            "Carriers": {
+                "Hard-Sided Carriers": {},
+                "Soft-Sided Carriers": {}
+            },
+            "Purses": {},
+            "Slings": {},
+            "Strollers": {}
+        },
+        "Collars, Harnesses & Leashes": {
+            "Collars": {
+                "Basic Collars": {},
+                "Slip & Martingale Collars": {},
+                "Pinch Collars": {},
+                "Headcollars": {},
+                "Bark Collars": {},
+                "Training Collars": {}
+            },
+            "Harnesses": {
+                "Basic Halter Harnesses": {},
+                "Vehicle Harnesses": {},
+                "Vest Harnesses": {}
+            },
+            "Leashes": {
+                "Basic Leashes": {},
+                "Double Leashes": {},
+                "Hands Free Leashes": {},
+                "Retractable Leashes": {},
+                "Training Leashes": {}
+            },
+            "Muzzles": {},
+            "ID Tags & Collar Accessories": {
+                "Collar Charms": {},
+                "ID Tags": {}
+            },
+            "Location & Activity Trackers": {}
+        },
+        "Crates, Houses & Pens": {
+            "Crates & Kennels": {
+                "Basic Crates": {},
+                "Furniture-Style Crates": {},
+                "Kennels": {}
+            },
+            "Dog Houses": {},
+            "Kennel Covers": {},
+            "Outdoor Pens": {},
+            "Replacement Pans": {}
+        },
+        "Doors, Gates & Ramps": {
+            "Doorbells": {},
+            "Doors": {},
+            "Electronic Doors": {},
+            "Gates": {},
+            "Playpens": {},
+            "Safety Ramps": {}
+        },
+        "Feeding & Watering Supplies": {
+            "Automatic Feeders": {},
+            "Bowls & Dishes": {
+                "Basic Bowls": {},
+                "Raised Bowls": {},
+                "Slow Feeders": {},
+                "Travel Bowls": {}
+            },
+            "Feeding Mats": {},
+            "Food Storage": {},
+            "Fountains": {},
+            "Nursing Supplies": {},
+            "Water Bottles": {}
+        },
+        "Flea & Tick Control": {
+            "Flea & Tick Collars": {},
+            "Flea Combs": {},
+            "Dog Flea Powders": {},
+            "Flea Drops": {},
+            "Tick Remover Tools": {},
+            "Carpet Flea Powders & Sprays": {},
+            "Flea Shampoos": {},
+            "Dog Flea Sprays": {}
+        },
+        "Grooming": {
+            "Brushes": {},
+            "Claw Care": {},
+            "Colognes": {},
+            "Combs": {},
+            "Dander Remover Sprays": {},
+            "Dematting Tools": {
+                "Combs": {},
+                "Rakes": {}
+            },
+            "Deodorizers": {},
+            "Electric Clippers & Blades": {
+                "Electric Clippers": {},
+                "Replacement Blades": {}
+            },
+            "Grooming Wipes": {},
+            "Hair Removal Mitts & Rollers": {},
+            "Scissors": {},
+            "Shampoos & Conditioners": {
+                "Conditioners": {},
+                "Shampoos": {},
+                "Shampoos Plus Conditioners": {}
+            },
+            "Shedding Tools": {},
+            "Shower & Bath Accessories": {},
+            "Styptic Gels & Powders": {}
+        },
+        "Health Supplies": {
+            "Dental Care": {
+                "Toothbrushes": {},
+                "Toothpaste": {}
+            },
+            "Digestive Remedies": {},
+            "Ear Care": {},
+            "Eye Care": {},
+            "Hip & Joint Care": {},
+            "Itch Remedies": {},
+            "Medications": {},
+            "Milk Replacers": {},
+            "Recovery Collars & Cones": {},
+            "Relaxants": {},
+            "Supplements & Vitamins": {
+                "Amino Acids": {},
+                "Antioxidants": {},
+                "Fish Oil Supplements": {},
+                "Herbal Supplements": {},
+                "Multivitamins": {},
+                "Probiotics": {}
+            },
+            "Thermometers": {},
+            "Wormers": {}
+        },
+        "Litter & Housebreaking": {
+            "Diapers": {},
+            "Litter Boxes": {},
+            "Odor & Stain Removers": {},
+            "Pooper Scoopers & Bags": {
+                "Bags": {},
+                "Pooper Scoopers": {}
+            },
+            "Training Pads & Trays": {},
+            "Urine Detectors": {}
+        },
+        "Memorials": {},
+        "Toys": {
+            "Automatic Ball Launchers": {},
+            "Ball Launchers": {},
+            "Balls": {},
+            "Chew Toys": {},
+            "Flying Discs": {},
+            "Plush Toys": {},
+            "Ropes": {},
+            "Squeak Toys": {}
+        },
+        "Training & Behavior Aids": {
+            "Agility Equipment": {
+                "Dog Treadmills": {},
+                "Tunnels": {},
+                "Jumps": {}
+            },
+            "Bark Collars": {},
+            "Dog Whistles": {},
+            "Radio & Wireless Fences": {},
+            "Repellents": {
+                "Repellent Mats": {},
+                "Sonic Repellents": {},
+                "Spray Repellents": {}
+            },
+            "Sonic Bark Deterrents": {},
+            "Tie-Outs & Stakes": {},
+            "Training Clickers": {},
+            "Training Collars": {},
+            "Training Leashes": {}
+        }
+    },
+    "Cats": {
+        "Apparel": {},
+        "Beds & Furniture": {
+            "Bed Blankets": {},
+            "Bed Mats": {},
+            "Beds & Sofas": {
+                "Beds": {},
+                "Sofas": {}
+            },
+            "Cat Trees & Condos": {
+                "Activity Trees": {},
+                "Cat Houses & Condos": {}
+            },
+            "Hammocks": {},
+            "Scratcher Accessories & Parts": {},
+            "Scratching Pads": {},
+            "Scratching Posts": {},
+            "Window Perches": {}
+        },
+        "Cameras & Monitors": {},
+        "Carriers & Strollers": {
+            "Carriers": {
+                "Hard-Sided Carriers": {},
+                "Soft-Sided Carriers": {}
+            },
+            "Strollers": {}
+        },
+        "Cat Doors, Enclosures & Steps": {
+            "Cat Doors": {},
+            "Electronic Cat Doors": {},
+            "Kennels": {},
+            "Outdoor Pens": {},
+            "Stairs & Steps": {}
+        },
+        "Collars, Harnesses & Leashes": {
+            "Collar Bells": {},
+            "Collar Charms": {},
+            "Collars": {
+                "Accessories": {},
+                "Flea Collars": {}
+            },
+            "Flea Collars": {},
+            "Harnesses": {},
+            "ID Tags": {},
+            "Leashes": {},
+            "Location & Activity Trackers": {}
+        },
+        "Feeding & Watering Supplies": {
+            "Automatic Feeders": {},
+            "Bowls & Dishes": {
+                "Basic Bowls": {},
+                "Raised Bowls": {},
+                "Slow Feeders": {},
+                "Travel Bowls": {}
+            },
+            "Feeding Mats": {},
+            "Food Storage": {},
+            "Fountains": {},
+            "Nursing Supplies": {}
+        },
+        "Flea & Tick Control": {
+            "Flea Collars": {},
+            "Flea Combs": {},
+            "Flea Shampoos": {},
+            "Cat Flea Powders": {},
+            "Cat Flea Sprays": {},
+            "Tick Remover Tools": {},
+            "Carpet Flea Powders & Sprays": {},
+            "Flea Drops": {}
+        },
+        "Food": {
+            "Dry": {},
+            "Wet": {
+                "Canned": {},
+                "Pouches": {}
+            },
+            "Dehydrated & Freeze-Dried": {},
+            "Milk Replacers": {}
+        },
+        "Grooming": {
+            "Brushes": {},
+            "Claw Care": {},
+            "Combs": {},
+            "Dander Remover Sprays": {},
+            "Electric Clippers & Blades": {
+                "Electric Clippers": {},
+                "Replacement Blades": {}
+            },
+            "Hair Removal Mitts & Rollers": {},
+            "Scissors": {},
+            "Shampoos & Conditioners": {
+                "Conditioners": {},
+                "Shampoos": {},
+                "Shampoos Plus Conditioners": {}
+            },
+            "Shedding Tools": {},
+            "Styptic Gels & Powders": {}
+        },
+        "Health Supplies": {
+            "Dental Care": {},
+            "Digestive Remedies": {},
+            "Ear Care": {},
+            "Eye Care": {},
+            "Hairball Remedy Pastes & Gels": {},
+            "Hip & Joint Care": {},
+            "Itch Remedies": {},
+            "Medications": {},
+            "Milk Replacers": {},
+            "Recovery Collars & Cones": {},
+            "Relaxants": {},
+            "Supplements & Vitamins": {
+                "Antioxidants": {},
+                "Fish Oil Supplements": {},
+                "Herbal Supplements": {},
+                "Multivitamins": {},
+                "Probiotics": {}
+            },
+            "Wormers": {}
+        },
+        "Litter & Housebreaking": {
+            "Litter": {},
+            "Litter Box Enclosures": {},
+            "Litter Box Liners": {},
+            "Litter Boxes": {
+                "Disposable Litter Boxes": {},
+                "Self-Cleaning Litter Boxes": {},
+                "Standard Litter Boxes": {}
+            },
+            "Litter Mats": {},
+            "Litter Scoops": {},
+            "Litter Waste Receptacles": {},
+            "Odor & Stain Removers": {},
+            "Replacement Filters": {},
+            "Toilet Training Systems": {},
+            "Urine Detectors": {}
+        },
+        "Memorials": {},
+        "Repellents & Training Aids": {
+            "Repellent Mats": {},
+            "Sonic Repellents": {},
+            "Spray Repellents": {}
+        },
+        "Toys": {
+            "Balls": {},
+            "Catnip Toys": {},
+            "Feather Toys": {},
+            "Mice & Animal Toys": {},
+            "Tunnels": {}
+        },
+        "Treats": {
+            "Catnip": {},
+            "Snacks": {}
+        }
+    },
+    "Fish & Aquatic Pets": {
+        "Aquarium Cleaners": {
+            "Algae Scrapers": {},
+            "Aquarium Nets": {},
+            "Gravel Cleaners": {}
+        },
+        "Aquarium D\u00e9cor": {
+            "Backgrounds": {},
+            "Coral Ornaments": {},
+            "Decorative Marbles": {},
+            "Decorative Rocks": {},
+            "Live Plants": {},
+            "Ornaments": {},
+            "Plastic Plants": {},
+            "Tank Dividers": {},
+            "Wood": {}
+        },
+        "Aquarium Heaters & Chillers": {},
+        "Aquarium Hoods": {},
+        "Aquarium Hydrometers": {},
+        "Aquarium Lights": {},
+        "Aquarium Pumps & Filters": {
+            "Air Pump Accessories": {},
+            "Air Pumps": {},
+            "Filter Accessories": {},
+            "Filters": {},
+            "Water Pump Accessories": {},
+            "Water Pumps": {}
+        },
+        "Aquarium Stands": {},
+        "Aquarium Substrate": {
+            "Gravel": {},
+            "Sand": {}
+        },
+        "Aquarium Test Kits": {},
+        "Aquarium Thermometers": {},
+        "Aquarium Water Treatments": {},
+        "Aquariums & Fish Bowls": {
+            "Aquariums": {},
+            "Fish Bowls": {},
+            "Starter Kits": {}
+        },
+        "Automatic Feeders": {},
+        "Breeding Tanks": {},
+        "Food": {},
+        "Health Supplies": {}
+    },
+    "Birds": {
+        "Food": {},
+        "Treats": {},
+        "Cages & Accessories": {
+            "Bedding & Litter": {},
+            "Bird Baths": {},
+            "Birdcage Covers": {},
+            "Birdcages": {},
+            "Birdcage Stands": {},
+            "Ladders": {},
+            "Nests": {},
+            "Perches": {},
+            "Seed Guards & Catchers": {},
+            "Swings": {}
+        },
+        "Carriers": {},
+        "Feeding & Watering Supplies": {
+            "Feeders": {},
+            "Water Bottles": {}
+        },
+        "Health Supplies": {},
+        "Toys": {}
+    },
+    "Horses": {
+        "Food": {},
+        "Treats": {},
+        "Horse Blankets & Sheets": {
+            "Blankets": {},
+            "Sheets": {}
+        },
+        "Boots & Wraps": {
+            "Boots": {},
+            "Wraps": {}
+        },
+        "Farrier Supplies": {
+            "Horseshoes": {},
+            "Horseshoe Nails": {},
+            "Tools": {}
+        },
+        "Grooming & Bathing Supplies": {
+            "Brushes": {},
+            "Clippers": {},
+            "Coat Care": {},
+            "Curry Combs": {},
+            "Hoof Picks": {},
+            "Mane & Tail Combs": {}
+        },
+        "Health Supplies": {
+            "Digestive Aids": {},
+            "Hip & Joint Care": {},
+            "Hoof Care": {},
+            "Liniments": {},
+            "Salt Licks": {},
+            "Vitamins & Supplements": {
+                "Calming Supplements": {},
+                "Electrolyte Supplements": {},
+                "Skin, Coat & Hoof Supplements": {},
+                "Vitamins & Minerals": {},
+                "Weight Building Supplements": {}
+            },
+            "Wormers": {},
+            "Wound Care": {}
+        },
+        "Pest Control": {
+            "Fly Repellents": {},
+            "Masks": {},
+            "Wormers": {}
+        },
+        "Stable Supplies": {
+            "Feeding & Watering Equipment": {
+                "Feeding Supplies": {},
+                "Watering Supplies": {}
+            },
+            "Stall & Muck Supplies": {},
+            "Tack Care & Storage": {
+                "Tack Care": {},
+                "Tack Storage": {}
+            }
+        },
+        "Toys": {
+            "Balls": {},
+            "Chew Toys": {}
+        }
+    },
+    "Reptiles & Amphibians": {
+        "Food": {},
+        "Habitat D\u00e9cor": {
+            "Hideouts": {},
+            "Plants": {},
+            "Rocks": {},
+            "Waterfalls": {},
+            "Wood": {}
+        },
+        "Habitat Lighting": {},
+        "Health Supplies": {},
+        "Terrarium Bedding, Sand & Substrate": {
+            "Bedding": {},
+            "Sand": {},
+            "Substrate": {}
+        },
+        "Terrarium Bowls": {},
+        "Terrarium Covers": {},
+        "Terrarium Heat Lamps & Mats": {
+            "Heat Lamps": {},
+            "Heat Mats": {}
+        },
+        "Terrarium Hygrometers": {},
+        "Terrarium Thermometers": {},
+        "Terrariums": {}
+    },
+    "Small Animals": {
+        "Food": {},
+        "Treats": {},
+        "Carriers": {},
+        "Collars, Harnesses & Leashes": {
+            "Collars": {},
+            "Harnesses": {},
+            "Leashes": {}
+        },
+        "Exercise Wheels": {},
+        "Feeding & Watering Supplies": {
+            "Automatic Feeders": {},
+            "Bowls": {},
+            "Water Bottles": {}
+        },
+        "Grooming": {
+            "Brushes": {},
+            "Combs": {},
+            "Deodorizers": {},
+            "Nail Care": {}
+        },
+        "Health Supplies": {},
+        "Houses & Habitats": {
+            "Bedding & Litter": {},
+            "Beds": {},
+            "Cages": {},
+            "Habitat D\u00e9cor": {},
+            "Hammocks": {},
+            "Outdoor Pens & Hutches": {},
+            "Playpens": {},
+            "Tubes & Tunnels": {}
+        },
+        "Odor & Stain Removers": {},
+        "Toys": {}
+    }
+}

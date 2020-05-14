@@ -1,0 +1,176 @@
+{
+    "Clothing": {
+        "Active": {
+            "Active Hoodies": {},
+            "Active Sweatshirts": {},
+            "Track & Active Jackets": {},
+            "Active Top & Bottom Sets": {},
+            "Active Shirts & Tees": {},
+            "Active Dresses": {},
+            "Active Pants": {},
+            "Active Leggings": {},
+            "Active Shorts": {},
+            "Active Skirts": {},
+            "Active Base Layers": {},
+            "Athletic Socks": {}
+        },
+        "Clothing Sets": {
+            "Pant Sets": {},
+            "Short Sets": {},
+            "Skirt Sets": {}
+        },
+        "Dresses": {
+            "Casual": {},
+            "Special Occasion": {},
+            "School Uniform Dresses": {}
+        },
+        "Fashion Hoodies & Sweatshirts": {},
+        "Jackets & Coats": {
+            "Down & Down Alternative": {},
+            "Dress Coats": {},
+            "Fleece": {},
+            "Jackets": {},
+            "Rain Wear": {},
+            "Snow Wear": {},
+            "Vests": {}
+        },
+        "Jeans": {},
+        "Jumpsuits & Rompers": {},
+        "Leggings": {},
+        "Overalls": {},
+        "Pants & Capris": {},
+        "Shorts": {},
+        "Skirts & Skorts": {
+            "Skirts": {},
+            "Skorts": {}
+        },
+        "Sleepwear & Robes": {
+            "Nightgowns": {},
+            "Pajama Bottoms": {},
+            "Pajama Tops": {},
+            "Pajama Sets": {},
+            "Robes": {},
+            "Blanket Sleepers": {}
+        },
+        "Socks & Tights": {
+            "Athletic Socks": {},
+            "Casual & Dress Socks": {},
+            "Tights": {}
+        },
+        "Sweaters": {
+            "Pullover": {},
+            "Cardigan": {},
+            "Shrugs": {},
+            "Vests": {}
+        },
+        "Swim": {
+            "Board Shorts": {},
+            "Cover-Ups & Wraps": {},
+            "One-Pieces": {},
+            "Two-Pieces": {
+                "Bikinis": {},
+                "Tankinis": {},
+                "Cover-Up Sets": {},
+                "Rash Guard Sets": {}
+            },
+            "Rash Guard Shirts": {}
+        },
+        "Tops, Tees & Blouses": {
+            "Blouses & Button-Down Shirts": {},
+            "Polos": {},
+            "Tanks & Camis": {},
+            "Tees": {}
+        },
+        "Underwear": {
+            "Undershirts, Tanks & Camisoles": {},
+            "Panties": {},
+            "Slips": {},
+            "Training Bras": {}
+        }
+    },
+    "Shoes": {
+        "Athletic": {
+            "Basketball": {},
+            "Bowling": {},
+            "Cheerleading": {},
+            "Dance": {},
+            "Equestrian Sport Boots": {},
+            "Fitness & Cross-Training": {},
+            "Racquet Sports": {},
+            "Running": {},
+            "Skateboarding": {},
+            "Soccer": {},
+            "Softball & Baseball": {},
+            "Sport Sandals": {},
+            "Trail Running": {},
+            "Walking": {},
+            "Water Shoes": {}
+        },
+        "Boots": {},
+        "Clogs & Mules": {},
+        "Flats": {},
+        "Loafers": {},
+        "Outdoor": {
+            "Hiking & Trekking": {
+                "Hiking Boots": {},
+                "Hiking Shoes": {}
+            },
+            "Rain Boots": {},
+            "Snow Boots": {},
+            "Sport Sandals": {},
+            "Trail Running": {},
+            "Water Shoes": {}
+        },
+        "Oxfords": {},
+        "Sandals": {},
+        "Slippers": {},
+        "Sneakers": {}
+    },
+    "Jewelry": {
+        "Anklets": {},
+        "Bracelets": {
+            "Bangle": {},
+            "Charm": {},
+            "Cuff": {},
+            "Identification": {},
+            "Link": {}
+        },
+        "Brooches & Pins": {},
+        "Earrings": {
+            "Ball": {},
+            "Drop & Dangle": {},
+            "Hoop": {},
+            "Stud": {}
+        },
+        "Necklaces & Pendants": {
+            "Chains": {},
+            "Lockets": {},
+            "Pendants": {}
+        },
+        "Rings": {}
+    },
+    "Watches": {
+        "Wrist Watches": {},
+        "Watch Bands": {},
+        "Pocket Watches": {}
+    },
+    "Accessories": {
+        "Cold Weather": {
+            "Sets": {},
+            "Scarves & Wraps": {},
+            "Gloves": {},
+            "Mittens": {},
+            "Hats & Caps": {},
+            "Earmuffs": {},
+            "Glove Liners": {},
+            "Neck Gaiters": {}
+        },
+        "Hats & Caps": {},
+        "Belts": {},
+        "Sunglasses": {},
+        "Fashion Scarves": {},
+        "Special Occasion Gloves": {},
+        "First Communion Veils": {}
+    },
+    "Shops": {}
+}

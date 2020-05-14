@@ -1,0 +1,726 @@
+{
+    "Clothing": {
+        "Shirts": {
+            "T-Shirts": {},
+            "Tank Tops": {},
+            "Polos": {},
+            "Henleys": {},
+            "Casual Button-Down Shirts": {},
+            "Dress Shirts": {},
+            "Tuxedo Shirts": {}
+        },
+        "Fashion Hoodies & Sweatshirts": {},
+        "Sweaters": {
+            "Pullovers": {},
+            "Cardigans": {},
+            "Polos": {},
+            "Vests": {}
+        },
+        "Jackets & Coats": {
+            "Active & Performance": {
+                "Down & Down Alternative": {},
+                "Fleece": {},
+                "Insulated": {},
+                "Shells": {}
+            },
+            "Down & Down Alternative": {},
+            "Fleece": {},
+            "Leather & Faux Leather": {},
+            "Lightweight Jackets": {
+                "Cotton": {},
+                "Denim": {},
+                "Golf Jackets": {},
+                "Varsity Jackets": {},
+                "Windbreakers": {}
+            },
+            "Trench & Rain": {},
+            "Vests": {},
+            "Wool & Blends": {},
+            "Work Wear": {}
+        },
+        "Jeans": {},
+        "Pants": {
+            "Dress": {},
+            "Casual": {}
+        },
+        "Shorts": {
+            "Cargo": {},
+            "Denim": {},
+            "Flat Front": {},
+            "Pleated": {}
+        },
+        "Active": {
+            "Active Hoodies": {},
+            "Active Sweatshirts": {},
+            "Track & Active Jackets": {},
+            "Active Shirts & Tees": {},
+            "Active Vests": {},
+            "Active Pants": {},
+            "Active Shorts": {},
+            "Active Tracksuits": {},
+            "Active Base Layers": {},
+            "Active Underwear": {},
+            "Athletic Socks": {},
+            "Athletic Supporters": {}
+        },
+        "Swim": {
+            "Trunks": {},
+            "Board Shorts": {},
+            "Briefs": {},
+            "Racing": {
+                "Bodysuits": {},
+                "Briefs": {},
+                "Jammers": {}
+            },
+            "Rash Guards": {}
+        },
+        "Suits & Sport Coats": {
+            "Suits": {},
+            "Suit Separates": {
+                "Suit Jackets": {},
+                "Suit Pants": {}
+            },
+            "Sport Coats & Blazers": {},
+            "Tuxedos": {},
+            "Vests": {}
+        },
+        "Underwear": {
+            "Bikinis": {},
+            "Boxer Briefs": {},
+            "Boxers": {},
+            "Briefs": {},
+            "G-Strings & Thongs": {},
+            "Shapewear": {},
+            "Thermal Underwear": {
+                "Tops": {},
+                "Bottoms": {},
+                "Union Suits": {}
+            },
+            "Trunks": {},
+            "Undershirts": {}
+        },
+        "Socks": {
+            "Casual Socks": {},
+            "Dress & Trouser Socks": {},
+            "Athletic Socks": {}
+        },
+        "Sleep & Lounge": {
+            "Sleep Tops": {},
+            "Sleep Bottoms": {},
+            "Sleep Sets": {},
+            "Robes": {}
+        },
+        "T-Shirts & Tanks": {
+            "T-Shirts": {},
+            "Tank Tops": {}
+        }
+    },
+    "Shoes": {
+        "Athletic": {
+            "Running": {
+                "Road Running": {},
+                "Track & Field & Cross Country": {},
+                "Trail Running": {}
+            },
+            "Team Sports": {
+                "Baseball & Softball": {},
+                "Basketball": {},
+                "Field Hockey & Lacrosse": {},
+                "Football": {},
+                "Rugby": {},
+                "Soccer": {},
+                "Volleyball": {}
+            },
+            "Fitness & Cross-Training": {},
+            "Golf": {},
+            "Tennis & Racquet Sports": {},
+            "Cycling": {},
+            "Walking": {},
+            "Skateboarding": {},
+            "Sport Sandals & Slides": {},
+            "Water Shoes": {},
+            "Wrestling": {},
+            "Bowling": {},
+            "Equestrian Sport Boots": {},
+            "Ballet & Dance": {}
+        },
+        "Boots": {
+            "Chelsea": {},
+            "Chukka": {},
+            "Motorcycle & Combat": {},
+            "Oxford & Derby": {},
+            "Western": {},
+            "Rain": {},
+            "Snow": {},
+            "Hiking": {},
+            "Hunting": {},
+            "Work & Safety": {
+                "Military & Tactical": {},
+                "Fire & Safety Boots": {},
+                "Industrial & Construction Boots": {}
+            }
+        },
+        "Fashion Sneakers": {},
+        "Loafers & Slip-Ons": {},
+        "Mules & Clogs": {},
+        "Outdoor": {
+            "Climbing": {},
+            "Hiking & Trekking": {
+                "Backpacking Boots": {},
+                "Hiking Boots": {},
+                "Hiking Shoes": {},
+                "Mountaineering Boots": {}
+            },
+            "Hunting": {},
+            "Rain Footwear": {},
+            "Snow Boots": {},
+            "Sport Sandals & Slides": {},
+            "Trail Running": {},
+            "Water Shoes": {},
+            "Western Boots": {}
+        },
+        "Oxfords": {},
+        "Sandals": {},
+        "Slippers": {},
+        "Work & Safety": {
+            "Fire & Safety": {},
+            "Health Care & Food Service": {},
+            "Industrial & Construction": {},
+            "Military & Tactical": {},
+            "Uniform Dress Shoes": {}
+        }
+    },
+    "Jewelry": {
+        "Bracelets": {
+            "Cuff": {},
+            "Identification": {},
+            "Link": {}
+        },
+        "Cuff Links": {},
+        "Earrings": {},
+        "Necklaces": {},
+        "Rings": {},
+        "Shirt Studs": {},
+        "Tie Clips": {},
+        "Tie Pins": {},
+        "Wedding Rings": {},
+        "Body Jewelry": {
+            "Dental Grills": {},
+            "Faux Body Piercing Jewelry": {},
+            "Piercing Jewelry": {
+                "Barbells": {},
+                "Plugs": {},
+                "Retainers": {},
+                "Rings": {},
+                "Screws": {},
+                "Studs": {},
+                "Tapers": {},
+                "Tunnels": {}
+            },
+            "Toe Rings": {}
+        }
+    },
+    "Watches": {
+        "Wrist Watches": {},
+        "Watch Bands": {},
+        "Pocket Watches": {},
+        "Smartwatches": {},
+        "Certified Pre-Owned": {}
+    },
+    "Accessories": {
+        "Belts": {},
+        "Collar Stays": {},
+        "Cuff Links, Shirt Studs & Tie Clips": {
+            "Cuff Links": {},
+            "Shirt Studs": {},
+            "Tie Clips": {}
+        },
+        "Earmuffs": {},
+        "Gloves & Mittens": {
+            "Cold Weather Gloves": {},
+            "Mittens": {}
+        },
+        "Handkerchiefs": {},
+        "Hats & Caps": {
+            "Balaclavas": {},
+            "Baseball Caps": {},
+            "Cowboy Hats": {},
+            "Fedoras": {},
+            "Newsboy Caps": {},
+            "Rain Hats": {},
+            "Skullies & Beanies": {},
+            "Sun Hats": {},
+            "Visors": {}
+        },
+        "Keyrings & Keychains": {},
+        "Scarves": {
+            "Cold Weather Scarves": {},
+            "Fashion Scarves": {},
+            "Neck Gaiters": {}
+        },
+        "Sunglasses & Eyewear Accessories": {
+            "Sunglasses": {},
+            "Eyeglass Cases": {},
+            "Eyeglass Chains": {},
+            "Eyewear Frames": {},
+            "Replacement Sunglass Lenses": {}
+        },
+        "Suspenders": {},
+        "Ties, Cummerbunds & Pocket Squares": {
+            "Bolo Ties": {},
+            "Bow Ties": {},
+            "Cravats": {},
+            "Cummerbunds": {},
+            "Neckties": {},
+            "Pocket Squares": {},
+            "Tie Sets": {}
+        },
+        "Wallets, Card Cases & Money Organizers": {
+            "Wallets": {},
+            "Card & ID Cases": {
+                "Card Cases": {},
+                "ID Cases": {},
+                "Business Card Cases": {},
+                "Commuter Pass Cases": {}
+            },
+            "Coin Purses & Pouches": {},
+            "Money Clips": {}
+        }
+    },
+    "Shops": {
+        "Contemporary & Designer": {
+            "Clothing": {
+                "Shirts": {
+                    "T-Shirts": {},
+                    "Tank Tops": {},
+                    "Polos": {},
+                    "Henleys": {},
+                    "Casual Button-Down Shirts": {},
+                    "Dress Shirts": {}
+                },
+                "Fashion Hoodies & Sweatshirts": {},
+                "Sweaters": {
+                    "Pullovers": {},
+                    "Cardigans": {}
+                },
+                "Jackets & Coats": {
+                    "Active & Performance": {},
+                    "Down & Down Alternative": {},
+                    "Leather & Faux Leather": {},
+                    "Lightweight Jackets": {},
+                    "Trench & Rain": {},
+                    "Vests": {},
+                    "Wool & Blends": {}
+                },
+                "Jeans": {},
+                "Pants": {
+                    "Dress": {},
+                    "Casual": {}
+                },
+                "Shorts": {
+                    "Cargo": {},
+                    "Flat Front": {}
+                },
+                "Active": {},
+                "Swim": {
+                    "Trunks": {},
+                    "Board Shorts": {}
+                },
+                "Suits & Sport Coats": {
+                    "Suits": {},
+                    "Suit Separates": {
+                        "Suit Jackets": {},
+                        "Suit Pants": {}
+                    },
+                    "Sport Coats & Blazers": {},
+                    "Tuxedos": {},
+                    "Vests": {}
+                },
+                "Underwear": {
+                    "Boxer Briefs": {},
+                    "Boxers": {},
+                    "Briefs": {},
+                    "Undershirts": {},
+                    "Trunks": {}
+                },
+                "Socks": {
+                    "Casual Socks": {},
+                    "Dress & Trouser Socks": {}
+                },
+                "Sleep & Lounge": {}
+            },
+            "Shoes": {
+                "Athletic": {},
+                "Boots": {},
+                "Fashion Sneakers": {},
+                "Loafers & Slip-Ons": {},
+                "Oxfords": {},
+                "Sandals": {}
+            },
+            "Watches": {},
+            "Accessories": {
+                "Belts": {},
+                "Sunglasses & Eyewear Accessories": {
+                    "Sunglasses": {},
+                    "Prescription Eyewear Frames": {}
+                },
+                "Neckties": {},
+                "Bow Ties & Cummerbunds": {},
+                "Scarves": {
+                    "Cold Weather Scarves": {},
+                    "Fashion Scarves": {}
+                },
+                "Gloves & Mittens": {},
+                "Hats & Caps": {
+                    "Baseball Caps": {},
+                    "Fedoras": {},
+                    "Skullies & Beanies": {}
+                },
+                "Wallets, Card Cases & Money Organizers": {}
+            }
+        },
+        "Big & Tall": {
+            "Shirts": {
+                "T-Shirts": {},
+                "Tank Tops": {},
+                "Polos": {},
+                "Henleys": {},
+                "Button-Down Shirts": {
+                    "Casual Button-Down Shirts": {},
+                    "Dress Shirts": {},
+                    "Tuxedo Shirts": {}
+                }
+            },
+            "Fashion Hoodies & Sweatshirts": {
+                "Fashion Hoodies": {},
+                "Fashion Sweatshirts": {}
+            },
+            "Sweaters": {
+                "Pullovers": {},
+                "Cardigans": {},
+                "Polos": {},
+                "Vests": {}
+            },
+            "Outerwear & Coats": {
+                "Active & Performance": {},
+                "Denim": {},
+                "Down & Parkas": {},
+                "Fleece": {},
+                "Leather & Suede": {},
+                "Lightweight Jackets": {},
+                "Trench & Rain": {},
+                "Vests": {},
+                "Wool & Blends": {},
+                "Work Wear": {}
+            },
+            "Jeans": {},
+            "Pants": {
+                "Dress": {},
+                "Casual": {}
+            },
+            "Shorts": {
+                "Cargo": {},
+                "Denim": {},
+                "Flat Front": {},
+                "Pleated": {}
+            },
+            "Active": {
+                "Active Hoodies": {},
+                "Active Sweatshirts": {},
+                "Track & Active Jackets": {},
+                "Active Shirts & Tees": {},
+                "Active Sweaters": {},
+                "Active Vests": {},
+                "Active Pants": {
+                    "Track Pants": {},
+                    "Sweatpants": {}
+                },
+                "Active Shorts": {},
+                "Active Tracksuits": {},
+                "Active Base Layers": {
+                    "Bottoms": {},
+                    "Tops": {},
+                    "Sets": {}
+                },
+                "Active Underwear": {},
+                "Athletic Socks": {},
+                "Athletic Supporters": {}
+            },
+            "Swim": {
+                "Trunks": {},
+                "Board Shorts": {},
+                "Briefs": {},
+                "Racing": {
+                    "Bodysuits": {},
+                    "Briefs": {},
+                    "Jammers": {}
+                },
+                "Rash Guards": {}
+            },
+            "Suits & Sport Coats": {
+                "Suits": {},
+                "Sport Coats & Blazers": {},
+                "Suit Jackets": {},
+                "Suit Pants": {},
+                "Tuxedos": {},
+                "Vests": {}
+            },
+            "Underwear": {
+                "G-Strings & Thongs": {},
+                "Bikinis": {},
+                "Boxer Briefs": {},
+                "Boxers": {},
+                "Briefs": {},
+                "Undershirts": {}
+            },
+            "Socks": {
+                "Casual Socks": {},
+                "Dress & Trouser Socks": {},
+                "Athletic Socks": {}
+            },
+            "Sleep & Lounge": {
+                "Sleep Tops": {},
+                "Sleep Bottoms": {},
+                "Sleep Sets": {},
+                "Robes": {},
+                "Thermal Underwear": {}
+            },
+            "Overalls": {}
+        },
+        "Uniforms, Work & Safety": {
+            "Clothing": {
+                "Medical": {
+                    "Scrub Bottoms": {},
+                    "Scrub Tops": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Lab Coats": {}
+                },
+                "Food Service": {
+                    "Chef Jackets": {},
+                    "Chef Pants": {}
+                },
+                "Military": {
+                    "Tops": {},
+                    "Pants": {},
+                    "Outerwear": {},
+                    "Accessories": {}
+                },
+                "Work Utility & Safety": {
+                    "Tops": {},
+                    "Overalls & Coveralls": {},
+                    "Pants": {},
+                    "Shorts": {},
+                    "Outerwear": {}
+                }
+            },
+            "Shoes": {
+                "Fire & Safety": {},
+                "Health Care & Food Service": {},
+                "Industrial & Construction": {},
+                "Military & Tactical": {},
+                "Uniform Dress Shoes": {}
+            }
+        },
+        "Surf, Skate & Street": {
+            "Clothing": {
+                "Shirts": {
+                    "T-Shirts": {},
+                    "Tank Tops": {},
+                    "Polos": {},
+                    "Henleys": {},
+                    "Casual Button-Down Shirts": {},
+                    "Dress Shirts": {},
+                    "Tuxedo Shirts": {}
+                },
+                "Fashion Hoodies & Sweatshirts": {},
+                "Sweaters": {
+                    "Pullovers": {},
+                    "Cardigans": {},
+                    "Polos": {},
+                    "Vests": {}
+                },
+                "Jackets & Coats": {
+                    "Active & Performance": {
+                        "Insulated": {},
+                        "Shells": {}
+                    },
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Leather & Faux Leather": {},
+                    "Lightweight Jackets": {
+                        "Cotton": {},
+                        "Denim": {},
+                        "Varsity Jackets": {},
+                        "Windbreakers": {}
+                    },
+                    "Trench & Rain": {},
+                    "Vests": {},
+                    "Wool & Blends": {}
+                },
+                "Jeans": {},
+                "Pants": {
+                    "Dress": {},
+                    "Casual": {}
+                },
+                "Shorts": {
+                    "Cargo": {},
+                    "Denim": {},
+                    "Flat Front": {},
+                    "Pleated": {}
+                },
+                "Active": {
+                    "Active Hoodies": {},
+                    "Active Sweatshirts": {},
+                    "Track & Active Jackets": {},
+                    "Active Shirts & Tees": {},
+                    "Active Vests": {},
+                    "Active Pants": {},
+                    "Active Shorts": {},
+                    "Active Tracksuits": {},
+                    "Active Base Layers": {},
+                    "Active Underwear": {},
+                    "Athletic Socks": {},
+                    "Athletic Supporters": {}
+                },
+                "Swim": {
+                    "Trunks": {},
+                    "Board Shorts": {},
+                    "Briefs": {},
+                    "Rash Guards": {}
+                },
+                "Suits & Sport Coats": {
+                    "Suits": {},
+                    "Sport Coats & Blazers": {},
+                    "Tuxedo Jackets": {},
+                    "Tuxedo Pants": {},
+                    "Tuxedos": {},
+                    "Vests": {}
+                },
+                "Underwear": {
+                    "Bikinis": {},
+                    "Boxer Briefs": {},
+                    "Boxers": {},
+                    "Briefs": {},
+                    "Undershirts": {},
+                    "Thermal Underwear": {}
+                },
+                "Socks": {
+                    "Casual Socks": {},
+                    "Dress & Trouser Socks": {}
+                },
+                "Sleep & Lounge": {
+                    "Sleep Tops": {},
+                    "Sleep Bottoms": {},
+                    "Sleep Sets": {},
+                    "Robes": {}
+                }
+            },
+            "Shoes": {
+                "Athletic": {
+                    "Ballet & Dance": {},
+                    "Baseball & Softball": {},
+                    "Basketball": {},
+                    "Boating": {},
+                    "Bowling": {},
+                    "Cycling": {},
+                    "Equestrian Sport Boots": {},
+                    "Field Hockey & Lacrosse": {},
+                    "Fitness & Cross-Training": {},
+                    "Football": {},
+                    "Golf": {},
+                    "Racquet Sports": {
+                        "Racquetball": {},
+                        "Squash": {},
+                        "Tennis": {}
+                    },
+                    "Rugby": {},
+                    "Running": {},
+                    "Skateboarding": {},
+                    "Soccer": {},
+                    "Sport Sandals": {},
+                    "Track & Field & Cross Country": {},
+                    "Trail Running": {},
+                    "Volleyball": {},
+                    "Walking": {},
+                    "Water Shoes": {},
+                    "Wrestling": {}
+                },
+                "Boots": {},
+                "Fashion Sneakers": {},
+                "Loafers & Slip-Ons": {},
+                "Mules & Clogs": {},
+                "Outdoor": {
+                    "Climbing": {},
+                    "Hiking & Trekking": {
+                        "Backpacking Boots": {},
+                        "Hiking Boots": {},
+                        "Hiking Shoes": {},
+                        "Mountaineering Hard Shell": {}
+                    },
+                    "Hunting": {},
+                    "Rain Footwear": {},
+                    "Snow Boots": {}
+                },
+                "Oxfords": {},
+                "Sandals": {},
+                "Slippers": {}
+            },
+            "Watches": {
+                "Watch Bands": {},
+                "Pocket Watches": {},
+                "Wrist Watches": {}
+            },
+            "Accessories": {
+                "Belts": {},
+                "Bow Ties & Cummerbunds": {
+                    "Bow Tie & Cummerbund Sets": {},
+                    "Bow Ties": {}
+                },
+                "Cuff Links, Shirt Studs & Tie Clips": {},
+                "Earmuffs": {},
+                "Gloves & Mittens": {
+                    "Cold Weather Gloves": {},
+                    "Mittens": {}
+                },
+                "Handkerchiefs": {},
+                "Hats & Caps": {
+                    "Balaclavas": {},
+                    "Baseball Caps": {},
+                    "Bucket Hats": {},
+                    "Fedoras": {},
+                    "Newsboy Caps": {},
+                    "Skullies & Beanies": {},
+                    "Sun Hats": {},
+                    "Visors": {}
+                },
+                "Keyrings & Keychains": {},
+                "Neckties": {},
+                "Scarves": {
+                    "Cold Weather Scarves": {},
+                    "Fashion Scarves": {},
+                    "Neck Gaiters": {}
+                },
+                "Sunglasses & Eyewear Accessories": {
+                    "Eyeglass Cases": {},
+                    "Eyeglass Chains": {},
+                    "Prescription Eyewear Frames": {},
+                    "Replacement Sunglass Lenses": {},
+                    "Sunglasses": {}
+                },
+                "Wallets, Card Cases & Money Organizers": {
+                    "Card & ID Cases": {
+                        "Business Card Cases": {},
+                        "Card Cases": {},
+                        "Commuter Pass Cases": {},
+                        "ID Cases": {}
+                    },
+                    "Coin Purses & Pouches": {},
+                    "Money Clips": {},
+                    "Wallets": {}
+                }
+            },
+            "Backpacks": {}
+        }
+    }
+}

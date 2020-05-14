@@ -1,0 +1,2727 @@
+{
+    "Accessories & Supplies": {
+        "Audio & Video Accessories": {
+            "3D Glasses": {},
+            "Antennas": {
+                "Radio Antennas": {},
+                "TV Antennas": {}
+            },
+            "Cables & Interconnects": {
+                "Audio Cables": {
+                    "Digital Coaxial Cables": {},
+                    "Fiber Optic Cables": {},
+                    "RCA Cables": {},
+                    "Speaker Cables": {},
+                    "Subwoofer Cables": {},
+                    "Stereo Jack Cables": {}
+                },
+                "Video Cables": {
+                    "Component Video": {},
+                    "Composite Video": {},
+                    "DVI Cables": {},
+                    "F-Pin-Coaxial Tip": {},
+                    "HDMI Cables": {},
+                    "Firewire Cables": {},
+                    "S-Video Cables": {}
+                },
+                "Power Cables": {}
+            },
+            "Cleaning & Repair": {
+                "Disc Cleaners": {},
+                "Disc Repair Kits": {},
+                "Head Cleaners": {},
+                "Lens Cleaners": {},
+                "Record Cleaners & Cleaning Supplies": {}
+            },
+            "Connectors & Adapters": {},
+            "Crossover Parts": {},
+            "Digital-to-Analog Converters": {},
+            "Distribution": {
+                "Connecting Blocks": {},
+                "Distribution Panels": {},
+                "Wall Plates & Connectors": {},
+                "Selector Switch Boxes": {}
+            },
+            "Headphone Accessories": {
+                "Adapters": {},
+                "Amps": {},
+                "Cases": {},
+                "Earpads": {},
+                "Extension Cords": {},
+                "Stands & Hangers": {}
+            },
+            "Home Audio Crossovers & Parts": {},
+            "Media Storage & Organization": {
+                "Cassette Storage": {},
+                "CD Racks": {},
+                "DVD Cases": {}
+            },
+            "Remote Controls & Accessories": {
+                "Remote-Control Extenders": {},
+                "Remote Controls": {}
+            },
+            "RF Modulators": {},
+            "Satellite TV Equipment": {
+                "Mounting Accessories": {
+                    "Satellite Dish Mounts": {},
+                    "Satellite Finders": {}
+                },
+                "Splitters": {}
+            },
+            "Speaker Accessories": {
+                "Feet & Spikes": {},
+                "Speaker Cables": {},
+                "Speaker Mounts": {},
+                "Speaker Stands": {}
+            },
+            "Speaker Parts & Components": {
+                "Carpet & Vinyl": {},
+                "Case Hardware & Latches": {},
+                "Grill Cloth": {},
+                "Handles": {},
+                "Port Tubes": {},
+                "Speaker Grills": {},
+                "Subwoofer Boxes & Enclosures": {},
+                "Subwoofer Kits": {}
+            },
+            "Speaker Repair": {},
+            "Turntable Cartridges & Needles": {},
+            "TV Accessories & Parts": {
+                "TV Turntables": {},
+                "TV Stands": {},
+                "TV Ceiling & Wall Mounts": {},
+                "TV Screen Protectors": {},
+                "Rear Projection TV Replacement Lamps": {},
+                "Television Replacement Parts": {}
+            },
+            "VCR Rewinders": {},
+            "Video Converters": {},
+            "Video Projector Accessories": {
+                "Lamps": {},
+                "Lenses": {},
+                "Mounting Equipment": {},
+                "Projector Bags & Cases": {},
+                "Remote Controls": {}
+            }
+        },
+        "Camera & Photo Accessories": {
+            "Accessory Bundles": {},
+            "Bags & Cases": {
+                "Bag & Case Accessories": {},
+                "Binocular Cases": {},
+                "Binocular, Camera & Camcorder Straps": {},
+                "Camcorder Cases": {},
+                "Camera Cases": {},
+                "Filter Cases": {},
+                "Lens Cases": {},
+                "Telescope Cases": {},
+                "Tripod & Monopod Cases": {}
+            },
+            "Batteries & Chargers": {
+                "Adapters": {},
+                "Batteries": {
+                    "Camera Batteries": {},
+                    "Camcorder Batteries": {}
+                },
+                "Battery Chargers": {
+                    "Camcorder": {},
+                    "Camera": {}
+                }
+            },
+            "Binocular Accessories": {},
+            "Blank Video Media": {
+                "Hi-8": {},
+                "MiniDV": {},
+                "VHS": {},
+                "VHS-C": {}
+            },
+            "Cables & Cords": {},
+            "Camcorder Accessories": {
+                "Batteries": {},
+                "Battery Chargers": {},
+                "Screen Protector Foils": {},
+                "HDMI Cables": {}
+            },
+            "Cleaning Equipment": {
+                "Brushes": {},
+                "Cleaning Kits": {},
+                "Cloths": {},
+                "Compressed Air": {},
+                "Liquid Cleaners": {}
+            },
+            "Darkroom Supplies": {
+                "Chemicals": {},
+                "Enlargers": {},
+                "Enlarger Accessories": {},
+                "Photo Enlarging Paper": {},
+                "Film Processing Equipment": {},
+                "Safelights": {},
+                "Light Boxes & Loupes": {
+                    "Light Boxes": {},
+                    "Loupes": {}
+                }
+            },
+            "Digital Camera Accessories": {
+                "Accessory Kits": {},
+                "Battery Grips": {},
+                "Docking Stations": {},
+                "Memory Cards": {
+                    "CompactFlash Cards": {},
+                    "Memory Stick Cards": {},
+                    "Micro SD Cards": {},
+                    "SD Cards": {},
+                    "SmartMedia Cards": {},
+                    "xD-Picture Cards": {}
+                },
+                "Screen Protector Foils": {},
+                "Shutter Release Cords": {}
+            },
+            "Digital Picture Frame Screen Protector Foils": {},
+            "Filters & Accessories": {
+                "Black & White Contrast Filters": {},
+                "Color Correction & Compensation Filters": {},
+                "Effects Filters": {},
+                "Filter Sets": {},
+                "Graduated Color Filters": {},
+                "Infrared Filters": {},
+                "Neutral Density Filters": {},
+                "Polarizing Filters": {},
+                "Skylight & UV Filters": {},
+                "Filter Accessories": {
+                    "Step-Down Rings": {},
+                    "Step-Up Rings": {}
+                }
+            },
+            "Flash Accessories": {
+                "Adapter Rings": {},
+                "Battery Packs": {},
+                "Camera Brackets": {},
+                "Shoe Mounts": {},
+                "Sync & PC Cords": {},
+                "Diffusers": {}
+            },
+            "Flashes": {
+                "Macro & Ringlight Flashes": {},
+                "Shoe Mount Flashes": {}
+            },
+            "Lens Accessories": {
+                "Adapters & Converters": {},
+                "Diopters": {},
+                "Extension Tubes": {},
+                "Follow-Focus Levers": {},
+                "Lens Caps": {},
+                "Lens Hoods": {},
+                "Lens Supports": {},
+                "Tripod Mount Rings": {},
+                "Matte Boxes": {}
+            },
+            "Lighting & Studio": {
+                "Video Studio": {
+                    "Photo Backgrounds": {},
+                    "Teleprompters": {},
+                    "Video Monitors": {}
+                },
+                "Lighting": {
+                    "Barn Doors": {},
+                    "Booms & Stands": {},
+                    "Continuous Output Lighting": {},
+                    "Mounting Hardware": {},
+                    "Power Packs": {},
+                    "Underwater Lighting": {},
+                    "Strobe Lighting": {
+                        "Monolights": {},
+                        "Slaves": {}
+                    },
+                    "Lighting Controls & Modifiers": {
+                        "Diffusers": {},
+                        "Filters": {},
+                        "Gobos": {},
+                        "Reflectors": {},
+                        "Soft Boxes": {},
+                        "Umbrellas": {}
+                    },
+                    "Flash Tubes": {},
+                    "Remote Triggers": {},
+                    "On-Camera Video Lights": {}
+                },
+                "Light Meters & Accessories": {
+                    "Color Calibration Charts": {},
+                    "Grey Cards": {},
+                    "Light Meters": {}
+                },
+                "Photo Studio": {
+                    "Background Support Equipment": {},
+                    "Backgrounds": {},
+                    "Copying Equipment": {},
+                    "Posing Props": {},
+                    "Sandbags": {},
+                    "Shooting Tables": {},
+                    "Shooting Tents": {},
+                    "Storage & Presentation Materials": {
+                        "Boxes": {},
+                        "Portfolios": {},
+                        "Slide, Negative & Print Pages": {},
+                        "Archival Storage Binders": {},
+                        "Digital Picture Frames": {},
+                        "Photo Albums": {
+                            "Acid-Free & Archival Page Albums": {},
+                            "Bookshelf Albums": {},
+                            "Magnetic Page Albums": {},
+                            "Three-Ring Binder Albums": {},
+                            "Wedding Albums": {},
+                            "Photo Album Accessories": {}
+                        }
+                    }
+                }
+            },
+            "Professional Video Accessories": {
+                "Microphones": {},
+                "Stabilizers": {},
+                "Tripods": {},
+                "VTR Decks": {}
+            },
+            "Rain Covers": {},
+            "Remote Controls": {},
+            "Telescope & Microscope Accessories": {
+                "Microscope Accessories": {
+                    "Adapters": {},
+                    "Lenses": {}
+                },
+                "Telescope Accessories": {
+                    "Barlow Lenses": {},
+                    "Cases": {},
+                    "Dew Caps": {},
+                    "Diagonals": {},
+                    "Eyepieces": {},
+                    "Filters": {},
+                    "Finder Scopes": {},
+                    "Motor Drives": {},
+                    "Photo Adapters": {},
+                    "Remote Controls": {},
+                    "Guiders & Wedges": {}
+                }
+            },
+            "Tripod & Monopod Accessories": {
+                "Camera Mounts & Clamps": {},
+                "Center Columns": {},
+                "Lens Mount Rings": {}
+            },
+            "Tripods & Monopods": {
+                "Complete Tripods": {},
+                "Monopod Heads": {},
+                "Monopods": {},
+                "Tabletop & Travel Tripods": {},
+                "Tripod Heads": {},
+                "Tripod Legs": {}
+            },
+            "Viewfinders": {},
+            "Slide Projectors": {}
+        },
+        "Cell Phone Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Battery Packs": {
+                "Battery Charger Cases": {},
+                "Portable Power Banks": {},
+                "Replacement Batteries": {}
+            },
+            "Cables": {},
+            "Car Accessories": {
+                "Bluetooth Car Kits": {},
+                "Car Chargers": {},
+                "Car Cradles & Mounts": {},
+                "Car Kits": {},
+                "Car Pads & Mats": {},
+                "Car Speakerphones": {}
+            },
+            "Chargers & Power Adapters": {
+                "Car Chargers": {},
+                "Charging Stations": {},
+                "Solar Chargers": {},
+                "Wall Chargers": {}
+            },
+            "FM Transmitters": {},
+            "Headphones": {
+                "Earbud Headphones": {},
+                "Over-Ear Headphones": {},
+                "On-Ear Headphones": {}
+            },
+            "Lens Attachments": {},
+            "MicroSD Cards": {},
+            "Mobile Flashes & Selfie Lights": {},
+            "Mounts & Stands": {
+                "Car Cradles & Mounts": {},
+                "Stands": {}
+            },
+            "Phone Charms": {},
+            "Portable Speakers & Audio Docks": {
+                "Audio Docks": {},
+                "Portable Bluetooth Speakers": {},
+                "Portable Line-In Speakers": {}
+            },
+            "Repair Kits": {},
+            "Replacement Parts": {
+                "Phone Backs": {},
+                "Screens": {}
+            },
+            "Screen Protectors": {},
+            "Selfie Sticks & Tripods": {},
+            "Signal Boosters": {},
+            "Single Ear Bluetooth Headsets": {},
+            "Smartwatch Accessories": {
+                "Smartwatch Bands": {},
+                "Smartwatch Cables & Chargers": {},
+                "Smartwatch Cases": {},
+                "Smartwatch Cases with Band": {},
+                "Smartwatch Necklaces": {},
+                "Smartwatch Screen Protectors": {},
+                "Smartwatch Stickers": {}
+            },
+            "Smartwatches": {},
+            "Styluses": {},
+            "Virtual Reality Headsets": {}
+        },
+        "Computer Accessories": {
+            "Audio & Video Accessories": {
+                "Computer Headsets": {},
+                "Computer Microphones": {},
+                "Computer Speakers": {},
+                "Webcams": {},
+                "Webcam Stands & Mounts": {}
+            },
+            "Blank Media": {
+                "BD-R Discs": {},
+                "BD-RE Discs": {},
+                "CD-R Discs": {},
+                "CD-RW Discs": {},
+                "Data Cartridges": {},
+                "DATs": {},
+                "DVD+R Discs": {},
+                "DVD+RW Discs": {},
+                "DVD-R Discs": {},
+                "DVD-RAM Discs": {},
+                "DVD-RW Discs": {},
+                "Floppy Diskettes": {},
+                "Minidiscs": {},
+                "Zip Discs": {}
+            },
+            "Blue Light Blocking Glasses": {},
+            "Cable Security Devices": {},
+            "Cables & Interconnects": {
+                "Ethernet Cables": {
+                    "Cat 5 Cables": {},
+                    "Cat 5e Cables": {},
+                    "Cat 6 Cables": {},
+                    "Cat 7 Cables": {}
+                },
+                "Firewire Cables": {},
+                "Lightning Cables": {},
+                "Mini-SAS Cables": {},
+                "Modem Cables": {},
+                "Parallel Cables": {},
+                "Power Cables": {},
+                "PS/2 Cables": {},
+                "SATA Cables": {},
+                "SCSI Cables": {},
+                "Serial Cables": {},
+                "Thunderbolt Cables": {},
+                "USB Cables": {},
+                "VGA Cables": {}
+            },
+            "Cleaning & Repair": {
+                "Compressed Air Dusters": {},
+                "Computer Screws": {},
+                "Computer Vacuums": {},
+                "DLT Cleaning Cartridges": {},
+                "Repair Kits": {}
+            },
+            "Computer Cable Adapters": {
+                "DVI-HDMI Adapters": {},
+                "Firewire Adapters": {},
+                "Gender Changers": {},
+                "HDMI-to-VGA Adapters": {},
+                "Parallel Adapters": {},
+                "SCSI Adapters": {},
+                "Serial Adapters": {},
+                "USB-to-USB Adapters": {},
+                "USB-to-VGA Adapters": {}
+            },
+            "Game Hardware": {
+                "PC Game Hardware": {
+                    "Controllers": {
+                        "Flight Controls": {},
+                        "Gamepads & Standard Controllers": {},
+                        "Joysticks": {},
+                        "Light Guns": {},
+                        "Music Controllers": {},
+                        "Racing Wheels": {}
+                    },
+                    "Gaming Keyboards": {},
+                    "Gaming Mice": {},
+                    "Headsets": {}
+                },
+                "Mac Game Hardware": {
+                    "Controllers": {
+                        "Flight Controls": {},
+                        "Gamepads & Standard Controllers": {},
+                        "Joysticks": {},
+                        "Light Guns": {},
+                        "Music Controllers": {},
+                        "Steering Wheels": {}
+                    },
+                    "Gaming Keyboards": {},
+                    "Gaming Mice": {},
+                    "Headsets": {}
+                }
+            },
+            "Hard Drive Accessories": {
+                "Hard Drive Bags & Cases": {},
+                "Hard Drive Enclosures": {}
+            },
+            "Input Devices": {
+                "Digital Pens": {},
+                "Graphics Tablets": {},
+                "Numeric Keypads": {},
+                "Presentation Pointers": {},
+                "Styluses": {},
+                "Touch Pads": {},
+                "Trackballs": {}
+            },
+            "Keyboards, Mice & Accessories": {
+                "Keyboards": {},
+                "Mice": {},
+                "Keyboard & Mouse Combos": {},
+                "Keyboard & Mice Accessories": {
+                    "Keyboard Skins": {},
+                    "Mouse Pads": {},
+                    "Wrist Rests": {}
+                }
+            },
+            "Memory Card Accessories": {
+                "Memory Card Adapters": {},
+                "Memory Card Cases": {},
+                "Memory Card Readers": {}
+            },
+            "Memory Cards": {
+                "CompactFlash Cards": {},
+                "Memory Stick Cards": {},
+                "Micro SD Cards": {},
+                "SD Cards": {},
+                "SmartMedia Cards": {},
+                "xD-Picture Cards": {}
+            },
+            "Monitor Accessories": {
+                "Anti-Glare & Privacy Filters": {},
+                "Covers": {},
+                "Monitor Arms & Stands": {},
+                "Screen Protectors": {}
+            },
+            "Printer Accessories": {
+                "Printer Cutters": {},
+                "Printer Developers": {},
+                "Printer Duplex Units": {},
+                "Printer Memory Modules": {},
+                "Printer Transfer Belts, Rollers & Units": {
+                    "Printer Transfer Belts": {},
+                    "Printer Transfer Rollers": {},
+                    "Printer Transfer Units": {}
+                },
+                "Printer Trays & Drawers": {
+                    "Printer Drawers": {},
+                    "Printer Trays": {}
+                }
+            },
+            "Printer Ink & Toner": {
+                "Impact & Dot Matrix Printer Ribbons": {},
+                "Inkjet Printer Ink": {},
+                "Laser Printer Drums & Toner": {}
+            },
+            "Scanner Accessories": {},
+            "USB Gadgets": {
+                "USB Beverage Warmers": {},
+                "USB Fans": {},
+                "USB Lamps": {}
+            },
+            "USB Hubs": {},
+            "Uninterruptible Power Supply (UPS)": {},
+            "Video Projector Accessories": {
+                "Lamps": {},
+                "Lenses": {},
+                "Mounting Equipment": {},
+                "Projector Bags & Cases": {},
+                "Remote Controls": {}
+            }
+        },
+        "GPS System Accessories": {
+            "Cases": {},
+            "Chargers & Cables": {},
+            "Vehicle Mounts": {},
+            "Antennas": {},
+            "Batteries": {},
+            "Traffic Message Channel (TMC) Receiver Modules": {},
+            "Screen Protector Foils": {}
+        },
+        "Home Audio Accessories": {
+            "Cables & Interconnects": {
+                "Audio Cables": {
+                    "Digital Coaxial Cables": {},
+                    "Fiber Optic Cables": {},
+                    "RCA Cables": {},
+                    "Speaker Cables": {},
+                    "Subwoofer Cables": {},
+                    "Stereo Jack Cables": {}
+                },
+                "Video Cables": {
+                    "Component Video": {},
+                    "Composite Video": {},
+                    "DVI Cables": {},
+                    "F-Pin-Coaxial Tip": {},
+                    "HDMI Cables": {},
+                    "Firewire Cables": {},
+                    "S-Video Cables": {}
+                },
+                "Power Cables": {}
+            },
+            "Digital-to-Analog Converters": {},
+            "Media Storage": {},
+            "Radio Antennas": {},
+            "Remote Controls": {
+                "Remote-Control Extenders": {},
+                "Remote Controls": {}
+            },
+            "Speaker Accessories": {
+                "Feet & Spikes": {},
+                "Speaker Cables": {},
+                "Speaker Mounts": {},
+                "Speaker Stands": {}
+            },
+            "Surge Protectors": {}
+        },
+        "Office Electronics Accessories": {
+            "Calculator Accessories": {},
+            "Ink & Toner": {
+                "Impact & Dot Matrix Printer Ribbons": {},
+                "Inkjet Printer Ink": {},
+                "Laser Printer Drums & Toner": {}
+            },
+            "Labeling Tapes": {},
+            "Laminating Supplies": {},
+            "Presentation Supplies": {
+                "Binding Machine Supplies": {},
+                "Laminating Supplies": {},
+                "Overhead Supplies": {}
+            },
+            "Printer Supplies": {
+                "Printer Cutters": {},
+                "Printer Developers": {},
+                "Printer Duplex Units": {},
+                "Printer Memory Modules": {},
+                "Printer Transfer Belts, Rollers & Units": {
+                    "Printer Transfer Belts": {},
+                    "Printer Transfer Rollers": {},
+                    "Printer Transfer Units": {}
+                },
+                "Printer Trays & Drawers": {
+                    "Printer Drawers": {},
+                    "Printer Trays": {}
+                }
+            },
+            "Projection Screens": {}
+        },
+        "Vehicle Electronics Accessories": {
+            "Alarm Accessories": {},
+            "Audio & Video Accessories": {
+                "Antennas": {},
+                "Auxiliary Input Adapters": {},
+                "Bluetooth Car Kits": {},
+                "CD Storage Cases": {},
+                "Digital Media Player Accessories": {
+                    "Car Chargers": {},
+                    "Cassette Player Adapters": {}
+                },
+                "FM Transmitters": {},
+                "Portable Device Car Mounts": {},
+                "Power Adapters": {},
+                "Power Inverters": {},
+                "Remote Controls": {}
+            },
+            "Car Dash Mounting Kits": {},
+            "Cell Phone Accessories": {
+                "Bluetooth Car Kits": {},
+                "Car Chargers": {},
+                "Car Cradles & Mounts": {},
+                "Car Kits": {},
+                "Car Pads & Mats": {},
+                "Car Speakerphones": {}
+            },
+            "GPS System Accessories": {
+                "Cases": {},
+                "Chargers & Cables": {},
+                "Vehicle Mounts": {},
+                "Antennas": {},
+                "Batteries": {},
+                "Traffic Message Channel (TMC) Receiver Modules": {},
+                "Screen Protector Foils": {}
+            },
+            "Installation Services": {},
+            "Radar Detectors": {},
+            "Vehicle Audio & Video Installation": {
+                "MP3 Player Cables & Adapters": {
+                    "Car Chargers": {},
+                    "Cassette Player Adapters": {}
+                },
+                "Radio Wiring Harnesses": {},
+                "Amplifier Installation": {
+                    "Amplifier Wiring Kits": {},
+                    "Battery Wiring & Terminals": {},
+                    "Capacitors": {},
+                    "Cooling Fans": {},
+                    "Distribution Blocks": {},
+                    "Fuse Holders": {},
+                    "Heat-Shrink Tubing": {},
+                    "Interconnect Cables": {},
+                    "Mounting Hardware": {},
+                    "Noise Filters": {},
+                    "Power & Ground Cable": {},
+                    "Power-Cable Terminals": {},
+                    "Power-Distribution Components": {},
+                    "Power-Distribution Kits": {}
+                },
+                "Speaker Installation": {
+                    "Bass Blockers": {},
+                    "Carpet": {},
+                    "Insulation & Noise Control": {},
+                    "Speaker Boxes": {},
+                    "Speaker Wire": {},
+                    "Speaker Wire Connectors": {},
+                    "Speaker Wiring Harnesses": {}
+                }
+            }
+        },
+        "Batteries, Chargers & Accessories": {
+            "Household Batteries": {
+                "12V": {},
+                "3.7V": {},
+                "3V": {},
+                "6V": {},
+                "9V": {},
+                "A": {},
+                "AA": {},
+                "AAA": {},
+                "AAAA": {},
+                "C": {},
+                "Coin & Button Cell": {},
+                "D": {}
+            },
+            "AC Adapters": {},
+            "Battery Chargers": {},
+            "Battery Holders": {},
+            "Battery Storage Containers": {},
+            "Isolation Transformers": {},
+            "Line Conditioners": {},
+            "PDUs": {},
+            "Power Converters": {}
+        },
+        "Power Strips & Surge Protectors": {
+            "Power Strips": {},
+            "Surge Protectors": {}
+        },
+        "Telephone Accessories": {
+            "Batteries": {},
+            "Caller ID Displays": {},
+            "Headsets": {},
+            "Phone Cards": {},
+            "Wireless Jack Systems": {},
+            "Telephone Cords": {}
+        },
+        "Television Accessories": {
+            "3D Glasses": {},
+            "Antennas": {
+                "Radio Antennas": {},
+                "TV Antennas": {}
+            },
+            "CD Racks": {},
+            "Cleaning": {
+                "Disc Cleaners": {},
+                "Disc Repair Kits": {},
+                "Head Cleaners": {},
+                "Lens Cleaners": {},
+                "Record Cleaners & Cleaning Supplies": {}
+            },
+            "Remote Controls": {
+                "Remote-Control Extenders": {},
+                "Remote Controls": {}
+            },
+            "Satellite TV Equipment": {
+                "Mounting Accessories": {
+                    "Satellite Dish Mounts": {},
+                    "Satellite Finders": {}
+                },
+                "Splitters": {}
+            },
+            "TV Screen Protectors": {},
+            "TV Mounts": {},
+            "VCR Rewinders": {},
+            "Video Converters": {},
+            "Wi-Fi Dongles": {}
+        },
+        "Blank Media": {
+            "BD-R Discs": {},
+            "BD-RE Discs": {},
+            "CD-R Discs": {},
+            "CD-RW Discs": {},
+            "Data Cartridges": {},
+            "DATs": {},
+            "DVD+R Discs": {},
+            "DVD+RW Discs": {},
+            "DVD-R Discs": {},
+            "DVD-RAM Discs": {},
+            "DVD-RW Discs": {},
+            "Floppy Diskettes": {},
+            "Minidiscs": {},
+            "Zip Discs": {}
+        },
+        "Cables": {
+            "Audio & Video": {
+                "Audio Cables": {
+                    "Digital Coaxial Cables": {},
+                    "Fiber Optic Cables": {},
+                    "RCA Cables": {},
+                    "Speaker Cables": {},
+                    "Subwoofer Cables": {},
+                    "Stereo Jack Cables": {}
+                },
+                "Video Cables": {
+                    "Component Video": {},
+                    "Composite Video": {},
+                    "DVI Cables": {},
+                    "F-Pin-Coaxial Tip": {},
+                    "HDMI Cables": {},
+                    "Firewire Cables": {},
+                    "S-Video Cables": {}
+                },
+                "Power Cables": {}
+            },
+            "Camera & Photo": {},
+            "Car Electronics": {
+                "Power and Ground Cable": {},
+                "Power-Cable Terminals": {},
+                "Stereo Patch Cables": {}
+            },
+            "Computer": {
+                "Ethernet Cables": {
+                    "Cat 5 Cables": {},
+                    "Cat 5e Cables": {},
+                    "Cat 6 Cables": {},
+                    "Cat 7 Cables": {}
+                },
+                "Firewire Cables": {},
+                "Lightning Cables": {},
+                "Mini-SAS Cables": {},
+                "Modem Cables": {},
+                "Parallel Cables": {},
+                "Power Cables": {},
+                "PS/2 Cables": {},
+                "SATA Cables": {},
+                "SCSI Cables": {},
+                "Serial Cables": {},
+                "Thunderbolt Cables": {},
+                "USB Cables": {},
+                "VGA Cables": {}
+            },
+            "GPS": {}
+        },
+        "Mounts": {
+            "Computer Monitor Mounts & Stands": {},
+            "Projector Mounts": {},
+            "Speaker Mounts": {}
+        },
+        "Installation Services": {},
+        "Microphones": {
+            "Microphones": {
+                "Condenser Microphones": {
+                    "Instrument": {},
+                    "Multipurpose": {},
+                    "Vocal": {}
+                },
+                "Dynamic Microphones": {
+                    "Instrument": {},
+                    "Multipurpose": {},
+                    "Vocal": {}
+                },
+                "Ribbon Microphones": {},
+                "Wireless Microphones & Systems": {
+                    "Handheld Wireless Microphones": {},
+                    "Wireless Headset Microphones": {},
+                    "Instrument Wireless Microphones": {},
+                    "Wireless Lavalier Microphones": {},
+                    "Wireless Microphone Transmitters & Receivers": {}
+                }
+            },
+            "Accessories": {
+                "Bags & Cases": {},
+                "Cables": {},
+                "Clips": {},
+                "Mounts": {},
+                "Phantom Power Supplies": {},
+                "Preamps": {},
+                "Stands": {},
+                "Windscreens & Pop Filters": {}
+            }
+        },
+        "Power Protection": {
+            "Line Conditioners": {},
+            "Surge Protectors": {},
+            "Uninterrupted Power Supply (UPS)": {}
+        },
+        "Cord Management": {
+            "Cable Raceways": {},
+            "Cable Sleeves": {},
+            "Cable Straps": {},
+            "Cable Ties": {},
+            "Cord Reels": {},
+            "Floor Cord Covers": {}
+        }
+    },
+    "Camera & Photo": {
+        "Accessories": {
+            "Accessory Bundles": {},
+            "Bags & Cases": {
+                "Bag & Case Accessories": {},
+                "Binocular Cases": {},
+                "Binocular, Camera & Camcorder Straps": {},
+                "Camcorder Cases": {},
+                "Camera Cases": {},
+                "Filter Cases": {},
+                "Lens Cases": {},
+                "Telescope Cases": {},
+                "Tripod & Monopod Cases": {}
+            },
+            "Batteries & Chargers": {
+                "Adapters": {},
+                "Batteries": {
+                    "Camera Batteries": {},
+                    "Camcorder Batteries": {}
+                },
+                "Battery Chargers": {
+                    "Camcorder": {},
+                    "Camera": {}
+                }
+            },
+            "Binocular Accessories": {},
+            "Blank Video Media": {
+                "Hi-8": {},
+                "MiniDV": {},
+                "VHS": {},
+                "VHS-C": {}
+            },
+            "Cables & Cords": {},
+            "Camcorder Accessories": {
+                "Batteries": {},
+                "Battery Chargers": {},
+                "Screen Protector Foils": {},
+                "HDMI Cables": {}
+            },
+            "Cleaning Equipment": {
+                "Brushes": {},
+                "Cleaning Kits": {},
+                "Cloths": {},
+                "Compressed Air": {},
+                "Liquid Cleaners": {}
+            },
+            "Darkroom Supplies": {
+                "Chemicals": {},
+                "Enlargers": {},
+                "Enlarger Accessories": {},
+                "Photo Enlarging Paper": {},
+                "Film Processing Equipment": {},
+                "Safelights": {},
+                "Light Boxes & Loupes": {
+                    "Light Boxes": {},
+                    "Loupes": {}
+                }
+            },
+            "Digital Camera Accessories": {
+                "Accessory Kits": {},
+                "Battery Grips": {},
+                "Docking Stations": {},
+                "Memory Cards": {
+                    "CompactFlash Cards": {},
+                    "Memory Stick Cards": {},
+                    "Micro SD Cards": {},
+                    "SD Cards": {},
+                    "SmartMedia Cards": {},
+                    "xD-Picture Cards": {}
+                },
+                "Screen Protector Foils": {},
+                "Shutter Release Cords": {}
+            },
+            "Digital Picture Frame Screen Protector Foils": {},
+            "Filters & Accessories": {
+                "Black & White Contrast Filters": {},
+                "Color Correction & Compensation Filters": {},
+                "Effects Filters": {},
+                "Filter Sets": {},
+                "Graduated Color Filters": {},
+                "Infrared Filters": {},
+                "Neutral Density Filters": {},
+                "Polarizing Filters": {},
+                "Skylight & UV Filters": {},
+                "Filter Accessories": {
+                    "Step-Down Rings": {},
+                    "Step-Up Rings": {}
+                }
+            },
+            "Flash Accessories": {
+                "Adapter Rings": {},
+                "Battery Packs": {},
+                "Camera Brackets": {},
+                "Shoe Mounts": {},
+                "Sync & PC Cords": {},
+                "Diffusers": {}
+            },
+            "Flashes": {
+                "Macro & Ringlight Flashes": {},
+                "Shoe Mount Flashes": {}
+            },
+            "Lens Accessories": {
+                "Adapters & Converters": {},
+                "Diopters": {},
+                "Extension Tubes": {},
+                "Follow-Focus Levers": {},
+                "Lens Caps": {},
+                "Lens Hoods": {},
+                "Lens Supports": {},
+                "Tripod Mount Rings": {},
+                "Matte Boxes": {}
+            },
+            "Lighting & Studio": {
+                "Video Studio": {
+                    "Photo Backgrounds": {},
+                    "Teleprompters": {},
+                    "Video Monitors": {}
+                },
+                "Lighting": {
+                    "Barn Doors": {},
+                    "Booms & Stands": {},
+                    "Continuous Output Lighting": {},
+                    "Mounting Hardware": {},
+                    "Power Packs": {},
+                    "Underwater Lighting": {},
+                    "Strobe Lighting": {
+                        "Monolights": {},
+                        "Slaves": {}
+                    },
+                    "Lighting Controls & Modifiers": {
+                        "Diffusers": {},
+                        "Filters": {},
+                        "Gobos": {},
+                        "Reflectors": {},
+                        "Soft Boxes": {},
+                        "Umbrellas": {}
+                    },
+                    "Flash Tubes": {},
+                    "Remote Triggers": {},
+                    "On-Camera Video Lights": {}
+                },
+                "Light Meters & Accessories": {
+                    "Color Calibration Charts": {},
+                    "Grey Cards": {},
+                    "Light Meters": {}
+                },
+                "Photo Studio": {
+                    "Background Support Equipment": {},
+                    "Backgrounds": {},
+                    "Copying Equipment": {},
+                    "Posing Props": {},
+                    "Sandbags": {},
+                    "Shooting Tables": {},
+                    "Shooting Tents": {},
+                    "Storage & Presentation Materials": {
+                        "Boxes": {},
+                        "Portfolios": {},
+                        "Slide, Negative & Print Pages": {},
+                        "Archival Storage Binders": {},
+                        "Digital Picture Frames": {},
+                        "Photo Albums": {
+                            "Acid-Free & Archival Page Albums": {},
+                            "Bookshelf Albums": {},
+                            "Magnetic Page Albums": {},
+                            "Three-Ring Binder Albums": {},
+                            "Wedding Albums": {},
+                            "Photo Album Accessories": {}
+                        }
+                    }
+                }
+            },
+            "Professional Video Accessories": {
+                "Microphones": {},
+                "Stabilizers": {},
+                "Tripods": {},
+                "VTR Decks": {}
+            },
+            "Rain Covers": {},
+            "Remote Controls": {},
+            "Telescope & Microscope Accessories": {
+                "Microscope Accessories": {
+                    "Adapters": {},
+                    "Lenses": {}
+                },
+                "Telescope Accessories": {
+                    "Barlow Lenses": {},
+                    "Cases": {},
+                    "Dew Caps": {},
+                    "Diagonals": {},
+                    "Eyepieces": {},
+                    "Filters": {},
+                    "Finder Scopes": {},
+                    "Motor Drives": {},
+                    "Photo Adapters": {},
+                    "Remote Controls": {},
+                    "Guiders & Wedges": {}
+                }
+            },
+            "Tripod & Monopod Accessories": {
+                "Camera Mounts & Clamps": {},
+                "Center Columns": {},
+                "Lens Mount Rings": {}
+            },
+            "Tripods & Monopods": {
+                "Complete Tripods": {},
+                "Monopod Heads": {},
+                "Monopods": {},
+                "Tabletop & Travel Tripods": {},
+                "Tripod Heads": {},
+                "Tripod Legs": {}
+            },
+            "Viewfinders": {},
+            "Slide Projectors": {}
+        },
+        "Bags & Cases": {
+            "Bag & Case Accessories": {},
+            "Binocular Cases": {},
+            "Binocular, Camera & Camcorder Straps": {},
+            "Camcorder Cases": {},
+            "Camera Cases": {},
+            "Filter Cases": {},
+            "Lens Cases": {},
+            "Telescope Cases": {},
+            "Tripod & Monopod Cases": {}
+        },
+        "Binoculars & Scopes": {
+            "Binoculars": {},
+            "Gun Scopes": {
+                "Handgun Scopes": {},
+                "Rifle Scopes": {}
+            },
+            "Laser Rangefinders": {},
+            "Microscopes": {
+                "Compound Microscopes": {
+                    "Compound Monocular Microscopes": {},
+                    "Compound Binocular Microscopes": {},
+                    "Compound Trinocular Microscopes": {}
+                },
+                "USB Microscopes": {},
+                "Stereo Microscopes": {}
+            },
+            "Monoculars": {},
+            "Night Vision": {
+                "Night Vision Binoculars & Goggles": {},
+                "Night Vision Monoculars": {}
+            },
+            "Opera Glasses": {},
+            "Spotting Scopes": {},
+            "Telescopes": {
+                "Catadioptric": {},
+                "Reflectors": {},
+                "Refractors": {}
+            }
+        },
+        "Digital Cameras": {
+            "Point & Shoot Digital Cameras": {},
+            "DSLR Cameras": {},
+            "Mirrorless Cameras": {}
+        },
+        "Film Photography": {
+            "Darkroom Supplies": {
+                "Chemicals": {},
+                "Enlargers": {},
+                "Enlarger Accessories": {},
+                "Photo Enlarging Paper": {},
+                "Film Processing Equipment": {},
+                "Safelights": {},
+                "Light Boxes & Loupes": {
+                    "Light Boxes": {},
+                    "Loupes": {}
+                }
+            },
+            "Film Cameras": {
+                "Instant Cameras": {},
+                "Medium & Large-Format Cameras": {},
+                "Point & Shoot Film Cameras": {},
+                "Rangefinder Cameras": {},
+                "Single-Use Cameras": {},
+                "SLR Cameras": {},
+                "Specialty Film Cameras": {}
+            },
+            "Film": {}
+        },
+        "Flashes": {
+            "Macro & Ringlight Flashes": {},
+            "Shoe Mount Flashes": {}
+        },
+        "Lenses": {
+            "Camcorder Lenses": {},
+            "Camera Lenses": {
+                "SLR Camera Lenses": {},
+                "Mirrorless Camera Lenses": {}
+            },
+            "Camera & Camcorder Lens Bundles": {}
+        },
+        "Lighting & Studio": {
+            "Video Studio": {
+                "Photo Backgrounds": {},
+                "Teleprompters": {},
+                "Video Monitors": {}
+            },
+            "Lighting": {
+                "Barn Doors": {},
+                "Booms & Stands": {},
+                "Continuous Output Lighting": {},
+                "Mounting Hardware": {},
+                "Power Packs": {},
+                "Underwater Lighting": {},
+                "Strobe Lighting": {
+                    "Monolights": {},
+                    "Slaves": {}
+                },
+                "Lighting Controls & Modifiers": {
+                    "Diffusers": {},
+                    "Filters": {},
+                    "Gobos": {},
+                    "Reflectors": {},
+                    "Soft Boxes": {},
+                    "Umbrellas": {}
+                },
+                "Flash Tubes": {},
+                "Remote Triggers": {},
+                "On-Camera Video Lights": {}
+            },
+            "Light Meters & Accessories": {
+                "Color Calibration Charts": {},
+                "Grey Cards": {},
+                "Light Meters": {}
+            },
+            "Photo Studio": {
+                "Background Support Equipment": {},
+                "Backgrounds": {},
+                "Copying Equipment": {},
+                "Posing Props": {},
+                "Sandbags": {},
+                "Shooting Tables": {},
+                "Shooting Tents": {},
+                "Storage & Presentation Materials": {
+                    "Boxes": {},
+                    "Portfolios": {},
+                    "Slide, Negative & Print Pages": {},
+                    "Archival Storage Binders": {},
+                    "Digital Picture Frames": {},
+                    "Photo Albums": {
+                        "Acid-Free & Archival Page Albums": {},
+                        "Bookshelf Albums": {},
+                        "Magnetic Page Albums": {},
+                        "Three-Ring Binder Albums": {},
+                        "Wedding Albums": {},
+                        "Photo Album Accessories": {}
+                    }
+                }
+            }
+        },
+        "Video": {
+            "Body Mounted Cameras": {},
+            "Camcorder Accessories": {
+                "Batteries": {},
+                "Battery Chargers": {},
+                "Screen Protector Foils": {},
+                "HDMI Cables": {}
+            },
+            "Camcorder Bundles": {},
+            "Camcorder Lenses": {},
+            "Camcorders": {},
+            "Camera Supports & Stabilizers": {
+                "Camera Chest Supports": {},
+                "Camera Cine Dollies": {},
+                "Camera Cranes": {},
+                "Camera Shoulder Supports": {},
+                "Camera Sliders": {},
+                "Camera Stabilizers": {}
+            },
+            "Lighting": {
+                "Barn Doors": {},
+                "Booms & Stands": {},
+                "Continuous Output Lighting": {},
+                "Mounting Hardware": {},
+                "Power Packs": {},
+                "Underwater Lighting": {},
+                "Strobe Lighting": {
+                    "Monolights": {},
+                    "Slaves": {}
+                },
+                "Lighting Controls & Modifiers": {
+                    "Diffusers": {},
+                    "Filters": {},
+                    "Gobos": {},
+                    "Reflectors": {},
+                    "Soft Boxes": {},
+                    "Umbrellas": {}
+                },
+                "Flash Tubes": {},
+                "Remote Triggers": {},
+                "On-Camera Video Lights": {}
+            },
+            "Professional Video Accessories": {
+                "Microphones": {},
+                "Stabilizers": {},
+                "Tripods": {},
+                "VTR Decks": {}
+            },
+            "Professional Video Cameras": {},
+            "Quadcopters & Accessories": {
+                "Quadcopters": {},
+                "Quadcopter Camera Mounts": {}
+            },
+            "Sports & Action Video Cameras": {},
+            "Video Studio": {
+                "Photo Backgrounds": {},
+                "Teleprompters": {},
+                "Video Monitors": {}
+            }
+        },
+        "Printers & Scanners": {
+            "Flatbed & Photo Scanners": {},
+            "Portable Photo Printers": {},
+            "Slide & Negative Scanners": {}
+        },
+        "Tripods & Monopods": {
+            "Complete Tripods": {},
+            "Monopod Heads": {},
+            "Monopods": {},
+            "Tabletop & Travel Tripods": {},
+            "Tripod Heads": {},
+            "Tripod Legs": {}
+        },
+        "Underwater Photography": {
+            "Camcorders": {},
+            "Cameras": {},
+            "Housings": {},
+            "Underwater Lighting": {}
+        },
+        "Video Surveillance": {
+            "Surveillance Accessories": {
+                "Access-Control Keypads": {},
+                "IR Illuminators": {},
+                "Surveillance Camera Cables": {},
+                "Surveillance Camera Lenses": {},
+                "Surveillance Housing & Mounting Brackets": {},
+                "Security Monitors & Displays": {},
+                "Surveillance Video Recorders": {},
+                "Video Multiplexers & Quads": {},
+                "Video Transmission Systems": {}
+            },
+            "Surveillance Cameras": {
+                "Bullet Cameras": {},
+                "Dome Cameras": {},
+                "Hidden Cameras": {},
+                "Simulated Cameras": {},
+                "Trail & Game Cameras": {}
+            },
+            "Surveillance Systems": {
+                "Surveillance DVR Kits": {},
+                "Surveillance NVR Kits": {}
+            },
+            "Installation Services": {}
+        }
+    },
+    "Car & Vehicle Electronics": {
+        "Aviation Electronics": {
+            "Aviation GPS": {},
+            "Headsets & Intercoms": {},
+            "Aviation Handheld Radios": {},
+            "Aircraft Accessories": {}
+        },
+        "Car Electronics": {
+            "Car Audio": {
+                "Amplifiers": {
+                    "Mono Amplifiers": {},
+                    "Multichannel Amplifiers": {},
+                    "Dual-Channel Speakers": {}
+                },
+                "Speakers": {
+                    "Component Speakers": {},
+                    "Coaxial Speakers": {},
+                    "Kick-Panel Enclosures": {},
+                    "Tweeters": {},
+                    "Center-Channel Speakers": {},
+                    "Surface-Mounted Speakers": {}
+                },
+                "Subwoofers": {
+                    "Component Subwoofers": {},
+                    "Subwoofer Boxes & Enclosures": {},
+                    "Enclosed Subwoofer Systems": {}
+                },
+                "Car Stereo Receivers": {},
+                "Satellite Radio": {},
+                "Equalizers": {},
+                "Changers": {},
+                "Digital Media Receivers": {}
+            },
+            "Car Safety & Security": {
+                "Accessories": {},
+                "Alarm Systems": {},
+                "Keyless Entry": {},
+                "Remote Starters": {},
+                "Steering Wheel Locking Devices": {},
+                "Vehicle Backup Cameras": {}
+            },
+            "Car Video": {
+                "Car Headphones": {},
+                "In-Dash DVD & Video Receivers": {},
+                "Headrest Video": {},
+                "In-Dash Navigation": {},
+                "In-Mirror Video": {},
+                "In-Visor Video": {},
+                "On-Dash Cameras": {},
+                "Overhead Video": {},
+                "Surround Processors": {},
+                "TV Tuners": {},
+                "Vehicle Backup Cameras": {}
+            },
+            "CB Radios & Scanners": {
+                "Handheld CB Radios": {},
+                "Fixed-mount CB Radios": {},
+                "Radio Scanners": {}
+            },
+            "GPS Trackers": {},
+            "In-Dash Mounting Kits": {},
+            "Installation Accessories & Harnesses": {
+                "MP3 Player Cables & Adapters": {
+                    "Car Chargers": {},
+                    "Cassette Player Adapters": {}
+                },
+                "Radio Wiring Harnesses": {},
+                "Amplifier Installation": {
+                    "Amplifier Wiring Kits": {},
+                    "Battery Wiring & Terminals": {},
+                    "Capacitors": {},
+                    "Cooling Fans": {},
+                    "Distribution Blocks": {},
+                    "Fuse Holders": {},
+                    "Heat-Shrink Tubing": {},
+                    "Interconnect Cables": {},
+                    "Mounting Hardware": {},
+                    "Noise Filters": {},
+                    "Power & Ground Cable": {},
+                    "Power-Cable Terminals": {},
+                    "Power-Distribution Components": {},
+                    "Power-Distribution Kits": {}
+                },
+                "Speaker Installation": {
+                    "Bass Blockers": {},
+                    "Carpet": {},
+                    "Insulation & Noise Control": {},
+                    "Speaker Boxes": {},
+                    "Speaker Wire": {},
+                    "Speaker Wire Connectors": {},
+                    "Speaker Wiring Harnesses": {}
+                }
+            },
+            "Radar Detectors": {},
+            "Two-Way Radios": {}
+        },
+        "Marine Electronics": {
+            "Autopilots": {},
+            "Fish Finders & Depth Finders": {},
+            "Marine Amplifiers": {},
+            "Marine Antennas": {},
+            "Marine GPS Accessories": {},
+            "Marine GPS Chartplotters": {},
+            "Marine Speakers": {},
+            "Marine Stereos": {},
+            "Marine Subwoofers": {},
+            "Marine Two-Way Radios": {},
+            "Radar Systems": {}
+        },
+        "Powersports Electronics": {
+            "Alarms & Anti-Theft": {},
+            "Bluetooth Headsets": {},
+            "Electrical Device Mounts": {},
+            "GPS Units": {},
+            "Speaker Systems": {}
+        },
+        "Vehicle Electronics Accessories": {
+            "Alarm Accessories": {},
+            "Audio & Video Accessories": {
+                "Antennas": {},
+                "Auxiliary Input Adapters": {},
+                "Bluetooth Car Kits": {},
+                "CD Storage Cases": {},
+                "Digital Media Player Accessories": {
+                    "Car Chargers": {},
+                    "Cassette Player Adapters": {}
+                },
+                "FM Transmitters": {},
+                "Portable Device Car Mounts": {},
+                "Power Adapters": {},
+                "Power Inverters": {},
+                "Remote Controls": {}
+            },
+            "Car Dash Mounting Kits": {},
+            "Cell Phone Accessories": {
+                "Bluetooth Car Kits": {},
+                "Car Chargers": {},
+                "Car Cradles & Mounts": {},
+                "Car Kits": {},
+                "Car Pads & Mats": {},
+                "Car Speakerphones": {}
+            },
+            "GPS System Accessories": {
+                "Cases": {},
+                "Chargers & Cables": {},
+                "Vehicle Mounts": {},
+                "Antennas": {},
+                "Batteries": {},
+                "Traffic Message Channel (TMC) Receiver Modules": {},
+                "Screen Protector Foils": {}
+            },
+            "Installation Services": {},
+            "Radar Detectors": {},
+            "Vehicle Audio & Video Installation": {
+                "MP3 Player Cables & Adapters": {
+                    "Car Chargers": {},
+                    "Cassette Player Adapters": {}
+                },
+                "Radio Wiring Harnesses": {},
+                "Amplifier Installation": {
+                    "Amplifier Wiring Kits": {},
+                    "Battery Wiring & Terminals": {},
+                    "Capacitors": {},
+                    "Cooling Fans": {},
+                    "Distribution Blocks": {},
+                    "Fuse Holders": {},
+                    "Heat-Shrink Tubing": {},
+                    "Interconnect Cables": {},
+                    "Mounting Hardware": {},
+                    "Noise Filters": {},
+                    "Power & Ground Cable": {},
+                    "Power-Cable Terminals": {},
+                    "Power-Distribution Components": {},
+                    "Power-Distribution Kits": {}
+                },
+                "Speaker Installation": {
+                    "Bass Blockers": {},
+                    "Carpet": {},
+                    "Insulation & Noise Control": {},
+                    "Speaker Boxes": {},
+                    "Speaker Wire": {},
+                    "Speaker Wire Connectors": {},
+                    "Speaker Wiring Harnesses": {}
+                }
+            }
+        },
+        "Vehicle GPS": {
+            "Aviation GPS": {},
+            "In-Dash Navigation": {},
+            "Marine GPS": {},
+            "Powersports GPS": {},
+            "RV GPS": {},
+            "Trucking GPS": {}
+        }
+    },
+    "Cell Phones & Accessories": {
+        "Carrier Cell Phones": {},
+        "Unlocked Cell Phones": {},
+        "Mobile Broadband": {},
+        "Accessories": {
+            "Accessory Kits": {},
+            "Batteries & Battery Packs": {
+                "Battery Charger Cases": {},
+                "Portable Power Banks": {},
+                "Replacement Batteries": {}
+            },
+            "Cables": {},
+            "Car Accessories": {
+                "Bluetooth Car Kits": {},
+                "Car Chargers": {},
+                "Car Cradles & Mounts": {},
+                "Car Kits": {},
+                "Car Pads & Mats": {},
+                "Car Speakerphones": {}
+            },
+            "Chargers & Power Adapters": {
+                "Car Chargers": {},
+                "Charging Stations": {},
+                "Solar Chargers": {},
+                "Wall Chargers": {}
+            },
+            "FM Transmitters": {},
+            "Headphones": {
+                "Earbud Headphones": {},
+                "Over-Ear Headphones": {},
+                "On-Ear Headphones": {}
+            },
+            "Lens Attachments": {},
+            "MicroSD Cards": {},
+            "Mobile Flashes & Selfie Lights": {},
+            "Mounts & Stands": {
+                "Car Cradles & Mounts": {},
+                "Stands": {}
+            },
+            "Phone Charms": {},
+            "Portable Speakers & Audio Docks": {
+                "Audio Docks": {},
+                "Portable Bluetooth Speakers": {},
+                "Portable Line-In Speakers": {}
+            },
+            "Repair Kits": {},
+            "Replacement Parts": {
+                "Phone Backs": {},
+                "Screens": {}
+            },
+            "Screen Protectors": {},
+            "Selfie Sticks & Tripods": {},
+            "Signal Boosters": {},
+            "Single Ear Bluetooth Headsets": {},
+            "Smartwatch Accessories": {
+                "Smartwatch Bands": {},
+                "Smartwatch Cables & Chargers": {},
+                "Smartwatch Cases": {},
+                "Smartwatch Cases with Band": {},
+                "Smartwatch Necklaces": {},
+                "Smartwatch Screen Protectors": {},
+                "Smartwatch Stickers": {}
+            },
+            "Smartwatches": {},
+            "Styluses": {},
+            "Virtual Reality Headsets": {}
+        },
+        "Cases, Holsters & Clips": {
+            "Armbands": {},
+            "Basic Cases": {},
+            "Battery Charger Cases": {},
+            "Bumpers": {},
+            "Dry Bags": {},
+            "Flip Cases": {},
+            "Holsters": {},
+            "Sleeves": {}
+        }
+    },
+    "Computers & Accessories": {
+        "Computer Accessories & Peripherals": {
+            "Audio & Video Accessories": {
+                "Computer Headsets": {},
+                "Computer Microphones": {},
+                "Computer Speakers": {},
+                "Webcams": {},
+                "Webcam Stands & Mounts": {}
+            },
+            "Blank Media": {
+                "BD-R Discs": {},
+                "BD-RE Discs": {},
+                "CD-R Discs": {},
+                "CD-RW Discs": {},
+                "Data Cartridges": {},
+                "DATs": {},
+                "DVD+R Discs": {},
+                "DVD+RW Discs": {},
+                "DVD-R Discs": {},
+                "DVD-RAM Discs": {},
+                "DVD-RW Discs": {},
+                "Floppy Diskettes": {},
+                "Minidiscs": {},
+                "Zip Discs": {}
+            },
+            "Blue Light Blocking Glasses": {},
+            "Cable Security Devices": {},
+            "Cables & Interconnects": {
+                "Ethernet Cables": {
+                    "Cat 5 Cables": {},
+                    "Cat 5e Cables": {},
+                    "Cat 6 Cables": {},
+                    "Cat 7 Cables": {}
+                },
+                "Firewire Cables": {},
+                "Lightning Cables": {},
+                "Mini-SAS Cables": {},
+                "Modem Cables": {},
+                "Parallel Cables": {},
+                "Power Cables": {},
+                "PS/2 Cables": {},
+                "SATA Cables": {},
+                "SCSI Cables": {},
+                "Serial Cables": {},
+                "Thunderbolt Cables": {},
+                "USB Cables": {},
+                "VGA Cables": {}
+            },
+            "Cleaning & Repair": {
+                "Compressed Air Dusters": {},
+                "Computer Screws": {},
+                "Computer Vacuums": {},
+                "DLT Cleaning Cartridges": {},
+                "Repair Kits": {}
+            },
+            "Computer Cable Adapters": {
+                "DVI-HDMI Adapters": {},
+                "Firewire Adapters": {},
+                "Gender Changers": {},
+                "HDMI-to-VGA Adapters": {},
+                "Parallel Adapters": {},
+                "SCSI Adapters": {},
+                "Serial Adapters": {},
+                "USB-to-USB Adapters": {},
+                "USB-to-VGA Adapters": {}
+            },
+            "Game Hardware": {
+                "PC Game Hardware": {
+                    "Controllers": {
+                        "Flight Controls": {},
+                        "Gamepads & Standard Controllers": {},
+                        "Joysticks": {},
+                        "Light Guns": {},
+                        "Music Controllers": {},
+                        "Racing Wheels": {}
+                    },
+                    "Gaming Keyboards": {},
+                    "Gaming Mice": {},
+                    "Headsets": {}
+                },
+                "Mac Game Hardware": {
+                    "Controllers": {
+                        "Flight Controls": {},
+                        "Gamepads & Standard Controllers": {},
+                        "Joysticks": {},
+                        "Light Guns": {},
+                        "Music Controllers": {},
+                        "Steering Wheels": {}
+                    },
+                    "Gaming Keyboards": {},
+                    "Gaming Mice": {},
+                    "Headsets": {}
+                }
+            },
+            "Hard Drive Accessories": {
+                "Hard Drive Bags & Cases": {},
+                "Hard Drive Enclosures": {}
+            },
+            "Input Devices": {
+                "Digital Pens": {},
+                "Graphics Tablets": {},
+                "Numeric Keypads": {},
+                "Presentation Pointers": {},
+                "Styluses": {},
+                "Touch Pads": {},
+                "Trackballs": {}
+            },
+            "Keyboards, Mice & Accessories": {
+                "Keyboards": {},
+                "Mice": {},
+                "Keyboard & Mouse Combos": {},
+                "Keyboard & Mice Accessories": {
+                    "Keyboard Skins": {},
+                    "Mouse Pads": {},
+                    "Wrist Rests": {}
+                }
+            },
+            "Memory Card Accessories": {
+                "Memory Card Adapters": {},
+                "Memory Card Cases": {},
+                "Memory Card Readers": {}
+            },
+            "Memory Cards": {
+                "CompactFlash Cards": {},
+                "Memory Stick Cards": {},
+                "Micro SD Cards": {},
+                "SD Cards": {},
+                "SmartMedia Cards": {},
+                "xD-Picture Cards": {}
+            },
+            "Monitor Accessories": {
+                "Anti-Glare & Privacy Filters": {},
+                "Covers": {},
+                "Monitor Arms & Stands": {},
+                "Screen Protectors": {}
+            },
+            "Printer Accessories": {
+                "Printer Cutters": {},
+                "Printer Developers": {},
+                "Printer Duplex Units": {},
+                "Printer Memory Modules": {},
+                "Printer Transfer Belts, Rollers & Units": {
+                    "Printer Transfer Belts": {},
+                    "Printer Transfer Rollers": {},
+                    "Printer Transfer Units": {}
+                },
+                "Printer Trays & Drawers": {
+                    "Printer Drawers": {},
+                    "Printer Trays": {}
+                }
+            },
+            "Printer Ink & Toner": {
+                "Impact & Dot Matrix Printer Ribbons": {},
+                "Inkjet Printer Ink": {},
+                "Laser Printer Drums & Toner": {}
+            },
+            "Scanner Accessories": {},
+            "USB Gadgets": {
+                "USB Beverage Warmers": {},
+                "USB Fans": {},
+                "USB Lamps": {}
+            },
+            "USB Hubs": {},
+            "Uninterruptible Power Supply (UPS)": {},
+            "Video Projector Accessories": {
+                "Lamps": {},
+                "Lenses": {},
+                "Mounting Equipment": {},
+                "Projector Bags & Cases": {},
+                "Remote Controls": {}
+            }
+        },
+        "Computer Components": {
+            "Desktop Barebones": {},
+            "External Components": {
+                "Computer Cases": {},
+                "External Hard Drives": {},
+                "External Solid State Drives": {},
+                "External Sound Cards": {},
+                "External TV Tuners": {},
+                "KVM Switches": {},
+                "Optical Drives": {
+                    "Blu-ray Drives": {},
+                    "CD & DVD Drives": {},
+                    "Disc Duplicators": {}
+                }
+            },
+            "Internal Components": {
+                "CPU Processors": {},
+                "Fans & Cooling": {
+                    "CPU Cooling Fans": {},
+                    "Case Fans": {},
+                    "Graphics Card Fans": {},
+                    "Grills": {},
+                    "HDD Cooling Fans": {},
+                    "Heatsinks": {},
+                    "Water Cooling Systems": {}
+                },
+                "Graphics Cards": {},
+                "I/O Port Cards": {
+                    "FireWire Port Cards": {},
+                    "Parallel Port Cards": {},
+                    "RAID Controllers": {},
+                    "SCSI Port Cards": {},
+                    "Serial Port Cards": {},
+                    "USB Port Cards": {}
+                },
+                "Internal Hard Drives": {},
+                "Internal Memory Card Readers": {},
+                "Internal Modems": {},
+                "Internal Optical Drives": {
+                    "Internal Blu-ray Drives": {},
+                    "Internal CD & DVD Drives": {}
+                },
+                "Internal Power Supplies": {},
+                "Internal Solid State Drives": {},
+                "Internal Sound Cards": {},
+                "Internal TV Tuner & Capture Cards": {},
+                "Memory": {},
+                "Motherboards": {},
+                "Network Cards": {}
+            },
+            "Laptop Replacement Parts": {},
+            "Single Board Computers": {}
+        },
+        "Computers & Tablets": {
+            "Desktops": {
+                "All-in-Ones": {},
+                "Minis": {},
+                "Towers": {}
+            },
+            "Laptops": {
+                "2 in 1 Laptops": {},
+                "Traditional Laptops": {}
+            },
+            "Tablets": {}
+        },
+        "Data Storage": {
+            "External Hard Drives": {},
+            "External Solid State Drives": {},
+            "External Zip Drives": {},
+            "Floppy & Tape Drives": {},
+            "Internal Hard Drives": {},
+            "Internal Solid State Drives": {},
+            "Network Attached Storage": {},
+            "Tape Libraries": {},
+            "USB Flash Drives": {}
+        },
+        "Laptop Accessories": {
+            "Bags, Cases & Sleeves": {
+                "Backpacks": {},
+                "Briefcases": {},
+                "Hard Shell Cases": {},
+                "Messenger & Shoulder Bags": {},
+                "Sleeves": {}
+            },
+            "Batteries": {},
+            "Chargers & Adapters": {},
+            "Cooling Pads & External Fans": {},
+            "Docking Stations": {},
+            "Lapdesks": {},
+            "Mounts": {},
+            "Replacement Screens": {},
+            "Screen Filters": {},
+            "Screen Protectors": {},
+            "Security Locks": {},
+            "Skins & Decals": {},
+            "Stands": {}
+        },
+        "Monitors": {},
+        "Networking Products": {
+            "Device Servers": {},
+            "Hubs": {},
+            "Modem Router Combos": {},
+            "Modems": {},
+            "Network Adapters": {
+                "Bluetooth Network Adapters": {},
+                "Laptop Network Adapters": {},
+                "Powerline Network Adapters": {},
+                "USB Network Adapters": {}
+            },
+            "Network Antennas": {},
+            "Network Attached Storage": {},
+            "Network Transceivers": {},
+            "Print Servers": {},
+            "Repeaters": {},
+            "Routers": {},
+            "Streaming Media Players": {},
+            "Switches": {},
+            "Whole Home & Mesh Wi-Fi Systems": {},
+            "Wireless Access Points": {}
+        },
+        "Power Strips & Surge Protectors": {
+            "Power Strips": {},
+            "Surge Protectors": {}
+        },
+        "Printers": {
+            "Dot Matrix Printers": {},
+            "Inkjet Printers": {},
+            "Label Printers": {},
+            "Laser Printers": {},
+            "Photo Printers": {
+                "Desktop Photo Printers": {},
+                "Portable Photo Printers": {}
+            },
+            "Wide Format & Plotter Printers": {}
+        },
+        "Scanners": {
+            "Business Card Scanners": {},
+            "Document Scanners": {},
+            "Flatbed & Photo Scanners": {},
+            "Slide & Negative Scanners": {}
+        },
+        "Servers": {},
+        "Tablet Accessories": {
+            "Bags, Cases & Sleeves": {
+                "Bags": {},
+                "Cases": {},
+                "Keyboard Cases": {},
+                "Sleeves": {}
+            },
+            "Blue Light Blocking Glasses": {},
+            "Chargers & Adapters": {},
+            "Keyboard Cases": {},
+            "Keyboards": {},
+            "Mounts": {},
+            "Repair Kits": {},
+            "Screen Filters": {},
+            "Screen Protectors": {},
+            "Stands": {},
+            "Styluses": {}
+        },
+        "Tablet Replacement Parts": {
+            "Batteries": {},
+            "Digitizers": {},
+            "Flex Cables": {},
+            "LCD Displays": {},
+            "Screens": {}
+        },
+        "Warranties & Services": {
+            "Computer Equipment Warranties": {},
+            "Installation Services": {},
+            "Service Plans": {
+                "Computer Add-Ons": {},
+                "Computers": {}
+            }
+        }
+    },
+    "Electronics Warranties": {},
+    "GPS, Finders & Accessories": {
+        "Boating GPS Units & Chartplotters": {},
+        "GPS System Accessories": {
+            "Cases": {},
+            "Chargers & Cables": {},
+            "Vehicle Mounts": {},
+            "Antennas": {},
+            "Batteries": {},
+            "Traffic Message Channel (TMC) Receiver Modules": {},
+            "Screen Protector Foils": {}
+        },
+        "GPS Trackers": {},
+        "Item Finders": {},
+        "Sports & Handheld GPS": {
+            "Cycling GPS Units": {},
+            "Golf Course GPS Units": {},
+            "Running GPS Units": {},
+            "Handheld GPS Units": {}
+        },
+        "Vehicle GPS": {
+            "Aviation GPS": {},
+            "In-Dash Navigation": {},
+            "Marine GPS": {},
+            "Powersports GPS": {},
+            "RV GPS": {},
+            "Trucking GPS": {}
+        }
+    },
+    "Headphones": {
+        "Earbud Headphones": {},
+        "Over-Ear Headphones": {},
+        "On-Ear Headphones": {}
+    },
+    "Home Audio": {
+        "Home Theater": {
+            "Home Theater Systems": {},
+            "Sound Bars": {},
+            "Speakers": {
+                "Surround Sound Systems": {},
+                "Center-Channel Speakers": {},
+                "Floorstanding Speakers": {},
+                "Satellite Speakers": {},
+                "Subwoofers": {},
+                "Ceiling & In-Wall Speakers": {}
+            },
+            "Receivers & Amplifiers": {
+                "Amplifiers": {},
+                "Preamplifiers": {},
+                "Receivers": {}
+            },
+            "Equalizers": {},
+            "Phono Preamps": {}
+        },
+        "Speakers": {
+            "Bluetooth Speakers": {},
+            "Bookshelf Speakers": {},
+            "Ceiling & In-Wall Speakers": {},
+            "Center-Channel Speakers": {},
+            "Floorstanding Speakers": {},
+            "Multiroom Digital Music Systems": {},
+            "Outdoor Speakers": {},
+            "Satellite Speakers": {},
+            "Sound Bars": {},
+            "Subwoofers": {},
+            "Surround Sound Systems": {}
+        },
+        "Wireless & Streaming Audio": {
+            "Bluetooth Speakers": {},
+            "Internet Radios": {},
+            "Wireless Audio Receivers & Adapters": {},
+            "Wireless Multiroom Systems": {}
+        },
+        "Stereo System Components": {
+            "Receivers & Amplifiers": {
+                "Amplifiers": {},
+                "Preamplifiers": {},
+                "Receivers": {}
+            },
+            "CD & Tape Players": {
+                "CD Players": {},
+                "CD Recorders": {},
+                "Tape Decks": {}
+            },
+            "Tuners": {},
+            "Turntables": {},
+            "Wireless Audio Receivers & Adapters": {}
+        },
+        "Turntables & Accessories": {
+            "Turntables": {},
+            "Turntable Cartridges & Needles": {}
+        },
+        "Compact Radios & Stereos": {
+            "Stereo Shelf Systems": {},
+            "Boomboxes": {},
+            "Clock Radios": {},
+            "Emergency Radios": {},
+            "Internet Radios": {},
+            "Shower Radios": {}
+        },
+        "Headphones": {
+            "Earbud Headphones": {},
+            "Over-Ear Headphones": {},
+            "On-Ear Headphones": {}
+        },
+        "Home Audio Accessories": {
+            "Cables & Interconnects": {
+                "Audio Cables": {
+                    "Digital Coaxial Cables": {},
+                    "Fiber Optic Cables": {},
+                    "RCA Cables": {},
+                    "Speaker Cables": {},
+                    "Subwoofer Cables": {},
+                    "Stereo Jack Cables": {}
+                },
+                "Video Cables": {
+                    "Component Video": {},
+                    "Composite Video": {},
+                    "DVI Cables": {},
+                    "F-Pin-Coaxial Tip": {},
+                    "HDMI Cables": {},
+                    "Firewire Cables": {},
+                    "S-Video Cables": {}
+                },
+                "Power Cables": {}
+            },
+            "Digital-to-Analog Converters": {},
+            "Media Storage": {},
+            "Radio Antennas": {},
+            "Remote Controls": {
+                "Remote-Control Extenders": {},
+                "Remote Controls": {}
+            },
+            "Speaker Accessories": {
+                "Feet & Spikes": {},
+                "Speaker Cables": {},
+                "Speaker Mounts": {},
+                "Speaker Stands": {}
+            },
+            "Surge Protectors": {}
+        }
+    },
+    "Office Electronics": {
+        "Calculators": {
+            "Basic": {},
+            "Financial & Business": {},
+            "Graphing": {},
+            "Printing": {},
+            "Scientific": {}
+        },
+        "Copiers": {},
+        "Document Cameras": {},
+        "Electronic Dictionaries, Thesauri & Translators": {
+            "Electronic Dictionaries & Thesauri": {},
+            "Foreign Language Translators": {}
+        },
+        "Electronic Organizers": {},
+        "Fax Machines": {},
+        "Other Office Equipment": {
+            "Label Makers": {},
+            "Postal Scales": {},
+            "Shredders": {},
+            "Typewriters": {}
+        },
+        "PDAs & Handhelds": {},
+        "Point-of-Sale (POS) Equipment": {
+            "Bar Code Scanners": {},
+            "Credit Card Readers": {
+                "Mobile Credit Card Readers": {},
+                "Stationary Credit Card Readers": {}
+            },
+            "Receipt Printers": {}
+        },
+        "Presentation Products": {
+            "Binding Machines": {},
+            "Electronic White Boards": {},
+            "Laminating Supplies": {},
+            "Laminators": {},
+            "Overhead Projectors": {},
+            "Presentation Pointers": {},
+            "Presentation Remotes": {},
+            "Video Projectors": {}
+        },
+        "Printers & Accessories": {
+            "Printers": {
+                "Dot Matrix Printers": {},
+                "Inkjet Printers": {},
+                "Label Printers": {},
+                "Laser Printers": {},
+                "Photo Printers": {
+                    "Desktop Photo Printers": {},
+                    "Portable Photo Printers": {}
+                },
+                "Wide Format & Plotter Printers": {}
+            },
+            "Printer Parts & Accessories": {
+                "Printer Cutters": {},
+                "Printer Developers": {},
+                "Printer Duplex Units": {},
+                "Printer Memory Modules": {},
+                "Printer Transfer Belts, Rollers & Units": {
+                    "Printer Transfer Belts": {},
+                    "Printer Transfer Rollers": {},
+                    "Printer Transfer Units": {}
+                },
+                "Printer Trays & Drawers": {
+                    "Printer Drawers": {},
+                    "Printer Trays": {}
+                }
+            }
+        },
+        "Scanners & Accessories": {
+            "Scanners": {
+                "Business Card Scanners": {},
+                "Document Scanners": {},
+                "Flatbed & Photo Scanners": {},
+                "Slide & Negative Scanners": {}
+            },
+            "Accessories": {}
+        },
+        "Telephones & Accessories": {
+            "Landline Phones": {},
+            "PBX Phones & Systems": {},
+            "VoIP": {
+                "Adapters": {},
+                "Handsets": {},
+                "Phones": {},
+                "Routers": {}
+            },
+            "Audio Conferencing": {},
+            "Telephone Accessories": {
+                "Batteries": {},
+                "Caller ID Displays": {},
+                "Headsets": {},
+                "Phone Cards": {},
+                "Wireless Jack Systems": {},
+                "Telephone Cords": {}
+            },
+            "Answering Devices": {},
+            "Pagers": {}
+        },
+        "Video Projectors & Accessories": {
+            "Video Projectors": {},
+            "Video Projector Accessories": {
+                "Lamps": {},
+                "Lenses": {},
+                "Mounting Equipment": {},
+                "Projector Bags & Cases": {},
+                "Remote Controls": {}
+            }
+        }
+    },
+    "Portable Audio & Video": {
+        "Boomboxes": {},
+        "CB & Two-Way Radios": {
+            "CB Radios & Scanners": {
+                "Handheld CB Radios": {},
+                "Fixed-mount CB Radios": {},
+                "Radio Scanners": {}
+            },
+            "Two-Way Radios": {},
+            "Marine Two-Way Radios": {},
+            "Accessories": {
+                "Antennas": {},
+                "Batteries": {},
+                "Battery Chargers": {},
+                "Cases": {},
+                "Headsets & Microphones": {}
+            }
+        },
+        "Cassette Players & Recorders": {},
+        "Digital Voice Recorders": {},
+        "MP3 & MP4 Players": {},
+        "MP3 & MP4 Player Accessories": {
+            "Armbands": {},
+            "Batteries & Battery Packs": {
+                "Batteries": {},
+                "External Battery Packs": {}
+            },
+            "Bluetooth & FM Transmitters": {
+                "Bluetooth Transmitters": {},
+                "FM Transmitters": {}
+            },
+            "Cables": {
+                "Data & Power Cables": {},
+                "Stereo Jack Cables": {}
+            },
+            "Cases": {},
+            "Cassette Player Adapters": {},
+            "Chargers & Power Adapters": {
+                "Car Chargers": {},
+                "Charging Cradles &  Stations": {},
+                "Solar Chargers": {},
+                "Wall Chargers": {}
+            },
+            "Headphones": {
+                "Earbud Headphones": {},
+                "Over-Ear Headphones": {},
+                "On-Ear Headphones": {}
+            },
+            "Mounts": {},
+            "Remote Controls": {},
+            "Screen Protectors": {},
+            "Skins & Decals": {}
+        },
+        "Microcassette Recorders": {},
+        "Minidisc Players": {},
+        "Portable & Handheld TVs": {},
+        "Portable CD Players": {},
+        "Portable DVD Players": {},
+        "Portable Speakers & Docks": {
+            "Audio Docks": {},
+            "Portable Bluetooth Speakers": {},
+            "Portable Line-In Speakers": {}
+        },
+        "Radios": {
+            "Personal Radios": {},
+            "Shortwave Radios": {},
+            "Weather Radios": {}
+        }
+    },
+    "Security & Surveillance": {
+        "Accessories": {
+            "Access-Control Keypads": {},
+            "IR Illuminators": {},
+            "Surveillance Camera Cables": {},
+            "Surveillance Camera Lenses": {},
+            "Surveillance Housing & Mounting Brackets": {}
+        },
+        "Biometrics": {},
+        "Home Security Systems": {},
+        "Horns & Sirens": {},
+        "Motion Detectors": {},
+        "Radio Scanners": {},
+        "Surveillance Cameras": {
+            "Bullet Cameras": {},
+            "Dome Cameras": {},
+            "Hidden Cameras": {},
+            "Simulated Cameras": {},
+            "Trail & Game Cameras": {}
+        },
+        "Surveillance Video Equipment": {
+            "Security Monitors & Displays": {},
+            "Surveillance DVR Kits": {},
+            "Surveillance NVR Kits": {},
+            "Surveillance Video Recorders": {},
+            "Video Multiplexers & Quads": {},
+            "Video Transmission Systems": {}
+        }
+    },
+    "Service Plans": {
+        "Computers": {
+            "Computer Equipment Warranties": {},
+            "Installation Services": {},
+            "Service Plans": {
+                "Computer Add-Ons": {},
+                "Computers": {}
+            }
+        },
+        "Electronics": {
+            "Audio-Video Components": {},
+            "Personal Electronics": {},
+            "Televisions": {}
+        }
+    },
+    "Television & Video": {
+        "Analog-to-Digital (DTV) Converters": {},
+        "AV Receivers & Amplifiers": {},
+        "Blu-ray Players & Recorders": {
+            "Blu-ray Recorders": {},
+            "Blu-ray Players": {}
+        },
+        "DVD Players & Recorders": {
+            "DVD Players": {},
+            "DVD Recorders": {},
+            "Portable DVD Players": {}
+        },
+        "DVD-VCR Combos": {},
+        "HD DVD Players": {},
+        "Home Theater Systems": {},
+        "Projection Screens": {},
+        "Projectors": {},
+        "Satellite Television": {
+            "Receivers": {},
+            "Systems": {},
+            "Satellite Dishes": {}
+        },
+        "Streaming Media Players": {},
+        "Television Accessories": {
+            "3D Glasses": {},
+            "Antennas": {
+                "Radio Antennas": {},
+                "TV Antennas": {}
+            },
+            "CD Racks": {},
+            "Cleaning": {
+                "Disc Cleaners": {},
+                "Disc Repair Kits": {},
+                "Head Cleaners": {},
+                "Lens Cleaners": {},
+                "Record Cleaners & Cleaning Supplies": {}
+            },
+            "Remote Controls": {
+                "Remote-Control Extenders": {},
+                "Remote Controls": {}
+            },
+            "Satellite TV Equipment": {
+                "Mounting Accessories": {
+                    "Satellite Dish Mounts": {},
+                    "Satellite Finders": {}
+                },
+                "Splitters": {}
+            },
+            "TV Screen Protectors": {},
+            "TV Mounts": {},
+            "VCR Rewinders": {},
+            "Video Converters": {},
+            "Wi-Fi Dongles": {}
+        },
+        "Televisions": {
+            "LED & LCD TVs": {},
+            "OLED TVs": {}
+        },
+        "TV-DVD Combos": {},
+        "VCRs": {},
+        "Video Glasses": {}
+    },
+    "Video Game Consoles & Accessories": {
+        "Fire TV": {},
+        "PlayStation 4": {
+            "Consoles": {},
+            "Virtual Reality": {
+                "Accessories": {},
+                "Cameras": {},
+                "Controllers": {},
+                "Headsets": {}
+            },
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Batteries": {},
+                    "Chargers": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Gamepads & Standard Controllers": {},
+                    "Racing Wheels": {},
+                    "Remotes": {}
+                },
+                "Cooling Systems": {},
+                "Faceplates, Protectors & Skins": {},
+                "Headsets": {},
+                "Mounts, Brackets & Stands": {},
+                "Thumb Grips": {}
+            }
+        },
+        "PlayStation 3": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Batteries": {},
+                    "Chargers": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Dance Pads": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Gaming Keyboards": {},
+                    "Music Controllers": {
+                        "Drums": {},
+                        "Guitars": {},
+                        "Microphones": {}
+                    },
+                    "Racing Wheels": {},
+                    "Remotes": {}
+                },
+                "Cooling Systems": {},
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Skins": {}
+                },
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Thumb Grips": {}
+            }
+        },
+        "Xbox One": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Battery & Charger Sets": {},
+                    "Batteries": {},
+                    "Chargers": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Dance Pads": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Racing Wheels": {},
+                    "Remotes": {}
+                },
+                "Cooling Systems": {},
+                "Faceplates, Protectors & Skins": {},
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Thumb Grips": {}
+            }
+        },
+        "Xbox 360": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Batteries": {},
+                    "Chargers": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Dance Pads": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Keyboards": {},
+                    "Music Controllers": {
+                        "Drums": {},
+                        "Guitars": {},
+                        "Keyboards": {},
+                        "Microphones": {}
+                    },
+                    "Racing Wheels": {},
+                    "Remotes": {}
+                },
+                "Cooling Systems": {},
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Skins": {}
+                },
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Thumb Grips": {}
+            }
+        },
+        "Wii U": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Gamepads & Standard Controllers": {},
+                    "Racing Wheels": {},
+                    "Motion Controllers": {},
+                    "Music Controllers": {}
+                },
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Protectors": {},
+                    "Skins": {}
+                },
+                "Fitness Accessories": {},
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Sensor Bars": {}
+            }
+        },
+        "Wii": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Controllers": {
+                    "Dance Pads": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Keyboards": {},
+                    "Motion Controllers": {},
+                    "Music Controllers": {
+                        "Drums": {},
+                        "Guitars": {},
+                        "Keyboards": {},
+                        "Microphones": {}
+                    },
+                    "Racing Wheels": {},
+                    "Remotes": {}
+                },
+                "Cooling Systems": {},
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Protectors": {},
+                    "Skins": {}
+                },
+                "Fitness Accessories": {},
+                "Headsets": {},
+                "Memory": {},
+                "Mounts, Brackets & Stands": {},
+                "Sensor Bars": {}
+            }
+        },
+        "Nintendo 3DS": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Batteries": {},
+                    "Chargers": {}
+                },
+                "Cables & Adapters": {
+                    "Adapters": {},
+                    "Cables": {}
+                },
+                "Cases & Storage": {},
+                "Headsets": {},
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Screen Protectors": {},
+                    "Skins": {}
+                },
+                "Hand Grips": {},
+                "Stylus Pens": {}
+            }
+        },
+        "Nintendo DS": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Hand Grips": {},
+                "Headsets": {},
+                "Stylus Pens": {}
+            }
+        },
+        "PlayStation Vita": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Faceplates, Protectors & Skins": {
+                    "Protectors": {},
+                    "Faceplates": {},
+                    "Skins": {}
+                },
+                "Hand Grips": {},
+                "Headsets": {},
+                "Memory": {}
+            }
+        },
+        "Sony PSP": {
+            "Consoles": {},
+            "Accessories": {
+                "Accessory Kits": {},
+                "Batteries & Chargers": {
+                    "Chargers": {},
+                    "Batteries": {}
+                },
+                "Cables & Adapters": {
+                    "Cables": {},
+                    "Adapters": {}
+                },
+                "Cases & Storage": {},
+                "Faceplates, Protectors & Skins": {
+                    "Faceplates": {},
+                    "Screen Protectors": {},
+                    "Skins": {}
+                },
+                "Hand Grips": {},
+                "Headsets": {},
+                "Memory": {},
+                "Speakers": {}
+            }
+        }
+    },
+    "Video Projectors": {},
+    "Wearable Technology": {
+        "Body Mounted Cameras": {},
+        "Clips, Arm & Wristbands": {},
+        "Glasses": {},
+        "Rings": {},
+        "Smartwatches": {},
+        "Accessories": {
+            "Arm & Wristband Accessories": {},
+            "Smart Clip Accessories": {},
+            "Smartwatch Accessories": {
+                "Smartwatch Bands": {},
+                "Smartwatch Cables & Chargers": {},
+                "Smartwatch Cases": {},
+                "Smartwatch Cases with Band": {},
+                "Smartwatch Necklaces": {},
+                "Smartwatch Screen Protectors": {},
+                "Smartwatch Stickers": {}
+            }
+        },
+        "Virtual Reality": {
+            "Cell Phone VR Headsets": {},
+            "VR Headsets": {}
+        }
+    },
+    "eBook Readers & Accessories": {
+        "eBook Readers": {},
+        "Bundles": {},
+        "Covers": {},
+        "Power Adapters": {},
+        "Power Cables": {},
+        "Reading Lights": {},
+        "Screen Protectors": {},
+        "Skins": {},
+        "Sleeves": {},
+        "Stands": {}
+    }
+}

@@ -1,0 +1,1060 @@
+{
+    "Clothing": {
+        "Dresses": {
+            "Casual": {},
+            "Club & Night Out": {},
+            "Cocktail": {},
+            "Formal": {},
+            "Work": {},
+            "Wedding Dresses": {}
+        },
+        "Tops, Tees & Blouses": {
+            "Blouses & Button-Down Shirts": {},
+            "Bodysuits": {},
+            "Polos": {},
+            "Tanks & Camis": {},
+            "T-Shirts": {},
+            "Tunics": {},
+            "Vests": {}
+        },
+        "Sweaters": {
+            "Cardigans": {},
+            "Pullovers": {},
+            "Shrugs": {},
+            "Vests": {}
+        },
+        "Fashion Hoodies & Sweatshirts": {},
+        "Jeans": {},
+        "Pants": {
+            "Casual": {},
+            "Wear to Work": {},
+            "Night Out": {}
+        },
+        "Skirts": {
+            "Casual": {},
+            "Wear to Work": {},
+            "Night Out": {}
+        },
+        "Shorts": {
+            "Casual": {},
+            "Denim": {}
+        },
+        "Leggings": {},
+        "Active": {
+            "Active Hoodies": {},
+            "Active Sweatshirts": {},
+            "Track & Active Jackets": {},
+            "Active Top & Bottom Sets": {},
+            "Active Shirts & Tees": {},
+            "Active Pants": {},
+            "Active Leggings": {},
+            "Active Shorts": {},
+            "Active Skirts": {},
+            "Active Skorts": {},
+            "Active Base Layers": {},
+            "Sports Bras": {},
+            "Active Underwear": {},
+            "Athletic Socks": {}
+        },
+        "Swimsuits & Cover Ups": {
+            "Bikinis": {
+                "Tops": {},
+                "Bottoms": {},
+                "Sets": {}
+            },
+            "Tankinis": {},
+            "One-Pieces": {},
+            "Cover-Ups": {},
+            "Board Shorts": {},
+            "Racing": {
+                "Bodysuits": {},
+                "One-Piece Suits": {},
+                "Two-Piece Suits": {}
+            },
+            "Rash Guards": {}
+        },
+        "Lingerie, Sleep & Lounge": {
+            "Lingerie": {
+                "Bras": {
+                    "Adhesive Bras": {},
+                    "Everyday Bras": {},
+                    "Mastectomy Bras": {},
+                    "Minimizers": {},
+                    "Nursing & Maternity Bras": {},
+                    "Sports Bras": {}
+                },
+                "Panties": {
+                    "Bikinis": {},
+                    "Boy Shorts": {},
+                    "Briefs": {},
+                    "G-Strings & Thongs": {},
+                    "Hipsters": {},
+                    "Tangas": {}
+                },
+                "Baby Dolls & Chemises": {},
+                "Camisoles & Tanks": {},
+                "Shapewear": {
+                    "Control Panties": {},
+                    "Thigh Slimmers": {},
+                    "Tops": {},
+                    "Waist Cinchers": {},
+                    "Bodysuits": {},
+                    "Control Slips": {}
+                },
+                "Slips": {
+                    "Full Slips": {},
+                    "Half Slips": {}
+                },
+                "Bustiers & Corsets": {},
+                "Garters & Garter Belts": {},
+                "Accessories": {
+                    "Breast Petals": {},
+                    "Pads & Enhancers": {},
+                    "Straps": {},
+                    "Bra Extenders": {}
+                }
+            },
+            "Sleep & Lounge": {
+                "Tops": {},
+                "Bottoms": {},
+                "Sets": {},
+                "Robes": {},
+                "Nightgowns & Sleepshirts": {}
+            },
+            "Thermal Underwear": {
+                "Tops": {},
+                "Bottoms": {},
+                "Sets": {}
+            }
+        },
+        "Jumpsuits, Rompers & Overalls": {
+            "Jumpsuits": {},
+            "Overalls": {},
+            "Rompers": {}
+        },
+        "Coats, Jackets & Vests": {
+            "Down Jackets & Parkas": {},
+            "Wool & Pea Coats": {},
+            "Trench, Rain & Anoraks": {
+                "Anoraks": {},
+                "Raincoats": {},
+                "Trench Coats": {}
+            },
+            "Quilted Lightweight Jackets": {},
+            "Casual Jackets": {},
+            "Denim Jackets": {},
+            "Leather & Faux Leather": {},
+            "Fur & Faux Fur": {},
+            "Vests": {},
+            "Active & Performance": {
+                "Fleece": {},
+                "Insulated Shells": {},
+                "Wind & Rain": {}
+            }
+        },
+        "Suiting & Blazers": {
+            "Blazers": {},
+            "Separates": {
+                "Dresses": {},
+                "Pants": {},
+                "Skirts": {}
+            },
+            "Suit Sets": {}
+        },
+        "Socks & Hosiery": {
+            "Casual Socks": {},
+            "Dress & Trouser Socks": {},
+            "Athletic Socks": {},
+            "Leg Warmers": {},
+            "Tights": {},
+            "Sheers": {},
+            "Slipper Socks": {},
+            "No Show & Liner Socks": {}
+        }
+    },
+    "Shoes": {
+        "Athletic": {
+            "Running": {
+                "Road Running": {},
+                "Track & Field & Cross Country": {},
+                "Trail Running": {}
+            },
+            "Team Sports": {
+                "Basketball": {},
+                "Field Hockey & Lacrosse": {},
+                "Soccer": {},
+                "Softball & Baseball": {},
+                "Volleyball": {}
+            },
+            "Fitness & Cross-Training": {},
+            "Golf": {},
+            "Tennis & Racquet Sports": {},
+            "Cycling": {},
+            "Walking": {},
+            "Ballet & Dance": {},
+            "Skateboarding": {},
+            "Sport Sandals & Slides": {},
+            "Water Shoes": {},
+            "Bowling": {},
+            "Equestrian Sport Boots": {}
+        },
+        "Boots": {
+            "Ankle & Bootie": {},
+            "Mid-Calf": {},
+            "Knee-High": {},
+            "Over-the-Knee": {}
+        },
+        "Fashion Sneakers": {},
+        "Flats": {},
+        "Loafers & Slip-Ons": {},
+        "Mules & Clogs": {},
+        "Outdoor": {
+            "Climbing": {},
+            "Hiking & Trekking": {
+                "Backpacking Boots": {},
+                "Hiking Boots": {},
+                "Hiking Shoes": {},
+                "Mountaineering Boots": {}
+            },
+            "Hunting": {},
+            "Rain Footwear": {},
+            "Snow Boots": {},
+            "Sport Sandals & Slides": {},
+            "Trail Running": {},
+            "Water Shoes": {}
+        },
+        "Oxfords": {},
+        "Pumps": {},
+        "Sandals": {
+            "Flats": {},
+            "Flip-Flops": {},
+            "Heeled Sandals": {},
+            "Outdoor": {},
+            "Platforms & Wedges": {},
+            "Slides": {}
+        },
+        "Slippers": {},
+        "Work & Safety": {
+            "Fire & Safety": {},
+            "Health Care & Food Service": {},
+            "Industrial & Construction": {},
+            "Military & Tactical": {},
+            "Uniform Dress Shoes": {}
+        }
+    },
+    "Jewelry": {
+        "Anklets": {},
+        "Bracelets": {
+            "Bangle": {},
+            "Charms & Charm Bracelets": {
+                "Charm Bracelets": {
+                    "Italian Style": {},
+                    "Link": {},
+                    "Snake": {}
+                },
+                "Charms": {
+                    "Bead": {},
+                    "Clasp": {},
+                    "Italian Style": {}
+                }
+            },
+            "Cuff": {},
+            "Identification": {},
+            "Link": {},
+            "Strand": {},
+            "Stretch": {},
+            "Tennis": {},
+            "Wrap": {}
+        },
+        "Brooches & Pins": {},
+        "Earrings": {
+            "Ball": {},
+            "Clip-Ons": {},
+            "Cuffs & Wraps": {},
+            "Drop & Dangle": {},
+            "Earring Jackets": {},
+            "Hoop": {},
+            "Stud": {}
+        },
+        "Jewelry Sets": {},
+        "Necklaces": {
+            "Chains": {},
+            "Chokers": {},
+            "Collars": {},
+            "Lockets": {},
+            "Pearl Strands": {},
+            "Pendants": {},
+            "Pendant Enhancers": {},
+            "Strands": {},
+            "Y-Necklaces": {}
+        },
+        "Rings": {
+            "Bands": {},
+            "Stacking": {},
+            "Statement": {}
+        },
+        "Wedding & Engagement": {
+            "Anniversary Rings": {},
+            "Bridal Sets": {},
+            "Engagement Rings": {},
+            "Eternity Rings": {},
+            "Promise Rings": {},
+            "Ring Enhancers": {},
+            "Wedding Bands": {}
+        },
+        "Smart Jewelry": {},
+        "Body Jewelry": {
+            "Body Chains": {},
+            "Dental Grills": {},
+            "Faux Body Piercing Jewelry": {},
+            "Piercing Jewelry": {
+                "Barbells": {},
+                "Plugs": {},
+                "Retainers": {},
+                "Rings": {},
+                "Screws": {},
+                "Studs": {},
+                "Tapers": {},
+                "Tunnels": {}
+            },
+            "Toe Rings": {}
+        }
+    },
+    "Watches": {
+        "Wrist Watches": {},
+        "Watch Bands": {},
+        "Pocket Watches": {},
+        "Smartwatches": {},
+        "Certified Pre-Owned": {}
+    },
+    "Handbags & Wallets": {
+        "Clutches & Evening Bags": {
+            "Clutches": {},
+            "Evening Bags": {}
+        },
+        "Crossbody Bags": {},
+        "Fashion Backpacks": {},
+        "Hobo Bags": {},
+        "Satchels": {},
+        "Shoulder Bags": {},
+        "Top-Handle Bags": {},
+        "Totes": {},
+        "Wallets": {},
+        "Wristlets": {}
+    },
+    "Accessories": {
+        "Belts": {},
+        "Sunglasses & Eyewear Accessories": {
+            "Sunglasses": {},
+            "Eyeglass Cases": {},
+            "Eyeglass Chains": {},
+            "Eyewear Frames": {},
+            "Replacement Sunglass Lenses": {}
+        },
+        "Scarves & Wraps": {
+            "Fashion Scarves": {},
+            "Neck Gaiters": {},
+            "Wraps & Pashminas": {},
+            "Cold Weather Scarves & Wraps": {}
+        },
+        "Gloves & Mittens": {
+            "Arm Warmers": {},
+            "Cold Weather Gloves": {},
+            "Mittens": {}
+        },
+        "Hats & Caps": {
+            "Balaclavas": {},
+            "Baseball Caps": {},
+            "Berets": {},
+            "Bomber Hats": {},
+            "Bucket Hats": {},
+            "Cold Weather Headbands": {},
+            "Cowboy Hats": {},
+            "Fedoras": {},
+            "Headbands": {},
+            "Newsboy Caps": {},
+            "Rain Hats": {},
+            "Skullies & Beanies": {},
+            "Sun Hats": {},
+            "Visors": {}
+        },
+        "Earmuffs": {},
+        "Handbag Accessories": {
+            "Handbag Hangers": {},
+            "Handbag Organizers": {}
+        },
+        "Keyrings & Keychains": {},
+        "Wallets, Card Cases & Money Organizers": {
+            "Wallets": {},
+            "Card & ID Cases": {
+                "Card Cases": {},
+                "ID Cases": {},
+                "Business Card Cases": {},
+                "Commuter Pass Cases": {}
+            },
+            "Checkbook Covers": {},
+            "Coin Purses & Pouches": {}
+        },
+        "Special Occasion Accessories": {
+            "Bridal Accessories": {},
+            "Fascinators": {}
+        }
+    },
+    "Shops": {
+        "Contemporary & Designer": {
+            "Clothing": {
+                "Dresses": {
+                    "Casual": {},
+                    "Wear to Work": {},
+                    "Wedding Party": {}
+                },
+                "Tops & Tees": {
+                    "Blouses & Button-Down Shirts": {
+                        "Blouses": {},
+                        "Button-Down Shirts": {}
+                    },
+                    "Knits & Tees": {},
+                    "Tanks & Camis": {},
+                    "Tunics": {}
+                },
+                "Sweaters": {
+                    "Cardigans": {},
+                    "Pullovers": {}
+                },
+                "Fashion Hoodies & Sweatshirts": {},
+                "Jeans": {},
+                "Pants": {
+                    "Casual": {},
+                    "Wear to Work": {},
+                    "Night Out & Special Occasion": {}
+                },
+                "Skirts": {
+                    "Casual": {},
+                    "Wear to Work": {},
+                    "Night Out & Special Occasion": {}
+                },
+                "Shorts": {
+                    "Dress": {},
+                    "Casual": {},
+                    "Denim": {}
+                },
+                "Leggings": {},
+                "Active": {},
+                "Swimsuits & Cover Ups": {
+                    "Bikinis": {},
+                    "Tankinis": {},
+                    "One-Pieces": {},
+                    "Cover-Ups": {}
+                },
+                "Lingerie, Sleep & Lounge": {},
+                "Jumpsuits, Rompers & Overalls": {},
+                "Coats & Jackets": {},
+                "Suiting & Blazers": {
+                    "Blazers": {
+                        "Casual": {},
+                        "Wear to Work": {},
+                        "Night Out & Special Occasion": {}
+                    },
+                    "Separates": {},
+                    "Suit Sets": {}
+                },
+                "Socks & Hosiery": {}
+            },
+            "Shoes": {
+                "Athletic": {},
+                "Boots": {},
+                "Fashion Sneakers": {},
+                "Flats": {},
+                "Loafers & Slip-Ons": {},
+                "Mules & Clogs": {},
+                "Outdoor": {},
+                "Pumps": {},
+                "Sandals": {}
+            },
+            "Watches": {},
+            "Handbags & Wallets": {
+                "Clutches": {},
+                "Cross-Body Bags": {},
+                "Evening Bags": {},
+                "Shoulder Bags": {},
+                "Top-Handle Bags": {},
+                "Wristlets": {}
+            },
+            "Accessories": {
+                "Belts": {},
+                "Sunglasses & Eyewear Accessories": {
+                    "Sunglasses": {},
+                    "Prescription Eyewear Frames": {}
+                },
+                "Scarves & Wraps": {},
+                "Gloves & Mittens": {},
+                "Hats & Caps": {},
+                "Wallets, Card Cases & Money Organizers": {}
+            }
+        },
+        "Juniors": {
+            "Dresses": {
+                "Special Occasion": {},
+                "Night Out & Cocktail": {},
+                "Casual": {},
+                "Wear to Work": {}
+            },
+            "Tops & Tees": {
+                "Blouses & Button-Down Shirts": {},
+                "Knits & Tees": {},
+                "Polos": {},
+                "Tanks & Camis": {},
+                "Tunics": {},
+                "Vests": {}
+            },
+            "Sweaters": {
+                "Cardigans": {},
+                "Pullovers": {},
+                "Shrugs": {}
+            },
+            "Fashion Hoodies & Sweatshirts": {},
+            "Jeans": {},
+            "Pants": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Skirts": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Shorts": {
+                "Dress": {},
+                "Casual": {},
+                "Denim": {}
+            },
+            "Leggings": {},
+            "Active": {
+                "Active Hoodies": {},
+                "Active Sweatshirts": {},
+                "Track & Active Jackets": {},
+                "Active Top & Bottom Sets": {},
+                "Active Shirts & Tees": {},
+                "Active Pants": {},
+                "Active Leggings": {},
+                "Active Shorts": {},
+                "Active Skirts": {},
+                "Active Base Layers": {},
+                "Active Underwear": {},
+                "Athletic Socks": {}
+            },
+            "Swimsuits & Cover Ups": {
+                "Bikinis": {},
+                "Tankinis": {},
+                "One-Pieces": {},
+                "Cover-Ups": {},
+                "Board Shorts": {},
+                "Rash Guards": {}
+            },
+            "Lingerie, Sleep & Lounge": {
+                "Lingerie": {
+                    "Bras": {
+                        "Everyday Bras": {},
+                        "Minimizers": {},
+                        "Sports Bras": {}
+                    },
+                    "Panties": {
+                        "Bikinis": {},
+                        "Briefs": {},
+                        "Boy Shorts": {},
+                        "Hipsters": {},
+                        "G-Strings & Thongs": {}
+                    },
+                    "Shapewear": {
+                        "Control Panties": {},
+                        "Thigh Slimmers": {},
+                        "Tops": {},
+                        "Waist Cinchers": {},
+                        "Bodysuits": {},
+                        "Control Slips": {}
+                    },
+                    "Slips": {
+                        "Full Slips": {},
+                        "Half Slips": {}
+                    },
+                    "Camisoles & Tanks": {}
+                },
+                "Sleep & Lounge": {
+                    "Tops": {},
+                    "Bottoms": {},
+                    "Sets": {},
+                    "Nightgowns & Sleepshirts": {}
+                },
+                "Thermal Underwear": {
+                    "Tops": {},
+                    "Bottoms": {},
+                    "Sets": {}
+                }
+            },
+            "Jumpsuits, Rompers & Overalls": {},
+            "Coats & Jackets": {
+                "Active & Performance": {},
+                "Down & Down Alternative": {},
+                "Fleece": {},
+                "Fur & Faux Fur": {},
+                "Leather & Faux Leather": {},
+                "Lightweight Jackets": {},
+                "Trench & Rain": {},
+                "Vests": {},
+                "Wool & Blends": {}
+            },
+            "Suits & Blazers": {
+                "Blazers": {
+                    "Night Out & Special Occasion": {},
+                    "Casual": {},
+                    "Wear to Work": {}
+                },
+                "Pantsuits": {},
+                "Skirt Suits": {},
+                "Dress Suits": {}
+            },
+            "Socks & Hosiery": {
+                "Casual Socks": {},
+                "Dress & Trouser Socks": {},
+                "Tights": {},
+                "Sheers": {},
+                "Slipper Socks": {},
+                "No Show & Liner Socks": {}
+            }
+        },
+        "Maternity": {
+            "Nursing": {
+                "Dresses": {},
+                "Sleep & Lounge": {
+                    "Nightgowns & Sleepshirts": {},
+                    "Sets": {},
+                    "Tops": {}
+                },
+                "Tops & Tees": {
+                    "Blouses & Button-Down Shirts": {},
+                    "Knits & Tees": {},
+                    "Tanks & Camis": {},
+                    "Tunics": {}
+                }
+            },
+            "Dresses": {
+                "Special Occasion": {},
+                "Night Out & Cocktail": {},
+                "Casual": {},
+                "Wear to Work": {}
+            },
+            "Tops & Tees": {
+                "Blouses & Button-Down Shirts": {},
+                "T-Shirts": {},
+                "Tanks & Camis": {},
+                "Tunics": {}
+            },
+            "Sweaters": {},
+            "Jeans": {},
+            "Pants": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Skirts": {
+                "Casual": {},
+                "Wear to Work": {}
+            },
+            "Shorts": {
+                "Casual": {},
+                "Denim": {}
+            },
+            "Active": {},
+            "Swim": {
+                "Bikinis": {},
+                "Tankinis": {},
+                "One-Pieces": {},
+                "Cover-Ups": {}
+            },
+            "Sleep & Lounge": {},
+            "Intimates": {
+                "Nursing & Maternity Bras": {},
+                "Panties": {},
+                "Belly Bands": {}
+            },
+            "Outerwear & Coats": {},
+            "Blazers & Suit Jackets": {},
+            "Tights & Hosiery": {},
+            "Clothing Sets": {
+                "Pant Sets": {},
+                "Short Sets": {},
+                "Skirt Sets": {}
+            }
+        },
+        "Petite": {
+            "Dresses": {
+                "Special Occasion": {},
+                "Night Out & Cocktail": {},
+                "Casual": {},
+                "Wear to Work": {},
+                "Wedding": {
+                    "Wedding Dresses": {},
+                    "Mother of the Bride Dresses": {},
+                    "Bridesmaid Dresses": {}
+                }
+            },
+            "Tops & Tees": {
+                "Blouses & Button-Down Shirts": {
+                    "Blouses": {},
+                    "Button-Down Shirts": {}
+                },
+                "Knits & Tees": {},
+                "Polos": {},
+                "Tanks & Camis": {},
+                "Tunics": {},
+                "Vests": {}
+            },
+            "Sweaters": {
+                "Cardigans": {},
+                "Pullovers": {},
+                "Shrugs": {},
+                "Vests": {}
+            },
+            "Fashion Hoodies & Sweatshirts": {
+                "Fashion Hoodies": {},
+                "Fashion Sweatshirts": {}
+            },
+            "Jeans": {},
+            "Pants & Capris": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Skirts": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Shorts": {
+                "Dress": {},
+                "Casual": {},
+                "Denim": {}
+            },
+            "Leggings": {},
+            "Active": {
+                "Active Hoodies": {},
+                "Active Sweatshirts": {},
+                "Track & Active Jackets": {},
+                "Active Top & Bottom Sets": {
+                    "Active Sweatsuits": {},
+                    "Active Tracksuits": {}
+                },
+                "Active Shirts & Tees": {},
+                "Active Sweaters": {},
+                "Active Vests": {},
+                "Active Dresses": {},
+                "Active Pants": {
+                    "Sweatpants": {},
+                    "Track Pants": {}
+                },
+                "Active Leggings": {},
+                "Active Shorts": {},
+                "Active Skirts": {},
+                "Active Skorts": {},
+                "Active Base Layers": {
+                    "Bottoms": {},
+                    "Tops": {},
+                    "Sets": {}
+                },
+                "Sports Bras": {}
+            },
+            "Swim": {
+                "Bikinis": {
+                    "Tops": {},
+                    "Bottoms": {},
+                    "Sets": {}
+                },
+                "Tankinis": {
+                    "Tops": {},
+                    "Bottoms": {},
+                    "Sets": {}
+                },
+                "One-Pieces": {},
+                "Cover-Ups": {},
+                "Board Shorts": {},
+                "Racing": {},
+                "Rash Guards": {}
+            },
+            "Sleep & Lounge": {
+                "Tops": {},
+                "Bottoms": {},
+                "Sets": {},
+                "Robes": {},
+                "Nightgowns & Sleepshirts": {},
+                "Thermal Underwear": {
+                    "Tops": {},
+                    "Bottoms": {},
+                    "Sets": {},
+                    "Union Suits": {}
+                }
+            },
+            "Intimates": {
+                "Bras": {
+                    "Everyday Bras": {},
+                    "Minimizers": {},
+                    "Sports Bras": {}
+                },
+                "Panties": {
+                    "Bikinis": {},
+                    "Boy Shorts": {},
+                    "Briefs": {},
+                    "G-Strings & Thongs": {},
+                    "Hipsters": {},
+                    "Tangas": {}
+                },
+                "Shapewear": {
+                    "Control Panties": {},
+                    "Thigh Slimmers": {},
+                    "Tops": {},
+                    "Waist Cinchers": {},
+                    "Bodysuits": {},
+                    "Control Slips": {
+                        "Full Slips": {},
+                        "Half Slips": {}
+                    }
+                },
+                "Slips": {
+                    "Full Slips": {},
+                    "Half Slips": {},
+                    "Pant Liner Slips": {}
+                },
+                "Camisoles & Tanks": {},
+                "Lingerie": {
+                    "Bustiers & Corsets": {
+                        "Bustiers": {},
+                        "Corsets": {}
+                    },
+                    "Baby Dolls": {},
+                    "Chemises & Negligees": {
+                        "Chemises": {},
+                        "Negligees": {}
+                    },
+                    "Garters": {}
+                },
+                "Lingerie Sets": {},
+                "Accessories": {
+                    "Adhesive Bras": {},
+                    "Breast Petals": {},
+                    "Pads & Enhancers": {},
+                    "Lingerie Tape": {},
+                    "Straps": {},
+                    "Bra Extenders": {},
+                    "Lingerie Bags": {}
+                }
+            },
+            "Jumpsuits & Rompers": {},
+            "Overalls": {},
+            "Clothing Sets": {
+                "Pant Sets": {},
+                "Short Sets": {},
+                "Skirt Sets": {}
+            },
+            "Outerwear & Coats": {
+                "Active & Performance": {},
+                "Down & Parkas": {},
+                "Fleece": {},
+                "Fur & Faux Fur": {},
+                "Leather & Suede": {},
+                "Lightweight Jackets": {},
+                "Trench & Rain": {},
+                "Vests": {},
+                "Wool & Blends": {}
+            },
+            "Blazers & Jackets": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Suits": {
+                "Pantsuits": {},
+                "Skirt Suits": {},
+                "Dress Suits": {}
+            },
+            "Socks & Hosiery": {
+                "Casual Socks": {},
+                "Dress & Trouser Socks": {},
+                "Leg Warmers": {},
+                "Tights": {},
+                "Hosiery": {},
+                "Slipper Socks": {},
+                "No Show & Liner Socks": {}
+            }
+        },
+        "Plus-Size": {
+            "Dresses": {
+                "Special Occasion": {},
+                "Night Out & Cocktail": {},
+                "Casual": {},
+                "Wear to Work": {},
+                "Wedding": {
+                    "Wedding Dresses": {},
+                    "Mother of the Bride Dresses": {},
+                    "Bridesmaid Dresses": {}
+                }
+            },
+            "Tops & Tees": {
+                "Blouses & Button-Down Shirts": {},
+                "Henleys": {},
+                "Knits & Tees": {},
+                "Polos": {},
+                "Tanks & Camis": {},
+                "Tunics": {},
+                "Vests": {}
+            },
+            "Sweaters": {
+                "Cardigans": {},
+                "Pullovers": {},
+                "Shrugs": {},
+                "Vests": {}
+            },
+            "Fashion Hoodies & Sweatshirts": {},
+            "Jeans": {},
+            "Pants & Capris": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Skirts": {
+                "Casual": {},
+                "Wear to Work": {},
+                "Night Out & Special Occasion": {}
+            },
+            "Shorts": {
+                "Dress": {},
+                "Casual": {},
+                "Denim": {}
+            },
+            "Leggings": {},
+            "Active": {
+                "Active Hoodies": {},
+                "Active Sweatshirts": {},
+                "Track & Active Jackets": {},
+                "Active Top & Bottom Sets": {},
+                "Active Shirts & Tees": {},
+                "Active Pants": {},
+                "Active Shorts": {},
+                "Active Base Layers": {},
+                "Sports Bras": {}
+            },
+            "Swim": {
+                "Bikinis": {},
+                "Tankinis": {},
+                "One-Pieces": {},
+                "Cover-Ups": {}
+            },
+            "Sleep & Lounge": {
+                "Tops": {},
+                "Bottoms": {},
+                "Sets": {},
+                "Robes": {},
+                "Nightgowns & Sleepshirts": {}
+            },
+            "Intimates": {
+                "Bras": {
+                    "Everyday Bras": {},
+                    "Minimizers": {},
+                    "Sports Bras": {},
+                    "Nursing & Maternity Bras": {}
+                },
+                "Panties": {
+                    "Bikinis": {},
+                    "Boy Shorts": {},
+                    "Briefs": {},
+                    "G-Strings & Thongs": {},
+                    "Hipsters": {}
+                },
+                "Shapewear": {
+                    "Control Panties": {},
+                    "Thigh Slimmers": {},
+                    "Tops": {},
+                    "Waist Cinchers": {},
+                    "Bodysuits": {},
+                    "Control Slips": {}
+                },
+                "Slips": {},
+                "Camisoles & Tanks": {},
+                "Lingerie": {
+                    "Bustiers & Corsets": {},
+                    "Baby Dolls": {},
+                    "Chemises & Negligees": {}
+                },
+                "Accessories": {
+                    "Breast Petals": {},
+                    "Pads & Enhancers": {},
+                    "Bra Extenders": {}
+                }
+            },
+            "Clothing Sets": {},
+            "Coats, Jackets & Vests": {
+                "Down & Parkas": {},
+                "Wool & Pea Coats": {},
+                "Trench, Rain & Anoraks": {},
+                "Fleece": {},
+                "Casual Jackets": {},
+                "Leather & Faux Leather": {},
+                "Fur & Faux Fur": {},
+                "Vests": {},
+                "Active & Performance": {}
+            },
+            "Blazers & Jackets": {},
+            "Suits": {
+                "Pantsuits": {},
+                "Skirt Suits": {},
+                "Dress Suits": {}
+            },
+            "Socks & Hosiery": {
+                "Casual Socks": {},
+                "Dress & Trouser Socks": {},
+                "Tights": {},
+                "Hosiery": {},
+                "Slipper Socks": {},
+                "Peds & Liners": {}
+            },
+            "Belts": {},
+            "Maternity": {
+                "Tops & Tees": {},
+                "Jeans": {},
+                "Pants & Capris": {},
+                "Intimates": {
+                    "Nursing & Maternity Bras": {},
+                    "Panties": {}
+                }
+            }
+        },
+        "Uniforms, Work & Safety": {
+            "Clothing": {
+                "Medical": {
+                    "Scrub Bottoms": {},
+                    "Scrub Tops": {},
+                    "Scrub Jackets": {},
+                    "Scrub Sets": {},
+                    "Lab Coats": {}
+                },
+                "Food Service": {
+                    "Chef Jackets": {},
+                    "Chef Pants": {}
+                },
+                "Military": {},
+                "Work Utility & Safety": {
+                    "Tops": {},
+                    "Overalls & Coveralls": {},
+                    "Pants": {},
+                    "Outerwear": {}
+                }
+            },
+            "Shoes": {
+                "Fire & Safety": {},
+                "Health Care & Food Service": {},
+                "Industrial & Construction": {},
+                "Military & Tactical": {},
+                "Uniform Dress Shoes": {}
+            }
+        }
+    }
+}

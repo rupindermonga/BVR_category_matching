@@ -1,0 +1,903 @@
+{
+    "Gardening & Lawn Care": {
+        "Composting & Yard Waste Bins": {
+            "Composting Bins": {},
+            "Composting Tumblers": {},
+            "Yard Waste Bags": {
+                "Reusable Bags": {},
+                "Disposable Bags": {}
+            }
+        },
+        "Garden Sculptures & Statues": {
+            "Decorative Stones": {},
+            "Garden Miniatures": {
+                "Accessories": {},
+                "Buildings & Structures": {},
+                "Figurines": {},
+                "Furniture": {}
+            },
+            "Gazing Balls": {},
+            "Outdoor Statues": {},
+            "Pedestals": {},
+            "Suncatchers": {},
+            "Wind Sculptures & Spinners": {}
+        },
+        "Gloves & Protective Gear": {
+            "Aprons": {},
+            "Gloves": {},
+            "Knee Pads & Kneeling Cushions": {},
+            "Workseats": {}
+        },
+        "Greenhouses & Accessories": {
+            "Cold Frames": {},
+            "Greenhouses": {},
+            "Parts & Accessories": {
+                "Clamps": {},
+                "Covering Plastic": {},
+                "Flooring & Bases": {},
+                "Reflective Film & Foil": {},
+                "Ventilation Equipment": {},
+                "Window Openers": {}
+            }
+        },
+        "Hand Tools": {
+            "Axes": {},
+            "Bonsai Tools": {
+                "Bonsai Cutters": {},
+                "Bonsai Training Wire": {},
+                "Bonsai Tweezers": {}
+            },
+            "Bulb Planters": {},
+            "Cultivators & Tillers": {},
+            "Garden Twine & Twist Ties": {},
+            "Hand Edgers": {},
+            "Hoes": {},
+            "Loppers": {},
+            "Machetes": {},
+            "Manual Lawn Aerators": {},
+            "Manual Weeders": {},
+            "Picks": {},
+            "Pitchforks": {},
+            "Post Hole Diggers": {},
+            "Rakes": {},
+            "Saws": {
+                "Manual Pole Saws": {},
+                "Pruning Saws": {}
+            },
+            "Shears & Scissors": {
+                "Bonsai Cutters": {},
+                "Grass Clippers & Shears": {},
+                "Hedge Clippers & Shears": {},
+                "Scissors": {}
+            },
+            "Soil Test Kits": {},
+            "Spades, Shovels & Trowels": {
+                "Shovels": {},
+                "Spades": {},
+                "Trowels": {}
+            },
+            "Tool Sets": {}
+        },
+        "Indoor Gardening & Hydroponics": {
+            "Germination Kits": {},
+            "Germination Trays": {},
+            "Growing Lamps": {},
+            "Growing Light Bulbs": {},
+            "Growing Light Fixtures": {},
+            "Growing Tents": {},
+            "Heating Quilts & Mats": {},
+            "pH Testing & Control": {},
+            "Reflective Film & Foil": {}
+        },
+        "Lawn & Mulch Paint": {
+            "Lawn Paint": {},
+            "Mulch Paint": {}
+        },
+        "Outdoor Carts": {
+            "Garden Carts": {},
+            "Wheelbarrows & Replacement Parts": {
+                "Wheelbarrows": {},
+                "Replacement Parts": {}
+            }
+        },
+        "Pest Control": {
+            "Baits & Lures": {},
+            "Beneficial Insects": {},
+            "Bug Zappers": {},
+            "Fly Swatters": {},
+            "Foggers": {},
+            "Repellents": {},
+            "Sprayers": {},
+            "Traps": {},
+            "Accessories": {}
+        },
+        "Plant Covers": {},
+        "Plants, Seeds & Bulbs": {
+            "Aquatic Plants": {},
+            "Bonsai": {},
+            "Cacti & Succulents": {},
+            "Flowers": {},
+            "Fruits": {},
+            "Grasses": {},
+            "Herbs": {},
+            "Shrubs": {},
+            "Trees": {},
+            "Vegetables": {},
+            "Vines": {}
+        },
+        "Plant Support Structures": {
+            "Arbors": {},
+            "Garden Edging": {},
+            "Garden Netting": {},
+            "Garden Stakes": {},
+            "Pergolas": {},
+            "Plant Cages & Supports": {},
+            "Trellises": {}
+        },
+        "Pots, Planters & Container Accessories": {
+            "Grow Bags": {},
+            "Hanging Planters": {},
+            "Nursery Pots": {},
+            "Planter Urns": {},
+            "Planters": {},
+            "Pots": {},
+            "Rail Planters": {},
+            "Raised Beds": {},
+            "Raised Garden Kits": {},
+            "Terrariums": {},
+            "Vertical & Wall Planters": {},
+            "Window Boxes": {},
+            "Plant Container Accessories": {
+                "Basket Liners": {},
+                "Caddies": {},
+                "Hooks & Hangers": {},
+                "Plant Labels": {},
+                "Racks": {},
+                "Saucers": {},
+                "Self-Watering Stakes": {},
+                "Stands": {}
+            }
+        },
+        "Potting Benches & Tables": {},
+        "Soils, Fertilizers & Mulches": {
+            "Fertilizers & Plant Food": {},
+            "Garden Soil": {},
+            "Mulch": {}
+        },
+        "Sprayers & Accessories": {},
+        "Spreaders": {},
+        "Water Gardens & Ponds": {
+            "Aquatic Plant Food": {},
+            "Filtration": {},
+            "Pond De-Icer": {},
+            "Pond D\u00e9cor": {
+                "Pond Fountains": {},
+                "Water Spitters": {}
+            },
+            "Pond Lights": {},
+            "Pond Liners & Seals": {},
+            "Pond Netting": {},
+            "Pumps & Circulation": {
+                "Nozzles": {},
+                "Pumps": {},
+                "Tubing": {},
+                "Pond Foggers": {}
+            },
+            "Skimming Nets": {},
+            "Test Kits & Thermometers": {},
+            "Water Garden Kits": {},
+            "Water Treatment": {}
+        },
+        "Watering Equipment": {
+            "Automatic Irrigation Equipment": {
+                "Accessories": {},
+                "Drip Irrigation Kits": {},
+                "Drippers": {},
+                "Irrigation System Controllers": {},
+                "Irrigation Tubing": {},
+                "Sprinkler Heads": {},
+                "Underground Sprinkler Systems": {}
+            },
+            "Faucets": {},
+            "Garden Hoses": {},
+            "Hose Connectors & Accessories": {
+                "Parts & Connectors": {},
+                "Splitters": {},
+                "Carts": {},
+                "Reels": {}
+            },
+            "Hose Timers": {},
+            "Nozzles": {},
+            "Rain Barrels & Accessories": {
+                "Rain Barrels": {},
+                "Diverters": {},
+                "Linking Kits": {},
+                "Stands & Bases": {}
+            },
+            "Sprinklers": {},
+            "Wands": {},
+            "Watering Cans": {}
+        },
+        "Weed & Moss Control": {
+            "Moss Control": {},
+            "Weed Barrier Fabric": {},
+            "Weed Killers": {}
+        }
+    },
+    "Outdoor D\u00e9cor": {
+        "Address Signs": {},
+        "Backyard Birding & Wildlife": {
+            "Bats": {},
+            "Birds": {
+                "Feeders": {},
+                "Feeder Accessories": {},
+                "Food": {
+                    "Bird Seed": {},
+                    "Hummingbird Nectar": {},
+                    "Mealworms": {},
+                    "Suet": {}
+                },
+                "Birdbaths & Supports": {
+                    "Birdbaths": {},
+                    "Birdbath Bowls": {},
+                    "Birdbath Stands & Bases": {}
+                },
+                "Birdbath Accessories": {},
+                "Birdhouses": {},
+                "Birdhouse Accessories": {}
+            },
+            "Butterflies": {},
+            "Insect Hotels": {},
+            "Squirrels": {}
+        },
+        "Chimes": {},
+        "Cupolas & Accessories": {
+            "Cupolas": {},
+            "Cupola Finials": {}
+        },
+        "Decorative Fences": {},
+        "Decorative Garden Stakes": {},
+        "Decorative Garden Stools": {},
+        "Doormats": {},
+        "Flagpole Hardware": {},
+        "Flags": {},
+        "Fountain Accessories": {},
+        "Fountains": {
+            "Freestanding": {},
+            "Tabletop": {},
+            "Wall-Mounted": {}
+        },
+        "Garage Door Decorations": {},
+        "Garden Bridges": {},
+        "Garden Sculptures & Statues": {
+            "Decorative Stones": {},
+            "Garden Miniatures": {
+                "Accessories": {},
+                "Buildings & Structures": {},
+                "Figurines": {},
+                "Furniture": {}
+            },
+            "Gazing Balls": {},
+            "Outdoor Statues": {},
+            "Pedestals": {},
+            "Suncatchers": {},
+            "Wind Sculptures & Spinners": {}
+        },
+        "Lighting": {
+            "Flood & Perimeter": {},
+            "Floor Lamps": {},
+            "Landscape Lighting & Accessories": {
+                "Deck Lights": {},
+                "Figurine Lights": {},
+                "In-Ground Lights": {},
+                "Step Lights": {},
+                "Path Lights": {},
+                "Spotlights": {}
+            },
+            "Lanterns & Torches": {},
+            "Outdoor Light Strings": {},
+            "Outdoor Lighting Accessories": {
+                "Lamp Oil": {},
+                "Low-Voltage Transformers": {},
+                "Post Light Accessories": {}
+            },
+            "Outdoor Tabletop Lighting": {
+                "Flameless Candles": {},
+                "Lanterns": {},
+                "Table Lamps": {}
+            },
+            "Porch & Patio Lights": {
+                "Close to Ceiling Lights": {},
+                "Pendant Lights": {},
+                "Wall Lights": {}
+            },
+            "Post Lights": {},
+            "Umbrella Lights": {},
+            "Pond Accent Lighting": {}
+        },
+        "Mailbox Accessories": {},
+        "Mailbox Covers": {},
+        "Outdoor Clocks": {},
+        "Outdoor Curtains": {},
+        "Outdoor Holiday Decorations": {
+            "Lighted Holiday Displays": {},
+            "Inflatable Yard Decorations": {},
+            "Outdoor Nativity Scenes": {}
+        },
+        "Outdoor Rugs": {},
+        "Plaques & Wall Art": {},
+        "Rain Chains": {},
+        "Sundials": {},
+        "Thermometers & Weather Instruments": {
+            "Barometers": {},
+            "Hygrometers": {},
+            "Rain Gauges": {},
+            "Weather Stations": {},
+            "Wind Speed Gauges": {},
+            "Indoor Thermometers": {},
+            "Outdoor Thermometers": {},
+            "Sundials": {}
+        },
+        "Water Gardens & Ponds": {
+            "Aquatic Plant Food": {},
+            "Filtration": {},
+            "Pond De-Icer": {},
+            "Pond D\u00e9cor": {
+                "Pond Fountains": {},
+                "Water Spitters": {}
+            },
+            "Pond Lights": {},
+            "Pond Liners & Seals": {},
+            "Pond Netting": {},
+            "Pumps & Circulation": {
+                "Nozzles": {},
+                "Pumps": {},
+                "Tubing": {},
+                "Pond Foggers": {}
+            },
+            "Skimming Nets": {},
+            "Test Kits & Thermometers": {},
+            "Water Garden Kits": {},
+            "Water Treatment": {}
+        },
+        "Weathervanes": {},
+        "Yard Signs": {}
+    },
+    "Patio Furniture & Accessories": {
+        "Patio Furniture Sets": {
+            "Bar Sets": {},
+            "Bistro Sets": {},
+            "Conversation Sets": {},
+            "Dining Sets": {}
+        },
+        "Patio Seating": {
+            "Benches": {},
+            "Chairs": {
+                "Adirondack Chairs": {},
+                "Chaise Lounges": {},
+                "Gliders": {},
+                "Lounge Chairs": {},
+                "Patio Dining Chairs": {},
+                "Recliners": {},
+                "Rocking Chairs": {},
+                "Sling Chairs": {},
+                "Stools & Bar Chairs": {}
+            },
+            "Cushions": {},
+            "Decorative Pillows": {},
+            "Loveseats": {},
+            "Ottomans": {},
+            "Porch Swings": {},
+            "Sofas": {}
+        },
+        "Hammocks, Stands & Accessories": {
+            "Hammocks": {},
+            "Hammock Chairs": {},
+            "Hammock Stands": {},
+            "Hammock Accessories": {
+                "Hammock Canopies": {},
+                "Hammock Pillows": {},
+                "Hammock Stand Wheels": {},
+                "Hammock Tree Straps": {}
+            }
+        },
+        "Tables": {
+            "Bar Tables": {},
+            "Bistro Tables": {},
+            "Coffee Tables": {},
+            "Dining Tables": {},
+            "Picnic Tables": {},
+            "Side Tables": {},
+            "Table Bases": {},
+            "Table Tops": {}
+        },
+        "Umbrellas & Shade": {
+            "Awnings": {},
+            "Shade Cloth": {},
+            "Shade Sail Hardware": {},
+            "Shade Sails": {},
+            "Umbrella Covers": {},
+            "Umbrella Lights": {},
+            "Umbrella Stands & Bases": {},
+            "Umbrellas": {}
+        },
+        "Canopies, Gazebos & Pergolas": {
+            "Canopies": {},
+            "Gazebos": {},
+            "Pergolas": {},
+            "Accessories": {}
+        },
+        "Patio Furniture Covers": {
+            "Bench Covers": {},
+            "Chair Covers": {},
+            "Chaise Lounge Covers": {},
+            "Furniture Set Covers": {},
+            "Glider Covers": {},
+            "Loveseat Covers": {},
+            "Ottoman Covers": {},
+            "Sofa Covers": {},
+            "Table Covers": {},
+            "Umbrella Covers": {}
+        },
+        "Storage Benches": {},
+        "Picnic Baskets, Tables & Accessories": {
+            "Picnic Backpack Accessories": {},
+            "Picnic Backpacks": {},
+            "Picnic Basket Accessories": {},
+            "Picnic Baskets": {},
+            "Picnic Sets": {},
+            "Picnic Tables": {}
+        }
+    },
+    "Grills & Outdoor Cooking": {
+        "Fryers": {},
+        "Fuel & Firestarters": {
+            "Charcoal Starters": {},
+            "Grilling Charcoal": {},
+            "Grilling Pellets": {},
+            "Smoker Chips": {}
+        },
+        "Grills & Smokers": {
+            "Charcoal Grills": {},
+            "Combination Grill-Smokers": {},
+            "Electric Grills": {},
+            "Gas Grills": {
+                "Natural Gas Grills": {},
+                "Propane Grills": {}
+            },
+            "Smokers": {}
+        },
+        "Outdoor Cooking Replacement Parts": {
+            "Grill Burners": {},
+            "Grill Connectors & Hoses": {},
+            "Grill Heat Plates": {},
+            "Grill Igniters": {},
+            "Grill Valves": {},
+            "Side Burners": {}
+        },
+        "Outdoor Cooking Tools & Accessories": {
+            "Cleaning & Maintenance Tools": {
+                "Combination Grill Brushes & Scrapers": {},
+                "Grill Brushes": {},
+                "Grill Scrapers": {}
+            },
+            "Drip Pans": {},
+            "Flavorizer Bars": {},
+            "Grate Lifters": {},
+            "Grids & Grates": {},
+            "Grill Carts": {},
+            "Grill Covers": {},
+            "Grill Lighting": {},
+            "Grill Pads & Floor Mats": {},
+            "Grill Stands & Shelves": {},
+            "Grill Thermometers": {},
+            "Grilling & Barbecue Utensils": {
+                "Barbecue Forks & Claws": {
+                    "Barbecue Claws": {},
+                    "Barbecue Forks": {}
+                },
+                "Barbecue Skewers": {},
+                "Barbecue Tongs": {},
+                "Barbecue Tool Sets": {},
+                "Barbecue Turners": {},
+                "Basting Brushes": {},
+                "Grill Presses & Irons": {},
+                "Injectors": {},
+                "Meat Thermometers": {}
+            },
+            "Grilling Cookware & Rotisseries": {
+                "Griddles": {},
+                "Grill Baskets": {},
+                "Grill Racks": {},
+                "Grill Rotisseries": {},
+                "Grill Toppers": {},
+                "Outdoor Woks": {},
+                "Pizza Grilling Stones": {},
+                "Smoker Boxes": {}
+            },
+            "Grilling Planks": {},
+            "Outdoor Fryer Accessories": {},
+            "Protective Mitts & Potholders": {}
+        },
+        "Outdoor Kitchen Appliances & Storage": {
+            "Outdoor Kitchen Appliances": {
+                "Outdoor Ice Machines": {},
+                "Outdoor Refrigerators": {},
+                "Outdoor Ovens": {}
+            },
+            "Outdoor Kitchen Storage": {
+                "Access Doors": {},
+                "Cooling Bins": {},
+                "Outdoor Kitchen Drawers": {}
+            }
+        }
+    },
+    "Outdoor Lighting": {
+        "Decorative Lighting Projectors": {},
+        "Flood & Security Lights": {},
+        "Floor Lamps": {},
+        "Landscape Lighting": {
+            "Deck Lights": {},
+            "Figurine Lights": {},
+            "In-Ground Lights": {},
+            "Step Lights": {},
+            "Path Lights": {},
+            "Spotlights": {}
+        },
+        "Porch & Patio Lights": {
+            "Close to Ceiling Lights": {},
+            "Pendant Lights": {},
+            "Wall Lights": {}
+        },
+        "Post Lights": {},
+        "String Lights": {},
+        "Tabletop Lighting": {
+            "Flameless Candles": {},
+            "Lanterns": {},
+            "Table Lamps": {}
+        },
+        "Torches": {},
+        "Umbrella Lights": {},
+        "Lighting Accessories": {
+            "Lamp Oil": {},
+            "Low-Voltage Transformers": {},
+            "Post Light Accessories": {}
+        }
+    },
+    "Outdoor Power Tools": {
+        "Lawn Mowers & Tractors": {
+            "Riding Lawn Mowers & Tractors": {},
+            "Robotic Lawn Mowers": {},
+            "Tow-Behind Lawn Mowers": {},
+            "Walk-Behind Lawn Mowers": {}
+        },
+        "String Trimmers": {},
+        "Chainsaws": {},
+        "Edgers": {},
+        "Hedge Trimmers": {},
+        "Interchangeable Battery Packs": {
+            "Battery Packs": {},
+            "Battery Chargers": {}
+        },
+        "Leaf Blowers & Vacuums": {},
+        "Log Splitters": {},
+        "Metal Detectors": {},
+        "Pole Saws": {},
+        "Pressure Washers": {},
+        "Tillers": {},
+        "Weed Torches": {},
+        "Wood Chippers, Shredders, & Mulchers": {},
+        "Replacement Parts & Accessories": {
+            "Chainsaw Parts & Accessories": {
+                "Accessories": {},
+                "Bar & Chain Oil": {},
+                "Bars": {},
+                "Cases": {},
+                "Chains": {},
+                "Replacement Parts": {},
+                "Sharpeners": {}
+            },
+            "Four-Stroke Engine Oil": {},
+            "Gas Cans": {},
+            "Lawn Mower Parts & Accessories": {
+                "Lawn Tractor Attachments": {},
+                "Lawn Mower Accessories": {
+                    "Covers": {},
+                    "Grass Catchers": {},
+                    "Tune-Up Kits": {},
+                    "Two-Stroke Engine Oil": {},
+                    "Four-Stroke Engine Oil": {}
+                },
+                "Lawn Mower Replacement Parts": {}
+            },
+            "Leaf Blower & Vacuum Parts & Accessories": {},
+            "Log Splitter Parts & Accessories": {},
+            "Metal Detector Parts & Accessories": {},
+            "Pole Saw Parts & Accessories": {},
+            "Pressure Washer Parts & Accessories": {
+                "Accessories": {},
+                "Couplers": {},
+                "Filters": {},
+                "Gauges": {},
+                "Hose Reels": {},
+                "Hoses": {},
+                "Lances & Wands": {},
+                "Nozzles": {},
+                "Pumps": {}
+            },
+            "Replacement Engines": {},
+            "String Trimmer Parts & Accessories": {
+                "Attachments": {},
+                "Lines & Spools": {},
+                "Replacement Parts": {}
+            },
+            "Two-Stroke Engine Oil": {}
+        }
+    },
+    "Pools, Hot Tubs & Supplies": {
+        "Cleaning Tools & Chemicals": {
+            "Automatic Pool Cleaners": {
+                "Automatic Pool Cleaner Replacement Parts": {},
+                "Pressure Pool Cleaners": {},
+                "Robotic Pool Cleaners": {},
+                "Suction Pool Cleaners": {}
+            },
+            "Chemicals & Water Testing Products": {
+                "Bromine": {},
+                "Chlorine": {},
+                "Chlorine Alternatives": {},
+                "Pool Algaecides": {},
+                "Pool Balancers": {},
+                "Pool Clarifiers & Enzymes": {},
+                "Pool Stain Removers": {},
+                "Test Strips": {},
+                "Water Test Kits": {}
+            },
+            "Handheld Pool Vacuums": {},
+            "Pool Brushes": {},
+            "Pool Hoses": {},
+            "Pool Maintenance Kits": {},
+            "Pool Vacuum Heads": {},
+            "Rakes, Skimmers & Nets": {}
+        },
+        "Swimming Pools": {
+            "Framed Swimming Pools": {},
+            "Full-Sized Inflatable Pools": {},
+            "Inflatable Top Ring Swimming Pools": {},
+            "Kiddie Pools": {},
+            "Side Wall Swimming Pools": {}
+        },
+        "Hot Tubs": {},
+        "Saunas": {},
+        "Filters & Filter Media": {
+            "Cartridge Pool Filters": {},
+            "DE Pool Filters": {},
+            "Sand Pool Filters": {},
+            "Filter Cartridges & Media": {
+                "Pool Filter Cartridges": {},
+                "Pool Filter Valves": {}
+            }
+        },
+        "Heaters & Accessories": {
+            "Pool Heaters": {},
+            "Pool Heat Pumps": {},
+            "Pool Heater Parts & Accessories": {
+                "Pool Heater & Heat Pump Parts": {},
+                "Pool Timers": {}
+            }
+        },
+        "Pumps": {},
+        "Parts & Accessories": {
+            "Covers": {},
+            "Hot Tub Accessories": {},
+            "Lighting Products": {},
+            "Liners": {},
+            "Outdoor Showers": {},
+            "Pool & Deck Repair Products": {},
+            "Pool & Spa Replacement Parts": {},
+            "Safety Products": {
+                "Pool Alarms": {},
+                "Pool Handrails": {},
+                "Pool Signs": {}
+            },
+            "Sauna Accessories": {},
+            "Slides, Ladders & Diving Boards": {
+                "Diving Boards": {},
+                "Pool Ladders": {},
+                "Inflatable Water Slides": {},
+                "Pool Slides": {}
+            }
+        }
+    },
+    "Generators & Portable Power": {
+        "Generators": {},
+        "Power Inverters": {},
+        "Solar & Wind Power": {
+            "Energy Controllers": {},
+            "Solar Battery Chargers & Charging Kits": {},
+            "Solar Panels": {},
+            "Solar & Wind Power Inverters": {},
+            "Solar & Wind Power Parts & Accessories": {}
+        },
+        "Generator Accessories": {
+            "Transfer Switches": {},
+            "Cords, Plugs & Adapters": {},
+            "Covers": {},
+            "Inlet Boxes": {}
+        }
+    },
+    "Pest Control": {
+        "Baits & Lures": {},
+        "Beneficial Insects": {},
+        "Bug Zappers": {},
+        "Fly Swatters": {},
+        "Foggers": {},
+        "Repellents": {},
+        "Sprayers": {},
+        "Traps": {},
+        "Accessories": {}
+    },
+    "Snow Removal": {
+        "De-Icers & Salt Spreaders": {
+            "De-Icing Cables & Mats": {},
+            "Salt Spreaders": {},
+            "Snow & Ice Melters": {}
+        },
+        "Snow Blowers": {},
+        "Snow Blower Tire Chains": {},
+        "Snow Plows": {},
+        "Snow Rakes": {},
+        "Snow Shovels": {},
+        "Snow Blower Accessories": {},
+        "Snow Plow Attachments & Accessories": {},
+        "Snow Blower Replacement Parts": {}
+    },
+    "Outdoor Heating & Cooling": {
+        "Fire Glass": {},
+        "Fire Pit & Outdoor Fireplace Parts": {},
+        "Fire Pit Covers": {},
+        "Fire Pit Spark Screens": {},
+        "Fire Pits & Outdoor Fireplaces": {
+            "Chimineas": {},
+            "Fire Pits": {},
+            "Fire Rings": {},
+            "Fire Tables": {},
+            "Outdoor Fireplaces": {},
+            "Tabletop Fireplaces": {}
+        },
+        "Firewood Racks": {},
+        "Misting Fans": {},
+        "Misting Parts & Accessories": {},
+        "Misting Systems": {},
+        "Patio Heater Covers": {},
+        "Patio Heater Replacement Parts": {},
+        "Patio Heaters": {}
+    },
+    "Outdoor Storage": {
+        "Storage Benches": {},
+        "Storage Sheds": {},
+        "Deck Boxes": {},
+        "Carports": {}
+    },
+    "Farm & Ranch": {
+        "Agricultural & Construction Machinery": {
+            "Augers & Posthole Diggers": {},
+            "Backhoes": {},
+            "Bulldozers": {},
+            "Power Take Off Generators": {},
+            "Skid Steers": {},
+            "Tractors": {},
+            "Parts & Accessories": {
+                "Auger Accessories": {},
+                "Seats": {},
+                "Skid-Steer Accessories": {},
+                "Spare & Replacement Parts": {},
+                "Three-Point Accessories": {}
+            }
+        },
+        "Agriculture & Grounds Management": {
+            "Irrigation Equipment": {},
+            "Ponds": {
+                "Aquatic Plant Food": {},
+                "Filtration": {},
+                "Pond Liners & Seals": {},
+                "Pond Netting": {},
+                "Pumps & Circulation": {
+                    "Nozzles": {},
+                    "Pumps": {},
+                    "Tubing": {},
+                    "Pond Foggers": {}
+                },
+                "Test Kits & Thermometers": {},
+                "Water Treatment": {}
+            }
+        },
+        "Beekeeping Supplies": {},
+        "Livestock Supplies": {
+            "Handling Supplies": {},
+            "Livestock Feeding & Watering Supplies": {},
+            "Livestock Health Supplies": {}
+        },
+        "Material Transport": {
+            "Carts": {},
+            "Trailer Accessories": {
+                "Axles": {},
+                "Bearing Kits": {},
+                "Blueprints": {},
+                "Brake Assemblies": {},
+                "Brake Controls": {},
+                "Fenders": {},
+                "Hardware": {
+                    "Connectors": {},
+                    "Coupler Parts": {},
+                    "Hubs & Spindles": {},
+                    "Springs": {}
+                },
+                "Jacks": {
+                    "Clearfloor Lifts": {},
+                    "Engine Tilters": {},
+                    "Jack Stands": {},
+                    "Jacks": {
+                        "Bottle Jacks": {},
+                        "Floor Jacks": {},
+                        "Scissor Lift Jacks": {},
+                        "Stabilizer Jacks": {},
+                        "Transmission Jacks": {}
+                    },
+                    "Truck Cranes": {},
+                    "Engine Hoists & Stands": {}
+                },
+                "Lighting": {},
+                "Stands": {},
+                "Wiring": {}
+            },
+            "Wheelbarrows": {}
+        },
+        "Pest Control": {
+            "Baits & Lures": {},
+            "Beneficial Insects": {},
+            "Bug Zappers": {},
+            "Fly Swatters": {},
+            "Foggers": {},
+            "Repellents": {},
+            "Sprayers": {},
+            "Traps": {},
+            "Accessories": {}
+        },
+        "Plant Germination Equipment": {
+            "Germination Kits": {},
+            "Germination Trays": {}
+        },
+        "Plants, Seeds & Bulbs": {
+            "Aquatic Plants": {},
+            "Bonsai": {},
+            "Cacti & Succulents": {},
+            "Flowers": {},
+            "Fruits": {},
+            "Grasses": {},
+            "Herbs": {},
+            "Shrubs": {},
+            "Trees": {},
+            "Vegetables": {},
+            "Vines": {}
+        },
+        "Poultry Care": {
+            "Poultry Feeding & Watering Supplies": {
+                "Poultry Fountains & Waterers": {},
+                "Poultry Feeders": {}
+            },
+            "Poultry Habitat Supplies": {}
+        },
+        "Soils, Fertilizers & Mulches": {
+            "Fertilizers & Plant Food": {},
+            "Garden Soil": {},
+            "Mulch": {}
+        },
+        "Structures & Hardware": {
+            "Agricultural Fencing": {},
+            "Electric Fence Chargers": {},
+            "Greenhouses": {},
+            "Tarps": {}
+        }
+    }
+}

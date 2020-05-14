@@ -28,7 +28,9 @@ def mydict(d):
             mydict(v)
         else:
             pass
-    return my_log
+        return my_log
+
+
 counting = 0
 final_file = []
 for eachCategory in bvr_data["Category Name"]:

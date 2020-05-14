@@ -1,0 +1,5400 @@
+{
+    "Outdoor Recreation": {
+        "Outdoor Clothing": {
+            "Men": {
+                "Shirts": {
+                    "Button-Down Shirts": {},
+                    "Polo Shirts": {},
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                },
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Insulated Pants": {},
+                    "Shell Pants": {}
+                },
+                "Tights & Leggings": {},
+                "Shorts": {},
+                "Vests": {},
+                "Jackets & Coats": {
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Shells": {},
+                    "Windbreakers": {},
+                    "Raincoats & Jackets": {}
+                },
+                "Socks": {},
+                "Compression Socks": {},
+                "Base Layers": {},
+                "Underwear": {},
+                "Accessories": {
+                    "Arm Warmers": {},
+                    "Balaclavas": {},
+                    "Belts": {},
+                    "Gloves, Mittens & Liners": {},
+                    "Hats & Caps": {},
+                    "Leg Gaiters": {},
+                    "Leg Warmers": {},
+                    "Neck Gaiters": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {}
+                }
+            },
+            "Women": {
+                "Shirts": {
+                    "Button-Down Shirts": {},
+                    "Polo Shirts": {},
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                },
+                "Sweaters": {},
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Capri Pants": {},
+                    "Insulated Pants": {},
+                    "Shell Pants": {}
+                },
+                "Tights & Leggings": {},
+                "Shorts": {},
+                "Dresses": {},
+                "Skirts": {},
+                "Skorts": {},
+                "Vests": {},
+                "Jackets & Coats": {
+                    "Anoraks & Lightweight Jackets": {},
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Raincoats & Jackets": {},
+                    "Shells": {}
+                },
+                "Socks": {},
+                "Compression Socks": {},
+                "Base Layers": {},
+                "Underwear": {},
+                "Accessories": {
+                    "Arm Warmers": {},
+                    "Balaclavas": {},
+                    "Gloves, Mittens & Liners": {},
+                    "Hats & Caps": {},
+                    "Leg Gaiters": {},
+                    "Leg Warmers": {},
+                    "Neck Gaiters": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {}
+                }
+            },
+            "Boys": {
+                "Shirts": {},
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Insulated Pants": {},
+                    "Sweatpants": {}
+                },
+                "Shorts": {},
+                "Jackets & Coats": {
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Jackets": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Accessories": {
+                    "Arm Warmers": {},
+                    "Gloves, Mittens & Liners": {},
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {}
+                }
+            },
+            "Girls": {
+                "Shirts": {},
+                "Pants": {},
+                "Shorts": {},
+                "Jackets & Coats": {
+                    "Down & Down Alternative": {},
+                    "Fleece": {},
+                    "Jackets": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Accessories": {
+                    "Arm Warmers": {},
+                    "Gloves, Mittens & Liners": {},
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {}
+                }
+            }
+        },
+        "Camping & Hiking": {
+            "Backpacks, Bags & Accessories": {
+                "Backpacking Packs": {
+                    "External Frame Backpacks": {},
+                    "Hiking Daypacks": {},
+                    "Hydration Packs": {},
+                    "Internal Frame Backpacks": {}
+                },
+                "Daypacks & Casual Bags": {
+                    "Multipurpose Daypacks": {},
+                    "Waist Packs": {}
+                },
+                "Dog Backpacks": {},
+                "Backpack Accessories": {
+                    "Pack Covers": {},
+                    "Pack Pockets": {},
+                    "Reservoirs": {}
+                }
+            },
+            "Tents & Shelters": {
+                "Tents": {},
+                "Bivy Sacks": {},
+                "Camping Shelters": {
+                    "Privacy Shelters": {},
+                    "Screen Houses & Rooms": {},
+                    "Sun Shelters": {}
+                },
+                "Tent Accessories": {
+                    "Footprints": {},
+                    "Tent Stakes": {},
+                    "Tent Tarps": {}
+                }
+            },
+            "Sleeping Bags & Camp Bedding": {
+                "Air Mattresses": {},
+                "Blankets": {},
+                "Camping Pillows": {},
+                "Sleeping Bags": {},
+                "Sleeping Bag Accessories": {
+                    "Bag Expanders": {},
+                    "Compression Sacks": {},
+                    "Liners": {},
+                    "Stuff Sacks": {}
+                },
+                "Sleeping Pads": {
+                    "Foam Pads": {},
+                    "Self-Inflating Pads": {}
+                }
+            },
+            "Camp Kitchen": {
+                "Camping Cookware": {
+                    "Open Fire Cookware": {},
+                    "Pots, Pans & Griddles": {}
+                },
+                "Coffee & Tea Pots": {},
+                "Cooking Utensils": {},
+                "Cooler Accessories": {},
+                "Coolers": {},
+                "Dishes & Utensils": {
+                    "Bowls": {},
+                    "Cups & Mugs": {},
+                    "Flatware": {},
+                    "Mess Kits": {},
+                    "Plates": {}
+                },
+                "Freeze-Dried Food": {},
+                "Stove Accessories": {
+                    "Empty Fuel Bottles": {},
+                    "Fire Starters": {},
+                    "Replacement Fuel": {}
+                },
+                "Stoves & Grills": {
+                    "Backpacking & Camping Stoves": {},
+                    "Camping Grills": {}
+                }
+            },
+            "Camping Furniture": {
+                "Chairs": {},
+                "Cots & Hammocks": {
+                    "Cots": {},
+                    "Hammocks": {}
+                },
+                "Stools": {},
+                "Tables": {}
+            },
+            "Clothing": {
+                "Men": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Tops": {},
+                        "Bottoms": {},
+                        "Union Suits": {}
+                    }
+                },
+                "Women": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Tops": {},
+                        "Bottoms": {},
+                        "Sets": {}
+                    }
+                },
+                "Boys": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Bottoms": {},
+                        "Sets": {},
+                        "Tops": {}
+                    }
+                },
+                "Girls": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {}
+                }
+            },
+            "Footwear & Accessories": {
+                "Men's": {
+                    "Backpacking Boots": {},
+                    "Hiking Boots": {},
+                    "Hiking Shoes": {},
+                    "Mountaineering Boots": {}
+                },
+                "Women's": {
+                    "Backpacking Boots": {},
+                    "Hiking Boots": {},
+                    "Hiking Shoes": {},
+                    "Mountaineering Boots": {}
+                },
+                "Boys'": {
+                    "Hiking Boots": {},
+                    "Hiking Shoes": {}
+                },
+                "Girls'": {
+                    "Hiking Boots": {},
+                    "Hiking Shoes": {}
+                },
+                "Gaiters": {},
+                "Traction Cleats": {}
+            },
+            "Hydration & Filtration": {
+                "Canteens": {},
+                "Chemical Water Treaters": {},
+                "Flasks": {},
+                "Hydration Packs": {},
+                "Water Bottles": {},
+                "Water Filters": {},
+                "Water Purifiers": {}
+            },
+            "Knives & Tools": {
+                "Axes & Hatchets": {},
+                "Fixed-Blade Knives": {},
+                "Folding Knives": {},
+                "Hunting Knives": {
+                    "Fixed Blade Hunting Knives": {},
+                    "Folding Hunting Knives": {}
+                },
+                "Knife Sets": {},
+                "Multitools": {},
+                "Paracord": {},
+                "Saws": {},
+                "Shovels": {}
+            },
+            "Lights & Lanterns": {
+                "Flashlights": {
+                    "Handheld Flashlights": {},
+                    "Hands Free Flashlights & Headlamps": {
+                        "Hands Free Flashlights": {},
+                        "Headlamps": {}
+                    },
+                    "Lantern Flashlights": {}
+                },
+                "Lanterns": {},
+                "Lantern Accessories": {},
+                "Candles": {},
+                "Headlamps": {},
+                "Emergency Light Sticks": {}
+            },
+            "Navigation & Electronics": {
+                "Compasses": {},
+                "GPS Trackers": {},
+                "Handheld GPS": {},
+                "Topographic Maps": {},
+                "Two-Way Radios": {
+                    "CB Radios & Scanners": {
+                        "Handheld CB Radios": {},
+                        "Fixed-mount CB Radios": {},
+                        "Radio Scanners": {}
+                    },
+                    "Two-Way Radios": {},
+                    "Marine Two-Way Radios": {},
+                    "Accessories": {
+                        "Antennas": {},
+                        "Batteries": {},
+                        "Battery Chargers": {},
+                        "Cases": {},
+                        "Headsets & Microphones": {}
+                    }
+                }
+            },
+            "Personal Care": {
+                "Hygiene & Sanitation": {},
+                "Insect & Pest Repellents": {},
+                "Showers": {},
+                "Soap & Shampoo": {},
+                "Towels": {}
+            },
+            "Safety & Survival": {
+                "Bear Protection": {},
+                "Emergency Blankets": {},
+                "Emergency Fire Starters": {},
+                "Emergency Light Sticks": {},
+                "First Aid Kits": {},
+                "Hand & Foot Warmers": {
+                    "Foot Warmers": {},
+                    "Hand Warmers": {}
+                },
+                "Lighters": {},
+                "Survival Kits": {},
+                "Whistles": {}
+            },
+            "Trekking Poles": {}
+        },
+        "Climbing": {
+            "Belay & Rigging": {
+                "Ascenders": {},
+                "Belay & Rappel Equipment": {},
+                "Pulleys": {}
+            },
+            "Bouldering & Wall Equipment": {
+                "Chalk": {},
+                "Chalk Bags": {},
+                "Climbing Gloves": {},
+                "Climbing Holds": {},
+                "Crash Pads": {}
+            },
+            "Carabiners & Quickdraws": {
+                "Locking Carabiners": {},
+                "Nonlocking Carabiners": {},
+                "Quickdraws": {}
+            },
+            "Climbing Protection": {
+                "Active Protection": {},
+                "Passive Protection": {},
+                "Pitons & Aid Gear": {}
+            },
+            "Clothing": {
+                "Men": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Tops": {},
+                        "Bottoms": {},
+                        "Union Suits": {}
+                    }
+                },
+                "Women": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Tops": {},
+                        "Bottoms": {},
+                        "Sets": {}
+                    }
+                },
+                "Boys": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Thermal Underwear": {
+                        "Bottoms": {},
+                        "Sets": {},
+                        "Tops": {}
+                    }
+                },
+                "Girls": {
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {}
+                }
+            },
+            "Footwear": {
+                "Men's": {},
+                "Women's": {}
+            },
+            "Harnesses": {},
+            "Helmets": {},
+            "Mountaineering & Ice Equipment": {
+                "Avalanche Safety Gear": {
+                    "Beacons & Transceivers": {},
+                    "Snow Probes": {},
+                    "Snow Shovels": {},
+                    "Traction Cleats": {}
+                },
+                "Crampon Accessories": {},
+                "Crampons": {},
+                "Gaiters": {},
+                "Ice Axes": {},
+                "Ice Tool Accessories": {},
+                "Ice Tools": {}
+            },
+            "Rope, Cord & Webbing": {
+                "Rope Bags": {},
+                "Rope": {},
+                "Slacklines": {},
+                "Slings & Runners": {},
+                "Utility Cord": {},
+                "Webbing": {}
+            }
+        },
+        "Cycling": {
+            "Bike Frames": {
+                "BMX Frames": {},
+                "Cyclocross Bike Frames": {},
+                "Fixed Gear Bike Frames": {},
+                "Mountain Bike Frames": {},
+                "Road Bike Frames": {}
+            },
+            "Bike Racks & Bags": {
+                "Bike Baskets": {},
+                "Bike Pack Accessories": {},
+                "Cargo Racks": {},
+                "Handlebar Bags": {},
+                "Panniers & Rack Trunks": {},
+                "Seat Packs": {}
+            },
+            "Bike Tools & Maintenance": {
+                "Bike Lube": {},
+                "Cleaners": {},
+                "Cleaning Tools": {},
+                "Grease": {},
+                "Multifunction Tools": {},
+                "Shop Tools": {},
+                "Tool Kits": {},
+                "Workstands": {}
+            },
+            "Bike Trainers & Accessories": {
+                "Resistance Trainers": {},
+                "Rollers": {},
+                "Trainer Accessories": {}
+            },
+            "Bikes": {
+                "BMX Bikes": {},
+                "Comfort Bikes": {},
+                "Cruiser Bikes": {},
+                "Electric Bicycles": {},
+                "Fixed Gear Bikes": {},
+                "Folding Bikes": {},
+                "Hybrid Bikes": {},
+                "Mountain Bikes": {},
+                "Recumbent Bikes": {},
+                "Road Bikes": {},
+                "Tandem Bikes": {},
+                "Unicycles": {}
+            },
+            "BMX": {
+                "Bikes": {},
+                "Body Armor": {},
+                "Cycling Glasses & Goggles": {},
+                "Helmets": {},
+                "Parts & Components": {}
+            },
+            "Car Racks, Transportation & Storage": {
+                "Bike Travel Cases": {},
+                "Car & Truck Racks": {},
+                "Cargo Boxes": {},
+                "Car Rack Accessories": {},
+                "Indoor Bike Storage": {}
+            },
+            "Child Seats & Cargo Trailers": {
+                "Child Seats": {},
+                "Jogging Strollers": {},
+                "Trailers": {
+                    "Cargo Trailers": {},
+                    "Child Carrier Trailers": {}
+                }
+            },
+            "Clothing": {
+                "Men": {
+                    "Arm Warmers": {},
+                    "Caps": {},
+                    "Gloves": {},
+                    "Jackets": {},
+                    "Jerseys": {},
+                    "Leg Warmers": {},
+                    "Sets": {},
+                    "Socks": {},
+                    "Tights, Pants & Shorts": {
+                        "Bib Shorts": {},
+                        "Bib Tights & Pants": {},
+                        "Shorts": {},
+                        "Tights": {}
+                    },
+                    "Underwear": {},
+                    "Vests": {}
+                },
+                "Women": {
+                    "Arm Warmers": {},
+                    "Caps": {},
+                    "Gloves": {},
+                    "Jackets": {},
+                    "Jerseys": {},
+                    "Leg Warmers": {},
+                    "Sets": {},
+                    "Skirts & Skorts": {},
+                    "Socks": {},
+                    "Tights, Pants & Shorts": {
+                        "Shorts": {},
+                        "Tights": {}
+                    },
+                    "Underwear": {},
+                    "Vests": {}
+                },
+                "Boys": {
+                    "Arm Warmers": {},
+                    "Caps": {},
+                    "Gloves": {},
+                    "Jackets": {},
+                    "Jerseys": {},
+                    "Sets": {},
+                    "Socks": {},
+                    "Tights, Pants & Shorts": {}
+                },
+                "Girls": {
+                    "Arm Warmers": {},
+                    "Caps": {},
+                    "Gloves": {},
+                    "Jerseys": {},
+                    "Sets": {},
+                    "Socks": {},
+                    "Tights, Pants & Shorts": {}
+                }
+            },
+            "Cycling Electronics": {
+                "Cycling Computers": {},
+                "Cycling GPS Units": {}
+            },
+            "Footwear": {
+                "Men's": {},
+                "Shoe Covers": {},
+                "Women's": {}
+            },
+            "Glasses & Goggles": {},
+            "Helmets & Accessories": {
+                "Adult Helmets": {},
+                "Helmet Accessories": {},
+                "Kids' Helmets": {}
+            },
+            "Hydration": {
+                "Hydration Packs & Bladders": {},
+                "Water Bottle Cages": {},
+                "Water Bottles": {}
+            },
+            "Kids' Bikes & Accessories": {
+                "Kids' Accessories": {},
+                "Kids' Balance Bikes": {},
+                "Kids' Bikes": {},
+                "Kids' Helmets": {},
+                "Kids' Protective Gear": {},
+                "Kids' Tricycles": {},
+                "Training Wheels": {}
+            },
+            "Parts & Components": {
+                "Bike Brakes & Parts": {
+                    "Brake Parts": {
+                        "Bike Brake Cables & Housing": {},
+                        "Brake Calipers": {},
+                        "Brake Hoses": {},
+                        "Brake Levers": {},
+                        "Brake Pads": {},
+                        "Mounts & Adapters": {},
+                        "Rotors": {}
+                    },
+                    "Brakes": {
+                        "Disc Brake Sets": {},
+                        "Rim Brake Sets": {}
+                    }
+                },
+                "Cables": {},
+                "Derailleurs & Shifters": {
+                    "Derailleurs": {
+                        "Front Derailleurs": {},
+                        "Rear Derailleurs": {}
+                    },
+                    "Shifters & Parts": {
+                        "Shift Cables & Housing": {},
+                        "Shifters": {},
+                        "Shift Levers": {}
+                    }
+                },
+                "Drivetrain Components": {
+                    "Bottom Brackets": {},
+                    "Cable Detanglers": {},
+                    "Cassettes & Freewheels": {},
+                    "Chain Deflectors": {},
+                    "Chain Guards": {},
+                    "Chainrings": {},
+                    "Chains": {},
+                    "Chain Tension Idlers": {},
+                    "Cranksets": {}
+                },
+                "Forks": {
+                    "Rigid Forks": {},
+                    "Suspension Forks": {}
+                },
+                "Handlebars, Headsets & Stems": {
+                    "Grips": {},
+                    "Handlebars": {},
+                    "Handlebar Tape": {},
+                    "Headsets": {},
+                    "Headset Spacers": {},
+                    "Stems": {}
+                },
+                "Pedals & Cleats": {
+                    "Cleat Covers": {},
+                    "Pedals": {},
+                    "Replacement Cleats": {}
+                },
+                "Seats & Saddles": {
+                    "Saddles": {},
+                    "Seat Clamps": {},
+                    "Seat Posts": {}
+                },
+                "Suspension": {
+                    "Rear Shocks": {},
+                    "Suspension Forks": {},
+                    "Suspension Service Parts": {}
+                }
+            },
+            "Tires & Tubes": {
+                "Tire Repair Kits": {},
+                "Tires": {},
+                "Tubes": {},
+                "Valve Caps": {}
+            },
+            "Wheels & Accessories": {
+                "Hubs": {},
+                "Rims & Parts": {
+                    "Rims": {},
+                    "Rim Strips": {},
+                    "Rim Tape": {}
+                },
+                "Spokes & Parts": {
+                    "Nipples": {},
+                    "Spoke Decorations": {},
+                    "Spoke Protectors": {},
+                    "Spokes": {},
+                    "Spoke Tools": {}
+                },
+                "Wheels": {}
+            },
+            "Accessories": {
+                "Anti-Chafing Products": {},
+                "Bike Bells": {},
+                "Bike Covers": {},
+                "Bike Horns": {},
+                "Bike Locks": {
+                    "Cable Locks": {},
+                    "Chain Locks": {},
+                    "U-Locks": {}
+                },
+                "Bike Mirrors": {},
+                "Bike Pack Accessories": {},
+                "Bike Pumps": {
+                    "CO2 Pumps": {},
+                    "Floor Pumps": {},
+                    "Frame-Mounted Pumps": {}
+                },
+                "Fenders": {},
+                "Lights & Reflectors": {
+                    "Headlights": {},
+                    "Headlight-Taillight Combinations": {},
+                    "Lighting Parts & Accessories": {},
+                    "Reflectors": {},
+                    "Taillights": {}
+                },
+                "Pegs": {}
+            }
+        },
+        "Skates, Skateboards & Scooters": {
+            "Skateboarding": {
+                "Standard Skateboards & Longboards": {
+                    "Standard Skateboards": {},
+                    "Longboards": {}
+                },
+                "Bags": {},
+                "Caster Boards": {},
+                "Clothing": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Helmets": {},
+                "Protective Gear": {
+                    "Elbow Pads": {},
+                    "Knee Pads": {},
+                    "Padded Shorts": {},
+                    "Wrist Guards": {}
+                },
+                "Ramps & Rails": {},
+                "Skateboard Parts": {
+                    "Bearings": {},
+                    "Bushings": {},
+                    "Decks": {},
+                    "Grip Tape": {},
+                    "Hardware": {},
+                    "Risers": {},
+                    "Trucks": {},
+                    "Wheels": {}
+                },
+                "Tools": {},
+                "Wax": {}
+            },
+            "Scooters & Equipment": {
+                "Scooters": {
+                    "Kick Scooters": {},
+                    "Self Balancing Scooters": {},
+                    "Stunt Scooters": {}
+                },
+                "Components & Parts": {
+                    "Motors": {},
+                    "Grip Tape": {},
+                    "Batteries & Battery Chargers": {},
+                    "Stems & Forks": {},
+                    "Hardware": {},
+                    "Decks": {},
+                    "Replacement Wheels": {}
+                },
+                "Helmets": {},
+                "Padded Shorts": {},
+                "Accessories": {}
+            },
+            "Inline & Roller Skating": {
+                "Roller Skates": {
+                    "Children's Roller Skates": {},
+                    "Jam Skates": {},
+                    "Outdoor Skates": {},
+                    "Roller Derby Skates": {},
+                    "Speed Skates": {}
+                },
+                "Inline Skates": {
+                    "Children's Inline Skates": {},
+                    "Racing Skates": {},
+                    "Hockey Skates": {}
+                },
+                "Helmets": {},
+                "Protective Gear": {
+                    "Elbow Pads": {},
+                    "Knee Pads": {},
+                    "Padded Shorts": {},
+                    "Wrist Guards": {}
+                },
+                "Inline Skate Parts": {
+                    "Bearings": {},
+                    "Wheels": {}
+                },
+                "Roller Skate Parts": {
+                    "Laces": {},
+                    "Plates": {},
+                    "Toe Stops & Plugs": {},
+                    "Wheels": {}
+                }
+            }
+        },
+        "Water Sports": {
+            "Canoeing": {
+                "Canoes": {},
+                "Paddles": {},
+                "Canoe Hardware": {},
+                "Canoe Seats & Thwarts": {},
+                "Canoe Car Racks": {},
+                "Indoor Canoe Storage": {},
+                "Paddling Clothing": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Diving & Snorkeling": {
+                "Backpacks": {},
+                "Buoyancy Compensators": {},
+                "Clips": {},
+                "Communication Devices": {},
+                "Divers' Knives & Shears": {},
+                "Diving Electronics": {},
+                "Diving Fins": {},
+                "Diving Lights": {},
+                "Diving Masks": {},
+                "Diving Packages": {},
+                "Diving Suits": {
+                    "Wetsuits": {
+                        "Full Suits": {},
+                        "Shorty Suits": {},
+                        "Sleeveless Suits": {},
+                        "Tops": {},
+                        "Pants": {}
+                    },
+                    "Drysuits": {},
+                    "Dive Skins": {},
+                    "Diving Boots": {},
+                    "Diving Gloves": {},
+                    "Diving Hoods": {}
+                },
+                "Diving Tanks": {},
+                "Diving Valves": {},
+                "Diving Weights & Belts": {},
+                "Dry Boxes": {},
+                "Duffels": {},
+                "Gauge Accessories": {},
+                "Gauges": {
+                    "Analog Gauges": {},
+                    "Digital Gauges": {}
+                },
+                "Mask Defoggers": {},
+                "Octopuses": {},
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Reels": {},
+                "Regulator Accessories": {},
+                "Regulators": {},
+                "Roller Bags": {},
+                "Safety Gear": {},
+                "Slap Straps": {},
+                "Snorkel Vests": {},
+                "Snorkeling Packages": {},
+                "Snorkels": {},
+                "Tank Accessories": {}
+            },
+            "Kayaking": {
+                "Kayaks": {
+                    "Fishing Kayaks": {},
+                    "Touring Kayaks": {},
+                    "Whitewater Kayaks": {}
+                },
+                "Paddles": {},
+                "Paddle Accessories": {},
+                "Kayak Hardware": {},
+                "Kayak Accessories": {},
+                "Dry Bags": {},
+                "Spray Skirts": {},
+                "Kayak Carts": {},
+                "Indoor Kayak Storage": {},
+                "Gloves": {},
+                "Paddling Clothing": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Stand-Up Paddleboarding": {
+                "Stand-Up Paddleboards": {},
+                "Paddles": {},
+                "Paddleboard Accessories": {},
+                "Board Leashes": {},
+                "Fins": {},
+                "Paddleboard Bags": {},
+                "Indoor Paddleboard Storage": {},
+                "Paddling Clothing": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Surfing": {
+                "Surfboards": {
+                    "Longboards": {},
+                    "Shortboards": {}
+                },
+                "Bodyboards": {},
+                "Skimboards": {},
+                "Traction Pads": {},
+                "Fins": {},
+                "Leashes": {},
+                "Wax": {},
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Water Booties & Socks": {},
+                "Board Bags": {},
+                "Training Tools": {},
+                "Car Surfboard Racks": {},
+                "Indoor Surfboard Storage": {},
+                "Stand-Up Paddleboarding": {
+                    "Stand-Up Paddleboards": {},
+                    "Paddles": {},
+                    "Paddleboard Accessories": {},
+                    "Board Leashes": {},
+                    "Fins": {},
+                    "Paddleboard Bags": {},
+                    "Indoor Paddleboard Storage": {},
+                    "Paddling Clothing": {
+                        "Men": {},
+                        "Women": {}
+                    },
+                    "Rash Guards": {
+                        "Men": {},
+                        "Women": {},
+                        "Boys": {},
+                        "Girls": {}
+                    },
+                    "Wetsuits": {
+                        "Full Suits": {},
+                        "Shorty Suits": {},
+                        "Sleeveless Suits": {},
+                        "Tops": {},
+                        "Pants": {}
+                    },
+                    "Drysuits": {}
+                }
+            },
+            "Water Sports Accessories": {
+                "Dry Bags": {},
+                "Impact Vests": {},
+                "Safety & Flotation Devices": {
+                    "Bells": {},
+                    "EPIRBs": {},
+                    "First Aid Kits": {},
+                    "Life Jackets & Vests": {},
+                    "Safety Harnesses": {},
+                    "Strobe & Safety Lights": {},
+                    "Throw Rings": {}
+                },
+                "Water Helmets": {}
+            },
+            "Waterskiing & Towsports": {
+                "Waterskis": {},
+                "Bindings": {},
+                "Lines": {},
+                "Towables": {},
+                "Gloves": {},
+                "Kneeboarding": {},
+                "Wakeboarding": {
+                    "Wakeboards": {},
+                    "Bindings": {},
+                    "Lines": {},
+                    "Equipment Bags": {},
+                    "Rash Guards": {
+                        "Men": {},
+                        "Women": {},
+                        "Boys": {},
+                        "Girls": {}
+                    },
+                    "Water Helmets": {}
+                },
+                "Wakeskating": {},
+                "Wakesurfing": {}
+            },
+            "Windsurfing": {
+                "Boards": {},
+                "Sails": {},
+                "Fins": {},
+                "Masts": {},
+                "Harness": {},
+                "Board Bags": {},
+                "Surfboard & Windsurfing Car Racks": {}
+            },
+            "Clothing": {
+                "Men": {
+                    "Paddling Clothing": {},
+                    "Rash Guards": {}
+                },
+                "Women": {
+                    "Paddling Clothing": {},
+                    "Rash Guards": {}
+                },
+                "Boys": {},
+                "Girls": {},
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Footwear": {
+                "Water Booties & Socks": {},
+                "Water Shoes": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                }
+            }
+        },
+        "Winter Sports": {
+            "Ice Skating": {
+                "Ice Skates": {
+                    "Figure Skates": {},
+                    "Children's Ice Skates": {},
+                    "Hockey Skates": {}
+                },
+                "Skate Bags": {},
+                "Clothing": {
+                    "Women": {},
+                    "Girls": {}
+                }
+            },
+            "Skiing": {
+                "Alpine Touring": {
+                    "Boots": {},
+                    "Skis": {}
+                },
+                "Backcountry Equipment": {
+                    "Beacons & Transceivers": {},
+                    "Snow Probes": {},
+                    "Snow Shovels": {},
+                    "Skins": {},
+                    "Traction Cleats": {}
+                },
+                "Boot Bags": {},
+                "Clothing": {
+                    "Men": {
+                        "Balaclavas": {},
+                        "Base Layers": {},
+                        "Bibs": {},
+                        "Gloves": {},
+                        "Hats & Caps": {},
+                        "Jackets": {},
+                        "Neck Gaiters": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Balaclavas": {},
+                        "Base Layers": {},
+                        "Bibs": {},
+                        "Gloves": {},
+                        "Hats & Caps": {},
+                        "Jackets": {},
+                        "Neck Gaiters": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Base Layers": {},
+                        "Bibs": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Base Layers": {},
+                        "Bibs": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Socks": {}
+                    }
+                },
+                "Cross-Country Skiing": {
+                    "Bindings": {},
+                    "Boots": {},
+                    "Poles": {},
+                    "Skis": {}
+                },
+                "Downhill Skiing": {
+                    "Skis": {},
+                    "Boots": {},
+                    "Bindings": {},
+                    "Poles": {}
+                },
+                "Goggles & Lenses": {
+                    "Goggles": {},
+                    "Replacement Lenses": {}
+                },
+                "Helmets": {},
+                "Indoor Ski Storage": {},
+                "Ski & Snowboard Racks": {},
+                "Ski & Snowboard Tuning Equipment": {},
+                "Ski & Snowboard Wax": {},
+                "Ski Bags": {},
+                "Telemark Skiing": {
+                    "Skis": {},
+                    "Boots": {},
+                    "Bindings": {}
+                }
+            },
+            "Sledding": {
+                "Snow Sleds": {},
+                "Snow Tubes": {},
+                "Toboggans": {}
+            },
+            "Snowboarding": {
+                "Snowboards": {
+                    "Freeride Boards": {},
+                    "Freestyle Boards": {}
+                },
+                "Boots": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Bindings": {},
+                "Board Bags": {},
+                "Clothing": {
+                    "Men": {
+                        "Balaclavas": {},
+                        "Base Layers": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Neck Gaiters": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Balaclavas": {},
+                        "Base Layers": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Neck Gaiters": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Base Layers": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Base Layers": {},
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Socks": {}
+                    }
+                },
+                "Goggles & Lenses": {
+                    "Goggles": {},
+                    "Replacement Lenses": {}
+                },
+                "Helmets": {},
+                "Indoor Snowboard Storage": {},
+                "Padded Shorts": {},
+                "Ski & Snowboard Racks": {},
+                "Ski & Snowboard Tuning Equipment": {},
+                "Ski & Snowboard Wax": {},
+                "Stomp Pads": {}
+            },
+            "Snowmobiling": {
+                "Covers & Storage": {},
+                "Goggles": {},
+                "Replacement Parts": {},
+                "Trailer Accessories": {},
+                "Windshields": {}
+            },
+            "Snowshoeing": {
+                "Poles": {},
+                "Snowshoes": {},
+                "Bindings": {},
+                "Gaiters": {}
+            },
+            "Winter Sports Accessories": {
+                "Backcountry Equipment": {
+                    "Beacons & Transceivers": {},
+                    "Snow Probes": {},
+                    "Snow Shovels": {},
+                    "Skins": {},
+                    "Traction Cleats": {}
+                },
+                "Boot Bags": {},
+                "Gaiters": {},
+                "Goggles & Lenses": {
+                    "Goggles": {},
+                    "Replacement Lenses": {}
+                },
+                "Helmets": {},
+                "Indoor Ski Storage": {},
+                "Indoor Snowboard Storage": {},
+                "Ski & Snowboard Car Racks": {},
+                "Ski & Snowboard Tuning Equipment": {},
+                "Ski & Snowboard Wax": {},
+                "Ski Bags": {},
+                "Snowboard Bags": {},
+                "Stomp Pads": {}
+            }
+        },
+        "Accessories": {
+            "Accessory & Keychain Carabiners": {},
+            "Anti-Chafing Products": {},
+            "Car Racks & Carriers": {
+                "Bike Racks": {},
+                "Kayak, Canoe & SUP Racks": {
+                    "Foam Block Rooftop Carriers": {},
+                    "Kayak & Canoe Trailers": {},
+                    "Rooftop Racks": {}
+                },
+                "Ski & Snowboard Racks": {},
+                "Surfboard & Windsurfing Racks": {},
+                "Cargo Carriers": {
+                    "Cargo Baskets": {},
+                    "Hard-Shell Carriers": {},
+                    "Soft-Shell Carriers": {}
+                },
+                "Car Rack Parts & Accessories": {}
+            },
+            "Gear Repair Equipment": {},
+            "Hydration Packs": {},
+            "Inflation Devices & Accessories": {},
+            "Paracord": {},
+            "Reflective Gear": {},
+            "Sports Medicine": {
+                "Athletic Tape & Supplies": {},
+                "Bandages & Dressings": {
+                    "Adhesive Bandages": {},
+                    "Finger Cots": {},
+                    "First Aid Tape": {},
+                    "Gauze & Pads": {
+                        "Bandaging Pads": {},
+                        "Gauze": {}
+                    },
+                    "Liquid Bandages": {}
+                },
+                "Braces, Splints & Slings": {
+                    "Arm, Hand & Finger Supports": {
+                        "Arm Supports": {},
+                        "Elbow Braces": {},
+                        "Finger Splints": {},
+                        "Hand & Wrist Braces": {}
+                    },
+                    "Arthritis Gloves": {},
+                    "Athletic Tapes & Wraps": {},
+                    "Back, Neck & Shoulder Supports": {
+                        "Back Braces": {},
+                        "Lumbar Supports": {},
+                        "Shoulder Supports": {}
+                    },
+                    "Chest Supports": {},
+                    "Compression Socks": {},
+                    "Hip & Waist Supports": {},
+                    "Kinesiology Recovery Tapes": {},
+                    "Leg & Foot Supports": {
+                        "Ankle Braces": {},
+                        "Bunion Splints": {},
+                        "Calf & Shin Supports": {},
+                        "Foot Supports": {},
+                        "Fracture & Cast Boots": {},
+                        "Knee Braces": {},
+                        "Plantar Fasciitis Braces": {},
+                        "Thigh Supports": {}
+                    },
+                    "Medical Support Hose": {}
+                },
+                "First Aid Kits": {},
+                "Mouthguards": {},
+                "Padding Supplies": {}
+            },
+            "Sports Sunglasses": {},
+            "Sports Water Bottle Accessories": {},
+            "Traction Cleats": {},
+            "Sports Water Bottles": {}
+        }
+    },
+    "Sports & Fitness": {
+        "Boating & Sailing": {
+            "Boating": {
+                "Bimini Tops": {},
+                "Boat Cabin Products": {
+                    "Clocks & Barometers": {},
+                    "Flags": {},
+                    "Seat Cushions": {},
+                    "Seating": {},
+                    "Seating Accessories": {},
+                    "Storage": {},
+                    "Vents & Deck Plates": {}
+                },
+                "Boat Compasses": {},
+                "Boat Covers": {},
+                "Boat Electronics": {
+                    "Autopilots": {},
+                    "Fish Finders & Depth Finders": {},
+                    "Marine Amplifiers": {},
+                    "Marine Antennas": {},
+                    "Marine GPS Accessories": {},
+                    "Marine GPS Chartplotters": {},
+                    "Marine Speakers": {},
+                    "Marine Stereos": {},
+                    "Marine Subwoofers": {},
+                    "Marine Two-Way Radios": {},
+                    "Radar Systems": {}
+                },
+                "Boat Engine Parts": {
+                    "Blowers": {},
+                    "Fuel Filters": {},
+                    "Fuel Tanks": {},
+                    "Fuel-Flow Instruments": {},
+                    "Motor Flushers": {},
+                    "Outboard Motor Brackets": {},
+                    "Propellers": {},
+                    "Spark Plugs": {}
+                },
+                "Boat Motors": {
+                    "Outboard Motors": {},
+                    "Trolling Motors": {}
+                },
+                "Boat Plumbing": {
+                    "Bilge Pumps": {},
+                    "Heads": {},
+                    "Plumbing Fittings": {},
+                    "Shower Pumps & Sumps": {},
+                    "Water Pressure Pumps": {}
+                },
+                "Boat Trailer Accessories": {
+                    "Bearings, Hubs & Springs": {},
+                    "Guides & Rollers": {},
+                    "Jacks": {},
+                    "Tie-Downs": {},
+                    "Tires & Wheels": {},
+                    "Trailer Hitches & Balls": {},
+                    "Trailer Lights": {},
+                    "Trailer Winches": {}
+                },
+                "Boat Trailers": {},
+                "Boats": {
+                    "Dinghies": {},
+                    "Inflatable Rafts": {},
+                    "Pedal Boats": {},
+                    "Pontoon Boats": {}
+                },
+                "Docking & Anchoring Equipment": {
+                    "Anchors": {},
+                    "Boat Fenders": {},
+                    "Boat Hooks": {},
+                    "Dock Cleats": {},
+                    "Dock Guards": {},
+                    "Dock Lines & Rope": {},
+                    "Ladders": {},
+                    "Mooring Buoys": {},
+                    "Paracord": {},
+                    "Windlasses": {}
+                },
+                "Dry Bags": {},
+                "Electrical Equipment": {
+                    "Battery Chargers": {},
+                    "Battery Switches": {},
+                    "Interior Lights": {},
+                    "Inverters": {},
+                    "Navigation Lights": {},
+                    "Panels": {},
+                    "Rocker Switches": {},
+                    "Shore Power Adapters": {},
+                    "Shore Power Cords": {},
+                    "Spotlights": {},
+                    "Toggle Switches": {},
+                    "Wire": {},
+                    "Wire Terminals": {}
+                },
+                "Hardware": {
+                    "Cabinet Hardware & Hinges": {},
+                    "Cleats & Chocks": {},
+                    "Deck Hardware": {}
+                },
+                "Horns": {},
+                "Maintenance Supplies": {
+                    "Cleaners": {},
+                    "Cleaning Tools": {},
+                    "Painting Supplies": {},
+                    "Tools": {}
+                },
+                "Safety & Flotation Devices": {
+                    "Bells": {},
+                    "EPIRBs": {},
+                    "First Aid Kits": {},
+                    "Life Jackets & Vests": {},
+                    "Safety Harnesses": {},
+                    "Strobe & Safety Lights": {},
+                    "Throw Rings": {}
+                },
+                "Steering Equipment": {
+                    "Control Cables": {},
+                    "Steering Wheels": {},
+                    "Windshield Wipers": {}
+                }
+            },
+            "Canoeing": {
+                "Canoes": {},
+                "Paddles": {},
+                "Canoe Hardware": {},
+                "Canoe Seats & Thwarts": {},
+                "Canoe Car Racks": {},
+                "Indoor Canoe Storage": {},
+                "Paddling Clothing": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Kayaking": {
+                "Kayaks": {
+                    "Fishing Kayaks": {},
+                    "Touring Kayaks": {},
+                    "Whitewater Kayaks": {}
+                },
+                "Paddles": {},
+                "Paddle Accessories": {},
+                "Kayak Hardware": {},
+                "Kayak Accessories": {},
+                "Dry Bags": {},
+                "Spray Skirts": {},
+                "Kayak Carts": {},
+                "Indoor Kayak Storage": {},
+                "Gloves": {},
+                "Paddling Clothing": {
+                    "Men": {},
+                    "Women": {}
+                },
+                "Rash Guards": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Wetsuits": {
+                    "Full Suits": {},
+                    "Shorty Suits": {},
+                    "Sleeveless Suits": {},
+                    "Tops": {},
+                    "Pants": {}
+                },
+                "Drysuits": {}
+            },
+            "Rowing & Crew": {},
+            "Sailing": {
+                "Hardware": {},
+                "Rigging": {
+                    "Turnbuckles": {},
+                    "Shackles": {}
+                }
+            },
+            "Boating & Water Sports Accessories": {
+                "Dry Bags": {},
+                "Impact Vests": {},
+                "Safety & Flotation Devices": {
+                    "Bells": {},
+                    "EPIRBs": {},
+                    "First Aid Kits": {},
+                    "Life Jackets & Vests": {},
+                    "Safety Harnesses": {},
+                    "Strobe & Safety Lights": {},
+                    "Throw Rings": {}
+                },
+                "Water Helmets": {}
+            }
+        },
+        "Clothing": {
+            "Men": {
+                "Shirts": {
+                    "Compression Tops": {},
+                    "Polo Shirts": {},
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                },
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Compression Pants & Tights": {},
+                    "Sweatpants": {},
+                    "Track Pants": {}
+                },
+                "Tights & Leggings": {},
+                "Shorts": {
+                    "Compression Shorts": {},
+                    "Workout Shorts": {}
+                },
+                "Vests": {},
+                "Jackets & Coats": {
+                    "Shells": {},
+                    "Windbreakers": {}
+                },
+                "Track Jackets": {},
+                "Swimwear": {
+                    "Bodysuits": {},
+                    "Briefs": {},
+                    "Jammers": {}
+                },
+                "Compression": {
+                    "Compression Pants & Tights": {},
+                    "Compression Shorts": {},
+                    "Compression Sleeves": {},
+                    "Compression Socks": {},
+                    "Compression Tops": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Underwear": {},
+                "Athletic Supporters": {},
+                "Accessories": {
+                    "Balaclavas": {},
+                    "Belts": {},
+                    "Gloves, Mittens & Liners": {},
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {},
+                    "Sweat Headbands & Wristbands": {}
+                }
+            },
+            "Women": {
+                "Shirts": {
+                    "Compression Tops": {},
+                    "Polo Shirts": {},
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                },
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Capri Pants": {},
+                    "Compression Pants & Tights": {},
+                    "Sweatpants": {}
+                },
+                "Tights & Leggings": {},
+                "Shorts": {
+                    "Compression Shorts": {},
+                    "Workout Shorts": {}
+                },
+                "Dresses": {},
+                "Skirts": {},
+                "Skorts": {},
+                "Vests": {},
+                "Jackets & Coats": {},
+                "Track Jackets": {},
+                "Swimwear": {
+                    "Bodysuits": {},
+                    "One-Piece Suits": {},
+                    "Two-Piece Suits": {}
+                },
+                "Compression": {
+                    "Compression Pants & Tights": {},
+                    "Compression Shorts": {},
+                    "Compression Sleeves": {},
+                    "Compression Socks": {},
+                    "Compression Tops": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Sports Bras": {},
+                "Underwear": {},
+                "Accessories": {
+                    "Balaclavas": {},
+                    "Belts": {},
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sunglasses": {},
+                    "Sweat Headbands & Wristbands": {}
+                }
+            },
+            "Boys": {
+                "Shirts": {
+                    "Compression Tops": {},
+                    "Polo Shirts": {},
+                    "T-Shirts": {},
+                    "Tank Tops": {}
+                },
+                "Sweatshirts & Hoodies": {},
+                "Pants": {
+                    "Compression Pants & Tights": {},
+                    "Track Pants": {}
+                },
+                "Shorts": {
+                    "Compression Shorts": {},
+                    "Workout Shorts": {}
+                },
+                "Track Jackets": {},
+                "Tracksuits & Sweatsuits": {},
+                "Swimwear": {
+                    "Bodysuits": {},
+                    "Briefs": {},
+                    "Jammers": {}
+                },
+                "Compression": {
+                    "Compression Pants & Tights": {},
+                    "Compression Shorts": {},
+                    "Compression Tops": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Athletic Supporters": {},
+                "Accessories": {
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sweat Headbands & Wristbands": {}
+                }
+            },
+            "Girls": {
+                "Shirts": {},
+                "Sweatshirts & Hoodies": {},
+                "Pants": {},
+                "Tights & Leggings": {},
+                "Shorts": {
+                    "Compression Shorts": {},
+                    "Workout Shorts": {}
+                },
+                "Dresses": {},
+                "Skirts": {},
+                "Skorts": {},
+                "Track Jackets": {},
+                "Tracksuits & Sweatsuits": {},
+                "Swimwear": {
+                    "Bodysuits": {},
+                    "One-Piece Suits": {},
+                    "Two-Piece Suits": {}
+                },
+                "Socks": {},
+                "Base Layers": {},
+                "Accessories": {
+                    "Hats & Caps": {},
+                    "Sport Watches": {},
+                    "Sweat Headbands & Wristbands": {}
+                }
+            }
+        },
+        "Exercise & Fitness": {
+            "Balance Trainers": {
+                "Balance Boards": {},
+                "Exercise Balls": {},
+                "Foam Rollers": {}
+            },
+            "Cardio Training": {
+                "Elliptical Trainers": {},
+                "Exercise Bikes": {},
+                "Rowers": {},
+                "Step Machines": {},
+                "Treadmills": {},
+                "Vibration Platform Machines": {}
+            },
+            "Clothing": {
+                "Men": {
+                    "Shirts, Tanks & Tees": {
+                        "T-Shirts": {},
+                        "Tanks & Sleeveless Shirts": {}
+                    },
+                    "Pants": {},
+                    "Shorts": {},
+                    "Sweaters": {},
+                    "Hoodies & Sweatshirts": {},
+                    "Jackets & Vests": {
+                        "Jackets": {},
+                        "Vests": {}
+                    },
+                    "Tracksuits": {},
+                    "Socks": {},
+                    "Compression": {
+                        "Compression Pants & Tights": {},
+                        "Compression Shorts": {},
+                        "Compression Sleeves": {},
+                        "Compression Socks": {},
+                        "Compression Tops": {}
+                    }
+                },
+                "Women": {
+                    "Shirts, Tanks & Tees": {
+                        "T-Shirts": {},
+                        "Tanks & Racerbacks": {}
+                    },
+                    "Pants": {},
+                    "Shorts": {},
+                    "Skirts & Skorts": {},
+                    "Leggings": {},
+                    "Sweaters": {},
+                    "Hoodies & Sweatshirts": {},
+                    "Jackets & Vests": {
+                        "Jackets": {},
+                        "Vests": {}
+                    },
+                    "Tracksuits": {},
+                    "Socks": {},
+                    "Sports Bras": {},
+                    "Compression": {
+                        "Compression Pants & Tights": {},
+                        "Compression Shorts": {},
+                        "Compression Sleeves": {},
+                        "Compression Socks": {},
+                        "Compression Tops": {}
+                    }
+                },
+                "Boys": {
+                    "Shirts, Tanks & Tees": {
+                        "T-Shirts": {},
+                        "Tanks & Sleeveless Shirts": {}
+                    },
+                    "Pants": {},
+                    "Shorts": {},
+                    "Hoodies & Sweatshirts": {},
+                    "Jackets & Vests": {},
+                    "Tracksuits": {},
+                    "Socks": {},
+                    "Compression": {
+                        "Compression Pants & Tights": {},
+                        "Compression Shorts": {},
+                        "Compression Tops": {}
+                    }
+                },
+                "Girls": {
+                    "Shirts, Tanks & Tees": {
+                        "T-Shirts": {},
+                        "Tanks & Racerbacks": {}
+                    },
+                    "Pants": {},
+                    "Shorts": {},
+                    "Skirts & Skorts": {},
+                    "Leggings": {},
+                    "Hoodies & Sweatshirts": {},
+                    "Jackets & Vests": {},
+                    "Tracksuits": {},
+                    "Socks": {}
+                }
+            },
+            "Exercise Machine Parts & Accessories": {
+                "Exercise Machine Attachments": {},
+                "Treadmill Belts": {},
+                "Treadmill Lubricants": {},
+                "Treadmill Motors": {}
+            },
+            "Fitness Technology": {
+                "App-Enabled Fitness Trackers": {
+                    "Clips, Arm & Wristbands": {},
+                    "Accessories": {
+                        "Arm & Wristband Accessories": {},
+                        "Smart Clip Accessories": {}
+                    }
+                },
+                "Activity & Fitness Trackers": {},
+                "Heart Rate Monitors": {},
+                "Pedometers": {},
+                "Running GPS Units": {},
+                "Stopwatches": {}
+            },
+            "Footwear": {
+                "Men's": {},
+                "Women's": {}
+            },
+            "Pilates": {
+                "Chairs": {},
+                "Fitness Circles": {},
+                "Flexbands": {},
+                "Floor Mats": {},
+                "Reformers": {},
+                "Spine Supporters": {}
+            },
+            "Running": {
+                "Clothing": {
+                    "Men": {
+                        "Accessories": {
+                            "Balaclavas": {},
+                            "Gloves": {},
+                            "Sweat Headbands & Wristbands": {}
+                        },
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Tights": {}
+                    },
+                    "Women": {
+                        "Accessories": {
+                            "Balaclavas": {},
+                            "Gloves": {},
+                            "Sweat Headbands & Wristbands": {}
+                        },
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Skirts & Skorts": {},
+                        "Socks": {},
+                        "Sports Bras": {},
+                        "Tights": {}
+                    },
+                    "Boys": {
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    }
+                },
+                "Footwear": {
+                    "Men's": {
+                        "Road Running": {},
+                        "Track & Field & Cross Country": {},
+                        "Trail Running": {}
+                    },
+                    "Women's": {
+                        "Road Running": {},
+                        "Track & Field & Cross Country": {},
+                        "Trail Running": {}
+                    },
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "GPS Units": {},
+                "Hydration Packs": {},
+                "Reflective Gear": {},
+                "Waist Packs": {}
+            },
+            "Speed & Agility Training": {
+                "Agility Ladders": {},
+                "Reaction Balls": {},
+                "Speed Hurdles": {}
+            },
+            "Strength Training Equipment": {
+                "Ankle Weights": {},
+                "Arm Machines": {},
+                "Back Machines": {},
+                "Bars": {},
+                "Benches": {
+                    "Adjustable Benches": {},
+                    "Olympic Weight Benches": {},
+                    "Standard Weight Benches": {}
+                },
+                "Core & Abdominal Trainers": {},
+                "Dip Stands": {},
+                "Dumbbells": {},
+                "Hand Strengtheners": {},
+                "Home Gyms": {},
+                "Inversion Equipment": {},
+                "Kettlebells": {},
+                "Leg Machines": {},
+                "Plates": {},
+                "Power Cages": {},
+                "Pull-Up Bars": {},
+                "Pushup Stands": {},
+                "Smith Machines": {},
+                "Weight Belts": {},
+                "Weight Racks": {
+                    "Dumbbell Racks": {},
+                    "Free-Weight Racks": {},
+                    "Plate Storage Racks": {},
+                    "Plate Trees": {}
+                },
+                "Weight Vests": {},
+                "Wrist Weights": {}
+            },
+            "Triathlon": {},
+            "Yoga": {
+                "Blocks": {},
+                "Clothing": {
+                    "Men": {
+                        "Jackets & Hoodies": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Jackets & Hoodies": {},
+                        "Leggings": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sports Bras": {}
+                    },
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Foam Wedges": {},
+                "Mat Bags": {},
+                "Mats": {},
+                "Silk Eye Bags": {},
+                "Starter Sets": {},
+                "Straps": {},
+                "Towels": {}
+            },
+            "Accessories": {
+                "Aquatic Fitness Equipment": {},
+                "Collars": {},
+                "Exercise Balls & Accessories": {
+                    "Exercise Balls": {},
+                    "Exercise Ball Chairs": {},
+                    "Exercise Ball Accessories": {}
+                },
+                "Exercise Bands": {},
+                "Exercise Mats": {},
+                "Fitness Planners": {},
+                "Fitness Trampolines": {},
+                "Gloves": {},
+                "Jump Ropes": {},
+                "Jumping Trainers": {},
+                "Medicine Balls": {},
+                "Protective Flooring": {},
+                "Sauna Suits": {},
+                "Step Platforms": {},
+                "Straps": {},
+                "Waist Trimmers": {},
+                "Warranties": {},
+                "Wraps": {}
+            }
+        },
+        "Golf": {
+            "Golf Clubs": {
+                "Irons": {
+                    "Sets": {},
+                    "Single Clubs": {}
+                },
+                "Wedges": {
+                    "Approach Wedges": {},
+                    "Gap Wedges": {},
+                    "Lob Wedges": {},
+                    "Pitching Wedges": {},
+                    "Sand Wedges": {}
+                },
+                "Putters": {},
+                "Hybrid & Utility Clubs": {},
+                "Drivers": {},
+                "Fairway Woods": {},
+                "Chippers": {},
+                "Complete Sets": {}
+            },
+            "Golf Club Parts": {
+                "Grips": {},
+                "Shafts": {},
+                "Heads": {}
+            },
+            "Golf Balls": {
+                "Distance Balls": {},
+                "Practice Balls": {},
+                "Range Balls": {},
+                "Recycled & Used Balls": {},
+                "Spin Balls": {},
+                "Standard Balls": {},
+                "Trick & Novelty Balls": {},
+                "Women's Balls": {},
+                "X-Outs": {}
+            },
+            "Golf Carts": {},
+            "Golf Cart Accessories": {},
+            "Golf Club Bags": {
+                "Carry Bags": {},
+                "Cart Bags": {},
+                "Stand Bags": {}
+            },
+            "Golf Club Bag Accessories": {},
+            "On-Course Accessories": {
+                "Ball Markers": {},
+                "Ball Retrievers": {},
+                "Divot Tools": {},
+                "Tees": {},
+                "Towels": {},
+                "Umbrellas": {}
+            },
+            "Accessories": {
+                "Duffel Bags": {},
+                "Grip Repair Kits": {},
+                "Head Covers": {},
+                "Pin Flags": {},
+                "Shoe Bags": {},
+                "Spike Wrenches": {},
+                "Spikes": {},
+                "Travel Covers": {},
+                "Trunk Organizers": {}
+            },
+            "Gloves": {},
+            "Training Equipment": {
+                "Hitting Mats": {},
+                "Hitting Nets": {},
+                "Putting Mats": {},
+                "Strength Trainers": {},
+                "Swing Trainers": {},
+                "Training Putters": {}
+            },
+            "Footwear": {
+                "Men's": {},
+                "Women's": {}
+            },
+            "Clothing": {
+                "Men": {
+                    "Accessories": {
+                        "Belts": {},
+                        "Caps": {},
+                        "Compression Sleeves": {},
+                        "Sunglasses": {},
+                        "Visors": {}
+                    },
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Sweaters & Vests": {
+                        "Sweaters": {},
+                        "Vests": {}
+                    }
+                },
+                "Women": {
+                    "Accessories": {
+                        "Belts": {},
+                        "Caps": {},
+                        "Compression Sleeves": {},
+                        "Sunglasses": {},
+                        "Visors": {}
+                    },
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Skirts & Skorts": {},
+                    "Socks": {},
+                    "Sweaters & Vests": {
+                        "Sweaters": {},
+                        "Vests": {}
+                    }
+                },
+                "Boys": {
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Caps": {},
+                    "Visors": {}
+                },
+                "Girls": {}
+            },
+            "GPS Units": {},
+            "Rangefinders": {}
+        },
+        "Hunting & Fishing": {
+            "Hunting": {
+                "Clothing": {
+                    "Men": {
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Vests": {}
+                    },
+                    "Women": {
+                        "Gloves": {},
+                        "Hats": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Vests": {}
+                    },
+                    "Kids": {
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Vests": {}
+                    }
+                },
+                "Eyewear & Hearing Protection": {
+                    "Earmuffs": {},
+                    "Earplugs": {},
+                    "Safety Glasses": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Gaiters": {}
+                },
+                "Game Calls": {
+                    "Deer": {},
+                    "Duck": {},
+                    "Elk": {},
+                    "Goose": {},
+                    "Predator": {},
+                    "Turkey": {},
+                    "Lanyards, Pouches & Accessories": {}
+                },
+                "Game Handling": {
+                    "Field Dressing Accessories": {},
+                    "Food Processing": {
+                        "Knives, Axes & Saws": {
+                            "Fixed Blade Tool Knives": {},
+                            "Folding Tool Knives": {},
+                            "Hunting Sharpeners": {}
+                        },
+                        "Meat Grinders": {},
+                        "Food Dehydrators": {},
+                        "Smokers": {},
+                        "Vacuum Sealers": {}
+                    },
+                    "Game Belts & Bags": {},
+                    "Game Carts": {},
+                    "Game Hoists & Gambrels": {},
+                    "Trophy Mounts": {}
+                },
+                "Game Tracking & Trail Monitoring": {
+                    "Game & Trail Cameras": {},
+                    "Game Finders": {},
+                    "GPS Trackers": {}
+                },
+                "Gun Accessories, Maintenance & Storage": {
+                    "Gun Parts & Accessories": {
+                        "Grips": {},
+                        "Gun Holders": {},
+                        "Gun Sights": {},
+                        "Gun Stocks": {},
+                        "Gun Stock Accessories": {},
+                        "Locks": {},
+                        "Magazine Loaders": {},
+                        "Monopods & Bipods": {},
+                        "Recoil Pads": {},
+                        "Swivels": {}
+                    },
+                    "Gun Holsters, Cases & Bags": {
+                        "Ammunition & Magazine Boxes, Cans & Cases": {},
+                        "Ammunition & Magazine Pouches": {},
+                        "Bags & Packs": {
+                            "Hunting Bags": {},
+                            "Tactical Bags & Packs": {}
+                        },
+                        "Gun Belts": {},
+                        "Gun Holsters": {},
+                        "Gun Slings": {},
+                        "Pistol Cases": {
+                            "Hard Pistol Cases": {},
+                            "Soft Pistol Cases": {}
+                        },
+                        "Rifle Cases": {
+                            "Hard Rifle Cases": {},
+                            "Soft Rifle Cases": {}
+                        }
+                    },
+                    "Gun Maintenance": {
+                        "Gun Brushes": {},
+                        "Gun Cleaning Kits": {},
+                        "Gun Cloths": {},
+                        "Gun Jags": {},
+                        "Gun Lubrication": {},
+                        "Gun Snakes": {},
+                        "Gun Solvents": {},
+                        "Gunsmithing Tools": {}
+                    },
+                    "Gun & Ammunition Storage & Safes": {
+                        "Ammunition & Magazine Boxes, Cans & Cases": {},
+                        "Ammunition & Magazine Pouches": {},
+                        "Gun Racks": {
+                            "ATV & UTV Gun Racks": {},
+                            "Automotive Gun Racks": {},
+                            "Indoor Gun Racks": {}
+                        },
+                        "Gun Safes & Cabinets": {}
+                    }
+                },
+                "Gun Safety": {
+                    "Gun Safes & Cabinets": {},
+                    "Gun Locks": {}
+                },
+                "Hunting Accessories": {
+                    "Cage Traps": {},
+                    "Camouflage Accessories": {},
+                    "Decoy Accessories": {},
+                    "Decoys": {},
+                    "GPS Trackers": {},
+                    "Game Feeders & Accessories": {
+                        "Game Feeders": {},
+                        "Feed & Attractants": {},
+                        "Feeder Parts & Accessories": {}
+                    },
+                    "Handheld GPS": {},
+                    "Hunting Bags & Belts": {
+                        "Hunting Bags": {},
+                        "Game Bags & Belts": {}
+                    },
+                    "Hunting Signs": {},
+                    "Paracord": {},
+                    "Targets & Accessories": {},
+                    "Two-Way Radios": {
+                        "CB Radios & Scanners": {
+                            "Handheld CB Radios": {},
+                            "Fixed-mount CB Radios": {},
+                            "Radio Scanners": {}
+                        },
+                        "Two-Way Radios": {},
+                        "Marine Two-Way Radios": {},
+                        "Accessories": {
+                            "Antennas": {},
+                            "Batteries": {},
+                            "Battery Chargers": {},
+                            "Cases": {},
+                            "Headsets & Microphones": {}
+                        }
+                    }
+                },
+                "Hunting Bags & Belts": {
+                    "Hunting Bags": {},
+                    "Game Bags & Belts": {}
+                },
+                "Hunting Dog Equipment": {},
+                "Knives & Tools": {
+                    "Hunting Knives": {
+                        "Fixed Blade Hunting Knives": {},
+                        "Folding Hunting Knives": {}
+                    },
+                    "Tactical Knives": {},
+                    "Fixed Blade Tool Knives": {},
+                    "Folding Tool Knives": {},
+                    "Knife Sets": {},
+                    "Game Processing Axes, Saws & Kits": {},
+                    "Hunting Knife Sharpeners": {}
+                },
+                "Scents & Scent Eliminators": {
+                    "Scents": {},
+                    "Scent Accessories": {},
+                    "Scent Eliminators": {}
+                },
+                "Tree Stands, Blinds & Accessories": {
+                    "Tree Stands": {},
+                    "Blinds": {},
+                    "Tree Steps": {},
+                    "Safety Belts & Harnesses": {},
+                    "Seats": {},
+                    "Tree Stand Accessories": {}
+                }
+            },
+            "Fishing": {
+                "Rods": {},
+                "Reels": {},
+                "Rod & Reel Combos": {},
+                "Rod & Reel Storage & Accessories": {
+                    "Downriggers": {},
+                    "Reel Replacement Parts": {},
+                    "Rod Cases & Tubes": {},
+                    "Rod Holders": {},
+                    "Rod Racks": {}
+                },
+                "Lures, Baits & Attractants": {
+                    "Baits & Attractants": {
+                        "Artificial Bait": {},
+                        "Attractants": {},
+                        "Eggs": {},
+                        "Light Attractants": {}
+                    },
+                    "Flies": {
+                        "Dry Flies": {},
+                        "Wet Flies": {}
+                    },
+                    "Lures": {
+                        "Plugs": {},
+                        "Soft Lures": {},
+                        "Spinners & Spinnerbaits": {},
+                        "Spoons": {},
+                        "Teasers": {},
+                        "Topwater Lures": {}
+                    },
+                    "Rigs & Jigs": {
+                        "Bait Rigs": {},
+                        "Jigs": {}
+                    }
+                },
+                "Bait Traps & Storage": {
+                    "Bait Storage": {},
+                    "Bait Traps": {}
+                },
+                "Terminal Tackle": {
+                    "Corks, Floats & Bobbers": {},
+                    "Dodgers & Flashers": {},
+                    "Hooks": {},
+                    "Leaders & Leader Rigging": {
+                        "Leaders": {},
+                        "Leader Rigging": {},
+                        "Fly Fishing Leaders & Tippets": {}
+                    },
+                    "Sinkers & Weights": {},
+                    "Swivels & Snaps": {}
+                },
+                "Tackle Storage": {
+                    "Fly Boxes & Storage": {},
+                    "Tackle Boxes & Trays": {
+                        "Tackle Boxes": {},
+                        "Tackle Storage Trays": {}
+                    },
+                    "Tackle Storage Bags & Wraps": {}
+                },
+                "Fishing Line": {
+                    "Braided Line": {},
+                    "Fluorocarbon Line": {},
+                    "Fly Line": {},
+                    "Lead Core & Wire Line": {},
+                    "Monofilament Line": {}
+                },
+                "Fishing Apparel": {
+                    "Clothing": {
+                        "Men": {
+                            "Jackets": {},
+                            "Pants": {},
+                            "Shirts": {},
+                            "Vests": {}
+                        },
+                        "Women": {
+                            "Jackets": {},
+                            "Pants": {},
+                            "Shirts": {},
+                            "Vests": {}
+                        },
+                        "Kids": {}
+                    },
+                    "Fishing Belts": {},
+                    "Fishing Boots & Waders": {},
+                    "Fishing Gloves": {},
+                    "Fishing Hats": {},
+                    "Paddling Clothing": {
+                        "Men": {},
+                        "Women": {}
+                    },
+                    "Rash Guards": {
+                        "Men": {},
+                        "Women": {},
+                        "Boys": {},
+                        "Girls": {}
+                    },
+                    "Wetsuits": {
+                        "Full Suits": {},
+                        "Shorty Suits": {},
+                        "Sleeveless Suits": {},
+                        "Tops": {},
+                        "Pants": {}
+                    }
+                },
+                "Fishfinders": {},
+                "Fishing Tools & Accessories": {
+                    "Bite Indicators": {},
+                    "Filet & Bait Knives": {},
+                    "Fly Tying Tools & Materials": {
+                        "Fly Tying Equipment": {},
+                        "Fly Tying Kits": {},
+                        "Fly Tying Materials": {}
+                    },
+                    "Gaffs": {},
+                    "Line Spooling Accessories": {},
+                    "Pliers & Multi-Tools": {},
+                    "Reel Care Accessories": {}
+                },
+                "Fishing Watercraft & Trolling Motors": {
+                    "Trolling Motors": {},
+                    "Boats & Equipment": {
+                        "Bimini Tops": {},
+                        "Boat Cabin Products": {
+                            "Clocks & Barometers": {},
+                            "Flags": {},
+                            "Seat Cushions": {},
+                            "Seating": {},
+                            "Seating Accessories": {},
+                            "Storage": {},
+                            "Vents & Deck Plates": {}
+                        },
+                        "Boat Compasses": {},
+                        "Boat Covers": {},
+                        "Boat Electronics": {
+                            "Autopilots": {},
+                            "Fish Finders & Depth Finders": {},
+                            "Marine Amplifiers": {},
+                            "Marine Antennas": {},
+                            "Marine GPS Accessories": {},
+                            "Marine GPS Chartplotters": {},
+                            "Marine Speakers": {},
+                            "Marine Stereos": {},
+                            "Marine Subwoofers": {},
+                            "Marine Two-Way Radios": {},
+                            "Radar Systems": {}
+                        },
+                        "Boat Engine Parts": {
+                            "Blowers": {},
+                            "Fuel Filters": {},
+                            "Fuel Tanks": {},
+                            "Fuel-Flow Instruments": {},
+                            "Motor Flushers": {},
+                            "Outboard Motor Brackets": {},
+                            "Propellers": {},
+                            "Spark Plugs": {}
+                        },
+                        "Boat Motors": {
+                            "Outboard Motors": {},
+                            "Trolling Motors": {}
+                        },
+                        "Boat Plumbing": {
+                            "Bilge Pumps": {},
+                            "Heads": {},
+                            "Plumbing Fittings": {},
+                            "Shower Pumps & Sumps": {},
+                            "Water Pressure Pumps": {}
+                        },
+                        "Boat Trailer Accessories": {
+                            "Bearings, Hubs & Springs": {},
+                            "Guides & Rollers": {},
+                            "Jacks": {},
+                            "Tie-Downs": {},
+                            "Tires & Wheels": {},
+                            "Trailer Hitches & Balls": {},
+                            "Trailer Lights": {},
+                            "Trailer Winches": {}
+                        },
+                        "Boat Trailers": {},
+                        "Boats": {
+                            "Dinghies": {},
+                            "Inflatable Rafts": {},
+                            "Pedal Boats": {},
+                            "Pontoon Boats": {}
+                        },
+                        "Docking & Anchoring Equipment": {
+                            "Anchors": {},
+                            "Boat Fenders": {},
+                            "Boat Hooks": {},
+                            "Dock Cleats": {},
+                            "Dock Guards": {},
+                            "Dock Lines & Rope": {},
+                            "Ladders": {},
+                            "Mooring Buoys": {},
+                            "Paracord": {},
+                            "Windlasses": {}
+                        },
+                        "Dry Bags": {},
+                        "Electrical Equipment": {
+                            "Battery Chargers": {},
+                            "Battery Switches": {},
+                            "Interior Lights": {},
+                            "Inverters": {},
+                            "Navigation Lights": {},
+                            "Panels": {},
+                            "Rocker Switches": {},
+                            "Shore Power Adapters": {},
+                            "Shore Power Cords": {},
+                            "Spotlights": {},
+                            "Toggle Switches": {},
+                            "Wire": {},
+                            "Wire Terminals": {}
+                        },
+                        "Hardware": {
+                            "Cabinet Hardware & Hinges": {},
+                            "Cleats & Chocks": {},
+                            "Deck Hardware": {}
+                        },
+                        "Horns": {},
+                        "Maintenance Supplies": {
+                            "Cleaners": {},
+                            "Cleaning Tools": {},
+                            "Painting Supplies": {},
+                            "Tools": {}
+                        },
+                        "Safety & Flotation Devices": {
+                            "Bells": {},
+                            "EPIRBs": {},
+                            "First Aid Kits": {},
+                            "Life Jackets & Vests": {},
+                            "Safety Harnesses": {},
+                            "Strobe & Safety Lights": {},
+                            "Throw Rings": {}
+                        },
+                        "Steering Equipment": {
+                            "Control Cables": {},
+                            "Steering Wheels": {},
+                            "Windshield Wipers": {}
+                        }
+                    },
+                    "Canoes & Equipment": {
+                        "Canoes": {},
+                        "Paddles": {},
+                        "Canoe Hardware": {},
+                        "Canoe Seats & Thwarts": {},
+                        "Canoe Car Racks": {},
+                        "Indoor Canoe Storage": {},
+                        "Paddling Clothing": {
+                            "Men": {},
+                            "Women": {}
+                        },
+                        "Rash Guards": {
+                            "Men": {},
+                            "Women": {},
+                            "Boys": {},
+                            "Girls": {}
+                        },
+                        "Wetsuits": {
+                            "Full Suits": {},
+                            "Shorty Suits": {},
+                            "Sleeveless Suits": {},
+                            "Tops": {},
+                            "Pants": {}
+                        },
+                        "Drysuits": {}
+                    },
+                    "Fishing Kayaks": {},
+                    "Float Tubes": {},
+                    "Life Jackets & Vests": {}
+                },
+                "Fly Fishing": {
+                    "Rods": {},
+                    "Reels": {},
+                    "Rod & Reel Combos": {},
+                    "Flies": {
+                        "Dry Flies": {},
+                        "Wet Flies": {}
+                    },
+                    "Fly Boxes & Storage": {},
+                    "Fly Line": {},
+                    "Fly Fishing Leaders & Tippets": {},
+                    "Fly Tying Tools & Materials": {
+                        "Fly Tying Equipment": {},
+                        "Fly Tying Kits": {},
+                        "Fly Tying Materials": {}
+                    }
+                },
+                "Ice Fishing": {
+                    "Rods": {},
+                    "Reels": {},
+                    "Rod & Reel Combos": {},
+                    "Fishing Line": {},
+                    "Ice Augers": {},
+                    "Ice Spearing Equipment": {},
+                    "Shelters": {},
+                    "Tip-Ups": {}
+                },
+                "Accessories": {
+                    "Charts & Maps": {},
+                    "Fish Scales": {},
+                    "Food Processing": {
+                        "Filet & Bait Knives": {},
+                        "Food Dehydrators": {},
+                        "Smokers": {},
+                        "Vacuum Sealers": {}
+                    },
+                    "Marker Buoys": {},
+                    "Nets": {}
+                }
+            },
+            "Shooting": {
+                "Gun Safety": {
+                    "Gun Safes & Cabinets": {},
+                    "Gun Locks": {}
+                },
+                "Air Guns & Accessories": {
+                    "Air Guns": {
+                        "Air Pistols": {},
+                        "Air Rifles": {}
+                    },
+                    "Air Gun Pellets": {},
+                    "Air Gun Tools & Accessories": {
+                        "Mounts": {},
+                        "Rails": {},
+                        "Tools": {}
+                    }
+                },
+                "Airsoft Guns & Accessories": {
+                    "Airsoft Batteries & Chargers": {
+                        "Batteries": {},
+                        "Battery Chargers": {}
+                    },
+                    "Airsoft Guns & Rifles": {
+                        "Pistols": {},
+                        "Rifles": {},
+                        "Shotguns": {}
+                    },
+                    "Airsoft Pellets & Ammunition": {
+                        "BBs": {},
+                        "Grenades": {},
+                        "Pellets": {}
+                    },
+                    "Airsoft Protective Gear": {
+                        "Chest Protectors": {},
+                        "Gloves": {},
+                        "Goggles": {},
+                        "Helmets": {},
+                        "Masks": {}
+                    },
+                    "Airsoft Targets": {},
+                    "Airsoft Tools & Accessories": {
+                        "Gun Loaders": {},
+                        "Gun Rails": {},
+                        "Magazines": {},
+                        "Tools": {}
+                    },
+                    "Sights & Optics": {
+                        "Gun Scopes": {},
+                        "Gun Scope Mounts": {},
+                        "Gun Sights": {},
+                        "Lasers": {},
+                        "Rangefinders": {}
+                    }
+                },
+                "Eyewear & Hearing Protection": {
+                    "Earmuffs": {},
+                    "Earplugs": {},
+                    "Safety Glasses": {}
+                },
+                "Gun Accessories, Maintenance & Storage": {
+                    "Gun Parts & Accessories": {
+                        "Grips": {},
+                        "Gun Holders": {},
+                        "Gun Sights": {},
+                        "Gun Stocks": {},
+                        "Gun Stock Accessories": {},
+                        "Locks": {},
+                        "Magazine Loaders": {},
+                        "Monopods & Bipods": {},
+                        "Recoil Pads": {},
+                        "Swivels": {}
+                    },
+                    "Gun Holsters, Cases & Bags": {
+                        "Ammunition & Magazine Boxes, Cans & Cases": {},
+                        "Ammunition & Magazine Pouches": {},
+                        "Bags & Packs": {
+                            "Hunting Bags": {},
+                            "Tactical Bags & Packs": {}
+                        },
+                        "Gun Belts": {},
+                        "Gun Holsters": {},
+                        "Gun Slings": {},
+                        "Pistol Cases": {
+                            "Hard Pistol Cases": {},
+                            "Soft Pistol Cases": {}
+                        },
+                        "Rifle Cases": {
+                            "Hard Rifle Cases": {},
+                            "Soft Rifle Cases": {}
+                        }
+                    },
+                    "Gun Maintenance": {
+                        "Gun Brushes": {},
+                        "Gun Cleaning Kits": {},
+                        "Gun Cloths": {},
+                        "Gun Jags": {},
+                        "Gun Lubrication": {},
+                        "Gun Snakes": {},
+                        "Gun Solvents": {},
+                        "Gunsmithing Tools": {}
+                    },
+                    "Gun & Ammunition Storage & Safes": {
+                        "Ammunition & Magazine Boxes, Cans & Cases": {},
+                        "Ammunition & Magazine Pouches": {},
+                        "Gun Racks": {
+                            "ATV & UTV Gun Racks": {},
+                            "Automotive Gun Racks": {},
+                            "Indoor Gun Racks": {}
+                        },
+                        "Gun Safes & Cabinets": {}
+                    }
+                },
+                "Optics": {
+                    "Binoculars": {},
+                    "Boresighters": {},
+                    "Game & Trail Cameras": {},
+                    "Gun Scopes": {
+                        "Handgun Scopes": {},
+                        "Rifle Scopes": {}
+                    },
+                    "Gun Sights": {},
+                    "Laser Rangefinders": {},
+                    "Monoculars": {},
+                    "Night Vision": {
+                        "Night Vision Binoculars & Goggles": {},
+                        "Night Vision Monoculars": {}
+                    },
+                    "Optics Mounts & Rings": {
+                        "Optics Mounts": {},
+                        "Optics Rings": {}
+                    },
+                    "Optics Covers": {},
+                    "Spotting Scopes": {},
+                    "Optics Accessories": {}
+                },
+                "Paintball": {
+                    "Clothing": {},
+                    "Barrels": {},
+                    "Bottom Lines": {},
+                    "Complete Paintball Sets": {},
+                    "Drop Forwards": {},
+                    "Equipment Bags": {},
+                    "Harnesses": {},
+                    "Loaders & Accessories": {
+                        "Loaders": {},
+                        "Feed Necks": {},
+                        "Tubes & Pods": {},
+                        "Loader Accessories": {}
+                    },
+                    "Marker Parts & Upgrades": {
+                        "Accessory Kits": {},
+                        "Autococker Accessories": {},
+                        "Bolts": {},
+                        "Grips": {},
+                        "Parts Kits": {},
+                        "Replacement Parts": {},
+                        "Triggers": {},
+                        "Valves": {}
+                    },
+                    "Markers": {},
+                    "Paintballs": {},
+                    "Helmets": {},
+                    "Protective Gear": {
+                        "Chest Protectors": {},
+                        "Elbow Pads": {},
+                        "Gloves": {},
+                        "Goggles": {},
+                        "Knee Pads": {},
+                        "Masks": {},
+                        "Neck Protectors": {},
+                        "Replacement Mask Lenses": {}
+                    },
+                    "Sights": {},
+                    "Stocks": {},
+                    "Tanks, Regulators & Parts": {
+                        "Tanks": {},
+                        "CO2 Systems": {},
+                        "Expansion Chambers": {},
+                        "Fill Stations": {},
+                        "Regulators": {},
+                        "Remotes": {},
+                        "Tank Covers": {}
+                    },
+                    "Grenades": {},
+                    "Marker Maintenance Equipment": {}
+                },
+                "Slingshots": {},
+                "Targets & Accessories": {}
+            },
+            "Archery": {
+                "Arrows & Parts": {
+                    "Arrows & Shafts": {
+                        "Crossbow Bolts & Arrows": {},
+                        "Hunting Arrows": {},
+                        "Targeting Arrows": {}
+                    },
+                    "Broadheads": {},
+                    "Fletches": {},
+                    "Points": {}
+                },
+                "Crossbows": {},
+                "Bows": {
+                    "Compound Bows": {},
+                    "Recurve Bows": {},
+                    "Basic Bows": {},
+                    "Longbows": {},
+                    "Youth Bow Sets": {}
+                },
+                "Bow Cases": {},
+                "Bow Slings": {},
+                "Quivers": {},
+                "Releases & Aids": {
+                    "Cocking Devices": {},
+                    "Release Aids": {}
+                },
+                "Rests": {},
+                "Sights & Optics": {
+                    "Rangefinders": {},
+                    "Sights": {}
+                },
+                "Stabilizers": {},
+                "Targets": {},
+                "Accessories": {
+                    "Bow Maintenance Accessories": {},
+                    "Bowstrings": {},
+                    "Kisser Buttons": {},
+                    "Nocks": {},
+                    "Protective Gear": {
+                        "Arm Guards": {},
+                        "Finger Tabs": {},
+                        "Gloves": {}
+                    }
+                }
+            },
+            "Tactical & Personal Defense": {
+                "Paracord": {},
+                "Personal Defense Equipment": {
+                    "Pepper Spray": {},
+                    "Tactical Flashlights": {},
+                    "Stun Guns": {}
+                },
+                "Protective Body Equipment": {
+                    "Earmuffs": {},
+                    "Earplugs": {},
+                    "Safety Eyewear": {},
+                    "Tactical Vests": {}
+                },
+                "Tactical Bags & Packs": {
+                    "Tactical Backpacks": {},
+                    "Tactical Bag Accessories": {},
+                    "Tactical Pouches": {}
+                },
+                "Tactical Knives": {}
+            }
+        },
+        "Leisure Sports & Game Room": {
+            "Arcade & Table Games": {
+                "Air Hockey": {},
+                "Combination Tables": {},
+                "Dome Hockey": {},
+                "Drinking Games": {},
+                "Electronic Basketball": {},
+                "Foosball": {
+                    "Foosball Tables": {},
+                    "Foosball Accessories": {}
+                },
+                "Home Bowling Alleys": {},
+                "Mini Pinball": {},
+                "Shuffleboard": {
+                    "Shuffleboard Tables": {},
+                    "Shuffleboard Accessories": {}
+                },
+                "Skee-Ball": {},
+                "Tabletop Billiards & Pool": {},
+                "Tabletop Table Tennis": {}
+            },
+            "Billiards & Pool": {
+                "Ball Racks": {},
+                "Billiard Balls": {},
+                "Bridges & Bridge Heads": {},
+                "Cue Chalk": {},
+                "Cue Racks": {},
+                "Cue Sticks & Accessories": {
+                    "Cue Sticks": {},
+                    "Cases": {},
+                    "Cue Shaft Cleaning & Maintenance": {},
+                    "Cue Tips": {}
+                },
+                "Gloves": {},
+                "Tables & Accessories": {
+                    "Billiard Cloth": {},
+                    "Parts & Accessories": {},
+                    "Pockets": {},
+                    "Table Covers": {},
+                    "Table Tennis Conversion Tops": {},
+                    "Tables": {}
+                }
+            },
+            "Bowling": {
+                "Bowling Balls": {},
+                "Gloves": {},
+                "Bags": {
+                    "Bowling Roller Bags": {},
+                    "Bowling Totes": {}
+                },
+                "Ball Polishers": {},
+                "Bowling Pins": {},
+                "Bowling Sets": {},
+                "Protective Gear": {},
+                "Accessories": {
+                    "Insert Tape": {},
+                    "Shoe Covers": {},
+                    "Training Aids": {}
+                },
+                "Clothing": {
+                    "Men": {
+                        "Jackets": {},
+                        "Shirts": {}
+                    },
+                    "Women": {
+                        "Jackets": {},
+                        "Shirts": {}
+                    },
+                    "Boys": {
+                        "Jackets": {},
+                        "Shirts": {}
+                    },
+                    "Girls": {
+                        "Jackets": {},
+                        "Shirts": {}
+                    }
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                }
+            },
+            "Casino Equipment": {
+                "Bingo Equipment": {
+                    "Bingo Balls": {},
+                    "Bingo Cards": {},
+                    "Bingo Chips": {},
+                    "Bingo Daubers": {},
+                    "Bingo Sets": {}
+                },
+                "Blackjack Equipment": {
+                    "Blackjack Layouts": {},
+                    "Blackjack Sets": {},
+                    "Blackjack Tables": {}
+                },
+                "Cards & Equipment": {
+                    "Card Shufflers": {},
+                    "Cut Cards": {},
+                    "Playing Cards": {}
+                },
+                "Casino Prize Wheels": {},
+                "Craps Equipment": {
+                    "Craps Layouts": {},
+                    "Craps Sets": {},
+                    "Craps Tables": {}
+                },
+                "Dice": {},
+                "Game Table Accessories": {},
+                "Markers & Buttons": {},
+                "Poker Equipment": {
+                    "Poker Chip Cases & Trays": {
+                        "Carousels": {},
+                        "Cases": {},
+                        "Trays & Racks": {}
+                    },
+                    "Poker Chips": {},
+                    "Poker Layouts": {},
+                    "Poker Sets": {},
+                    "Poker Table Tops": {},
+                    "Poker Tables": {}
+                },
+                "Roulette Equipment": {
+                    "Roulette Accessories": {},
+                    "Roulette Layouts": {},
+                    "Roulette Sets": {},
+                    "Roulette Tables": {},
+                    "Roulette Wheels": {}
+                }
+            },
+            "Darts & Equipment": {
+                "Dartboards": {},
+                "Darts": {},
+                "Flights": {
+                    "Pear Flights": {},
+                    "Slim Flights": {},
+                    "Standard Flights": {},
+                    "V-Wing Flights": {}
+                },
+                "Points": {},
+                "Shafts": {},
+                "Backboards": {},
+                "Cabinets": {},
+                "Cases & Wallets": {}
+            },
+            "Outdoor Games & Activities": {
+                "Balls": {
+                    "Beach Balls": {},
+                    "Dodgeballs": {},
+                    "Footbags": {},
+                    "Kickballs": {},
+                    "Playground Balls": {}
+                },
+                "Bocce": {
+                    "Accessories & Parts": {},
+                    "Balls": {},
+                    "Bocce Sets": {}
+                },
+                "Boomerangs": {},
+                "Croquet": {},
+                "Disc Sports": {
+                    "Disc Golf": {
+                        "Discs": {
+                            "Drivers": {},
+                            "Midrange Discs": {},
+                            "Putters": {}
+                        },
+                        "Targets & Baskets": {},
+                        "Starter Sets": {},
+                        "Bags": {}
+                    },
+                    "Ultimate": {},
+                    "Flying Discs": {}
+                },
+                "Kites": {},
+                "Pickleball": {},
+                "Pogo Sticks": {},
+                "Stilts": {},
+                "Tetherball": {},
+                "Toss Games": {
+                    "Cornhole": {
+                        "Cornhole Bags": {},
+                        "Cornhole Boards": {},
+                        "Cornhole Sets": {}
+                    },
+                    "Drinking Games": {},
+                    "Horseshoes": {},
+                    "Ladder Ball": {},
+                    "Ring Toss": {},
+                    "Washers": {}
+                },
+                "Trampolines & Accessories": {
+                    "Trampolines": {},
+                    "Parts & Accessories": {
+                        "Covers": {},
+                        "Enclosures": {},
+                        "Mats": {},
+                        "Pads": {},
+                        "Parts": {}
+                    }
+                }
+            },
+            "Play Sets & Playground Equipment": {
+                "Freestanding Climbers": {},
+                "Freestanding Slides": {},
+                "Parts & Hardware": {},
+                "Play & Swing Sets": {},
+                "Play Set Attachments": {
+                    "Climber Attachments": {},
+                    "Glider Attachments": {},
+                    "Ring & Trapeze Attachments": {},
+                    "Slide Attachments": {},
+                    "Swings": {}
+                },
+                "Playground Fitness Equipment": {},
+                "Teeter Totters": {},
+                "Tetherball": {}
+            },
+            "Table Tennis": {
+                "Tables": {},
+                "Rackets": {},
+                "Blades": {},
+                "Balls": {},
+                "Table Tennis Sets": {},
+                "Nets & Posts": {},
+                "Rubbers": {},
+                "Bags & Cases": {},
+                "Accessories": {}
+            },
+            "Trampolines & Accessories": {
+                "Trampolines": {},
+                "Parts & Accessories": {
+                    "Covers": {},
+                    "Enclosures": {},
+                    "Mats": {},
+                    "Pads": {},
+                    "Parts": {}
+                }
+            },
+            "Video Game Chairs": {}
+        },
+        "Airsoft & Paintball": {
+            "Airsoft": {
+                "BBs": {},
+                "Batteries": {},
+                "Battery Chargers": {},
+                "Grenades": {},
+                "Gun Cases": {},
+                "Gun Loaders": {},
+                "Gun Rails": {},
+                "Guns & Rifles": {
+                    "Pistols": {},
+                    "Rifles": {},
+                    "Shotguns": {}
+                },
+                "Holsters": {},
+                "Magazines": {},
+                "Pellets": {},
+                "Protective Gear": {
+                    "Chest Protectors": {},
+                    "Gloves": {},
+                    "Goggles": {},
+                    "Helmets": {},
+                    "Masks": {}
+                },
+                "Sights & Optics": {
+                    "Gun Scopes": {},
+                    "Gun Scope Mounts": {},
+                    "Gun Sights": {},
+                    "Lasers": {},
+                    "Rangefinders": {}
+                },
+                "Starter Packs": {},
+                "Tactical Vests": {},
+                "Targets": {},
+                "Tools": {}
+            },
+            "Paintball": {
+                "Clothing": {},
+                "Barrels": {},
+                "Bottom Lines": {},
+                "Complete Paintball Sets": {},
+                "Drop Forwards": {},
+                "Equipment Bags": {},
+                "Harnesses": {},
+                "Loaders & Accessories": {
+                    "Loaders": {},
+                    "Feed Necks": {},
+                    "Tubes & Pods": {},
+                    "Loader Accessories": {}
+                },
+                "Marker Parts & Upgrades": {
+                    "Accessory Kits": {},
+                    "Autococker Accessories": {},
+                    "Bolts": {},
+                    "Grips": {},
+                    "Parts Kits": {},
+                    "Replacement Parts": {},
+                    "Triggers": {},
+                    "Valves": {}
+                },
+                "Markers": {},
+                "Paintballs": {},
+                "Helmets": {},
+                "Protective Gear": {
+                    "Chest Protectors": {},
+                    "Elbow Pads": {},
+                    "Gloves": {},
+                    "Goggles": {},
+                    "Knee Pads": {},
+                    "Masks": {},
+                    "Neck Protectors": {},
+                    "Replacement Mask Lenses": {}
+                },
+                "Sights": {},
+                "Stocks": {},
+                "Tanks, Regulators & Parts": {
+                    "Tanks": {},
+                    "CO2 Systems": {},
+                    "Expansion Chambers": {},
+                    "Fill Stations": {},
+                    "Regulators": {},
+                    "Remotes": {},
+                    "Tank Covers": {}
+                },
+                "Grenades": {},
+                "Marker Maintenance Equipment": {}
+            }
+        },
+        "Running": {
+            "Clothing": {
+                "Men": {
+                    "Accessories": {
+                        "Balaclavas": {},
+                        "Gloves": {},
+                        "Sweat Headbands & Wristbands": {}
+                    },
+                    "Compression": {
+                        "Compression Pants & Tights": {},
+                        "Compression Shorts": {},
+                        "Compression Sleeves": {},
+                        "Compression Socks": {},
+                        "Compression Tops": {}
+                    },
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Tights": {}
+                },
+                "Women": {
+                    "Accessories": {
+                        "Balaclavas": {},
+                        "Gloves": {},
+                        "Sweat Headbands & Wristbands": {}
+                    },
+                    "Compression": {
+                        "Compression Pants & Tights": {},
+                        "Compression Shorts": {},
+                        "Compression Sleeves": {},
+                        "Compression Socks": {},
+                        "Compression Tops": {}
+                    },
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Skirts & Skorts": {},
+                    "Socks": {},
+                    "Sports Bras": {},
+                    "Tights": {}
+                },
+                "Boys": {
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shorts": {},
+                    "Socks": {}
+                },
+                "Girls": {
+                    "Jackets": {},
+                    "Pants": {},
+                    "Shorts": {},
+                    "Socks": {}
+                }
+            },
+            "Footwear": {
+                "Men's": {
+                    "Road Running": {},
+                    "Track & Field & Cross Country": {},
+                    "Trail Running": {}
+                },
+                "Women's": {
+                    "Road Running": {},
+                    "Track & Field & Cross Country": {},
+                    "Trail Running": {}
+                },
+                "Boys'": {},
+                "Girls'": {}
+            },
+            "GPS Units": {},
+            "Hydration Packs": {},
+            "Reflective Gear": {},
+            "Waist Packs": {}
+        },
+        "Swimming": {
+            "Aquatic Gloves": {},
+            "Earplugs": {},
+            "Equipment Bags": {},
+            "Goggles": {},
+            "Nose Clips": {},
+            "Swim Caps": {},
+            "Swimwear": {
+                "Men": {
+                    "Bodysuits": {},
+                    "Briefs": {},
+                    "Jammers": {}
+                },
+                "Women": {
+                    "Bodysuits": {},
+                    "One-Piece Suits": {},
+                    "Two-Piece Suits": {}
+                },
+                "Boys": {
+                    "Bodysuits": {},
+                    "Briefs": {},
+                    "Jammers": {}
+                },
+                "Girls": {
+                    "Bodysuits": {},
+                    "One-Piece Suits": {},
+                    "Two-Piece Suits": {}
+                }
+            },
+            "Training Equipment": {
+                "Hand Paddles": {},
+                "Kickboards": {},
+                "Swim Belts": {},
+                "Swim Vests": {},
+                "Training Fins": {}
+            }
+        },
+        "Team Sports": {
+            "Baseball": {
+                "Baseballs": {},
+                "Baseball Bats": {},
+                "Mitts": {
+                    "Catcher's Mitts": {},
+                    "First Baseman's Mitts": {},
+                    "Infielder's Mitts": {},
+                    "Outfielder's Mitts": {}
+                },
+                "Batting Gloves": {},
+                "Clothing": {
+                    "Men": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Jerseys": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Socks": {}
+                    }
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Field Equipment": {
+                    "Backstops": {},
+                    "Bases & Pitching Rubbers": {
+                        "Standard Bases": {},
+                        "Pitching Rubbers": {}
+                    },
+                    "Batting Cages": {},
+                    "Drag Mats": {},
+                    "Protective Screens": {}
+                },
+                "Protective Gear": {
+                    "Athletic Supporters": {},
+                    "Batting Helmets": {},
+                    "Catcher Chest Protectors": {},
+                    "Catcher Helmets": {},
+                    "Catcher Leg Guards": {},
+                    "Catcher Masks": {},
+                    "Face Guards": {},
+                    "Knee Pads": {},
+                    "Mouthguards": {},
+                    "Sliding Pads": {}
+                },
+                "Training Equipment": {
+                    "Ball Rebounders": {},
+                    "Batting Tees": {},
+                    "Batting Trainers": {},
+                    "Fungo & Training Bats": {},
+                    "Pitching Machines": {},
+                    "Pitching Trainers": {},
+                    "Practice Nets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Starter Balls & Bats": {
+                    "Plastic Bats": {},
+                    "T-Ball Bats": {},
+                    "Plastic Balls": {}
+                },
+                "Accessories": {
+                    "Bat Accessories": {
+                        "Bat Racks": {},
+                        "Batting Weights": {},
+                        "Grips & Grip Tape": {},
+                        "Pine Tar": {}
+                    },
+                    "Equipment Bags": {},
+                    "Mitt Accessories": {
+                        "Mitt Lace": {},
+                        "Mitt Padding": {},
+                        "Mitt Treatments": {}
+                    },
+                    "Umpire Protection": {
+                        "Chest Protectors": {},
+                        "Masks": {}
+                    }
+                }
+            },
+            "Basketball": {
+                "Basketballs": {},
+                "Clothing": {
+                    "Men": {
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweat Headbands & Wristbands": {},
+                        "Sweatpants": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Track Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Track Pants": {}
+                        }
+                    },
+                    "Women": {
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sports Bras": {},
+                        "Sweat Headbands & Wristbands": {},
+                        "Sweatpants": {},
+                        "Sweatshirts & Hoodies": {}
+                    },
+                    "Boys": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweat Headbands & Wristbands": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Tracksuits, Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Track Pants": {},
+                            "Tracksuits & Sweatsuits": {}
+                        }
+                    },
+                    "Girls": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweat Headbands & Wristbands": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Tracksuits, Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Tracksuits & Sweatsuits": {}
+                        }
+                    }
+                },
+                "Court Equipment": {
+                    "Backboard Components": {
+                        "Backboard Pads": {},
+                        "Nets": {},
+                        "Pole Pads": {},
+                        "Rims": {}
+                    },
+                    "Basketball Hoops & Goals": {
+                        "In-Ground": {},
+                        "Portable": {},
+                        "Wall-Mount": {}
+                    },
+                    "Hardware & Accessories": {},
+                    "Scoreboards & Timers": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Training Equipment": {
+                    "Ball Returns & Guard Nets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Accessories": {
+                    "Athletic Supporters": {},
+                    "Ball Pumps & Needles": {},
+                    "Basketball Storage": {},
+                    "Equipment Bags": {},
+                    "Mouthguards": {},
+                    "Shooter Sleeves": {}
+                }
+            },
+            "Football": {
+                "Clothing": {
+                    "Men": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Jerseys": {},
+                        "Socks": {},
+                        "Pants": {}
+                    },
+                    "Girls": {
+                        "Jerseys": {},
+                        "Pants": {},
+                        "Socks": {}
+                    }
+                },
+                "Footballs": {},
+                "Gloves": {},
+                "Footwear": {
+                    "Men's": {},
+                    "Boys'": {}
+                },
+                "Protective Gear": {
+                    "Athletic Supporters": {},
+                    "Helmets & Headgear": {
+                        "Helmets": {},
+                        "Chin Straps": {},
+                        "Facemasks": {}
+                    },
+                    "Mouthguards": {},
+                    "Protective Padding": {
+                        "Girdles": {},
+                        "Hand & Arm Pads": {},
+                        "Hip & Tail Pads": {},
+                        "Neck Rolls": {},
+                        "Rib Protectors": {},
+                        "Shoulder Pads": {},
+                        "Thigh & Knee Pads": {}
+                    }
+                },
+                "Training Equipment": {
+                    "Dummies": {},
+                    "Football Machines": {},
+                    "Kicking Cages": {},
+                    "Sleds & Chutes": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Accessories": {
+                    "Field Equipment": {
+                        "Goalposts": {},
+                        "Yard Markers": {}
+                    },
+                    "Flag Football Belts": {},
+                    "Football Storage": {},
+                    "Kicking Holders & Tees": {}
+                }
+            },
+            "Soccer": {
+                "Balls": {},
+                "Clothing": {
+                    "Men": {
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweatpants": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Track Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Track Pants": {}
+                        }
+                    },
+                    "Women": {
+                        "Compression": {
+                            "Compression Pants & Tights": {},
+                            "Compression Shorts": {},
+                            "Compression Sleeves": {},
+                            "Compression Socks": {},
+                            "Compression Tops": {}
+                        },
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sports Bras": {},
+                        "Sweatpants": {},
+                        "Sweatshirts & Hoodies": {}
+                    },
+                    "Boys": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Tracksuits, Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Track Pants": {},
+                            "Tracksuits & Sweatsuits": {}
+                        }
+                    },
+                    "Girls": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {},
+                        "Sweatshirts & Hoodies": {},
+                        "Tracksuits, Jackets & Pants": {
+                            "Track Jackets": {},
+                            "Tracksuits & Sweatsuits": {}
+                        }
+                    }
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Player Equipment": {
+                    "Goalkeeper Gloves": {},
+                    "Shin Guards": {}
+                },
+                "Training Equipment": {
+                    "Rebounders": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Accessories": {
+                    "Athletic Supporters": {},
+                    "Ball Pumps & Needles": {},
+                    "Equipment Bags": {},
+                    "Field Equipment": {
+                        "Goals": {},
+                        "Nets": {},
+                        "Rebounders": {}
+                    }
+                }
+            },
+            "Softball": {
+                "Softballs": {
+                    "Fast-Pitch Softballs": {},
+                    "Slow-Pitch Softballs": {}
+                },
+                "Bats": {
+                    "Fast-Pitch Softball Bats": {},
+                    "Slow-Pitch Softball Bats": {}
+                },
+                "Mitts": {
+                    "Catcher's Mitts": {},
+                    "First Baseman's Mitts": {},
+                    "Infielder's Mitts": {},
+                    "Outfielder's Mitts": {}
+                },
+                "Batting Gloves": {},
+                "Clothing": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Field Equipment": {
+                    "Backstops": {},
+                    "Bases & Pitching Rubbers": {
+                        "Standard Bases": {},
+                        "Pitching Rubbers": {}
+                    },
+                    "Batting Cages": {},
+                    "Drag Mats": {},
+                    "Protective Screens": {}
+                },
+                "Protective Gear": {
+                    "Batting Helmets": {},
+                    "Catcher Chest Protectors": {},
+                    "Catcher Helmets": {},
+                    "Catcher Leg Guards": {},
+                    "Catcher Masks": {},
+                    "Face Guards": {},
+                    "Knee Pads": {},
+                    "Mouthguards": {},
+                    "Sliding Pads": {}
+                },
+                "Training Equipment": {
+                    "Ball Rebounders": {},
+                    "Batting Tees": {},
+                    "Batting Trainers": {},
+                    "Fungo & Training Bats": {},
+                    "Pitching Machines": {},
+                    "Pitching Trainers": {},
+                    "Practice Nets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Starter Balls & Bats": {
+                    "Plastic Bats": {},
+                    "T-Ball Bats": {},
+                    "Plastic Balls": {}
+                },
+                "Accessories": {
+                    "Bat Accessories": {
+                        "Bat Racks": {},
+                        "Batting Weights": {},
+                        "Grips & Grip Tape": {}
+                    },
+                    "Equipment Bags": {},
+                    "Mitt Accessories": {
+                        "Mitt Lace": {},
+                        "Mitt Padding": {},
+                        "Mitt Treatments": {}
+                    },
+                    "Umpire Protection": {
+                        "Chest Protectors": {},
+                        "Masks": {}
+                    }
+                }
+            },
+            "Tennis & Racquet Sports": {
+                "Badminton": {
+                    "Racquets": {},
+                    "Shuttlecocks": {},
+                    "Nets": {},
+                    "Complete Sets": {}
+                },
+                "Handball": {},
+                "Racquetball": {
+                    "Racquets": {},
+                    "Racquetballs": {},
+                    "Gloves": {},
+                    "Goggles": {},
+                    "Footwear": {}
+                },
+                "Squash": {
+                    "Racquets": {},
+                    "Balls": {},
+                    "Equipment Bags": {},
+                    "Goggles": {},
+                    "Racket Grips": {},
+                    "Footwear": {}
+                },
+                "Tennis": {
+                    "Accessories": {
+                        "Court Accessories": {},
+                        "Racquet Accessories": {
+                            "Racquet Covers": {},
+                            "Racquet Grips": {},
+                            "Racquet Strings": {},
+                            "Vibration Dampeners": {}
+                        },
+                        "Stringing Machines & Tools": {},
+                        "Equipment Bags": {}
+                    },
+                    "Balls": {},
+                    "Clothing": {
+                        "Men": {
+                            "Jackets": {},
+                            "Pants": {},
+                            "Shirts": {},
+                            "Shorts": {},
+                            "Socks": {}
+                        },
+                        "Women": {
+                            "Dresses": {},
+                            "Jackets": {},
+                            "Pants": {},
+                            "Shirts": {},
+                            "Shorts": {},
+                            "Skirts": {},
+                            "Skorts": {},
+                            "Socks": {}
+                        },
+                        "Boys": {
+                            "Shirts": {},
+                            "Shorts": {},
+                            "Socks": {}
+                        },
+                        "Girls": {
+                            "Dresses": {},
+                            "Shirts": {},
+                            "Shorts": {},
+                            "Skirts": {},
+                            "Skorts": {},
+                            "Socks": {}
+                        }
+                    },
+                    "Court Equipment": {
+                        "Ball Hoppers": {},
+                        "Ball Machines": {},
+                        "Net Posts": {},
+                        "Nets": {}
+                    },
+                    "Footwear": {
+                        "Women's": {},
+                        "Boys'": {},
+                        "Girls'": {}
+                    },
+                    "Racquets": {},
+                    "Training Equipment": {}
+                }
+            },
+            "Lacrosse": {
+                "Balls": {},
+                "Clothing": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Field Equipment": {
+                    "Goals": {},
+                    "Nets": {}
+                },
+                "Footwear": {},
+                "Player Equipment": {
+                    "Sticks": {},
+                    "Gloves": {
+                        "Goalkeeper Gloves": {},
+                        "Field Player Gloves": {}
+                    },
+                    "Heads": {
+                        "Strung": {},
+                        "Unstrung": {}
+                    },
+                    "Shafts": {
+                        "Attacker Shafts": {},
+                        "Defender Shafts": {},
+                        "Goalkeeper Shafts": {}
+                    }
+                },
+                "Protective Gear": {
+                    "Arm Guards": {},
+                    "Athletic Supporters": {},
+                    "Chest Protectors": {},
+                    "Elbow Pads": {},
+                    "Goggles": {},
+                    "Helmets": {},
+                    "Mouthguards": {},
+                    "Protective Pants": {},
+                    "Rib Pads": {},
+                    "Shoulder Pads": {},
+                    "Upper Body Pads": {}
+                },
+                "Training Equipment": {
+                    "Goal Targets": {},
+                    "Rebounders": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Accessories": {
+                    "Equipment Bags": {},
+                    "Stringing Kits": {}
+                }
+            },
+            "Ice Hockey": {
+                "Clothing": {
+                    "Men": {},
+                    "Women": {},
+                    "Boys": {},
+                    "Girls": {}
+                },
+                "Player Equipment": {
+                    "Gloves": {},
+                    "Goalkeeper Equipment": {
+                        "Blockers": {},
+                        "Catchers": {},
+                        "Masks": {},
+                        "Skates": {},
+                        "Sticks": {}
+                    },
+                    "Shafts": {},
+                    "Sticks": {},
+                    "Replacement Blades": {}
+                },
+                "Protective Gear": {
+                    "Athletic Supporters": {},
+                    "Elbow Pads": {},
+                    "Helmet & Face Mask Combos": {},
+                    "Helmets": {},
+                    "Masks & Shields": {},
+                    "Mouthguards": {},
+                    "Shin Guards": {},
+                    "Shoulder Pads": {}
+                },
+                "Pucks": {},
+                "Rink Equipment": {
+                    "Goals": {},
+                    "Nets": {}
+                },
+                "Skates": {},
+                "Training Equipment": {
+                    "Goal Targets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Accessories": {
+                    "Equipment Bags": {},
+                    "Grips & Tapes": {},
+                    "Skate Accessories": {}
+                }
+            },
+            "Gymnastics": {
+                "Gym & Competition Equipment": {
+                    "Asymmetric Bars": {},
+                    "Balance Beams & Bases": {},
+                    "Horizontal Bars": {},
+                    "Parallel Bars": {},
+                    "Pommel Horses": {},
+                    "Rings": {}
+                },
+                "Mats & Flooring": {
+                    "Flooring": {},
+                    "Mats": {
+                        "Exercise Mats": {},
+                        "Landing Mats": {},
+                        "Training Mats": {},
+                        "Tumbling Mats": {}
+                    }
+                },
+                "Training Equipment": {},
+                "Accessories": {
+                    "Chalk": {},
+                    "Equipment Bags": {},
+                    "Hand Grips": {},
+                    "Parachutes": {}
+                }
+            },
+            "Volleyball": {
+                "Clothing": {
+                    "Men": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Jerseys": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    }
+                },
+                "Court Equipment": {
+                    "Net Antennas": {},
+                    "Net Systems": {},
+                    "Nets": {},
+                    "Pole Sets": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {}
+                },
+                "Protective Gear": {
+                    "Ankle Guards": {},
+                    "Knee Pads": {}
+                },
+                "Training Equipment": {},
+                "Volleyballs": {
+                    "Indoor Volleyballs": {},
+                    "Outdoor Volleyballs": {}
+                },
+                "Accessories": {
+                    "Ball Pumps & Needles": {},
+                    "Equipment Bags": {},
+                    "Volleyball Storage": {}
+                }
+            },
+            "Equestrian Sports": {
+                "Arena & Gaming Equipment": {},
+                "Clothing": {
+                    "Men": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    },
+                    "Women": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    },
+                    "Kids": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    }
+                },
+                "Crops, Whips & Spurs": {
+                    "Crops": {},
+                    "Whips": {},
+                    "Spurs": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Helmets": {},
+                "Horse Driving Equipment": {},
+                "Protective Gear": {},
+                "Riding Gloves": {},
+                "Tack": {
+                    "Bits": {},
+                    "Bridles & Accessories": {
+                        "Bits": {},
+                        "Bridles": {},
+                        "Headstalls": {},
+                        "Reins": {}
+                    },
+                    "Crops, Whips & Spurs": {
+                        "Crops": {},
+                        "Whips": {},
+                        "Spurs": {}
+                    },
+                    "Halters & Leads": {
+                        "Halters": {},
+                        "Leads": {}
+                    },
+                    "Longeing Equipment": {},
+                    "Pack Equipment": {},
+                    "Saddles & Accessories": {
+                        "Breastplates, Breast Collars & Martingales": {
+                            "Breastplates": {},
+                            "Breast Collars": {},
+                            "Martingales": {}
+                        },
+                        "Girths": {},
+                        "Saddle Blankets & Pads": {
+                            "Saddle Blankets": {},
+                            "Saddle Pads": {}
+                        },
+                        "Saddles": {},
+                        "Stirrups": {}
+                    }
+                },
+                "Trailers": {}
+            },
+            "Sports Medicine": {
+                "Athletic Tape & Supplies": {},
+                "Bandages & Dressings": {
+                    "Adhesive Bandages": {},
+                    "Finger Cots": {},
+                    "First Aid Tape": {},
+                    "Gauze & Pads": {
+                        "Bandaging Pads": {},
+                        "Gauze": {}
+                    },
+                    "Liquid Bandages": {}
+                },
+                "Braces, Splints & Slings": {
+                    "Arm, Hand & Finger Supports": {
+                        "Arm Supports": {},
+                        "Elbow Braces": {},
+                        "Finger Splints": {},
+                        "Hand & Wrist Braces": {}
+                    },
+                    "Arthritis Gloves": {},
+                    "Athletic Tapes & Wraps": {},
+                    "Back, Neck & Shoulder Supports": {
+                        "Back Braces": {},
+                        "Lumbar Supports": {},
+                        "Shoulder Supports": {}
+                    },
+                    "Chest Supports": {},
+                    "Compression Socks": {},
+                    "Hip & Waist Supports": {},
+                    "Kinesiology Recovery Tapes": {},
+                    "Leg & Foot Supports": {
+                        "Ankle Braces": {},
+                        "Bunion Splints": {},
+                        "Calf & Shin Supports": {},
+                        "Foot Supports": {},
+                        "Fracture & Cast Boots": {},
+                        "Knee Braces": {},
+                        "Plantar Fasciitis Braces": {},
+                        "Thigh Supports": {}
+                    },
+                    "Medical Support Hose": {}
+                },
+                "First Aid Kits": {},
+                "Mouthguards": {},
+                "Padding Supplies": {}
+            },
+            "Sports Training": {
+                "Baseball & Softball": {
+                    "Ball Rebounders": {},
+                    "Batting Tees": {},
+                    "Batting Trainers": {},
+                    "Fungo & Training Bats": {},
+                    "Pitching Machines": {},
+                    "Pitching Trainers": {},
+                    "Practice Nets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Basketball": {
+                    "Ball Returns & Guard Nets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Fencing": {},
+                "Football": {
+                    "Dummies": {},
+                    "Football Machines": {},
+                    "Kicking Cages": {},
+                    "Sleds & Chutes": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Gymnastics": {},
+                "Hockey": {
+                    "Goal Targets": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Lacrosse": {
+                    "Goal Targets": {},
+                    "Rebounders": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Soccer": {
+                    "Rebounders": {},
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    }
+                },
+                "Speed & Agility Training": {
+                    "Agility Ladders": {},
+                    "Reaction Balls": {},
+                    "Speed Hurdles": {}
+                },
+                "Tennis": {},
+                "Volleyball": {}
+            },
+            "Other Team Sports": {
+                "Cheerleading": {
+                    "Clothing": {
+                        "Women": {
+                            "Shorts": {},
+                            "Tops": {},
+                            "Uniforms": {}
+                        },
+                        "Girls": {
+                            "Shorts": {},
+                            "Tops": {},
+                            "Uniforms": {}
+                        }
+                    },
+                    "Footwear": {},
+                    "Mascot Costumes": {},
+                    "Megaphones": {},
+                    "Mini Megaphones": {},
+                    "Poms": {}
+                },
+                "Cricket": {
+                    "Balls": {},
+                    "Bats": {},
+                    "Batting Gloves": {},
+                    "Clothing": {},
+                    "Cricket Sets": {},
+                    "Equipment Bags": {},
+                    "Footwear": {},
+                    "Helmets": {},
+                    "Protective Gear": {
+                        "Athletic Supporters": {},
+                        "Batting Pads": {}
+                    },
+                    "Wicket Keeping Gloves": {}
+                },
+                "Curling": {},
+                "Fencing": {
+                    "Lam\u00e9s": {},
+                    "Protective Gear": {
+                        "Breast Protectors": {},
+                        "Chest Guards": {},
+                        "Gloves": {},
+                        "Jackets": {},
+                        "Knickers": {},
+                        "Masks": {},
+                        "Plastrons": {}
+                    },
+                    "Training Equipment": {},
+                    "Weapons & Parts": {
+                        "\u00c9p\u00e9es": {},
+                        "Foils": {},
+                        "Sabres": {}
+                    }
+                },
+                "Field Hockey": {
+                    "Balls": {},
+                    "Equipment Bags": {},
+                    "Goals & Nets": {
+                        "Goals": {},
+                        "Nets": {}
+                    },
+                    "Player Equipment": {
+                        "Gloves": {},
+                        "Sticks": {}
+                    },
+                    "Protective Gear": {
+                        "Athletic Supporters": {},
+                        "Goalkeeper Helmets": {},
+                        "Shin Guards": {}
+                    },
+                    "Training Equipment": {}
+                },
+                "Roller Hockey": {
+                    "Balls & Pucks": {},
+                    "Nets": {},
+                    "Replacement Blades": {},
+                    "Skates": {}
+                },
+                "Rugby": {
+                    "Balls": {},
+                    "Clothing": {
+                        "Men": {
+                            "Jackets": {},
+                            "Jerseys": {},
+                            "Shorts": {},
+                            "Socks": {}
+                        },
+                        "Women": {
+                            "Jackets": {},
+                            "Jerseys": {},
+                            "Shorts": {},
+                            "Socks": {}
+                        },
+                        "Boys": {},
+                        "Girls": {}
+                    },
+                    "Equipment Bags": {},
+                    "Footwear": {},
+                    "Protective Gear": {
+                        "Headguards": {},
+                        "Mouthguards": {},
+                        "Rugby Shoulder Protectors": {}
+                    }
+                },
+                "Track & Field": {
+                    "Jumping Equipment": {
+                        "Crossbars": {},
+                        "High Jump Standards": {},
+                        "Landing Pads": {},
+                        "Pits": {},
+                        "Pole Vault Poles": {},
+                        "Pole Vault Standards": {}
+                    },
+                    "Meet Equipment": {
+                        "Competitor Numbers": {},
+                        "Cones": {},
+                        "Markers": {}
+                    },
+                    "Race Equipment": {
+                        "Batons": {},
+                        "Hurdles": {},
+                        "Starter Pistols": {},
+                        "Starters' Hearing Protectors": {},
+                        "Starting Blocks": {}
+                    },
+                    "Speed & Agility Training": {
+                        "Agility Ladders": {},
+                        "Reaction Balls": {},
+                        "Speed Hurdles": {}
+                    },
+                    "Throwing Equipment": {
+                        "Cages": {},
+                        "Discuses": {},
+                        "Hammer & Weight Throws": {},
+                        "Javelins": {},
+                        "Shot Puts": {},
+                        "Throwing Circles": {},
+                        "Toe Boards": {}
+                    },
+                    "Accessories": {
+                        "Equipment Carts": {},
+                        "Lap Counters": {}
+                    }
+                },
+                "Water Polo": {},
+                "Wrestling": {
+                    "Protective Gear": {
+                        "Athletic Supporters": {},
+                        "Headgear": {},
+                        "Knee Pads": {},
+                        "Mouthguards": {}
+                    },
+                    "Singlets": {},
+                    "Wrestling Dummies": {},
+                    "Wrestling Mats": {}
+                }
+            }
+        },
+        "Tennis & Racquet Sports": {
+            "Badminton": {
+                "Racquets": {},
+                "Shuttlecocks": {},
+                "Nets": {},
+                "Complete Sets": {}
+            },
+            "Handball": {},
+            "Racquetball": {
+                "Racquets": {},
+                "Racquetballs": {},
+                "Gloves": {},
+                "Goggles": {},
+                "Footwear": {}
+            },
+            "Squash": {
+                "Racquets": {},
+                "Balls": {},
+                "Equipment Bags": {},
+                "Goggles": {},
+                "Racket Grips": {},
+                "Footwear": {}
+            },
+            "Tennis": {
+                "Accessories": {
+                    "Court Accessories": {},
+                    "Racquet Accessories": {
+                        "Racquet Covers": {},
+                        "Racquet Grips": {},
+                        "Racquet Strings": {},
+                        "Vibration Dampeners": {}
+                    },
+                    "Stringing Machines & Tools": {},
+                    "Equipment Bags": {}
+                },
+                "Balls": {},
+                "Clothing": {
+                    "Men": {
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Women": {
+                        "Dresses": {},
+                        "Jackets": {},
+                        "Pants": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Skirts": {},
+                        "Skorts": {},
+                        "Socks": {}
+                    },
+                    "Boys": {
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Socks": {}
+                    },
+                    "Girls": {
+                        "Dresses": {},
+                        "Shirts": {},
+                        "Shorts": {},
+                        "Skirts": {},
+                        "Skorts": {},
+                        "Socks": {}
+                    }
+                },
+                "Court Equipment": {
+                    "Ball Hoppers": {},
+                    "Ball Machines": {},
+                    "Net Posts": {},
+                    "Nets": {}
+                },
+                "Footwear": {
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Racquets": {},
+                "Training Equipment": {}
+            }
+        },
+        "Yoga": {
+            "Blocks": {},
+            "Clothing": {
+                "Men": {
+                    "Jackets & Hoodies": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {}
+                },
+                "Women": {
+                    "Jackets & Hoodies": {},
+                    "Leggings": {},
+                    "Pants": {},
+                    "Shirts": {},
+                    "Shorts": {},
+                    "Socks": {},
+                    "Sports Bras": {}
+                },
+                "Boys": {},
+                "Girls": {}
+            },
+            "Foam Wedges": {},
+            "Mat Bags": {},
+            "Mats": {},
+            "Silk Eye Bags": {},
+            "Starter Sets": {},
+            "Straps": {},
+            "Towels": {}
+        },
+        "Other Sports": {
+            "Boxing": {
+                "Boxing Gloves": {
+                    "Fight Gloves": {},
+                    "Bag Gloves": {},
+                    "Training Gloves": {}
+                },
+                "Punch Mitts": {},
+                "Punching Bags": {
+                    "Double-End Bags": {},
+                    "Heavy Bags": {},
+                    "Speed Bags": {},
+                    "Focus Bags": {},
+                    "Maize Bags": {},
+                    "Pedestal Bags": {}
+                },
+                "Punching Bag Accessories": {
+                    "Floor Anchors": {},
+                    "Hangers": {},
+                    "Speed Bag Platforms": {},
+                    "Speed Bag Stands": {}
+                },
+                "Boxing Gym Equipment": {},
+                "Protective Gear": {
+                    "Body Shields": {},
+                    "Chest & Rib Guards": {},
+                    "Foot Gear": {},
+                    "Forearm Guards": {},
+                    "Groin Protectors": {},
+                    "Hand Wraps": {},
+                    "Headgear": {},
+                    "Mouthguards": {},
+                    "Shin Guards": {}
+                },
+                "Boxing Pads": {},
+                "Clothing": {
+                    "Men": {
+                        "Jerseys": {},
+                        "Robes": {},
+                        "Trunks": {}
+                    },
+                    "Women": {},
+                    "Boys": {
+                        "Jerseys": {},
+                        "Robes": {},
+                        "Trunks": {}
+                    },
+                    "Girls": {}
+                }
+            },
+            "Dance": {
+                "Ballet Equipment": {},
+                "Tap Dancing Equipment": {},
+                "Dance Floors": {},
+                "Clothing": {
+                    "Women": {
+                        "Dresses": {},
+                        "Leotards": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Skirts": {},
+                        "Tights": {},
+                        "Tops": {},
+                        "Unitards": {}
+                    },
+                    "Men": {
+                        "Leotards & Unitards": {},
+                        "Pants": {},
+                        "Shorts": {}
+                    },
+                    "Boys": {},
+                    "Girls": {
+                        "Dresses": {},
+                        "Leotards": {},
+                        "Pants": {},
+                        "Shorts": {},
+                        "Skirts": {},
+                        "Tights": {},
+                        "Tops": {},
+                        "Unitards": {}
+                    }
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                }
+            },
+            "Equestrian Sports": {
+                "Arena & Gaming Equipment": {},
+                "Clothing": {
+                    "Men": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    },
+                    "Women": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    },
+                    "Kids": {
+                        "Breeches": {},
+                        "Shirts": {}
+                    }
+                },
+                "Crops, Whips & Spurs": {
+                    "Crops": {},
+                    "Whips": {},
+                    "Spurs": {}
+                },
+                "Footwear": {
+                    "Men's": {},
+                    "Women's": {},
+                    "Boys'": {},
+                    "Girls'": {}
+                },
+                "Helmets": {},
+                "Horse Driving Equipment": {},
+                "Protective Gear": {},
+                "Riding Gloves": {},
+                "Tack": {
+                    "Bits": {},
+                    "Bridles & Accessories": {
+                        "Bits": {},
+                        "Bridles": {},
+                        "Headstalls": {},
+                        "Reins": {}
+                    },
+                    "Crops, Whips & Spurs": {
+                        "Crops": {},
+                        "Whips": {},
+                        "Spurs": {}
+                    },
+                    "Halters & Leads": {
+                        "Halters": {},
+                        "Leads": {}
+                    },
+                    "Longeing Equipment": {},
+                    "Pack Equipment": {},
+                    "Saddles & Accessories": {
+                        "Breastplates, Breast Collars & Martingales": {
+                            "Breastplates": {},
+                            "Breast Collars": {},
+                            "Martingales": {}
+                        },
+                        "Girths": {},
+                        "Saddle Blankets & Pads": {
+                            "Saddle Blankets": {},
+                            "Saddle Pads": {}
+                        },
+                        "Saddles": {},
+                        "Stirrups": {}
+                    }
+                },
+                "Trailers": {}
+            },
+            "Fencing": {
+                "Lam\u00e9s": {},
+                "Protective Gear": {
+                    "Breast Protectors": {},
+                    "Chest Guards": {},
+                    "Gloves": {},
+                    "Jackets": {},
+                    "Knickers": {},
+                    "Masks": {},
+                    "Plastrons": {}
+                },
+                "Training Equipment": {},
+                "Weapons & Parts": {
+                    "\u00c9p\u00e9es": {},
+                    "Foils": {},
+                    "Sabres": {}
+                }
+            },
+            "Gymnastics": {
+                "Gym & Competition Equipment": {
+                    "Asymmetric Bars": {},
+                    "Balance Beams & Bases": {},
+                    "Horizontal Bars": {},
+                    "Parallel Bars": {},
+                    "Pommel Horses": {},
+                    "Rings": {}
+                },
+                "Mats & Flooring": {
+                    "Flooring": {},
+                    "Mats": {
+                        "Exercise Mats": {},
+                        "Landing Mats": {},
+                        "Training Mats": {},
+                        "Tumbling Mats": {}
+                    }
+                },
+                "Training Equipment": {},
+                "Accessories": {
+                    "Chalk": {},
+                    "Equipment Bags": {},
+                    "Hand Grips": {},
+                    "Parachutes": {}
+                }
+            },
+            "Ice Skating": {
+                "Ice Skates": {
+                    "Figure Skates": {},
+                    "Children's Ice Skates": {},
+                    "Hockey Skates": {}
+                },
+                "Skate Bags": {},
+                "Clothing": {
+                    "Women": {},
+                    "Girls": {}
+                }
+            },
+            "Martial Arts": {
+                "Training Equipment": {
+                    "Bag Gloves": {},
+                    "Dummies": {},
+                    "Hand Targets & Focus Mitts": {},
+                    "Kicking Shields": {},
+                    "Kicking Targets": {},
+                    "Punching Bags": {
+                        "Double-End Bags": {},
+                        "Heavy Bags": {},
+                        "Speed Bags": {},
+                        "Focus Bags": {},
+                        "Maize Bags": {},
+                        "Pedestal Bags": {}
+                    },
+                    "Target Boards": {},
+                    "Training Gloves": {}
+                },
+                "Protective Gear": {
+                    "Body Shields": {},
+                    "Chest & Rib Guards": {},
+                    "Foot Gear": {},
+                    "Forearm Guards": {},
+                    "Groin Protectors": {},
+                    "Hand Wraps": {},
+                    "Headgear": {},
+                    "Mouthguards": {},
+                    "Shin Guards": {}
+                },
+                "Weapons": {
+                    "Batons": {},
+                    "Bo Staffs": {},
+                    "Bokken": {},
+                    "Chains": {},
+                    "Cord Nunchakus": {},
+                    "Escrima Sticks": {},
+                    "Kamas": {},
+                    "Knives": {},
+                    "Ninja Weapons": {},
+                    "Practice Swords": {},
+                    "Sais": {},
+                    "Swords": {},
+                    "Three-Section Staffs": {},
+                    "Tonfas": {}
+                },
+                "Weapon Stands": {},
+                "Weapon Cases": {},
+                "Belt Pins": {},
+                "Belt Displays": {},
+                "Equipment Bags": {},
+                "Clothing": {
+                    "Aikido": {},
+                    "Jiu-Jitsu": {
+                        "Belts": {},
+                        "Bottoms": {},
+                        "Sets": {},
+                        "Tops": {}
+                    },
+                    "Judo": {},
+                    "Karate": {
+                        "Belts": {},
+                        "Bottoms": {},
+                        "Sets": {},
+                        "Tops": {}
+                    },
+                    "Kendo": {},
+                    "Kickboxing": {},
+                    "Kung Fu & Tai Chi": {
+                        "Bottoms": {},
+                        "Sets": {},
+                        "Tops": {}
+                    },
+                    "Mixed Martial Arts": {},
+                    "Taekwondo": {}
+                }
+            }
+        },
+        "Accessories": {
+            "Anti-Chafing Products": {},
+            "Ball Storage": {},
+            "Car Racks & Carriers": {
+                "Bike Racks": {},
+                "Kayak, Canoe & SUP Racks": {
+                    "Foam Block Rooftop Carriers": {},
+                    "Kayak & Canoe Trailers": {},
+                    "Rooftop Racks": {}
+                },
+                "Ski & Snowboard Racks": {},
+                "Surfboard & Windsurfing Racks": {},
+                "Cargo Carriers": {
+                    "Cargo Baskets": {},
+                    "Hard-Shell Carriers": {},
+                    "Soft-Shell Carriers": {}
+                },
+                "Car Rack Parts & Accessories": {}
+            },
+            "Coach & Referee Gear": {
+                "Marker Boards": {},
+                "Megaphones": {},
+                "Scoreboards & Timers": {},
+                "Scorebooks": {},
+                "Stopwatches": {},
+                "Whistles": {},
+                "Uniforms & Apparel": {}
+            },
+            "Electronics & Gadgets": {
+                "Activity & Fitness Trackers": {},
+                "Altimeters": {},
+                "Clinometers": {},
+                "Compasses": {},
+                "Cycling Computers": {},
+                "GPS Units": {
+                    "Cycling GPS Units": {},
+                    "Golf Course GPS Units": {},
+                    "Running GPS Units": {},
+                    "Handheld GPS Units": {}
+                },
+                "Heart Rate Monitors": {},
+                "Odometers": {},
+                "Pedometers": {},
+                "Speedometers": {},
+                "Stopwatches": {},
+                "Weather Monitors": {}
+            },
+            "Field, Court & Rink Equipment": {
+                "Baseball Field Equipment": {
+                    "Backstops": {},
+                    "Bases & Pitching Rubbers": {
+                        "Standard Bases": {},
+                        "Pitching Rubbers": {}
+                    },
+                    "Batting Cages": {},
+                    "Drag Mats": {},
+                    "Protective Screens": {}
+                },
+                "Basketball Court Equipment": {
+                    "Backboard Components": {
+                        "Backboard Pads": {},
+                        "Nets": {},
+                        "Pole Pads": {},
+                        "Rims": {}
+                    },
+                    "Basketball Hoops & Goals": {
+                        "In-Ground": {},
+                        "Portable": {},
+                        "Wall-Mount": {}
+                    },
+                    "Hardware & Accessories": {},
+                    "Scoreboards & Timers": {}
+                },
+                "Bleachers": {},
+                "Cones & Pylons": {},
+                "Corner Flags": {},
+                "Field Marking Equipment": {},
+                "Football Field Equipment": {
+                    "Goalposts": {},
+                    "Yard Markers": {}
+                },
+                "Gym Mats": {
+                    "Gymnastics Mats & Flooring": {
+                        "Flooring": {},
+                        "Mats": {
+                            "Exercise Mats": {},
+                            "Landing Mats": {},
+                            "Training Mats": {},
+                            "Tumbling Mats": {}
+                        }
+                    },
+                    "Wrestling Mats": {}
+                },
+                "Gymnastics Equipment": {
+                    "Gym & Competition Equipment": {
+                        "Asymmetric Bars": {},
+                        "Balance Beams & Bases": {},
+                        "Horizontal Bars": {},
+                        "Parallel Bars": {},
+                        "Pommel Horses": {},
+                        "Rings": {}
+                    },
+                    "Mats & Flooring": {
+                        "Flooring": {},
+                        "Mats": {
+                            "Exercise Mats": {},
+                            "Landing Mats": {},
+                            "Training Mats": {},
+                            "Tumbling Mats": {}
+                        }
+                    },
+                    "Training Equipment": {},
+                    "Accessories": {
+                        "Chalk": {},
+                        "Equipment Bags": {},
+                        "Hand Grips": {},
+                        "Parachutes": {}
+                    }
+                },
+                "Hockey Rink & Field Equipment": {
+                    "Goals": {},
+                    "Nets": {}
+                },
+                "Lacrosse Field Equipment": {
+                    "Goals": {},
+                    "Nets": {}
+                },
+                "Line Striping Machines": {},
+                "Soccer Field Equipment": {
+                    "Goals": {},
+                    "Nets": {},
+                    "Rebounders": {}
+                },
+                "Stadium Seats & Cushions": {},
+                "Tennis Court Equipment": {
+                    "Ball Hoppers": {},
+                    "Ball Machines": {},
+                    "Net Posts": {},
+                    "Nets": {}
+                },
+                "Track & Field Equipment": {
+                    "Jumping Equipment": {
+                        "Crossbars": {},
+                        "High Jump Standards": {},
+                        "Landing Pads": {},
+                        "Pits": {},
+                        "Pole Vault Poles": {},
+                        "Pole Vault Standards": {}
+                    },
+                    "Meet Equipment": {
+                        "Competitor Numbers": {},
+                        "Cones": {},
+                        "Markers": {}
+                    },
+                    "Race Equipment": {
+                        "Batons": {},
+                        "Hurdles": {},
+                        "Starter Pistols": {},
+                        "Starters' Hearing Protectors": {},
+                        "Starting Blocks": {}
+                    },
+                    "Throwing Equipment": {
+                        "Cages": {},
+                        "Discuses": {},
+                        "Hammer & Weight Throws": {},
+                        "Javelins": {},
+                        "Shot Puts": {},
+                        "Throwing Circles": {},
+                        "Toe Boards": {}
+                    }
+                },
+                "Volleyball Court Equipment": {
+                    "Net Antennas": {},
+                    "Net Systems": {},
+                    "Nets": {},
+                    "Pole Sets": {}
+                }
+            },
+            "Gear Repair Equipment": {},
+            "Gym Bags": {
+                "Sports Duffels": {},
+                "Gym Totes": {},
+                "Drawstring Bags": {}
+            },
+            "Inflation Devices & Accessories": {},
+            "Memorabilia Display & Storage": {
+                "Card Albums": {},
+                "Card Cases": {},
+                "Card Sleeves": {},
+                "Display Cases": {}
+            },
+            "Multipurpose Daypacks": {},
+            "Paracord": {},
+            "Reflective Gear": {},
+            "Sports Sunglasses": {},
+            "Sports Water Bottle Accessories": {},
+            "Sports Water Bottles": {},
+            "Trophies, Medals & Awards": {
+                "Certificates": {},
+                "Medals": {},
+                "Plaques": {},
+                "Trophies": {}
+            }
+        },
+        "Sports Medicine": {
+            "Athletic Tape & Supplies": {},
+            "Bandages & Dressings": {
+                "Adhesive Bandages": {},
+                "Finger Cots": {},
+                "First Aid Tape": {},
+                "Gauze & Pads": {
+                    "Bandaging Pads": {},
+                    "Gauze": {}
+                },
+                "Liquid Bandages": {}
+            },
+            "Braces, Splints & Slings": {
+                "Arm, Hand & Finger Supports": {
+                    "Arm Supports": {},
+                    "Elbow Braces": {},
+                    "Finger Splints": {},
+                    "Hand & Wrist Braces": {}
+                },
+                "Arthritis Gloves": {},
+                "Athletic Tapes & Wraps": {},
+                "Back, Neck & Shoulder Supports": {
+                    "Back Braces": {},
+                    "Lumbar Supports": {},
+                    "Shoulder Supports": {}
+                },
+                "Chest Supports": {},
+                "Compression Socks": {},
+                "Hip & Waist Supports": {},
+                "Kinesiology Recovery Tapes": {},
+                "Leg & Foot Supports": {
+                    "Ankle Braces": {},
+                    "Bunion Splints": {},
+                    "Calf & Shin Supports": {},
+                    "Foot Supports": {},
+                    "Fracture & Cast Boots": {},
+                    "Knee Braces": {},
+                    "Plantar Fasciitis Braces": {},
+                    "Thigh Supports": {}
+                },
+                "Medical Support Hose": {}
+            },
+            "First Aid Kits": {},
+            "Mouthguards": {},
+            "Padding Supplies": {}
+        }
+    },
+    "Fan Shop": {
+        "Auto Accessories": {
+            "Air Fresheners": {},
+            "Antenna Toppers": {},
+            "Car Covers": {},
+            "Car Flags": {},
+            "Car Magnets": {},
+            "Decals & Bumper Stickers": {
+                "Bumper Stickers": {},
+                "Decals": {}
+            },
+            "Emblems": {},
+            "Floormats": {},
+            "Key Chains": {},
+            "License Plate Covers": {},
+            "License Plate Frames": {},
+            "Mirror Covers": {},
+            "Seat Covers": {},
+            "Steering Wheel Covers": {},
+            "Tire Covers": {},
+            "Trailer Hitch Covers": {},
+            "Windshield Sun Shades": {}
+        },
+        "Bags, Packs & Accessories": {
+            "Backpacks": {},
+            "Drawstring Bags": {},
+            "Duffel Bags": {},
+            "Handbags & Purses": {},
+            "Laptop & Messenger Bags": {
+                "Laptop Bags": {},
+                "Messenger Bags": {}
+            },
+            "Luggage": {},
+            "Luggage Tags": {},
+            "Lunch Boxes": {},
+            "Tote Bags": {},
+            "Wallets": {}
+        },
+        "Caps & Hats": {
+            "Baseball Caps": {},
+            "Novelty Headwear": {},
+            "Scrub Caps": {},
+            "Skullies & Beanies": {},
+            "Visors": {}
+        },
+        "Cell Phone Accessories": {},
+        "Clothing": {
+            "Jackets": {},
+            "Jerseys": {},
+            "Pants": {},
+            "Polo Shirts": {},
+            "Shorts": {},
+            "Sweaters": {},
+            "Sweatshirts & Hoodies": {},
+            "T-Shirts": {},
+            "Baby Clothing": {
+                "Bibs": {},
+                "Booties & Socks": {},
+                "Clothing Sets": {},
+                "Creepers & Rompers": {},
+                "Dresses & Skirts": {},
+                "Hats": {},
+                "Hoodies & Sweaters": {},
+                "Jackets & Coats": {},
+                "Jerseys & Shirts": {},
+                "Layette Sets": {},
+                "Pants & Shorts": {},
+                "Sleepwear": {},
+                "Underwear": {}
+            }
+        },
+        "Clothing Accessories": {
+            "Belts": {},
+            "Buckles": {},
+            "Caps & Hats": {
+                "Baseball Caps": {},
+                "Novelty Headwear": {},
+                "Scrub Caps": {},
+                "Skullies & Beanies": {},
+                "Visors": {}
+            },
+            "Headbands": {},
+            "Sleeve Patches": {},
+            "Socks": {},
+            "Scarves": {},
+            "Sunglasses": {},
+            "Ties": {},
+            "Wristbands": {}
+        },
+        "Fabric": {},
+        "Footwear": {
+            "Sandals": {},
+            "Slippers": {},
+            "Sneakers": {},
+            "Shoelaces": {}
+        },
+        "Gameday & Tailgating": {
+            "Aprons": {},
+            "Canopies": {},
+            "Coolers": {},
+            "Disposable Cups & Plates": {
+                "Disposable Cups": {},
+                "Disposable Plates": {}
+            },
+            "Folding Chairs": {},
+            "Grills & Accessories": {
+                "Grills": {},
+                "Grill Accessories": {}
+            },
+            "Rally Towels": {},
+            "Stadium Noisemakers": {},
+            "Stadium Seats & Cushions": {},
+            "Tailgater Mats": {}
+        },
+        "Golf Store": {
+            "Golf Equipment": {
+                "Golf Bag Towels": {},
+                "Golf Balls": {},
+                "Golf Club Bags": {},
+                "Golf Club Head Covers": {},
+                "Golf Gift Sets": {},
+                "Golf Pin Flags": {},
+                "Golf Umbrellas": {},
+                "Putters & Clubs": {}
+            },
+            "Polo Shirts": {},
+            "Visors": {}
+        },
+        "Jewelry & Watches": {
+            "Bracelets": {},
+            "Charms": {},
+            "Cuff Links": {},
+            "Earrings": {},
+            "Necklaces & Pendants": {},
+            "Rings": {},
+            "Watches": {}
+        },
+        "Office Products": {
+            "Badge Holders": {},
+            "Calendars & Planners": {},
+            "Clipboards": {},
+            "Desk Caddies": {},
+            "Desk Lamps": {},
+            "Desk Pads & Blotters": {},
+            "Letter Openers": {},
+            "Memo Boards": {},
+            "Notebooks": {},
+            "Notepad Holders": {},
+            "Notepads": {},
+            "Office Chairs": {},
+            "Paperweights": {},
+            "Pencil Holders": {},
+            "Pencils": {},
+            "Pens": {},
+            "Staplers": {},
+            "Waste Baskets": {},
+            "Wrapping Paper": {}
+        },
+        "Patio, Lawn & Garden": {
+            "Canopies": {},
+            "Coolers": {},
+            "Grills & Accessories": {
+                "Grills": {},
+                "Grill Accessories": {}
+            },
+            "Outdoor Flags": {},
+            "Outdoor Lighting": {},
+            "Outdoor Pennants": {},
+            "Outdoor Statues": {},
+            "Outdoor Thermometers": {},
+            "Stepping Stones": {},
+            "Street Signs": {},
+            "Thermocoolers": {},
+            "Wind Chimes": {},
+            "Wind Socks": {},
+            "Wind Spinners & Wheels": {}
+        },
+        "Pet Gear": {
+            "Pet Bandanas": {},
+            "Pet Beds": {},
+            "Pet Bowls": {},
+            "Pet Clothing": {
+                "Pet T-Shirts": {},
+                "Pet Dresses": {},
+                "Pet Jerseys": {}
+            },
+            "Pet Collars & Harnesses": {
+                "Pet Collars": {},
+                "Pet Harnesses": {}
+            },
+            "Pet ID Tags": {},
+            "Pet Jerseys": {},
+            "Pet Leashes": {},
+            "Pet Mats": {}
+        },
+        "Sports Collectibles": {
+            "Balls": {},
+            "Baseball Bases": {},
+            "Bats": {},
+            "Bobbleheads": {},
+            "Clothing & Uniforms": {
+                "Boxing Robes": {},
+                "Hats": {},
+                "Jerseys": {},
+                "Pants": {},
+                "Shirts": {},
+                "Shoes": {},
+                "Shorts & Trunks": {}
+            },
+            "Cut Signatures": {},
+            "Diecast Cars": {},
+            "Figurines": {},
+            "Flags & Banners": {},
+            "Gloves": {},
+            "Golf Clubs": {},
+            "Hats": {},
+            "Helmets": {
+                "Full Sized Helmets": {},
+                "Mini Helmets": {}
+            },
+            "Hockey Pucks": {},
+            "Hockey Sticks & Blades": {},
+            "Jerseys": {},
+            "Lineup Cards": {},
+            "Magazines": {},
+            "Personal Checks": {},
+            "Photographs": {},
+            "Postcards & Index Cards": {},
+            "Prints & Posters": {},
+            "Publications & Media": {
+                "Magazines": {},
+                "Media Guides": {}
+            },
+            "Shoes": {},
+            "Stadium Components": {},
+            "Ticket Stubs": {},
+            "Trading Cards": {
+                "Single Cards": {
+                    "Base Singles": {},
+                    "Parallel Singles": {},
+                    "Graded Singles": {},
+                    "Insert Singles": {},
+                    "Promo Singles": {}
+                },
+                "Packs & Boxes": {
+                    "Boxes": {},
+                    "Packs": {}
+                },
+                "Cases": {},
+                "Sets": {
+                    "Base Sets": {},
+                    "Parallel Sets": {},
+                    "Team Sets": {},
+                    "Sealed Sets": {},
+                    "Promo Sets": {}
+                },
+                "Lots": {}
+            },
+            "Trophies": {}
+        },
+        "Sports Equipment": {
+            "Baseball Equipment": {
+                "Baseballs": {},
+                "Baseball Bats": {},
+                "Baseball Helmets": {},
+                "Baseball Mitts": {}
+            },
+            "Basketball Equipment": {
+                "Basketballs": {},
+                "Backboards": {}
+            },
+            "Football Equipment": {
+                "Football Helmets": {},
+                "Footballs": {}
+            },
+            "Golf Equipment": {
+                "Golf Bag Towels": {},
+                "Golf Balls": {},
+                "Golf Club Bags": {},
+                "Golf Club Head Covers": {},
+                "Golf Gift Sets": {},
+                "Golf Pin Flags": {},
+                "Golf Umbrellas": {},
+                "Putters & Clubs": {}
+            },
+            "Hockey Equipment": {
+                "Hockey Helmets": {},
+                "Hockey Pucks": {},
+                "Hockey Sticks": {}
+            },
+            "Soccer Equipment": {},
+            "Tennis Equipment": {}
+        },
+        "Sports Souvenirs": {
+            "Baseball Bats": {},
+            "Event Programs": {},
+            "Hard Hats": {},
+            "Helmets": {
+                "Full Sized Helmets": {},
+                "Mini Helmets": {}
+            },
+            "Key Chains": {},
+            "Magnets": {},
+            "Memorabilia Display & Storage": {
+                "Card Albums": {},
+                "Card Cases": {},
+                "Card Sleeves": {},
+                "Display Cases": {}
+            },
+            "Pennants": {},
+            "Photo Baseball Bats": {},
+            "Photo Baseballs": {},
+            "Photomints": {},
+            "Pins": {},
+            "Tailgater Mats": {},
+            "Trading Cards": {},
+            "Water Globes": {}
+        },
+        "Tools & Home Improvement": {
+            "Cabinet & Furniture Knobs": {},
+            "Hand Tools": {},
+            "Lamps": {},
+            "Lighters": {},
+            "Mailboxes": {},
+            "Night Lights": {},
+            "Tape Measures": {},
+            "Wallpaper": {}
+        },
+        "Toys & Game Room": {
+            "Action Figures & Toy Figurines": {},
+            "Billiards": {},
+            "Bobbleheads": {},
+            "Darts & Dartboards": {},
+            "Games": {},
+            "Poker": {
+                "Poker Chips": {},
+                "Poker Sets": {}
+            },
+            "Tailgating Toss Games": {},
+            "Toy Vehicles": {}
+        },
+        "Video Games & Accessories": {}
+    }
+}

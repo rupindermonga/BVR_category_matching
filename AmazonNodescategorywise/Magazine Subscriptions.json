@@ -1,0 +1,371 @@
+{
+    "Arts, Music & Photography": {
+        "Architecture": {},
+        "Art & Art History": {},
+        "Graphic Design": {},
+        "Music": {},
+        "Performing Arts": {},
+        "Photography": {}
+    },
+    "Automotive & Motorcycles": {
+        "Motorcycles": {},
+        "Trucks": {}
+    },
+    "Business & Investing": {
+        "Accounting": {},
+        "Advertising": {},
+        "Banking": {},
+        "Business Life": {},
+        "Business Management": {},
+        "Careers": {},
+        "Economics": {},
+        "Entrepreneurship": {},
+        "Finance": {},
+        "International": {},
+        "Investing": {},
+        "Women in Business": {}
+    },
+    "Children & Teen": {
+        "Children": {
+            "Animals": {},
+            "Art & Music": {},
+            "Boys": {},
+            "By Age": {
+                "12 & Up": {},
+                "Ages 4-8": {},
+                "Ages 9-12": {},
+                "Baby-3": {}
+            },
+            "Educational": {},
+            "Girls": {},
+            "Sports & Activities": {},
+            "Teaching Aids": {}
+        },
+        "Teen": {}
+    },
+    "Cooking, Food & Wine": {
+        "Recipes & Techniques": {},
+        "Special Diet": {},
+        "Wine & Spirits": {}
+    },
+    "Crafts & Hobbies": {
+        "Decorating": {},
+        "Knitting": {},
+        "Miniatures": {},
+        "Model Trains": {},
+        "Model Making": {},
+        "Needlecrafts": {},
+        "Painting": {},
+        "Pottery & Ceramics": {},
+        "Quilts & Quilting": {},
+        "Remote Control Vehicles": {},
+        "Woodworking": {}
+    },
+    "Entertainment & Pop Culture": {
+        "Celebrities & Gossip": {},
+        "Humor": {},
+        "Literary Magazines & Journals": {},
+        "Movies": {},
+        "Music": {},
+        "Performing Arts": {},
+        "Puzzles & Games": {},
+        "Sci-Fi & Fantasy": {
+            "Literary Magazines & Journals": {},
+            "Mystery": {},
+            "Science Fiction & Fantasy": {
+                "Fantasy": {},
+                "Gaming": {},
+                "Science Fiction": {}
+            }
+        },
+        "Television": {},
+        "Video Games": {}
+    },
+    "Fashion & Style": {
+        "International": {},
+        "Men": {},
+        "Women": {}
+    },
+    "Health, Fitness & Wellness": {
+        "Alternative Medicine": {},
+        "Diets & Weight Loss": {},
+        "Health": {},
+        "Men's Health & Fitness": {},
+        "Nutrition": {},
+        "Psychology & Counseling": {},
+        "Women's Health & Fitness": {}
+    },
+    "Home & Garden": {
+        "Antiques & Collectibles": {},
+        "Country Life": {},
+        "Design & Decoration": {},
+        "Farming": {},
+        "Gardening & Horticulture": {},
+        "Home Organization": {},
+        "How-To & Home Improvements": {},
+        "Log Homes": {},
+        "Luxury Homes": {},
+        "Pets & Animals": {},
+        "Sustainable Living": {},
+        "Woodworking": {}
+    },
+    "Lifestyle & Communities": {
+        "LGBT": {},
+        "Health, Fitness & Wellness": {
+            "Alternative Medicine": {},
+            "Diets & Weight Loss": {},
+            "Health": {},
+            "Men's Health & Fitness": {},
+            "Nutrition": {},
+            "Psychology & Counseling": {},
+            "Women's Health & Fitness": {}
+        },
+        "Men's Interest": {
+            "Fashion": {},
+            "Health & Fitness": {}
+        },
+        "Religion & Spirituality": {
+            "Buddhism": {},
+            "Christianity": {},
+            "Hinduism": {},
+            "Islam": {},
+            "Judaism": {},
+            "New Age": {},
+            "Occult": {},
+            "Other Eastern Religions": {},
+            "Other Practices": {}
+        },
+        "Sports, Recreation & Outdoors": {
+            "Baseball": {},
+            "Basketball": {},
+            "Boating": {},
+            "Cycling": {},
+            "Equestrian": {},
+            "Extreme Sports": {},
+            "Flying": {},
+            "Football": {},
+            "Golf": {},
+            "Hockey": {},
+            "Hunting & Firearms": {},
+            "Individual Sports": {},
+            "Racket Sports": {},
+            "Rodeos": {},
+            "Running": {},
+            "Skiing & Snowboarding": {},
+            "Soccer": {},
+            "Softball": {},
+            "Training": {},
+            "Water Sports": {}
+        },
+        "Travel": {
+            "Africa": {},
+            "Asia": {},
+            "Australia": {},
+            "Europe": {},
+            "South America": {},
+            "United States": {
+                "Midwest": {},
+                "Northeast": {},
+                "South": {},
+                "West": {}
+            }
+        },
+        "Women's Interest": {
+            "Bridal & Weddings": {},
+            "Dating": {},
+            "Fashion": {},
+            "Health & Fitness": {},
+            "Motherhood": {},
+            "Pregnancy & Childbirth": {},
+            "Self-Improvement": {},
+            "Women in Business": {},
+            "Women's Lifestyle": {}
+        }
+    },
+    "Literary, Sci-Fi & Mystery": {
+        "Literary Magazines & Journals": {},
+        "Mystery": {},
+        "Science Fiction & Fantasy": {
+            "Fantasy": {},
+            "Gaming": {},
+            "Science Fiction": {}
+        }
+    },
+    "Men's Interest": {
+        "Fashion": {},
+        "Health & Fitness": {}
+    },
+    "News & Political Commentary": {
+        "Ideas & Commentary": {},
+        "Regional": {}
+    },
+    "Newsletters": {},
+    "Newspapers": {
+        "Business & Finance": {},
+        "Law & Government": {},
+        "Lifestyles, Cultures & Religions": {},
+        "News & Current Events": {},
+        "Science & Technology": {}
+    },
+    "Parenting & Families": {
+        "Education": {},
+        "Parenting": {},
+        "Pregnancy & Childbirth": {}
+    },
+    "Pets & Animals": {},
+    "Professional & Educational Journals": {
+        "Education": {
+            "History of Education": {},
+            "Special Aspects": {},
+            "Theory & Practice": {}
+        },
+        "Professional & Trade": {
+            "Arts": {
+                "Aesthetics": {},
+                "Architecture": {},
+                "Crafts & Collectibles": {},
+                "Decorative Arts": {},
+                "Drawing, Design & Illustration": {},
+                "Museums & Collectors": {},
+                "Painting": {},
+                "Performing Arts": {},
+                "Photography": {},
+                "Sculpture": {}
+            },
+            "Education": {
+                "History of Education": {},
+                "Special Aspects": {},
+                "Theory & Practice": {}
+            },
+            "Engineering": {},
+            "Entertainment & Media": {
+                "Film": {},
+                "Music": {},
+                "Television & Radio": {}
+            },
+            "Firefighting & Prevention": {},
+            "Humanities & Social Sciences": {
+                "Anthropology & Folklore": {},
+                "Economics & Economic Theory": {},
+                "Geography": {},
+                "History": {},
+                "Linguistics": {},
+                "Military Science": {},
+                "Philosophy": {},
+                "Political Science": {},
+                "Psychology": {},
+                "Religion & Spirituality": {},
+                "Sociology": {}
+            },
+            "Law": {
+                "Government & Policy": {},
+                "International Law & Relations": {},
+                "Taxation": {}
+            },
+            "Medicine": {
+                "Alternative & Holistic": {},
+                "Dentistry": {},
+                "Nursing": {}
+            },
+            "Science & Technology": {
+                "Astronomy": {},
+                "Biological & Natural Sciences": {},
+                "Chemistry": {},
+                "Computer Science & Mathematics": {},
+                "Earth Sciences": {},
+                "Physics": {}
+            },
+            "Transportation": {}
+        },
+        "Medicine": {
+            "Alternative & Holistic": {},
+            "Dentistry": {},
+            "Nursing": {}
+        }
+    },
+    "Religion & Spirituality": {
+        "Buddhism": {},
+        "Christianity": {},
+        "Hinduism": {},
+        "Islam": {},
+        "Judaism": {},
+        "New Age": {},
+        "Occult": {},
+        "Other Eastern Religions": {},
+        "Other Practices": {}
+    },
+    "Science, History & Nature": {
+        "Agricultural Sciences": {},
+        "Archaeology": {},
+        "Astronomy": {},
+        "Behavioral Sciences": {},
+        "Biological Sciences": {},
+        "Chemistry": {},
+        "Earth Sciences": {},
+        "Essays & Commentary": {},
+        "Experiments, Instruments & Measurement": {},
+        "History": {},
+        "Mathematics": {},
+        "Nature & Ecology": {},
+        "Philosophy": {},
+        "Physics": {},
+        "Social Sciences": {},
+        "Technology": {}
+    },
+    "Spanish-Language": {},
+    "Sports, Recreation & Outdoors": {
+        "Outdoors": {
+            "Hiking & Camping": {},
+            "Mountaineering": {}
+        },
+        "Sports & Recreation": {
+            "Baseball": {},
+            "Basketball": {},
+            "Boating": {},
+            "Cycling": {},
+            "Equestrian": {},
+            "Extreme Sports": {},
+            "Flying": {},
+            "Football": {},
+            "Golf": {},
+            "Hockey": {},
+            "Hunting & Firearms": {},
+            "Individual Sports": {},
+            "Racket Sports": {},
+            "Rodeos": {},
+            "Running": {},
+            "Skiing & Snowboarding": {},
+            "Soccer": {},
+            "Softball": {},
+            "Training": {},
+            "Water Sports": {}
+        }
+    },
+    "Technology": {
+        "Computers & Internet": {}
+    },
+    "Travel, City & Regional": {
+        "Africa": {},
+        "Asia": {},
+        "Australia": {},
+        "Europe": {},
+        "South America": {},
+        "United States": {
+            "Midwest": {},
+            "Northeast": {},
+            "South": {},
+            "West": {}
+        }
+    },
+    "Women's Interest": {
+        "Bridal & Weddings": {},
+        "Dating": {},
+        "Fashion": {},
+        "Health & Fitness": {},
+        "Motherhood": {},
+        "Pregnancy & Childbirth": {},
+        "Self-Improvement": {},
+        "Women in Business": {},
+        "Women's Lifestyle": {}
+    }
+}

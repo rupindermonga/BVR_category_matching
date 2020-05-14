@@ -1,0 +1,1728 @@
+{
+    "Alcoholic Beverages": {
+        "Beer": {
+            "Ale": {
+                "Amber": {},
+                "Belgian": {},
+                "Brown Ale": {},
+                "Hefeweizen": {},
+                "India Pale Ale (IPA)": {},
+                "Pale Ale": {},
+                "Scotch Ale": {},
+                "Sour": {}
+            },
+            "Hard Cider": {},
+            "Lager & Pilsner": {},
+            "Malt Beverages": {},
+            "Non-Alcoholic Beer": {},
+            "Seasonal": {},
+            "Variety Packs": {}
+        },
+        "Cocktail Mixers": {
+            "Bitters": {},
+            "Bloody Mary": {},
+            "Daiquiri": {},
+            "Margarita": {},
+            "Martini": {},
+            "Seltzer Water": {},
+            "Tonic Water": {}
+        },
+        "Spirits": {
+            "Brandy": {},
+            "Gin": {},
+            "Liqueurs": {},
+            "Pre-mixed Drinks": {},
+            "Rum": {},
+            "Tequila": {},
+            "Vodka": {},
+            "Whiskey & Scotch": {}
+        },
+        "Wine": {
+            "Dessert": {},
+            "Fruit": {},
+            "Mead": {},
+            "Non-Alcoholic Wine": {},
+            "Red": {},
+            "Ros\u00e9": {},
+            "Sake & Rice Spirits": {},
+            "Sangria": {},
+            "Sparkling": {},
+            "White": {}
+        }
+    },
+    "Baby Foods": {
+        "Baby Formula": {},
+        "Beverages": {},
+        "Cereal": {},
+        "Meals": {},
+        "Snack Foods": {}
+    },
+    "Beverages": {
+        "Bottled Beverages, Water & Drink Mixes": {
+            "Cocktail Mixers": {
+                "Bitters": {},
+                "Bloody Mary": {},
+                "Daiquiri": {},
+                "Margarita": {},
+                "Martini": {},
+                "Seltzer Water": {},
+                "Tonic Water": {}
+            },
+            "Coconut Water": {},
+            "Cold-Brew Coffee & Concentrate": {},
+            "Energy Drinks": {},
+            "Flavor Syrups": {},
+            "Iced Tea": {},
+            "Juices": {
+                "Ciders": {},
+                "Fruit Juice": {},
+                "Lemonade": {},
+                "Smoothies": {},
+                "Sparkling Juice": {},
+                "Vegetable Juice": {}
+            },
+            "Meal Replacement & Protein Drinks": {
+                "Instant Breakfast Drinks": {},
+                "Meal Replacement Drinks": {},
+                "Protein Drinks": {}
+            },
+            "Milk & Cream": {
+                "Buttermilk": {},
+                "Coffee Creamers": {},
+                "Dairy Milk": {},
+                "Eggnog": {},
+                "Flavored Milk": {},
+                "Half & Half": {},
+                "Heavy Cream": {},
+                "Light Cream": {},
+                "Whipping Cream": {}
+            },
+            "Non-Dairy Milks": {
+                "Almond Milk": {},
+                "Coconut Milk": {},
+                "Coffee Creamers": {},
+                "Flax Milk": {},
+                "Hemp Milk": {},
+                "Oat Milks": {},
+                "Rice Milk": {},
+                "Soy Milk": {}
+            },
+            "Powdered Drink Mixes & Flavorings": {
+                "Chocolate Drink Mixes": {},
+                "Instant Breakfast Drinks": {},
+                "Powdered Milk": {},
+                "Soft Drink Mixes": {},
+                "Water Flavoring Drops": {}
+            },
+            "Soft Drinks": {},
+            "Sports Drinks": {},
+            "Water": {
+                "Flavored Water": {},
+                "Mineral Water": {},
+                "Seltzer Water": {},
+                "Sparkling Water": {},
+                "Sports Drinking Water": {},
+                "Tonic Water": {}
+            }
+        },
+        "Coffee, Tea & Cocoa": {
+            "Bubble Tea Kits": {},
+            "Bubble Tea Tapioca Pearls": {},
+            "Cocoa": {},
+            "Coffee": {
+                "Bottled & Canned Coffee Drinks": {},
+                "Ground Coffee": {},
+                "Iced Coffee & Cold-Brew": {},
+                "Instant Coffee": {},
+                "Roasted Coffee Beans": {},
+                "Single-Serve Capsules & Pods": {},
+                "Unroasted Coffee Beans": {}
+            },
+            "Coffee & Tea Gifts": {},
+            "Coffee Substitutes": {},
+            "Dairy Coffee Creamers": {},
+            "Non-Dairy Coffee Creamers": {},
+            "Tea": {
+                "Black": {},
+                "Chai": {},
+                "Green": {},
+                "Herbal": {},
+                "Iced Tea": {},
+                "Matcha": {},
+                "Oolong": {},
+                "Rooibos": {},
+                "Tea Samplers": {},
+                "White": {}
+            }
+        }
+    },
+    "Breads & Bakery": {
+        "Bakery & Dessert Gifts": {},
+        "Breadcrumbs & Stuffing": {},
+        "Breads": {
+            "Baguette": {},
+            "Challah": {},
+            "Ciabatta": {},
+            "Cornbread": {},
+            "Dinner Breads": {},
+            "Flatbreads": {},
+            "Pretzels": {},
+            "Rolls & Buns": {
+                "Hamburger Buns": {},
+                "Hot Dog Buns": {}
+            },
+            "Sandwich Breads": {
+                "Buttermilk": {},
+                "Multigrain": {},
+                "Potato": {},
+                "Pumpernickel": {},
+                "Raisin": {},
+                "Rye": {},
+                "Sourdough": {},
+                "Spelt": {},
+                "White": {},
+                "Whole Wheat": {}
+            }
+        },
+        "Breadsticks": {},
+        "Cakes": {
+            "Cheesecakes": {},
+            "Coffeecakes": {},
+            "Fruitcakes": {},
+            "Layer Cakes": {},
+            "Liquor Cakes": {},
+            "Panettones": {}
+        },
+        "Cookies": {
+            "Biscotti": {},
+            "Butter": {},
+            "Chocolate": {},
+            "Chocolate Chip": {},
+            "Cookie Assortments": {},
+            "Fortune": {},
+            "Fruit": {},
+            "Ginger Snaps": {},
+            "Ladyfingers": {},
+            "Macaroons": {},
+            "Meringues": {},
+            "Nut": {},
+            "Oatmeal": {},
+            "Peanut-Butter": {},
+            "Pizzelles": {},
+            "Rich Tea": {},
+            "Sandwich": {},
+            "Shortbread": {},
+            "Snickerdoodles": {},
+            "Sugar": {},
+            "Wafers": {}
+        },
+        "Desserts": {
+            "Baklava": {},
+            "Brownies": {},
+            "Cupcakes": {},
+            "Fudge": {},
+            "Pies": {},
+            "Sponge Puddings": {},
+            "Tarts": {}
+        },
+        "Pastries & Bakery": {
+            "Bagels": {},
+            "Croissants": {},
+            "Danishes": {},
+            "Donuts": {},
+            "English Muffins": {},
+            "Muffins": {},
+            "Pastries": {},
+            "Scones": {},
+            "Waffles": {}
+        },
+        "Pastry Shells & Crusts": {},
+        "Pizza Crusts": {},
+        "Refrigerated Doughs": {
+            "Biscuit Dough": {},
+            "Cinnamon Rolls": {},
+            "Cookie Dough": {},
+            "Dinner Rolls": {}
+        }
+    },
+    "Breakfast Foods": {
+        "Applesauce & Fruit Cups": {
+            "Applesauce": {},
+            "Fruit Cups": {}
+        },
+        "Breakfast & Cereal Bars": {
+            "Cereal": {},
+            "Fruit & Nut": {},
+            "Fruit Bars": {},
+            "Granola": {},
+            "High Protein": {},
+            "Nut Bars": {},
+            "Whole Grain": {}
+        },
+        "Breakfast Syrups & Toppings": {
+            "Chocolate & Hazelnut Spreads": {},
+            "Chocolate Syrups": {},
+            "Fruit Sauces": {},
+            "Maple Syrups": {}
+        },
+        "Cereals": {
+            "Cold Cereals": {},
+            "Granola": {},
+            "Grits": {},
+            "Muesli": {},
+            "Oatmeal": {}
+        },
+        "Instant Breakfast Drinks": {},
+        "Pancake, Waffle & Baking Mixes": {
+            "Biscuits": {},
+            "Muffins": {},
+            "Pancakes & Waffles": {}
+        },
+        "Toaster Pastries": {}
+    },
+    "Candy & Chocolate": {
+        "Brittle, Caramel & Toffee": {
+            "Brittle": {},
+            "Caramels": {},
+            "Toffee": {}
+        },
+        "Candied & Chocolate-Covered Snacks": {
+            "Bacon": {},
+            "Chips & Pretzels": {},
+            "Espresso Beans": {},
+            "Fruit": {},
+            "Nut Clusters": {},
+            "Nuts": {}
+        },
+        "Candy & Chocolate Assortments": {},
+        "Candy & Chocolate Bars": {},
+        "Candy & Chocolate Gifts": {},
+        "Chewing & Bubble Gum": {},
+        "Chocolate & Fudge": {
+            "Candy & Chocolate Bars": {},
+            "Chocolate Truffles": {},
+            "Fudge": {}
+        },
+        "Ginger Candy": {},
+        "Hard Candy & Lollipops": {
+            "Candy Canes": {},
+            "Hard Candy": {},
+            "Suckers & Lollipops": {}
+        },
+        "Jelly Beans & Gummy Candy": {
+            "Gummy Candy": {},
+            "Jelly Beans": {},
+            "Licorice": {},
+            "Taffy": {}
+        },
+        "Marshmallows": {},
+        "Mints": {},
+        "Sour Candy": {},
+        "Traditional & International Sweets": {
+            "Halva": {},
+            "Wagashi": {}
+        }
+    },
+    "Dairy, Cheese & Eggs": {
+        "Butter & Margarine": {
+            "Butter": {},
+            "Ghee & Clarified Butter": {},
+            "Non-Dairy Butter Substitutes": {}
+        },
+        "Cheese": {
+            "American": {},
+            "Asiago": {},
+            "Blue Cheese": {},
+            "Brie": {},
+            "Camembert": {},
+            "Cheddar": {},
+            "Cheese Blends": {},
+            "Cheese Curds": {},
+            "Ch\u00e8vre": {},
+            "Colby": {},
+            "Deli-Sliced Cheeses": {},
+            "Emmental": {},
+            "Feta": {},
+            "Gouda": {},
+            "Gruy\u00e8re": {},
+            "Havarti": {},
+            "Limburger": {},
+            "Manchego": {},
+            "Mexican Cheese": {
+                "Cotija": {},
+                "Oaxaca": {},
+                "Queso Chihuahua": {}
+            },
+            "Monterey Jack": {},
+            "Mozzarella": {},
+            "Muenster": {},
+            "Paneer": {},
+            "Parmesan": {},
+            "Pecorino": {},
+            "Processed": {},
+            "Provolone": {},
+            "Ricotta": {},
+            "String & Snack": {},
+            "Swiss": {},
+            "Taleggio": {},
+            "Vegetarian": {}
+        },
+        "Cheese & Charcuterie Gifts": {},
+        "Cheese Assortments & Samplers": {},
+        "Cheese Dips & Spreads": {},
+        "Cottage Cheese": {},
+        "Cream Cheese": {},
+        "Eggs & Egg Substitutes": {
+            "Egg Substitutes": {},
+            "Egg Whites": {},
+            "Whole Eggs": {}
+        },
+        "Milk & Cream": {
+            "Buttermilk": {},
+            "Coffee Creamers": {},
+            "Dairy Milk": {},
+            "Eggnog": {},
+            "Flavored Milk": {},
+            "Half & Half": {},
+            "Heavy Cream": {},
+            "Light Cream": {},
+            "Whipping Cream": {}
+        },
+        "Non-Dairy Milks": {
+            "Almond Milk": {},
+            "Coconut Milk": {},
+            "Coffee Creamers": {},
+            "Flax Milk": {},
+            "Hemp Milk": {},
+            "Oat Milks": {},
+            "Rice Milk": {},
+            "Soy Milk": {}
+        },
+        "Snack Packs & Lunches": {},
+        "Sour Cream": {},
+        "Whipped Toppings": {},
+        "Yogurt": {
+            "Drinks": {},
+            "Greek & Icelandic": {
+                "Flavored": {},
+                "Plain": {}
+            },
+            "Kefir": {},
+            "Kids & Baby": {},
+            "Non-Dairy": {},
+            "Starter Cultures": {},
+            "Traditional Flavored": {},
+            "Traditional Plain": {}
+        }
+    },
+    "Deli & Prepared Foods": {
+        "Appetizers": {},
+        "Box Lunches": {},
+        "Breakfast": {},
+        "Casseroles, Pot Pies & Quiches": {},
+        "Deli Meats & Cheeses": {
+            "Deli-Sliced Cheeses": {},
+            "Deli-Sliced Meats": {
+                "Bologna": {},
+                "Capicola": {},
+                "Corned Beef": {},
+                "Ham": {},
+                "Liverwurst": {},
+                "Meat Loaves": {},
+                "Mortadella": {},
+                "Pastrami": {},
+                "Pepperoni": {},
+                "Prosciutto": {},
+                "Roast Beef": {},
+                "Salami": {},
+                "Turkey": {}
+            },
+            "Hot Dogs & Franks": {},
+            "Prepackaged Deli Meats": {
+                "Bologna": {},
+                "Capicola": {},
+                "Corned Beef": {},
+                "Ham": {},
+                "Liverwurst": {},
+                "Meat Loaves": {},
+                "Mortadella": {},
+                "Pastrami": {},
+                "Pepperoni": {},
+                "Prosciutto": {},
+                "Roast Beef": {},
+                "Salami": {},
+                "Turkey": {}
+            }
+        },
+        "Deli Salads": {},
+        "Dips, Salsas & Spreads": {
+            "Bean": {},
+            "Cheese": {},
+            "Guacamole": {},
+            "Hummus": {},
+            "Olive": {},
+            "Salsas": {},
+            "Vegetable": {}
+        },
+        "Entrees": {},
+        "Fresh Pasta & Sauces": {},
+        "Meal Kits": {},
+        "Olives & Antipasto": {
+            "Artichoke Hearts": {},
+            "Canned & Jarred Fish": {},
+            "Capers": {},
+            "Cornichons": {},
+            "Mushrooms": {},
+            "Okra": {},
+            "Pickled Vegetables": {},
+            "Stuffed Grape Leaves": {},
+            "Sun-Dried Tomatoes": {}
+        },
+        "Sandwiches & Wraps": {},
+        "Side Dishes": {},
+        "Soups, Stews & Chili": {}
+    },
+    "Food & Beverage Gifts": {
+        "Assortments & Variety Gifts": {},
+        "Bakery & Dessert Gifts": {},
+        "Candy & Chocolate Gifts": {},
+        "Cheese & Charcuterie Gifts": {},
+        "Coffee & Tea Gifts": {},
+        "Fruit & Nut Gifts": {},
+        "Herb, Spice & Seasoning Gifts": {},
+        "Jam, Jelly & Sweet Spread Gifts": {},
+        "Meat & Seafood Gifts": {},
+        "Sauce, Gravy & Marinade Gifts": {},
+        "Snack Gifts": {}
+    },
+    "Fresh Flowers & Live Indoor Plants": {
+        "Fresh Centerpieces": {},
+        "Fresh Cut Flowers": {
+            "Carnations": {},
+            "Chrysanthemums": {},
+            "Daffodils": {},
+            "Daisies": {},
+            "Hydrangeas": {},
+            "Irises": {},
+            "Lilies": {},
+            "Mixed Bouquets": {},
+            "Orchids": {},
+            "Peonies": {},
+            "Roses": {},
+            "Sunflowers": {},
+            "Tulips": {}
+        },
+        "Fresh Sprays": {},
+        "Fresh Wreaths": {},
+        "Live Indoor Plants": {
+            "Bamboo": {},
+            "Bonsai": {},
+            "Cacti & Succulents": {},
+            "Orchids": {}
+        }
+    },
+    "Fresh Meal Kits": {},
+    "Frozen": {
+        "Appetizers & Snacks": {
+            "Breaded Mozzarella & Vegetables": {},
+            "Chicken Nuggets & Tenders": {},
+            "Chicken Wings": {},
+            "Hors d'Oeuvres": {},
+            "Pretzels": {}
+        },
+        "Bread & Dough": {},
+        "Breakfast Foods": {
+            "Bagels & Muffins": {
+                "Bagels": {},
+                "Muffins": {}
+            },
+            "Eggs": {},
+            "Pancakes & French Toast": {
+                "French Toast": {},
+                "Pancakes": {}
+            },
+            "Pastries": {},
+            "Waffles": {}
+        },
+        "Desserts & Toppings": {},
+        "Fruit": {
+            "Blackberries": {},
+            "Blueberries": {},
+            "Peaches": {},
+            "Raspberries": {},
+            "Strawberries": {}
+        },
+        "Ice Cream & Novelties": {
+            "Frozen Yogurt": {},
+            "Gelato": {},
+            "Ice Cream": {},
+            "Ice Cream & Soft Serve Mixes": {},
+            "Non-Dairy Ice Cream & Novelties": {},
+            "Popsicles & Juice Bars": {},
+            "Sorbet & Sherbet": {}
+        },
+        "Juice": {},
+        "Meals & Entrees": {
+            "Beef": {},
+            "Chicken & Turkey": {},
+            "Fish & Seafood": {},
+            "Kids": {},
+            "Meatless": {},
+            "Pork": {},
+            "Pot Pies": {}
+        },
+        "Meats": {
+            "Burgers & Patties": {},
+            "Chicken": {
+                "Breast & Cutlets": {},
+                "Legs & Thighs": {},
+                "Nuggets & Tenders": {},
+                "Whole Chickens": {},
+                "Wings": {}
+            },
+            "Lamb": {},
+            "Meatballs": {},
+            "Pork": {},
+            "Sausage & Bacon": {},
+            "Turkey": {}
+        },
+        "Pasta & Sauces": {},
+        "Pizza": {
+            "Cheese": {},
+            "Meat": {},
+            "Vegetable": {}
+        },
+        "Potatoes & Onion Rings": {},
+        "Seafood": {
+            "Burgers & Patties": {},
+            "Fish Sticks": {},
+            "Frozen Fish": {},
+            "Frozen Shellfish": {}
+        },
+        "Vegetables": {
+            "Artichokes": {},
+            "Asparagus": {},
+            "Beans & Peas": {},
+            "Broccoli": {},
+            "Brussels Sprouts": {},
+            "Carrots": {},
+            "Corn": {},
+            "Edamame": {},
+            "Eggplant": {},
+            "Mixed Vegetables": {},
+            "Okra": {},
+            "Onions": {},
+            "Spinach & Greens": {},
+            "Squash": {}
+        }
+    },
+    "Home Brewing & Winemaking": {
+        "Beer Brewing Ingredients": {},
+        "Beer Brewing Recipe Kits": {
+            "Lagers": {},
+            "Specialty Beers": {},
+            "Wheat Beers": {}
+        },
+        "Winemaking Ingredients": {
+            "Additives": {},
+            "Ingredient Kits": {},
+            "Spices & Flavorings": {},
+            "Yeasts & Cultures": {}
+        }
+    },
+    "Meat & Seafood": {
+        "Bacon": {},
+        "Beef": {
+            "Ground Beef & Patties": {
+                "Burger Patties": {},
+                "Ground Beef": {}
+            },
+            "Ribs": {},
+            "Roasts": {
+                "Brisket": {},
+                "Chuck Roast": {},
+                "Pot Roast": {},
+                "Rib Roast": {}
+            },
+            "Soup Bones": {},
+            "Steaks": {
+                "Chuck Eye": {},
+                "Eye of Round": {},
+                "Flank": {},
+                "Flat Iron": {},
+                "Porterhouse": {},
+                "Ribeye": {},
+                "Shoulder": {},
+                "Sirloin": {},
+                "Skirt": {},
+                "Strip": {},
+                "T-Bone": {},
+                "Top Loin": {},
+                "Tri-Tip": {}
+            },
+            "Stew Meat & Convenient Cuts": {
+                "Kabobs": {},
+                "Stew Meat": {}
+            },
+            "Variety & Organ Meats": {}
+        },
+        "Chicken": {
+            "Breasts": {},
+            "Cutlets": {},
+            "Drumsticks": {},
+            "Giblets": {},
+            "Ground Chicken": {},
+            "Stir Fry Cuts": {},
+            "Strips": {},
+            "Tenders": {},
+            "Thighs": {},
+            "Whole Chickens": {},
+            "Wings": {}
+        },
+        "Foie Gras & P\u00e2t\u00e9s": {},
+        "Frozen Meats": {
+            "Burgers & Patties": {},
+            "Chicken": {
+                "Breast & Cutlets": {},
+                "Legs & Thighs": {},
+                "Nuggets & Tenders": {},
+                "Whole Chickens": {},
+                "Wings": {}
+            },
+            "Lamb": {},
+            "Meatballs": {},
+            "Pork": {},
+            "Sausage & Bacon": {},
+            "Turkey": {}
+        },
+        "Hot Dogs & Franks": {},
+        "Lamb": {},
+        "Meat & Seafood Gifts": {},
+        "Pork": {
+            "Chops": {},
+            "Ham": {},
+            "Ribs": {},
+            "Tenderloins": {}
+        },
+        "Sausages": {
+            "Andouille": {},
+            "Chicken": {},
+            "Chorizo": {},
+            "Kielbasa": {},
+            "Summer": {},
+            "Turkey": {}
+        },
+        "Seafood": {
+            "Caviars & Roes": {},
+            "Crab Cakes": {},
+            "Dried Seafood": {
+                "Dried Abalone": {},
+                "Dried Anchovies": {},
+                "Dried Cod": {},
+                "Dried Scallops": {},
+                "Dried Sea Cucumber": {},
+                "Dried Shrimp": {},
+                "Dried Squid": {}
+            },
+            "Fish P\u00e2t\u00e9": {},
+            "Fresh Seafood": {
+                "Fresh Fish": {
+                    "Anchovies": {},
+                    "Catfish": {},
+                    "Cod": {},
+                    "Flounder": {},
+                    "Haddock": {},
+                    "Halibut": {},
+                    "Mahi Mahi": {},
+                    "Rockfish": {},
+                    "Sablefish": {},
+                    "Salmon": {},
+                    "Sardines": {},
+                    "Sea Bass": {},
+                    "Sole": {},
+                    "Swordfish": {},
+                    "Tilapia": {},
+                    "Trout": {},
+                    "Tuna": {}
+                },
+                "Fresh Shellfish": {
+                    "Clams": {},
+                    "Crab": {},
+                    "Lobster": {},
+                    "Mussels": {},
+                    "Oysters": {},
+                    "Scallops": {},
+                    "Shrimp & Prawns": {}
+                }
+            },
+            "Frozen Seafood": {
+                "Burgers & Patties": {},
+                "Fish Sticks": {},
+                "Frozen Fish": {},
+                "Frozen Shellfish": {}
+            },
+            "Imitation Crab & Surimi": {},
+            "Smoked & Cured Fish": {}
+        },
+        "Turducken": {},
+        "Turkey": {},
+        "Veal": {},
+        "Wild Game & Fowl": {}
+    },
+    "Meat Substitutes": {
+        "Bacon": {},
+        "Burgers & Patties": {},
+        "Deli Slices": {},
+        "Hot Dogs, Links & Sausages": {},
+        "Jerky": {},
+        "Loaves & Roasts": {},
+        "Meatballs, Chunks & Crumbles": {},
+        "Nuggets & Wings": {},
+        "Pulled & Flaked Meats": {},
+        "Seitan": {},
+        "Strips & Cutlets": {},
+        "Tempeh": {},
+        "Tofu": {}
+    },
+    "Pantry Staples": {
+        "Canned, Jarred & Packaged Foods": {
+            "Antipasto": {
+                "Artichoke Hearts": {},
+                "Canned & Jarred Fish": {},
+                "Capers": {},
+                "Cornichons": {},
+                "Mushrooms": {},
+                "Okra": {},
+                "Pickled Vegetables": {},
+                "Stuffed Grape Leaves": {},
+                "Sun-Dried Tomatoes": {}
+            },
+            "Beans & Peas": {
+                "Baked Beans": {},
+                "Black Beans": {},
+                "Black-Eyed Peas": {},
+                "Garbanzo Beans": {},
+                "Kidney Beans": {},
+                "Lentils": {},
+                "Lima Beans": {},
+                "Pinto Beans": {},
+                "Refried Beans": {}
+            },
+            "Fruits": {
+                "Apples": {},
+                "Apricots": {},
+                "Bananas": {},
+                "Berries": {
+                    "Blueberries": {},
+                    "Cranberries": {},
+                    "Raspberries": {},
+                    "Strawberries": {}
+                },
+                "Cherries": {},
+                "Dates": {},
+                "Figs": {},
+                "Grapefruit": {},
+                "Grapes": {},
+                "Lemons": {},
+                "Mangos": {},
+                "Melons": {},
+                "Mixed": {},
+                "Nectarines": {},
+                "Oranges": {},
+                "Papayas": {},
+                "Peaches": {},
+                "Pears": {},
+                "Pineapple": {},
+                "Plums": {},
+                "Tangerines": {}
+            },
+            "Meat, Poultry & Seafood": {
+                "Beef": {},
+                "Chicken": {},
+                "P\u00e2t\u00e9s": {},
+                "Seafood": {
+                    "Anchovies": {},
+                    "Caviars & Roes": {},
+                    "Clams": {},
+                    "Crabmeat": {},
+                    "Herring": {},
+                    "Mackerel": {},
+                    "Mussels & Cockles": {},
+                    "Oysters": {},
+                    "Salmon": {},
+                    "Sardines": {},
+                    "Trout": {},
+                    "Tuna Fish": {}
+                },
+                "Snails": {},
+                "Spiced Meat": {}
+            },
+            "Packaged Meals & Side Dishes": {
+                "Dry Soup Mixes": {},
+                "Macaroni & Cheese": {},
+                "Pasta & Noodle Dishes": {},
+                "Pasta Salads": {},
+                "Pizza": {},
+                "Potatoes & Stuffings": {
+                    "Potato Side Dishes": {},
+                    "Stuffing Side Dishes": {}
+                },
+                "Rice Dishes": {
+                    "Dirty Rice": {},
+                    "Jambalaya": {},
+                    "Paella": {},
+                    "Pilaf": {},
+                    "Risotto": {},
+                    "Seasoned Rice": {}
+                },
+                "Vegetable Dishes": {}
+            },
+            "Sloppy Joe Mix": {},
+            "Vegetables": {
+                "Artichoke Hearts": {},
+                "Asparagus": {},
+                "Bamboo Shoots": {},
+                "Bean Salad": {},
+                "Beets": {},
+                "Carrots": {},
+                "Corn": {},
+                "Garlic": {},
+                "Green Beans": {},
+                "Green Chilis": {},
+                "Hearts of Palm": {},
+                "Jalapenos": {},
+                "Mushrooms": {},
+                "Okra": {},
+                "Onions": {},
+                "Potatoes": {},
+                "Sauerkraut": {},
+                "Tomatoes": {
+                    "Crushed": {},
+                    "Diced": {},
+                    "Peeled": {},
+                    "Stewed": {},
+                    "Sun-Dried": {},
+                    "Sun-Dried Tomato Paste": {},
+                    "Tomato Paste": {},
+                    "Tomato Sauce": {}
+                },
+                "Truffles": {},
+                "Water Chestnuts": {}
+            }
+        },
+        "Condiments & Salad Dressings": {
+            "Cocktail Sauce": {},
+            "Horseradish": {},
+            "Ketchup": {},
+            "Mayonnaise": {},
+            "Mustard": {
+                "Beer Mustard": {},
+                "Brown Mustard": {},
+                "Dijon Mustard": {},
+                "English Mustard": {},
+                "German Mustard": {},
+                "Honey Mustard": {},
+                "Whole Grain Mustard": {},
+                "Yellow Mustard": {}
+            },
+            "Salad Dressings": {
+                "Blue Cheese": {},
+                "Caesar": {},
+                "Cole Slaw Dressing": {},
+                "French": {},
+                "Honey Mustard": {},
+                "Italian": {},
+                "Ranch": {},
+                "Thousand Island": {},
+                "Vinaigrette": {}
+            },
+            "Salad Toppings": {},
+            "Sandwich Spreads": {},
+            "Steak Sauce": {},
+            "Tartar Sauce": {},
+            "Wasabi": {}
+        },
+        "Cooking & Baking": {
+            "Baking Chocolates, Carob & Cocoa": {
+                "Carob": {},
+                "Chocolates": {},
+                "Cocoa": {}
+            },
+            "Baking Mixes": {
+                "Biscuits": {},
+                "Breads": {},
+                "Brownies": {},
+                "Cakes": {},
+                "Cookies": {},
+                "Muffins": {},
+                "Pancakes & Waffles": {},
+                "Pie Crusts": {}
+            },
+            "Breadcrumbs & Seasoned Coatings": {
+                "Breadcrumbs": {},
+                "Panko": {},
+                "Seasoned Coatings": {},
+                "Tempura": {}
+            },
+            "Coconut Flakes": {},
+            "Condensed & Powdered Milk": {
+                "Condensed": {},
+                "Powdered": {}
+            },
+            "Cooking Oils, Vinegars & Sprays": {
+                "Non-Stick Cooking Oil Sprays": {},
+                "Oils": {
+                    "Almond": {},
+                    "Avocado": {},
+                    "Canola": {},
+                    "Coconut": {},
+                    "Corn": {},
+                    "Flaxseed": {},
+                    "Grapeseed": {},
+                    "Hazelnut": {},
+                    "Olive": {},
+                    "Peanut": {},
+                    "Safflower": {},
+                    "Sesame": {},
+                    "Soybean": {},
+                    "Sunflower": {},
+                    "Truffle": {},
+                    "Vegetable": {},
+                    "Walnut": {}
+                },
+                "Vinegars": {
+                    "Apple Cider": {},
+                    "Balsamic": {},
+                    "Fruit": {},
+                    "Malt": {},
+                    "Red Wine": {},
+                    "Rice": {},
+                    "White": {},
+                    "White Wine": {}
+                }
+            },
+            "Cooking Wine": {
+                "Marsala": {},
+                "Red": {},
+                "Rice": {},
+                "Sherry": {},
+                "White": {}
+            },
+            "Dessert Syrups & Sauces": {
+                "Caramel": {},
+                "Chocolate": {},
+                "Flavoring Syrup": {},
+                "Fruit": {},
+                "Marshmallow": {}
+            },
+            "Doughs, Shells & Crusts": {},
+            "Dried Fruit & Raisins": {
+                "Apples": {},
+                "Apricots": {},
+                "Banana Chips": {},
+                "Dates": {},
+                "Mangoes": {},
+                "Mixed Fruits": {},
+                "Papayas": {},
+                "Peaches": {},
+                "Pears": {},
+                "Pineapples": {},
+                "Prunes": {},
+                "Raisins": {}
+            },
+            "Dried Seaweed & Nori": {},
+            "Extracts & Flavoring": {},
+            "Flours & Meals": {
+                "Almond": {},
+                "Barley Flour": {},
+                "Buckwheat": {},
+                "Corn": {},
+                "Garbanzo": {},
+                "Millet": {},
+                "Oat Bran": {},
+                "Oat Flour": {},
+                "Polenta Meal": {},
+                "Rice Flour": {},
+                "Wheat Flours & Meals": {}
+            },
+            "Food Coloring": {},
+            "Frosting, Icing & Decorations": {
+                "Birthday Candles": {},
+                "Cake Toppers": {},
+                "Cupcake Toppers": {},
+                "Decorating Kits": {},
+                "Dusting Powders": {},
+                "Edible Printer Ink & Paper": {},
+                "Glitter": {},
+                "Icing Decorations": {},
+                "Sprinkles": {}
+            },
+            "Lard & Shortening": {
+                "Coconut Shortening": {},
+                "Ghee": {},
+                "Lard": {},
+                "Shortening": {}
+            },
+            "Leaveners & Yeasts": {
+                "Active Dry Yeasts": {},
+                "Baker's Ammonia": {},
+                "Baker's Yeast": {},
+                "Baking Powder": {},
+                "Baking Soda": {},
+                "Bread Machine Yeasts": {},
+                "Potash Baking Ingredient": {},
+                "Yeast Starters": {}
+            },
+            "Marshmallows": {},
+            "Marzipan & Almond Paste": {},
+            "Nuts & Seeds": {
+                "Almonds": {},
+                "Brazil Nuts": {},
+                "Cashews": {},
+                "Chia Seeds": {},
+                "Flax Seeds": {},
+                "Hazelnuts": {},
+                "Hemp Seeds": {},
+                "Macadamia Nuts": {},
+                "Mixed Nuts": {},
+                "Peanuts": {},
+                "Pecans": {},
+                "Pistachios": {},
+                "Pumpkin Seeds": {},
+                "Sesame Seeds": {},
+                "Soy Nuts": {},
+                "Sunflower Seeds": {},
+                "Walnuts": {}
+            },
+            "Pie & Pastry Fillings": {},
+            "Powdered Cheese": {},
+            "Powdered Eggs": {},
+            "Pudding & Gelatin": {
+                "Gelatin": {},
+                "Pectin": {},
+                "Pudding": {}
+            },
+            "Sugar Substitutes": {
+                "Palm Sugar": {},
+                "Saccharine": {},
+                "Stevia": {},
+                "Xylitol": {}
+            },
+            "Syrups, Sugars & Sweeteners": {
+                "Agave Nectar & Syrup": {},
+                "Honey": {},
+                "Maple Syrup": {},
+                "Molasses": {},
+                "Simple Syrup": {},
+                "Sugars": {}
+            },
+            "Thickeners": {}
+        },
+        "Dried Beans, Lentils & Peas": {
+            "Beans": {
+                "Kidney": {},
+                "Pinto": {},
+                "Garbanzo": {},
+                "Black": {},
+                "Lima": {},
+                "Soy": {}
+            },
+            "Lentils": {},
+            "Peas": {
+                "Green": {},
+                "Pigeon": {},
+                "Split": {}
+            }
+        },
+        "Dried Grains & Rice": {
+            "Arborio": {},
+            "Basmati": {},
+            "Brown": {},
+            "Buckwheat": {},
+            "Couscous": {},
+            "Farro": {},
+            "Jasmine": {},
+            "Millet": {},
+            "Quinoa": {},
+            "Wheat Berries": {},
+            "White": {},
+            "Wild": {}
+        },
+        "Herbs, Spices & Seasonings": {
+            "Herb, Spice & Seasoning Gifts": {},
+            "Mixed Spices & Seasonings": {
+                "Adobo Seasoning": {},
+                "Barbecue Seasoning": {},
+                "Cajun Seasoning": {},
+                "Chili Mix": {},
+                "Chili Powder": {},
+                "Chinese Five Spice": {},
+                "Curry Powder": {},
+                "Garam Masala": {},
+                "Gourmet Rubs": {},
+                "Greek Seasoning": {},
+                "Indian Seasoning": {},
+                "Italian Seasoning": {},
+                "Meat Seasoning": {},
+                "Mexican Seasoning": {},
+                "Miso": {},
+                "Mulling Spice": {},
+                "Poultry Seasoning": {},
+                "Seafood Seasoning": {}
+            },
+            "Pepper & Peppercorns": {
+                "Ground Pepper": {},
+                "Peppercorns": {}
+            },
+            "Salt & Salt Substitutes": {
+                "Coarse Salt": {},
+                "Flavored Salt": {},
+                "Fleur de Sel": {},
+                "Kosher Salt": {},
+                "Popcorn Salt": {},
+                "Rock Salt": {},
+                "Salt Substitutes": {},
+                "Sea Salt": {},
+                "Seasoned Salt": {},
+                "Table Salt": {}
+            },
+            "Single Herbs & Spices": {
+                "Ajowan": {},
+                "Allspice": {},
+                "Anise Seeds": {},
+                "Asafetida": {},
+                "Bay Leaf": {},
+                "Bonito Flakes": {},
+                "Caraway Seed": {},
+                "Cardamom Seed": {},
+                "Cayenne": {},
+                "Celery Seed": {},
+                "Chili Powder": {},
+                "Chinese Star Anise": {},
+                "Chipotle": {},
+                "Chives": {},
+                "Cilantro Flakes": {},
+                "Cinnamon": {},
+                "Cloves": {},
+                "Coriander": {},
+                "Cream of Tartar": {},
+                "Cumin": {},
+                "Dill": {},
+                "Fennel Seed": {},
+                "Fenugreek": {},
+                "Flax Seed": {},
+                "Garlic": {},
+                "Ginger": {},
+                "Mace": {},
+                "Marjoram": {},
+                "Mustard": {},
+                "Nutmeg": {},
+                "Onion": {},
+                "Oregano": {},
+                "Paprika": {},
+                "Parsley": {},
+                "Peppermint Leaf": {},
+                "Poppy Seed": {},
+                "Rosemary": {},
+                "Saffron": {},
+                "Sage Leaf": {},
+                "Savory": {},
+                "Sesame Seed": {},
+                "Sumac": {},
+                "Sweet Basil Leaf": {},
+                "Tarragon": {},
+                "Thyme": {},
+                "Turmeric": {},
+                "Vanilla Beans": {},
+                "Wasabi Powder": {}
+            }
+        },
+        "Jams, Jellies & Sweet Spreads": {
+            "Chocolate & Hazelnut Spreads": {},
+            "Fruit Butters": {},
+            "Fruit Compotes": {},
+            "Honey": {},
+            "Jam, Jelly & Sweet Spread Gifts": {},
+            "Jams, Jellies & Preserves": {},
+            "Marmalades": {},
+            "Marshmallow Spreads": {}
+        },
+        "Nut & Seed Butters": {
+            "Almond Butter": {},
+            "Cashew Butter": {},
+            "Peanut Butter": {}
+        },
+        "Olives, Pickles & Relishes": {
+            "Capers": {},
+            "Chutneys": {},
+            "Olives": {
+                "Black": {},
+                "Green": {},
+                "Kalamata": {},
+                "Spreads": {}
+            },
+            "Pickled Eggs": {},
+            "Pickled Mixed Vegetables": {},
+            "Pickles": {
+                "Dill Pickles": {},
+                "Sweet Pickles": {},
+                "Cornichons": {}
+            },
+            "Relishes": {
+                "Fruit Relishes": {},
+                "Vegetable Relishes": {},
+                "Pickle Relishes": {}
+            }
+        },
+        "Pasta & Noodles": {
+            "Noodles": {
+                "Egg": {},
+                "Rice": {},
+                "Shirataki": {},
+                "Soba": {},
+                "Udon": {}
+            },
+            "Pasta": {
+                "Bow-Tie": {},
+                "Capellini": {},
+                "Fettuccine": {},
+                "Fusilli": {},
+                "Gnocchi": {},
+                "Lasagna": {},
+                "Linguine": {},
+                "Orzo": {},
+                "Pappardelle": {},
+                "Penne": {},
+                "Rigatoni": {},
+                "Rotini": {},
+                "Spaghetti": {},
+                "Tagliatelle": {},
+                "Tortellini": {},
+                "Ziti": {}
+            }
+        },
+        "Sauces, Gravies & Marinades": {
+            "Glazes & Demi-Glaces": {},
+            "Gravies": {
+                "Beef": {},
+                "Brown": {},
+                "Chicken": {},
+                "Mushroom": {},
+                "Pork": {},
+                "Sausage": {},
+                "Turkey": {}
+            },
+            "Hot Sauce": {},
+            "Sauce, Gravy & Marinade Gifts": {},
+            "Sauces": {
+                "Asian": {
+                    "Chile Paste": {},
+                    "Chili Sauce": {},
+                    "Coconut Sauce": {},
+                    "Curry Sauce": {},
+                    "Fish Sauce": {},
+                    "Oyster Sauce": {},
+                    "Peanut Sauce": {},
+                    "Plum Sauce": {},
+                    "Satay Sauce": {},
+                    "Soy Sauce": {},
+                    "Stir-Fry Sauce": {},
+                    "Sweet & Sour Sauce": {},
+                    "Teriyaki Sauce": {}
+                },
+                "Barbecue": {},
+                "Buffalo Wing": {},
+                "Italian": {
+                    "Alfredo": {},
+                    "Marinara": {},
+                    "Pesto": {},
+                    "Pizza": {}
+                },
+                "Spanish & Mexican": {
+                    "Adobo Sauce": {},
+                    "Enchilada Sauce": {},
+                    "Sofrito Sauce": {},
+                    "Taco Sauce": {}
+                },
+                "Worcestershire Sauce": {}
+            },
+            "Seasoning Mixes": {}
+        },
+        "Soups, Stocks & Broths": {
+            "Beef Soups": {},
+            "Bisques": {},
+            "Bouillon": {
+                "Beef": {},
+                "Chicken": {},
+                "Vegetable": {}
+            },
+            "Broths": {
+                "Beef": {},
+                "Chicken": {},
+                "Clam": {},
+                "Vegetable": {}
+            },
+            "Chicken Soups": {},
+            "Chili": {},
+            "Chowders": {},
+            "Consomm\u00e9": {},
+            "Miso Soups": {},
+            "Noodle Soups": {},
+            "Split Pea Soups": {},
+            "Stews": {},
+            "Stocks": {
+                "Beef": {},
+                "Chicken": {},
+                "Vegetable": {}
+            },
+            "Tomato Soups": {},
+            "Vegetable Soups": {}
+        }
+    },
+    "Produce": {
+        "Dried Fruits & Vegetables": {
+            "Dried Fruits": {
+                "Dried Apples": {},
+                "Dried Apricots": {},
+                "Dried Banana Chips": {},
+                "Dried Berries": {},
+                "Dried Cherries": {},
+                "Dried Coconut": {},
+                "Dried Dates": {},
+                "Dried Figs": {},
+                "Dried Ginger": {},
+                "Dried Mangoes": {},
+                "Dried Mixed Fruits": {},
+                "Dried Papayas": {},
+                "Dried Peaches": {},
+                "Dried Pears": {},
+                "Dried Pineapples": {},
+                "Dried Prunes": {},
+                "Raisins": {}
+            },
+            "Dried Vegetables": {
+                "Dried Mushrooms": {
+                    "Chanterelle": {},
+                    "Eringi": {},
+                    "Lobster": {},
+                    "Maitake": {},
+                    "Matsutake": {},
+                    "Morel": {},
+                    "Oyster": {},
+                    "Porcini": {},
+                    "Portabello": {},
+                    "Shiitake": {},
+                    "Shimeji": {},
+                    "Straw": {},
+                    "Truffles": {},
+                    "Woodear": {}
+                },
+                "Sundried Tomatoes": {}
+            }
+        },
+        "Fresh Fruits": {
+            "Apples": {
+                "Ambrosia": {},
+                "Aurora": {},
+                "Braeburn": {},
+                "Cameo": {},
+                "Fuji": {},
+                "Gala": {},
+                "Golden Delicious": {},
+                "Granny Smith": {},
+                "Heirloom": {},
+                "Honeycrisp": {},
+                "Jazz": {},
+                "Jonagold": {},
+                "McIntosh": {},
+                "Pacific Rose": {},
+                "Pink Lady": {},
+                "Red Delicious": {},
+                "Rome": {},
+                "Winesap": {}
+            },
+            "Avocados": {},
+            "Berries": {},
+            "Citrus Fruits": {
+                "Grapefruit": {
+                    "Pink": {},
+                    "Ruby Red": {},
+                    "White": {}
+                },
+                "Kumquats": {},
+                "Lemons": {},
+                "Limes": {},
+                "Mandarins": {
+                    "Clementines": {},
+                    "Satsumas": {},
+                    "Tangerines": {}
+                },
+                "Oranges": {},
+                "Pomelos": {}
+            },
+            "Coconuts": {},
+            "Figs": {},
+            "Grapes": {},
+            "Melons": {},
+            "Pears": {},
+            "Stone Fruits": {
+                "Apricots": {},
+                "Cherries": {},
+                "Nectarines": {},
+                "Peaches": {},
+                "Plums": {}
+            },
+            "Tropical & Exotic Fruit": {}
+        },
+        "Fresh Herbs": {
+            "Basil": {},
+            "Bay Leaves": {},
+            "Chives": {},
+            "Cilantro": {},
+            "Dill": {},
+            "Fennel": {},
+            "Lemon Grass": {},
+            "Marjoram": {},
+            "Mint": {},
+            "Oregano": {},
+            "Parsley": {},
+            "Rosemary": {},
+            "Sage": {},
+            "Tarragon": {},
+            "Thyme": {}
+        },
+        "Fresh Vegetables": {
+            "Artichokes": {},
+            "Asparagus": {},
+            "Avocados": {},
+            "Broccoli": {},
+            "Cabbage": {},
+            "Cauliflower": {},
+            "Celery": {},
+            "Corn": {},
+            "Cucumbers": {},
+            "Eggplant": {},
+            "Garlic": {},
+            "Leafy Greens": {
+                "Collard Greens": {},
+                "Kale": {},
+                "Lettuce": {},
+                "Romaine": {},
+                "Spinach": {}
+            },
+            "Mushrooms & Truffles": {
+                "Black Truffle": {},
+                "Chanterelle": {},
+                "Morel": {},
+                "Porcini": {},
+                "Portabello": {},
+                "Shiitake": {},
+                "Straw": {}
+            },
+            "Onions & Shallots": {},
+            "Peas & Beans": {},
+            "Peppers": {
+                "Bell Peppers": {},
+                "Chili Peppers": {
+                    "Banana": {},
+                    "Cayenne": {},
+                    "Cherry": {},
+                    "Jalapenos": {},
+                    "Thai Chili": {}
+                },
+                "Sweet Peppers": {}
+            },
+            "Potatoes & Yams": {
+                "Fingerlings & Baby": {},
+                "Russet": {},
+                "Sweet Potatoes": {},
+                "Yams": {}
+            },
+            "Root Vegetables": {
+                "Beets": {},
+                "Carrots": {},
+                "Ginger": {},
+                "Jicama": {},
+                "Radishes": {},
+                "Turnips": {}
+            },
+            "Sea Vegetables": {},
+            "Sprouts": {},
+            "Squash & Gourds": {},
+            "Tomatillos": {},
+            "Tomatoes": {}
+        },
+        "Fruit & Nuts Gifts": {},
+        "Nuts & Seeds": {
+            "Almonds": {},
+            "Brazil Nuts": {},
+            "Cashews": {},
+            "Chia Seeds": {},
+            "Flax Seeds": {},
+            "Hazelnuts": {},
+            "Hemp Seeds": {},
+            "Macadamia Nuts": {},
+            "Mixed Nuts": {},
+            "Peanuts": {},
+            "Pecans": {},
+            "Pistachios": {},
+            "Pumpkin Seeds": {},
+            "Sesame Seeds": {},
+            "Soy Nuts": {},
+            "Sunflower Seeds": {},
+            "Walnuts": {}
+        },
+        "Packaged Produce": {
+            "Cut & Packaged Fruits": {
+                "Apples": {},
+                "Mangoes": {},
+                "Melon": {},
+                "Mixed Fruits": {},
+                "Pineapples": {}
+            },
+            "Cut & Packaged Vegetables": {},
+            "Packaged Greens & Salad Mixes": {}
+        },
+        "Vegetarian Proteins": {
+            "Seitan": {},
+            "Tempeh": {},
+            "Tofu": {}
+        }
+    },
+    "Snack Foods": {
+        "Applesauce & Fruit Cups": {
+            "Applesauce": {},
+            "Fruit Cups": {}
+        },
+        "Bars": {
+            "Cereal": {},
+            "Fruit & Nut": {},
+            "Fruit Bars": {},
+            "Granola": {},
+            "High Protein": {},
+            "Nut Bars": {},
+            "Nutrition Bars": {
+                "Endurance & Energy Bars": {},
+                "Food Bars": {},
+                "Protein Bars": {}
+            },
+            "Whole Grain": {}
+        },
+        "Breadsticks": {},
+        "Chips & Crisps": {
+            "Corn": {},
+            "Pita": {},
+            "Potato": {},
+            "Soy": {},
+            "Tortilla": {},
+            "Vegetable": {}
+        },
+        "Cookies": {
+            "Biscotti": {},
+            "Butter": {},
+            "Chocolate": {},
+            "Chocolate Chip": {},
+            "Cookie Assortments": {},
+            "Fortune": {},
+            "Fruit": {},
+            "Ginger Snaps": {},
+            "Ladyfingers": {},
+            "Macaroons": {},
+            "Meringues": {},
+            "Nut": {},
+            "Oatmeal": {},
+            "Peanut-Butter": {},
+            "Pizzelles": {},
+            "Rich Tea": {},
+            "Sandwich": {},
+            "Shortbread": {},
+            "Snickerdoodles": {},
+            "Sugar": {},
+            "Wafers": {}
+        },
+        "Crackers": {
+            "Animal": {},
+            "Assortments & Samplers": {},
+            "Bagel Chips": {},
+            "Deli": {},
+            "Flatbread": {},
+            "Graham Crackers": {},
+            "Matzo": {},
+            "Oyster": {},
+            "Saltines": {},
+            "Sandwich": {},
+            "Toast": {},
+            "Water": {},
+            "Wheat": {}
+        },
+        "Dried Fruit & Raisins": {
+            "Apples": {},
+            "Apricots": {},
+            "Banana Chips": {},
+            "Dates": {},
+            "Mangoes": {},
+            "Mixed Fruits": {},
+            "Papayas": {},
+            "Peaches": {},
+            "Pears": {},
+            "Pineapples": {},
+            "Prunes": {},
+            "Raisins": {}
+        },
+        "Fruit Leather": {},
+        "Fruit Snacks": {},
+        "Ice Cream Cones & Toppings": {},
+        "Jerky & Dried Meats": {},
+        "Nuts & Seeds": {
+            "Almonds": {},
+            "Brazil": {},
+            "Cashews": {},
+            "Hazelnuts": {},
+            "Macadamia Nuts": {},
+            "Mixed Nuts": {},
+            "Peanuts": {},
+            "Pecans": {},
+            "Pistachio Nuts": {},
+            "Pumpkin Seeds": {},
+            "Soy Nuts": {},
+            "Sunflower Seeds": {},
+            "Walnuts": {}
+        },
+        "Party Mix": {},
+        "Popcorn": {
+            "Microwave": {},
+            "Popped": {},
+            "Unpopped": {}
+        },
+        "Pork Rinds": {},
+        "Pretzels": {},
+        "Puffed Snacks": {},
+        "Rice Cakes, Chips & Crackers": {
+            "Cakes": {},
+            "Chips": {},
+            "Crackers": {}
+        },
+        "Salsas, Dips & Spreads": {
+            "Dips & Spreads": {
+                "Bean": {},
+                "Garlic": {},
+                "Meat": {},
+                "Olive": {},
+                "Onion": {},
+                "Processed Cheese": {},
+                "Ranch": {},
+                "Seafood": {},
+                "Vegetable": {}
+            },
+            "Salsas": {}
+        },
+        "Seaweed Snacks": {},
+        "Snack & Trail Mixes": {},
+        "Snack Cakes & Pastries": {
+            "Snack Cakes": {},
+            "Snack Pies": {}
+        },
+        "Snack Gifts": {},
+        "Wasabi Peas": {}
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "Computer Accessories & Peripherals": {
+        "Audio & Video Accessories": {
+            "Computer Headsets": {},
+            "Computer Microphones": {},
+            "Computer Speakers": {},
+            "Webcams": {},
+            "Webcam Stands & Mounts": {}
+        },
+        "Blank Media": {
+            "BD-R Discs": {},
+            "BD-RE Discs": {},
+            "CD-R Discs": {},
+            "CD-RW Discs": {},
+            "Data Cartridges": {},
+            "DATs": {},
+            "DVD+R Discs": {},
+            "DVD+RW Discs": {},
+            "DVD-R Discs": {},
+            "DVD-RAM Discs": {},
+            "DVD-RW Discs": {},
+            "Floppy Diskettes": {},
+            "Minidiscs": {},
+            "Zip Discs": {}
+        },
+        "Blue Light Blocking Glasses": {},
+        "Cable Security Devices": {},
+        "Cables & Interconnects": {
+            "Ethernet Cables": {
+                "Cat 5 Cables": {},
+                "Cat 5e Cables": {},
+                "Cat 6 Cables": {},
+                "Cat 7 Cables": {}
+            },
+            "Firewire Cables": {},
+            "Lightning Cables": {},
+            "Mini-SAS Cables": {},
+            "Modem Cables": {},
+            "Parallel Cables": {},
+            "Power Cables": {},
+            "PS/2 Cables": {},
+            "SATA Cables": {},
+            "SCSI Cables": {},
+            "Serial Cables": {},
+            "Thunderbolt Cables": {},
+            "USB Cables": {},
+            "VGA Cables": {}
+        },
+        "Cleaning & Repair": {
+            "Compressed Air Dusters": {},
+            "Computer Screws": {},
+            "Computer Vacuums": {},
+            "DLT Cleaning Cartridges": {},
+            "Repair Kits": {}
+        },
+        "Computer Cable Adapters": {
+            "DVI-HDMI Adapters": {},
+            "Firewire Adapters": {},
+            "Gender Changers": {},
+            "HDMI-to-VGA Adapters": {},
+            "Parallel Adapters": {},
+            "SCSI Adapters": {},
+            "Serial Adapters": {},
+            "USB-to-USB Adapters": {},
+            "USB-to-VGA Adapters": {}
+        },
+        "Game Hardware": {
+            "PC Game Hardware": {
+                "Controllers": {
+                    "Flight Controls": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Light Guns": {},
+                    "Music Controllers": {},
+                    "Racing Wheels": {}
+                },
+                "Gaming Keyboards": {},
+                "Gaming Mice": {},
+                "Headsets": {}
+            },
+            "Mac Game Hardware": {
+                "Controllers": {
+                    "Flight Controls": {},
+                    "Gamepads & Standard Controllers": {},
+                    "Joysticks": {},
+                    "Light Guns": {},
+                    "Music Controllers": {},
+                    "Steering Wheels": {}
+                },
+                "Gaming Keyboards": {},
+                "Gaming Mice": {},
+                "Headsets": {}
+            }
+        },
+        "Hard Drive Accessories": {
+            "Hard Drive Bags & Cases": {},
+            "Hard Drive Enclosures": {}
+        },
+        "Input Devices": {
+            "Digital Pens": {},
+            "Graphics Tablets": {},
+            "Numeric Keypads": {},
+            "Presentation Pointers": {},
+            "Styluses": {},
+            "Touch Pads": {},
+            "Trackballs": {}
+        },
+        "Keyboards, Mice & Accessories": {
+            "Keyboards": {},
+            "Mice": {},
+            "Keyboard & Mouse Combos": {},
+            "Keyboard & Mice Accessories": {
+                "Keyboard Skins": {},
+                "Mouse Pads": {},
+                "Wrist Rests": {}
+            }
+        },
+        "Memory Card Accessories": {
+            "Memory Card Adapters": {},
+            "Memory Card Cases": {},
+            "Memory Card Readers": {}
+        },
+        "Memory Cards": {
+            "CompactFlash Cards": {},
+            "Memory Stick Cards": {},
+            "Micro SD Cards": {},
+            "SD Cards": {},
+            "SmartMedia Cards": {},
+            "xD-Picture Cards": {}
+        },
+        "Monitor Accessories": {
+            "Anti-Glare & Privacy Filters": {},
+            "Covers": {},
+            "Monitor Arms & Stands": {},
+            "Screen Protectors": {}
+        },
+        "Printer Accessories": {
+            "Printer Cutters": {},
+            "Printer Developers": {},
+            "Printer Duplex Units": {},
+            "Printer Memory Modules": {},
+            "Printer Transfer Belts, Rollers & Units": {
+                "Printer Transfer Belts": {},
+                "Printer Transfer Rollers": {},
+                "Printer Transfer Units": {}
+            },
+            "Printer Trays & Drawers": {
+                "Printer Drawers": {},
+                "Printer Trays": {}
+            }
+        },
+        "Printer Ink & Toner": {
+            "Impact & Dot Matrix Printer Ribbons": {},
+            "Inkjet Printer Ink": {},
+            "Laser Printer Drums & Toner": {}
+        },
+        "Scanner Accessories": {},
+        "USB Gadgets": {
+            "USB Beverage Warmers": {},
+            "USB Fans": {},
+            "USB Lamps": {}
+        },
+        "USB Hubs": {},
+        "Uninterruptible Power Supply (UPS)": {},
+        "Video Projector Accessories": {
+            "Lamps": {},
+            "Lenses": {},
+            "Mounting Equipment": {},
+            "Projector Bags & Cases": {},
+            "Remote Controls": {}
+        }
+    },
+    "Computer Components": {
+        "Desktop Barebones": {},
+        "External Components": {
+            "Computer Cases": {},
+            "External Hard Drives": {},
+            "External Solid State Drives": {},
+            "External Sound Cards": {},
+            "External TV Tuners": {},
+            "KVM Switches": {},
+            "Optical Drives": {
+                "Blu-ray Drives": {},
+                "CD & DVD Drives": {},
+                "Disc Duplicators": {}
+            }
+        },
+        "Internal Components": {
+            "CPU Processors": {},
+            "Fans & Cooling": {
+                "CPU Cooling Fans": {},
+                "Case Fans": {},
+                "Graphics Card Fans": {},
+                "Grills": {},
+                "HDD Cooling Fans": {},
+                "Heatsinks": {},
+                "Water Cooling Systems": {}
+            },
+            "Graphics Cards": {},
+            "I/O Port Cards": {
+                "FireWire Port Cards": {},
+                "Parallel Port Cards": {},
+                "RAID Controllers": {},
+                "SCSI Port Cards": {},
+                "Serial Port Cards": {},
+                "USB Port Cards": {}
+            },
+            "Internal Hard Drives": {},
+            "Internal Memory Card Readers": {},
+            "Internal Modems": {},
+            "Internal Optical Drives": {
+                "Internal Blu-ray Drives": {},
+                "Internal CD & DVD Drives": {}
+            },
+            "Internal Power Supplies": {},
+            "Internal Solid State Drives": {},
+            "Internal Sound Cards": {},
+            "Internal TV Tuner & Capture Cards": {},
+            "Memory": {},
+            "Motherboards": {},
+            "Network Cards": {}
+        },
+        "Laptop Replacement Parts": {},
+        "Single Board Computers": {}
+    },
+    "Computers & Tablets": {
+        "Desktops": {
+            "All-in-Ones": {},
+            "Minis": {},
+            "Towers": {}
+        },
+        "Laptops": {
+            "2 in 1 Laptops": {},
+            "Traditional Laptops": {}
+        },
+        "Tablets": {}
+    },
+    "Data Storage": {
+        "External Hard Drives": {},
+        "External Solid State Drives": {},
+        "External Zip Drives": {},
+        "Floppy & Tape Drives": {},
+        "Internal Hard Drives": {},
+        "Internal Solid State Drives": {},
+        "Network Attached Storage": {},
+        "Tape Libraries": {},
+        "USB Flash Drives": {}
+    },
+    "Laptop Accessories": {
+        "Bags, Cases & Sleeves": {
+            "Backpacks": {},
+            "Briefcases": {},
+            "Hard Shell Cases": {},
+            "Messenger & Shoulder Bags": {},
+            "Sleeves": {}
+        },
+        "Batteries": {},
+        "Chargers & Adapters": {},
+        "Cooling Pads & External Fans": {},
+        "Docking Stations": {},
+        "Lapdesks": {},
+        "Mounts": {},
+        "Replacement Screens": {},
+        "Screen Filters": {},
+        "Screen Protectors": {},
+        "Security Locks": {},
+        "Skins & Decals": {},
+        "Stands": {}
+    },
+    "Monitors": {},
+    "Networking Products": {
+        "Device Servers": {},
+        "Hubs": {},
+        "Modem Router Combos": {},
+        "Modems": {},
+        "Network Adapters": {
+            "Bluetooth Network Adapters": {},
+            "Laptop Network Adapters": {},
+            "Powerline Network Adapters": {},
+            "USB Network Adapters": {}
+        },
+        "Network Antennas": {},
+        "Network Attached Storage": {},
+        "Network Transceivers": {},
+        "Print Servers": {},
+        "Repeaters": {},
+        "Routers": {},
+        "Streaming Media Players": {},
+        "Switches": {},
+        "Whole Home & Mesh Wi-Fi Systems": {},
+        "Wireless Access Points": {}
+    },
+    "Power Strips & Surge Protectors": {
+        "Power Strips": {},
+        "Surge Protectors": {}
+    },
+    "Printers": {
+        "Dot Matrix Printers": {},
+        "Inkjet Printers": {},
+        "Label Printers": {},
+        "Laser Printers": {},
+        "Photo Printers": {
+            "Desktop Photo Printers": {},
+            "Portable Photo Printers": {}
+        },
+        "Wide Format & Plotter Printers": {}
+    },
+    "Scanners": {
+        "Business Card Scanners": {},
+        "Document Scanners": {},
+        "Flatbed & Photo Scanners": {},
+        "Slide & Negative Scanners": {}
+    },
+    "Servers": {},
+    "Tablet Accessories": {
+        "Bags, Cases & Sleeves": {
+            "Bags": {},
+            "Cases": {},
+            "Keyboard Cases": {},
+            "Sleeves": {}
+        },
+        "Blue Light Blocking Glasses": {},
+        "Chargers & Adapters": {},
+        "Keyboard Cases": {},
+        "Keyboards": {},
+        "Mounts": {},
+        "Repair Kits": {},
+        "Screen Filters": {},
+        "Screen Protectors": {},
+        "Stands": {},
+        "Styluses": {}
+    },
+    "Tablet Replacement Parts": {
+        "Batteries": {},
+        "Digitizers": {},
+        "Flex Cables": {},
+        "LCD Displays": {},
+        "Screens": {}
+    },
+    "Warranties & Services": {
+        "Computer Equipment Warranties": {},
+        "Installation Services": {},
+        "Service Plans": {
+            "Computer Add-Ons": {},
+            "Computers": {}
+        }
+    }
+}

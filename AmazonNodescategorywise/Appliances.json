@@ -1,0 +1,406 @@
+{
+    "Refrigerators, Freezers & Ice Makers": {
+        "Refrigerators": {},
+        "Freezers": {
+            "Chest Freezers": {},
+            "Upright Freezers": {}
+        },
+        "Compact Refrigerators": {},
+        "Ice Makers": {},
+        "Kegerators": {},
+        "Beverage Refrigerators": {},
+        "Wine Cellars": {
+            "Built-In Wine Cellars": {},
+            "Freestanding Wine Cellars": {},
+            "Wine Cellar Cooling Systems": {}
+        }
+    },
+    "Laundry Appliances": {
+        "Washers & Dryers": {
+            "Dryers": {},
+            "Washers": {},
+            "All-in-One Combination Washers & Dryers": {},
+            "Stacked Washer & Dryer Units": {},
+            "Portable Washers": {}
+        },
+        "Irons & Garment Steamers": {
+            "Irons": {},
+            "Garment Steamers": {},
+            "Travel Garment Steamers": {}
+        },
+        "Trouser Pressers": {}
+    },
+    "Ranges, Ovens & Cooktops": {
+        "Ranges": {
+            "Drop-In Ranges": {},
+            "Freestanding Ranges": {},
+            "Slide-In Ranges": {}
+        },
+        "Range Hoods": {},
+        "Microwave Ovens": {
+            "Compact Microwave Ovens": {},
+            "Countertop Microwave Ovens": {},
+            "Microhood Microwave Ovens": {},
+            "Over-the-Range Microwave Ovens": {},
+            "Speed-Cooking Microwave Ovens": {}
+        },
+        "Wall Ovens": {
+            "Combination Microwave & Wall Ovens": {},
+            "Double Wall Ovens": {},
+            "Single Wall Ovens": {}
+        },
+        "Cooktops": {},
+        "Warming Drawers": {}
+    },
+    "Microwave Ovens": {
+        "Compact Microwave Ovens": {},
+        "Countertop Microwave Ovens": {},
+        "Microhood Microwave Ovens": {},
+        "Over-the-Range Microwave Ovens": {},
+        "Speed-Cooking Microwave Ovens": {}
+    },
+    "Dishwashers": {
+        "Built-In Dishwashers": {},
+        "Countertop Dishwashers": {},
+        "Portable Dishwashers": {}
+    },
+    "Small Kitchen Appliances": {
+        "Beverage Refrigerators": {},
+        "Blenders": {
+            "Countertop Blenders": {},
+            "Hand Blenders": {},
+            "Personal Size Blenders": {}
+        },
+        "Bread Machines": {},
+        "Coffee, Tea & Espresso Appliances": {
+            "Beverage Warmers": {},
+            "Coffee Makers": {
+                "Coffee Machines": {},
+                "Cold Brew Coffee Makers": {},
+                "Electric Coffee Percolators": {},
+                "French Presses": {},
+                "Percolators": {},
+                "Pour Over Coffee Makers": {},
+                "Single-Serve Brewers": {}
+            },
+            "Electric Blade Grinders": {},
+            "Electric Burr Grinders": {},
+            "Espresso Machine & Coffeemaker Combos": {},
+            "Espresso Machines": {
+                "Semi-Automatic Espresso Machines": {},
+                "Steam Espresso Machines": {},
+                "Super-Automatic Espresso Machines": {},
+                "Manual Espresso Machines": {}
+            },
+            "Kettles & Tea Machines": {
+                "Electric Kettles": {},
+                "Stovetop Tea Kettles": {},
+                "Combination Water Boilers & Warmers": {},
+                "Iced Tea Machines": {}
+            }
+        },
+        "Compact Refrigerators": {},
+        "Contact Grills": {},
+        "Countertop Burners": {},
+        "Electric Cake Pop & Mini Cake Makers": {
+            "Cake Pop Makers": {},
+            "Cupcake Makers": {},
+            "Mini Donut Makers": {}
+        },
+        "Electric Griddles": {},
+        "Electric Pressure Cookers": {},
+        "Electric Skillets": {},
+        "Electric Woks": {},
+        "Food Processors": {},
+        "Fryers": {
+            "Air Fryers": {},
+            "Deep Fryers": {}
+        },
+        "Hot Pots": {},
+        "Ice Cream Machines": {},
+        "Juicers": {
+            "Centrifugal Juicers": {},
+            "Citrus Juicers": {},
+            "Masticating Juicers": {}
+        },
+        "Kegerators": {},
+        "Microwave Ovens": {
+            "Compact Microwave Ovens": {},
+            "Countertop Microwave Ovens": {},
+            "Microhood Microwave Ovens": {},
+            "Over-the-Range Microwave Ovens": {},
+            "Speed-Cooking Microwave Ovens": {}
+        },
+        "Mixers": {
+            "Hand Mixers": {},
+            "Stand Mixers": {}
+        },
+        "Ovens & Toasters": {
+            "Convection Ovens": {},
+            "Countertop Pizza Ovens": {},
+            "Rotisseries & Roasters": {},
+            "Toaster Ovens": {},
+            "Toasters": {}
+        },
+        "Rice Cookers": {},
+        "Slow Cookers": {},
+        "Soda Makers": {},
+        "Specialty Appliances": {
+            "Bagel Slicers": {},
+            "Chocolate Fountains": {},
+            "Cotton Candy Makers": {},
+            "Crepe Makers": {},
+            "Dehydrators": {},
+            "Egg Cookers": {},
+            "Electric Can Openers": {},
+            "Electric Fondue Pots": {},
+            "Electric Slicers": {},
+            "Electric Wine Bottle Openers": {},
+            "Food Grinders & Mills": {
+                "Grain Mills": {},
+                "Meat Grinders": {},
+                "Spice Grinders": {}
+            },
+            "Knife Sharpeners": {},
+            "Pizzelle Makers": {},
+            "Popcorn Poppers": {},
+            "Quesadilla & Tortilla Makers": {},
+            "Sandwich Makers & Panini Presses": {},
+            "Shaved Ice Machines": {},
+            "Sous Vide Machines": {},
+            "Vacuum Sealer Bags": {},
+            "Vacuum Sealers": {},
+            "Yogurt Makers": {}
+        },
+        "Steamers": {},
+        "Waffle Irons": {},
+        "Wine Cellars": {
+            "Built-In Wine Cellars": {},
+            "Freestanding Wine Cellars": {},
+            "Wine Cellar Cooling Systems": {}
+        }
+    },
+    "Heating, Cooling & Air Quality": {
+        "Air Conditioners": {
+            "Evaporative Coolers": {},
+            "Portable": {},
+            "Split-System": {},
+            "Wall": {},
+            "Window": {}
+        },
+        "Air Purifiers": {
+            "Air Ionizers": {},
+            "Charcoal Air Purifiers": {},
+            "Electrostatic Air Purifiers": {},
+            "HEPA Air Purifiers": {},
+            "Travel-Size Air Purifiers": {},
+            "ULPA Air Purifiers": {}
+        },
+        "Ceiling Fan Light Kits": {},
+        "Ceiling Fans": {},
+        "Dehumidifiers": {},
+        "Fans": {
+            "Floor Fans": {},
+            "Pedestal Fans": {},
+            "Personal Fans": {},
+            "Table Fans": {},
+            "Tower Fans": {},
+            "USB Fans": {},
+            "Wall-Mounted Fans": {},
+            "Window Fans": {}
+        },
+        "Humidifiers": {},
+        "Space Heaters": {
+            "Electric Space Heaters": {},
+            "Kerosene Space Heaters": {},
+            "Natural Gas Space Heaters": {},
+            "Propane Space Heaters": {}
+        }
+    },
+    "Vacuums & Floor Care": {
+        "Vacuums": {
+            "Canister Vacuums": {},
+            "Central Vacuum Systems": {},
+            "Handheld Vacuums": {},
+            "Robotic Vacuums": {},
+            "Stick Vacuums & Electric Brooms": {},
+            "Upright Vacuums": {},
+            "Wet/Dry Vacuums": {}
+        },
+        "Carpet Cleaning Machines": {},
+        "Floor Buffers": {},
+        "Steam Cleaners & Steam Mops": {
+            "Steam Cleaners": {},
+            "Steam Mops": {},
+            "Handheld Steamers": {}
+        },
+        "Sweepers": {}
+    },
+    "Garbage Disposals & Compactors": {
+        "Garbage Disposals": {},
+        "Trash Compactors": {}
+    },
+    "Parts & Accessories": {
+        "Air Conditioner Parts & Accessories": {
+            "Accessories": {},
+            "Replacement Parts": {
+                "Accessories": {},
+                "Fans": {},
+                "Filters": {},
+                "Knobs": {},
+                "Motors": {},
+                "Power Cords": {}
+            }
+        },
+        "Air Purifier Parts & Accessories": {},
+        "Beverage Refrigerator Replacement Parts": {},
+        "Blender Replacement Parts": {},
+        "Bread Machine Parts & Accessories": {},
+        "Carpet & Upholstery Cleaner Parts & Accessories": {
+            "Accessories": {},
+            "Carpet Cleaning Chemicals": {
+                "Carpet Cleaners": {},
+                "Carpet Deodorizers": {},
+                "Carpet Machine Detergents": {},
+                "Carpet Spot Cleaning Sprays": {},
+                "Carpet Stain Precleaners": {}
+            }
+        },
+        "Ceiling Fan Accessories": {
+            "Ceiling Fan Blades": {},
+            "Downrod Couplers": {},
+            "Downrods": {},
+            "Mount Adapters": {},
+            "Pull Chain Ornaments": {},
+            "Pull Chains": {},
+            "Remote Controls": {},
+            "Wall Controls": {}
+        },
+        "Coffee & Espresso Machine Parts & Accessories": {
+            "Coffee & Espresso Machine Cleaning Products": {},
+            "Coffee Machine Accessories": {
+                "Coffee Filters": {
+                    "Disposable Filters": {},
+                    "Permanent Filters": {},
+                    "Reusable Filters": {}
+                },
+                "Coffee Pod Holders": {},
+                "Coffeemaker Pots": {},
+                "Thermal Carafes": {}
+            },
+            "Espresso Machine Accessories": {
+                "Milk Frothing Pitchers": {},
+                "Tampers": {}
+            },
+            "Espresso Machine Replacement Parts": {}
+        },
+        "Cooktop Parts & Accessories": {},
+        "Deep Fryer Parts & Accessories": {},
+        "Dehumidifier Parts & Accessories": {
+            "Accessories": {},
+            "Replacement Parts": {}
+        },
+        "Dishwasher Parts & Accessories": {
+            "Baskets": {},
+            "Hoses": {}
+        },
+        "Dryer Parts & Accessories": {
+            "Lint Screens": {},
+            "Replacement Parts": {},
+            "Vents": {}
+        },
+        "Fasteners": {},
+        "Food Processor Parts & Accessories": {},
+        "Food Waste Disposer Parts & Accessories": {},
+        "Freezer Parts & Accessories": {},
+        "Humidifier Parts & Accessories": {
+            "Absorption Sleeves": {},
+            "Accessories": {},
+            "Chemicals": {},
+            "Humidity Meters": {},
+            "Replacement Wicks": {}
+        },
+        "Iron & Steamer Parts & Accessories": {
+            "Garment Steamer Accessories": {},
+            "Ironing Accessories": {},
+            "Ironing Boards": {},
+            "Ironing Board Covers": {}
+        },
+        "Juicer Parts & Accessories": {},
+        "Kegerator Replacement Parts": {},
+        "Microwave Oven Parts & Accessories": {
+            "Filters": {},
+            "Microwave Oven Replacement Parts": {},
+            "Turntables": {}
+        },
+        "Mixer Parts & Accessories": {},
+        "Oven Parts & Accessories": {},
+        "Pressure Cooker Parts & Accessories": {
+            "Accessories": {},
+            "Replacement Parts": {}
+        },
+        "Range Hood Parts & Accessories": {
+            "Blowers": {},
+            "Filters": {}
+        },
+        "Range Parts & Accessories": {
+            "Accessories": {},
+            "Burner Rings": {},
+            "Burners": {},
+            "Drip Pans": {},
+            "Exhaust Fans": {},
+            "Knobs": {},
+            "Plug Receptacles": {}
+        },
+        "Refrigerator Parts & Accessories": {
+            "Bins": {},
+            "Egg Trays": {},
+            "Grills": {},
+            "Handles": {},
+            "Ice Makers": {},
+            "Motors": {},
+            "Shelves": {},
+            "Water Filters": {}
+        },
+        "Soda Maker Parts & Accessories": {},
+        "Space Heater Replacement Parts": {},
+        "Steam Cleaner & Steam Mop Parts & Accessories": {
+            "Accessories": {},
+            "Replacement Parts": {}
+        },
+        "Trash Compactor Parts & Accessories": {},
+        "Vacuum Parts & Accessories": {
+            "Attachments & Brushes": {
+                "Attachments": {},
+                "Brushes": {}
+            },
+            "Bags": {
+                "Canister Bags": {},
+                "Central Vacuum Bags": {},
+                "Handheld Bags": {},
+                "Upright Bags": {}
+            },
+            "Central Vacuum Installation Parts": {},
+            "Covers": {},
+            "Filters": {
+                "Canister Filters": {},
+                "Central Vacuum Filters": {},
+                "Handheld Filters": {},
+                "Upright Filters": {},
+                "Wet/Dry Vacuum Filters": {}
+            },
+            "Hoses": {},
+            "Replacement Batteries & Parts": {
+                "Batteries": {},
+                "Belts": {},
+                "Lamp Bulbs": {}
+            }
+        },
+        "Washer Parts & Accessories": {
+            "Doors": {},
+            "Drain Pumps": {}
+        },
+        "Wine Cellar Parts & Accessories": {}
+    },
+    "Appliance Warranties": {}
+}

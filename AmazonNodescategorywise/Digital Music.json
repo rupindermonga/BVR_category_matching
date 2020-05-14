@@ -1,0 +1,247 @@
+{
+    "Blues": {
+        "Acoustic Blues": {},
+        "Classic Female Vocal Blues": {},
+        "Contemporary Blues": {},
+        "Electric Blues Guitar": {},
+        "Modern Blues": {},
+        "Regional Blues": {
+            "Chicago Blues": {},
+            "Delta Blues": {}
+        },
+        "Traditional Blues": {}
+    },
+    "Broadway & Vocalists": {
+        "Cabaret": {},
+        "Musicals": {},
+        "Traditional Vocal Pop": {}
+    },
+    "Children's Music": {
+        "Educational": {},
+        "Lullabies": {},
+        "Sing-A-Longs": {}
+    },
+    "Christian & Gospel": {
+        "Alternative": {},
+        "Children's": {},
+        "Christian Contemporary Music": {},
+        "Country Gospel": {},
+        "Gospel": {
+            "Choir": {},
+            "Instrumental": {},
+            "Traditional": {},
+            "Urban & Contemporary": {}
+        },
+        "Praise & Worship": {},
+        "Rap & Hip-Hop": {},
+        "Rock & Metal": {}
+    },
+    "Classical": {},
+    "Classic Rock": {
+        "Arena Rock": {},
+        "British Invasion": {},
+        "Psychedelic Rock": {},
+        "Southern Rock": {}
+    },
+    "Country": {
+        "Alt-Country & Americana": {},
+        "Bluegrass": {},
+        "Contemporary Country": {},
+        "Cowboy": {},
+        "Honky-Tonk": {},
+        "Outlaw & Progressive Country": {},
+        "Traditional Country": {},
+        "Western Swing": {}
+    },
+    "Dance & Electronic": {
+        "Disco": {},
+        "Drum & Bass": {},
+        "Dubstep": {},
+        "Electronica": {},
+        "Freestyle": {},
+        "House": {},
+        "Techno": {},
+        "Trance": {},
+        "Trip-Hop": {},
+        "Turntablists": {},
+        "World Dance": {}
+    },
+    "Folk": {
+        "Alt-Country & Americana": {},
+        "Contemporary Folk": {},
+        "Jewish & Yiddish Music": {},
+        "Traditional British & Celtic Folk": {},
+        "Traditional Folk": {}
+    },
+    "Hard Rock & Metal": {
+        "Alternative Metal": {},
+        "British Metal": {},
+        "Death Metal": {},
+        "Hard Rock": {},
+        "Pop Metal": {},
+        "Thrash & Speed Metal": {}
+    },
+    "Holiday": {
+        "New Year's Eve": {},
+        "Valentine's Day": {},
+        "Independence Day": {},
+        "Thanksgiving": {},
+        "Hanukkah": {},
+        "Christmas": {}
+    },
+    "Indie & Alternative": {
+        "Alternative Rock": {},
+        "Goth & Industrial": {},
+        "Hardcore & Punk": {},
+        "Indie & Lo-Fi": {},
+        "New Wave & Post-Punk": {},
+        "Singer-Songwriters": {},
+        "Ska": {}
+    },
+    "International": {
+        "Africa": {},
+        "Australia & New Zealand": {},
+        "Caribbean & Cuba": {},
+        "Celtic": {},
+        "Europe": {},
+        "Far East & Asia": {},
+        "India": {},
+        "Latin Music": {
+            "Big Band": {},
+            "Flamenco": {},
+            "Latin Pop": {},
+            "Latin Hip-Hop": {},
+            "Latin Rock": {},
+            "Latin Electronica": {},
+            "Latin Children's": {},
+            "Latin Christian": {},
+            "Bachata": {},
+            "Bolero": {},
+            "Cumbia": {},
+            "Duranguense": {},
+            "Grupero": {},
+            "Mambo": {},
+            "Mariachi": {},
+            "Merengue": {},
+            "Norteno": {},
+            "Ranchera": {},
+            "Reggaeton": {},
+            "Rhumba": {},
+            "Salsa": {},
+            "Samba": {},
+            "Sierreno": {},
+            "Tango": {},
+            "Tejano": {},
+            "Tierra Caliente": {},
+            "Vallenato": {}
+        },
+        "Middle East": {},
+        "North America": {},
+        "Pacific Islands": {},
+        "Reggae": {}
+    },
+    "Jazz": {
+        "Acid Jazz": {},
+        "Avant Garde & Free Jazz": {},
+        "Bebop": {},
+        "Brazilian Jazz": {},
+        "Cool Jazz": {},
+        "Jazz Fusion": {},
+        "Latin Jazz": {},
+        "Modern Postbebop": {},
+        "New Orleans Jazz": {},
+        "Smooth Jazz": {},
+        "Soul-Jazz & Boogaloo": {},
+        "Swing Jazz": {},
+        "Traditional Jazz & Ragtime": {},
+        "Vocal Jazz": {}
+    },
+    "Latin Music": {
+        "Big Band": {},
+        "Flamenco": {},
+        "Latin Pop": {},
+        "Latin Hip-Hop": {},
+        "Latin Rock": {},
+        "Latin Electronica": {},
+        "Latin Children's": {},
+        "Latin Christian": {},
+        "Bachata": {},
+        "Bolero": {},
+        "Cumbia": {},
+        "Duranguense": {},
+        "Grupero": {},
+        "Mambo": {},
+        "Mariachi": {},
+        "Merengue": {},
+        "Norteno": {},
+        "Ranchera": {},
+        "Reggaeton": {},
+        "Rhumba": {},
+        "Salsa": {},
+        "Samba": {},
+        "Sierreno": {},
+        "Tango": {},
+        "Tejano": {},
+        "Tierra Caliente": {},
+        "Vallenato": {}
+    },
+    "Miscellaneous": {
+        "Comedy": {},
+        "Exercise": {},
+        "Poetry, Spoken Word & Interviews": {},
+        "Radio Shows": {},
+        "Sound Effects": {},
+        "Wedding Music": {}
+    },
+    "New Age": {
+        "Celtic New Age": {},
+        "Environmental": {},
+        "Meditation": {}
+    },
+    "Opera": {},
+    "Pop": {
+        "Adult Alternative": {},
+        "Adult Contemporary": {},
+        "Dance Pop": {},
+        "Easy Listening": {},
+        "Euro Pop": {},
+        "Korean Pop": {},
+        "Oldies": {},
+        "Pop Rock": {},
+        "Singer-Songwriters": {},
+        "Soft Rock": {}
+    },
+    "R&B": {
+        "Classic R&B": {},
+        "Contemporary R&B": {},
+        "Funk": {},
+        "Motown": {},
+        "Neo-Soul": {},
+        "New Jack": {},
+        "Quiet Storm": {},
+        "Soul": {}
+    },
+    "Rap & Hip-Hop": {
+        "Bass": {},
+        "East Coast": {},
+        "Experimental Rap": {},
+        "Gangsta & Hardcore": {},
+        "Old School": {},
+        "Pop Rap": {},
+        "Southern Rap": {},
+        "West Coast": {}
+    },
+    "Rock": {
+        "Blues Rock": {},
+        "Country Rock": {},
+        "Folk Rock": {},
+        "Funk Rock": {},
+        "Jam Bands": {},
+        "Oldies & Retro": {},
+        "Progressive": {},
+        "Rap Rock": {},
+        "Roots Rock": {},
+        "Singer-Songwriters": {}
+    },
+    "Soundtracks": {}
+}
