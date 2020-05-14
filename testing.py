@@ -26,36 +26,64 @@ with open(os.path.join(path_to_json, 'Luggage & Travel Gear.json')) as f:
 
 categories = set()
 parent = {}
-numbering = {}
+node_id = {}
 count = 0
+title_list = []
+node_list = []
+parent_list = []
+parent_node_id = []
 def add(data,p):
     global parent
     global categories
-    global numbering
+    global node_id
     global count
+    global title_list
+    # global parent_list
     for key in data:
+        title_list.append(key)
+        node_list.append(count)
         categories.add(key)
         if key not in parent:
             parent[key] = set()
-            numbering[key] = set()
+            node_id[key] = set()
         parent[key].add(p)
-        numbering[key].add(count)
+        node_id[key].add(count)
         count += 1
         add(data[key],key)
+    # d = {"List": title_list, "Node_Id": node_list}
+    # final_data = pd.DataFrame(d)
+    # final_data.to_csv("check.csv")
+
+
 
 top = 'App'
 categories.add(top)
 add(test_file,top)
-print(len(categories))
+# print(len(categories))
 # print(list(categories)[:100])
-print(parent['Laptop Backpacks'])
-(element,) = parent['Laptop Backpacks']
-print(element)
-print(numbering['Laptop Backpacks'])
-print(numbering[element])
+# print(parent['Backpacks'])
+# (element,) = parent['Laptop Backpacks']
+# print(element)
+# print(node_id['Laptop Backpacks'])
+# print(node_id[element])
 
 
+for eachElement in title_list:
+    new_list = []
+    parent_list.append(parent[eachElement])
+    print(parent[eachElement])
+    for e in parent[eachElement]:
+        print(e)
+        try:
+            new_list.append(node_id[e])
+        except:
+            new_list.append("NA")
+    # (element, ) = parent[eachElement]
+    parent_node_id.append(new_list)
 
+d = {"List": title_list, "Node_Id": node_list, "Parent": parent_list, "Parent_node_id": parent_node_id}
+final_data = pd.DataFrame(d)
+final_data.to_csv("check.csv")
 
 
 
