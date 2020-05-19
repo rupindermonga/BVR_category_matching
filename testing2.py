@@ -5,29 +5,36 @@ import glob
 path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
 
 
-with open(os.path.join(path_to_json, 'Clothing, Shoes & Jewelry.json')) as f:
+with open(os.path.join(path_to_json, 'Movies & TV.json')) as f:
     test_file = json.load(f)
 
 
-categories = set()
+# categories = set()
 parent = {}
+count = 0
+node_id = {}
 def add(data, p):
-    global categories
+    # global categories
     global parent
+    global count
+    global node_id
     for key in data:
-        categories.add(key)
+        # categories.add(key)
         if key not in parent:
             parent[key] = set()
+            node_id[key] = set()
         parent[key].add(p)
+        node_id[key].add(count)
+        count += 1
         add(data[key], key)
-    return len(categories)
+    return count
 
 top = "Clothing, Shoes & Jewelry"
-categories.add(top)
+# categories.add(top)
 f = add(test_file,top)
 print(f)
-print(parent["Tops"])
-
+print(parent["TV"])
+print(node_id['TV'])
 
 
 # categories = set()
