@@ -8,6 +8,22 @@ path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/Matc
 with open(os.path.join(path_to_json, 'Luggage & Travel Gear.json')) as f:
     test_file = json.load(f)
 
+json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
+
+bvr_data = pd.read_csv("/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise/category_url.csv")
+
+all_files = []
+file_names = []
+for eachFile in json_files:
+    try:
+        with open(os.path.join(path_to_json, eachFile)) as f:
+            new_file = json.load(f)
+            file_names.append(eachFile)
+            all_files.append(new_file)
+    except:
+        pass
+
+
 
 categories = []
 parent = {}
@@ -32,17 +48,6 @@ def add(data, p):
 
 
 
-# top = "Clothing, Shoes & Jewelry"
-# # categories.add(top)
-# categories.append(top)
-# f = add(test_file,top)
-# print(f)
-# test_text = "Girls' Watch Bands"
-# parent_list = parent[test_text]
-# node_list = node_id[test_text]
-# print(parent_list)
-# print(node_list)
-
 
 def parentList(category):
     # category = test_text
@@ -64,32 +69,43 @@ def parentList(category):
                 parent_node_list.append(node_id[eachValue][0])
     return parent_node_list
 
-parent_column = []
-parent_final_list =[]
-node_final_list = []
-top = "Clothing, Shoes & Jewelry"
-categories.append(top)
-adding_data = add(test_file, top)
+
+for fileName, fullFile in zip(file_names, all_files):
+    parent_column = []
+    parent_final_list =[]
+    node_final_list = []
+    top = fileName.rstrip('json')
+    # global categories
+    # categories.clear()
+    del categories[:]
+    
+    categories.append(top)
+    adding_data = add(fullFile, top)
+    for eachCategory in categories:
+        
+        if eachCategory != top:
+            parent_column.append(parentList(eachCategory))
+            parent_final_list.append(parent[eachCategory])
+            node_final_list.append(node_id[eachCategory])
+        # else:
+        #     pass
+    del categories[0]
+    final_dataFrame = pd.DataFrame({
+                                        "Category": categories,
+                                        "node_id": node_final_list, 
+                                        "parent_list": parent_final_list,
+                                        "parent_id": parent_column})
+    final_dataFrame.to_csv(top+".csv")
 
 
-for eachCategory in categories:
-    if eachCategory != top:
-        parent_column.append(parentList(eachCategory))
-        parent_final_list.append(parent[eachCategory])
-        node_final_list.append(node_id[eachCategory])
-    else:
-        pass
 
-del categories[0]
-final_dataFrame = pd.DataFrame({
-                                    "Category": categories,
-                                    "node_id": node_final_list, 
-                                    "parent_list": parent_final_list,
-                                    "parent_id": parent_column})
 
-category_dataframe = pd.DataFrame({"Category": categories})
-final_dataFrame.to_csv("checking.csv")
-category_dataframe.to_csv("category_check.csv")
+
+
+
+# category_dataframe = pd.DataFrame({"Category": categories})
+
+# category_dataframe.to_csv("category_check.csv")
 
 
 # print(parentList(test_text))
