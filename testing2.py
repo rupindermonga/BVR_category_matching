@@ -5,7 +5,7 @@ import glob
 path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
 
 
-with open(os.path.join(path_to_json, 'Movies & TV.json')) as f:
+with open(os.path.join(path_to_json, 'Clothing, Shoes & Jewelry.json')) as f:
     test_file = json.load(f)
 
 
@@ -33,9 +33,26 @@ top = "Clothing, Shoes & Jewelry"
 # categories.add(top)
 f = add(test_file,top)
 print(f)
-print(parent["TV"])
-print(node_id['TV'])
+test_text = "Tops"
+print(parent[test_text])
+print(node_id[test_text])
 
+# parent_list = []
+# for eachValue in parent[test_text]:
+#     if eachValue == top:
+#         parent_list.append("Zero")
+#     else:
+#         if len(node_id[eachValue])>1:
+#             min_value = 1000
+#             for eachN in node_id[eachValue]:
+#                 if int(eachN) < int(eachValue):
+#                     min_value = min(eachValue - eachN, min_value)
+#                     if min_value == eachValue - eachN:
+#                         parent_list.append(eachN)
+#         else:
+#             parent_list.append(node_id[eachValue])
+
+# print(parent_list)
 
 # categories = set()
 # parent = {}
