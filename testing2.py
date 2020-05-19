@@ -5,7 +5,7 @@ import glob
 path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
 
 
-with open(os.path.join(path_to_json, 'Clothing, Shoes & Jewelry.json')) as f:
+with open(os.path.join(path_to_json, 'Luggage & Travel Gear.json')) as f:
     test_file = json.load(f)
 
 
@@ -30,73 +30,68 @@ def add(data, p):
         add(data[key], key)
     return count
 
-top = "Clothing, Shoes & Jewelry"
-# categories.add(top)
-categories.append(top)
-f = add(test_file,top)
-print(f)
-test_text = "Girls' Watch Bands"
-parent_list = parent[test_text]
-node_list = node_id[test_text]
-print(parent_list)
-print(node_list)
 
-parent_node_list = []
-parent_position = 0
-for eachValue in parent[test_text]:
-    my_list = node_id[eachValue]
-    parent_position += 1
-    if eachValue == top:
-        parent_node_list.append("Zero")
-    else:
-        if len(my_list) > 1:
-            eachValue_index = parent_position - 1
-            my_number =  node_list[eachValue_index]
-            new_parent_id = min([ i for i in my_list if i < my_number], key=lambda x:abs(x-my_number))
-            parent_node_list.append(new_parent_id)
-        else:
-            parent_node_list.append(node_id[eachValue][0])
 
-        
-print(parent_node_list)
-print(len(categories))
-            
-            # min_value = 1000
-            # for eachN in node_id[eachValue]:
-#                 if int(eachN) < int(eachValue):
-#                     min_value = min(eachValue - eachN, min_value)
-#                     if min_value == eachValue - eachN:
-#                         parent_list.append(eachN)
-#         else:
-#             parent_list.append(node_id[eachValue])
-
+# top = "Clothing, Shoes & Jewelry"
+# # categories.add(top)
+# categories.append(top)
+# f = add(test_file,top)
+# print(f)
+# test_text = "Girls' Watch Bands"
+# parent_list = parent[test_text]
+# node_list = node_id[test_text]
 # print(parent_list)
-
-# categories = set()
-# parent = {}
-# node_id = {}
-# count = 0
-# title_list = []
-# node_list = []
-# parent_list = []
-# parent_node_id = []
-# def add(data,p):
-#     global parent
-#     global categories
-#     global node_id
-#     global count
-#     global title_list
-#     # global parent_list
-#     for key in data:
-#         title_list.append(key)
-#         node_list.append(count)
-#         categories.add(key)
-#         if key not in parent:
-#             parent[key] = set()
-#             node_id[key] = set()
-#         parent[key].add(p)
-#         node_id[key].add(count)
-#         count += 1
-#         add(data[key],key)
+# print(node_list)
 
 
+def parentList(category):
+    # category = test_text
+    node_list = node_id[category]
+    parent_node_list = []
+    parent_position = 0
+    for eachValue in parent[category]:
+        my_list = node_id[eachValue]
+        parent_position += 1
+        if eachValue == top:
+            parent_node_list.append("Zero")
+        else:
+            if len(my_list) > 1:
+                eachValue_index = parent_position - 1
+                my_number =  node_list[eachValue_index]
+                new_parent_id = min([ i for i in my_list if i < my_number], key=lambda x:abs(x-my_number))
+                parent_node_list.append(new_parent_id)
+            else:
+                parent_node_list.append(node_id[eachValue][0])
+    return parent_node_list
+
+parent_column = []
+parent_final_list =[]
+node_final_list = []
+top = "Clothing, Shoes & Jewelry"
+categories.append(top)
+adding_data = add(test_file, top)
+
+
+for eachCategory in categories:
+    try:
+        parent_column.append(parentList(eachCategory))
+        parent_final_list.append(parent[eachCategory])
+        node_final_list.append(node_id[eachCategory])
+    except:
+        pass
+
+final_dataFrame = pd.DataFrame({
+                                    # "Category": categories, 
+                                    "parent_list": parent_final_list,
+                                    "parent_column": parent_column,
+                                    "node_final_list": node_final_list})
+
+category_dataframe = pd.DataFrame({"Category": categories})
+final_dataFrame.to_csv("checking.csv")
+category_dataframe.to_csv("category_check.csv")
+
+
+# print(parentList(test_text))
+# # print(parent_node_list)
+# print(len(categories))
+            
