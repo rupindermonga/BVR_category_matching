@@ -9,17 +9,18 @@ with open(os.path.join(path_to_json, 'Clothing, Shoes & Jewelry.json')) as f:
     test_file = json.load(f)
 
 
-# categories = set()
+categories = []
 parent = {}
 count = 0
 node_id = {}
 def add(data, p):
-    # global categories
+    global categories
     global parent
     global count
     global node_id
     for key in data:
         # categories.add(key)
+        categories.append(key)
         if key not in parent:
             parent[key] = []
             node_id[key] = []
@@ -31,9 +32,10 @@ def add(data, p):
 
 top = "Clothing, Shoes & Jewelry"
 # categories.add(top)
+categories.append(top)
 f = add(test_file,top)
 print(f)
-test_text = "Tops"
+test_text = "Girls' Watch Bands"
 parent_list = parent[test_text]
 node_list = node_id[test_text]
 print(parent_list)
@@ -57,7 +59,7 @@ for eachValue in parent[test_text]:
 
         
 print(parent_node_list)
-            
+print(len(categories))
             
             # min_value = 1000
             # for eachN in node_id[eachValue]:
