@@ -49,12 +49,12 @@ def parentList(category):
     node_list = node_id[category]
     parent_node_list = []
     parent_position = 0
-    for eachValue in parent[category]:
-        my_list = node_id[eachValue]
+    for eachValue in parent[category]:  
         parent_position += 1
         if eachValue == top:
             parent_node_list.append("Zero")
         else:
+            my_list = node_id[eachValue]
             if len(my_list) > 1:
                 eachValue_index = parent_position - 1
                 my_number =  node_list[eachValue_index]
@@ -73,18 +73,19 @@ adding_data = add(test_file, top)
 
 
 for eachCategory in categories:
-    try:
+    if eachCategory != top:
         parent_column.append(parentList(eachCategory))
         parent_final_list.append(parent[eachCategory])
         node_final_list.append(node_id[eachCategory])
-    except:
+    else:
         pass
 
+del categories[0]
 final_dataFrame = pd.DataFrame({
-                                    # "Category": categories, 
+                                    "Category": categories,
+                                    "node_id": node_final_list, 
                                     "parent_list": parent_final_list,
-                                    "parent_column": parent_column,
-                                    "node_final_list": node_final_list})
+                                    "parent_id": parent_column})
 
 category_dataframe = pd.DataFrame({"Category": categories})
 final_dataFrame.to_csv("checking.csv")
