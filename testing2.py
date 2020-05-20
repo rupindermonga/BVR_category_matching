@@ -1,9 +1,9 @@
 import os, json, csv
 import pandas as pd
-import glob
+import glob, re
 
 path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
-
+save_path = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Result'
 
 with open(os.path.join(path_to_json, 'Luggage & Travel Gear.json')) as f:
     test_file = json.load(f)
@@ -74,11 +74,11 @@ for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
     node_final_list = []
-    top = fileName.rstrip('json')
-    # global categories
-    # categories.clear()
-    del categories[:]
-    
+    top = fileName.rstrip(".json")
+    categories = []
+    parent = {}
+    count = 0
+    node_id = {}
     categories.append(top)
     adding_data = add(fullFile, top)
     for eachCategory in categories:
@@ -95,7 +95,7 @@ for fileName, fullFile in zip(file_names, all_files):
                                         "node_id": node_final_list, 
                                         "parent_list": parent_final_list,
                                         "parent_id": parent_column})
-    final_dataFrame.to_csv(top+".csv")
+    final_dataFrame.to_csv(os.path.join(save_path, top +".csv"))
 
 
 
