@@ -118,8 +118,8 @@ for fileName, fullFile in zip(file_names, all_files):
                                         "node_id": node_final_list, 
                                         "parent_list": parent_final_list,
                                         "parent_id": parent_column})
-    dataframe_list.append(final_dataFrame)
-    fileNames_list.append(top)
+    # dataframe_list.append(final_dataFrame)
+    # fileNames_list.append(top)
 
     
 
@@ -133,33 +133,9 @@ for fileName, fullFile in zip(file_names, all_files):
 
     final_dataFrame.to_csv(os.path.join(save_path, top +".csv"))
 
-
-# merged_dataframe = pd.DataFrame()
-# for eachDataFrame, file_name in zip(dataframe_list, fileNames_list):
-#     new_dataframe = pd.merge(bvr_data_frame, eachDataFrame, on="Category", how = "inner")
-#     # new_dataframe.drop(new_dataframe.columns[2], axis = 1, inplace = True)
-#     new_dataframe['File_Name'] = file_name
-#     new_dataframe = new_dataframe.drop_duplicates(subset="Category")
-#     merged_dataframe = merged_dataframe.append(new_dataframe, ignore_index = True)
-    
+not_merged_dataFrame = bvr_data_frame.merge(merged_dataframe, how = 'outer' ,indicator=True).loc[lambda x : x['_merge']=='left_only']
+not_merged_dataFrame = not_merged_dataFrame.drop(not_merged_dataFrame.columns[2:], axis = 1)
 merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
 merged_dataframe.to_csv("merged.csv")
+not_merged_dataFrame.to_csv("not_merged.csv")
 
-
-    
-    
-
-
-
-
-# bvr_data_frame.to_csv("bvr_check.csv")
-
-# check_data = pd.read_csv("/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise/Clothing_Shoes_Jewelry.csv")
-
-
-# merged_stuff = pd.merge(bvr_data_frame, check_data, on="Category", how = "inner")
-# merged_stuff.drop(merged_stuff.columns[2], axis = 1, inplace = True)
-# # print(merged_stuff) #prints all matches separately. deleting the column for now
-# merged_stuff['File_Name'] = "Clothing_Shoes_Jewelry"
-# # merged_stuff.append(merged_stuff)
-# print(merged_stuff.drop_duplicates(subset="Category"))
