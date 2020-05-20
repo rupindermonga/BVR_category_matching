@@ -69,7 +69,20 @@ def parentList(category):
                 parent_node_list.append(node_id[eachValue][0])
     return parent_node_list
 
+# print(bvr_data)
+bvr_node_id = []
+bvr_node_name = []
+for val, eachElement in enumerate(bvr_data.iloc[:,0], 0):
+    # print(eachElement)
+    bvr_node_id.append(val)
+    bvr_node_name.append(eachElement)
 
+
+bvr_data_frame = pd.DataFrame({"Category": bvr_node_name, "BVR Node ID": bvr_node_id})
+
+
+
+dataframe_list = []
 for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
@@ -95,20 +108,27 @@ for fileName, fullFile in zip(file_names, all_files):
                                         "node_id": node_final_list, 
                                         "parent_list": parent_final_list,
                                         "parent_id": parent_column})
+    dataframe_list.append(final_dataFrame)
     final_dataFrame.to_csv(os.path.join(save_path, top +".csv"))
 
 
 
+merged_dataframe = pd.DataFrame({"Category": "", "BVR Node ID": "", "node_id": "", "parent_id":"", "File_Name":"" })
+for eachDataFrame in dataframe_list:
+    new_dataframe = pd.merge(bvr_data_frame, eachDataFrame, on="Category", how = "inner")
+    new_dataframe['File_Name'] = "Clothing_Shoes_Jewelry"
 
 
 
 
-# category_dataframe = pd.DataFrame({"Category": categories})
+# bvr_data_frame.to_csv("bvr_check.csv")
 
-# category_dataframe.to_csv("category_check.csv")
+# check_data = pd.read_csv("/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise/Clothing_Shoes_Jewelry.csv")
 
 
-# print(parentList(test_text))
-# # print(parent_node_list)
-# print(len(categories))
-            
+# merged_stuff = pd.merge(bvr_data_frame, check_data, on="Category", how = "inner")
+# merged_stuff.drop(merged_stuff.columns[2], axis = 1, inplace = True)
+# # print(merged_stuff) #prints all matches separately. deleting the column for now
+# merged_stuff['File_Name'] = "Clothing_Shoes_Jewelry"
+# # merged_stuff.append(merged_stuff)
+# print(merged_stuff.drop_duplicates(subset="Category"))
