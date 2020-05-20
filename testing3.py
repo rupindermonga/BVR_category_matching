@@ -80,9 +80,19 @@ for val, eachElement in enumerate(bvr_data.iloc[:,0], 0):
 
 bvr_data_frame = pd.DataFrame({"Category": bvr_node_name, "BVR Node ID": bvr_node_id})
 
+# merged_dataframe = pd.DataFrame({"Category": [1], "BVR Node ID": [1], "node_id": [1], "parent_id":[1], "File_Name":[1] })
+# column_names = ["Category", "BVR Node ID", "node_id", "parent_id", "File_Name" ]
+# merged_dataframe = pd.DataFrame(columns=  column_names)
+
+check_data = pd.read_csv("/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise/Clothing_Shoes_Jewelry.csv")
+
+
+
+merged_dataframe = pd.DataFrame()
 
 
 dataframe_list = []
+fileNames_list = []
 for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
@@ -109,14 +119,35 @@ for fileName, fullFile in zip(file_names, all_files):
                                         "parent_list": parent_final_list,
                                         "parent_id": parent_column})
     dataframe_list.append(final_dataFrame)
+    fileNames_list.append(top)
+
+    
+
+    new_dataframe = pd.merge(bvr_data_frame, final_dataFrame, on="Category", how = "inner")
+    new_dataframe['File_Name'] = top
+    new_dataframe = new_dataframe.drop_duplicates(subset="Category")
+    merged_dataframe = merged_dataframe.append(new_dataframe, ignore_index = True)
+    
+    merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
+    merged_dataframe.to_csv("merged.csv")
+
     final_dataFrame.to_csv(os.path.join(save_path, top +".csv"))
 
 
+# merged_dataframe = pd.DataFrame()
+# for eachDataFrame, file_name in zip(dataframe_list, fileNames_list):
+#     new_dataframe = pd.merge(bvr_data_frame, eachDataFrame, on="Category", how = "inner")
+#     # new_dataframe.drop(new_dataframe.columns[2], axis = 1, inplace = True)
+#     new_dataframe['File_Name'] = file_name
+#     new_dataframe = new_dataframe.drop_duplicates(subset="Category")
+#     merged_dataframe = merged_dataframe.append(new_dataframe, ignore_index = True)
+    
+merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
+merged_dataframe.to_csv("merged.csv")
 
-merged_dataframe = pd.DataFrame({"Category": "", "BVR Node ID": "", "node_id": "", "parent_id":"", "File_Name":"" })
-for eachDataFrame in dataframe_list:
-    new_dataframe = pd.merge(bvr_data_frame, eachDataFrame, on="Category", how = "inner")
-    new_dataframe['File_Name'] = "Clothing_Shoes_Jewelry"
+
+    
+    
 
 
 
