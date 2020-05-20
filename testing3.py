@@ -1,6 +1,10 @@
 import os, json, csv
 import pandas as pd
 import glob, re
+import time
+
+start_time = time.time()    
+
 
 path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
 save_path = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Result'
@@ -80,11 +84,6 @@ for val, eachElement in enumerate(bvr_data.iloc[:,0], 0):
 
 bvr_data_frame = pd.DataFrame({"Category": bvr_node_name, "BVR Node ID": bvr_node_id})
 
-# merged_dataframe = pd.DataFrame({"Category": [1], "BVR Node ID": [1], "node_id": [1], "parent_id":[1], "File_Name":[1] })
-# column_names = ["Category", "BVR Node ID", "node_id", "parent_id", "File_Name" ]
-# merged_dataframe = pd.DataFrame(columns=  column_names)
-
-check_data = pd.read_csv("/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise/Clothing_Shoes_Jewelry.csv")
 
 
 
@@ -139,3 +138,4 @@ merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
 merged_dataframe.to_csv("merged.csv")
 not_merged_dataFrame.to_csv("not_merged.csv")
 
+print(time.time() - start_time)
