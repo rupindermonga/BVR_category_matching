@@ -117,7 +117,7 @@ merged_dataframe = pd.DataFrame()
 
 over_all_count = 0
 over_all_list = []
-all_path_list = []
+# all_path_list = []
 for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
@@ -129,12 +129,12 @@ for fileName, fullFile in zip(file_names, all_files):
     node_id = {}
     categories.append(top)
     adding_data = add(fullFile, top)
-    new_file_path_list = []
-    new_category_path_list = []
+    # new_file_path_list = []
+    # new_category_path_list = []
     for eachCategory in categories:
-        new_category_path_list.append(eachCategory)
+        # new_category_path_list.append(eachCategory)
         # print(len(new_category_path_list))
-        new_file_path_list.append(new_category_path_list)
+        # new_file_path_list.append(new_category_path_list)
         over_all_count += 1
         # over_all_list.append[eachCategory]
         # print(eachCategory)
@@ -146,7 +146,7 @@ for fileName, fullFile in zip(file_names, all_files):
             node_final_list.append(node_id[eachCategory])
         # else:
         #     pass
-    all_path_list.append(new_file_path_list)
+    # all_path_list.append(new_file_path_list)
     # print([fileName,len(new_file_path_list), len(categories)])
     del categories[0]
     final_dataFrame = pd.DataFrame({
@@ -174,9 +174,20 @@ not_merged_dataFrame.to_csv("not_merged.csv")
 # over_all_list_dataframe.to_csv("path_list.csv")
 # over_all_list_dataframe = pd.DataFrame({"abc": over_all_list})
 # over_all_list_dataframe.to_csv()
+# counting = 0
+# counting_listElement = 0
+# for listElements in all_path_list:
+#     counting_listElement +=1
+#     for allElement in listElements:
+        
+#         counting +=1
 
+# print(counting)
+# print(counting_listElement)
+# print(all_path_list[-1])
 # print(time.time() - start_time)
 # print(over_all_count)
+# print(over_all_list[1])
 # print(len(over_all_list))
 # print("Amazon Instant Video.json" in over_all_list)
 # print("Amazon Instant Video" in over_all_list)
