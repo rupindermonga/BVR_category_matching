@@ -117,29 +117,37 @@ merged_dataframe = pd.DataFrame()
 
 over_all_count = 0
 over_all_list = []
+all_path_list = []
 for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
     node_final_list = []
-    top = fileName.rstrip("json")
+    top = fileName.rstrip(".json")
     categories = []
     parent = {}
     count = 0
     node_id = {}
     categories.append(top)
     adding_data = add(fullFile, top)
-    
+    new_file_path_list = []
+    new_category_path_list = []
     for eachCategory in categories:
+        new_category_path_list.append(eachCategory)
+        # print(len(new_category_path_list))
+        new_file_path_list.append(new_category_path_list)
         over_all_count += 1
         # over_all_list.append[eachCategory]
-        print(eachCategory)
+        # print(eachCategory)
         over_all_list.append(eachCategory)
+        
         if eachCategory != top:
             parent_column.append(parentList(eachCategory))
             parent_final_list.append(parent[eachCategory])
             node_final_list.append(node_id[eachCategory])
         # else:
         #     pass
+    all_path_list.append(new_file_path_list)
+    # print([fileName,len(new_file_path_list), len(categories)])
     del categories[0]
     final_dataFrame = pd.DataFrame({
                                         "Category": categories,
@@ -162,13 +170,21 @@ not_merged_dataFrame = not_merged_dataFrame.drop(not_merged_dataFrame.columns[2:
 merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
 merged_dataframe.to_csv("merged.csv")
 not_merged_dataFrame.to_csv("not_merged.csv")
+# over_all_list_dataframe = pd.DataFrame({"abc": all_path_list})
+# over_all_list_dataframe.to_csv("path_list.csv")
 # over_all_list_dataframe = pd.DataFrame({"abc": over_all_list})
 # over_all_list_dataframe.to_csv()
 
-print(time.time() - start_time)
-print(over_all_count)
-print(len(over_all_list))
-print("Amazon Instant Video.json" in over_all_list)
-print("Amazon Instant Video" in over_all_list)
-print("Amazon Instant Vide" in over_all_list)
-print("Amazon Instant Video." in over_all_list)
+# print(time.time() - start_time)
+# print(over_all_count)
+# print(len(over_all_list))
+# print("Amazon Instant Video.json" in over_all_list)
+# print("Amazon Instant Video" in over_all_list)
+# print("Amazon Instant Vide" in over_all_list)
+# print("Amazon Instant Video." in over_all_list)
+# print(over_all_list.index("Amazon Instant Video."))
+# for eachName in file_names:
+#     new_name = eachName.rstrip(".json")
+#     print_list = [new_name,over_all_list.index(new_name) ]
+#     print(print_list)
+# print(len(all_path_list))
