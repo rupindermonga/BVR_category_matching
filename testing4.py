@@ -115,20 +115,25 @@ bvr_data_frame = pd.DataFrame({"Category": bvr_node_name, "BVR Node ID": bvr_nod
 
 merged_dataframe = pd.DataFrame()
 
-
+over_all_count = 0
+over_all_list = []
 for fileName, fullFile in zip(file_names, all_files):
     parent_column = []
     parent_final_list =[]
     node_final_list = []
-    top = fileName.rstrip(".json")
+    top = fileName.rstrip("json")
     categories = []
     parent = {}
     count = 0
     node_id = {}
     categories.append(top)
     adding_data = add(fullFile, top)
+    
     for eachCategory in categories:
-        
+        over_all_count += 1
+        # over_all_list.append[eachCategory]
+        print(eachCategory)
+        over_all_list.append(eachCategory)
         if eachCategory != top:
             parent_column.append(parentList(eachCategory))
             parent_final_list.append(parent[eachCategory])
@@ -157,5 +162,13 @@ not_merged_dataFrame = not_merged_dataFrame.drop(not_merged_dataFrame.columns[2:
 merged_dataframe.sort_values(by = 'BVR Node ID', inplace= True)
 merged_dataframe.to_csv("merged.csv")
 not_merged_dataFrame.to_csv("not_merged.csv")
+# over_all_list_dataframe = pd.DataFrame({"abc": over_all_list})
+# over_all_list_dataframe.to_csv()
 
 print(time.time() - start_time)
+print(over_all_count)
+print(len(over_all_list))
+print("Amazon Instant Video.json" in over_all_list)
+print("Amazon Instant Video" in over_all_list)
+print("Amazon Instant Vide" in over_all_list)
+print("Amazon Instant Video." in over_all_list)
