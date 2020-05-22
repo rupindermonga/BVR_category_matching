@@ -2,8 +2,8 @@ import glob
 import json
 import os
 
-path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
-# path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Testing'
+# path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
+path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Testing'
 # categories = []
 # parent = {}
 # def add(data, p):
@@ -35,26 +35,32 @@ def add(data, p):
 all_files = []
 file_names = []
 super_final_list = []
+n = 0
 for eachFile in json_files:
+    
     with open(os.path.join(path_to_json, eachFile)) as f:
         data = json.load(f)
         top = eachFile.replace('.json','')
         categories = []
+        parent = {}
         categories.append(top)
         add(data, top)
         final_list = []
         text = 'Tops'
+        parent_text = []
         if text in categories:
-            for eachC in parent[text]:
+            # print(parent[text])
+            parent_text = parent[text]
+            # print(parent_text)
+            for eachC in parent_text:
                 new_list = []
                 new_list.append(text)            
                 new_list.append(eachC)
                 while eachC != top:
-                    # print(eachFile)
-                    try:
+                    if eachC == categories[1]:
+                        eachC = top
+                    else:
                         eachC = parent[eachC][0]
-                    except:
-                        break
                     new_list.append(eachC)
                 final_list.append(new_list)
     super_final_list.append(final_list)
