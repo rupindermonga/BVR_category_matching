@@ -34,12 +34,39 @@ def add(data, p):
 
 all_files = []
 file_names = []
+super_final_list = []
 for eachFile in json_files:
     with open(os.path.join(path_to_json, eachFile)) as f:
         data = json.load(f)
         top = eachFile.replace('.json','')
+        categories = []
         categories.append(top)
         add(data, top)
+        final_list = []
+        text = 'Tops'
+        if text in categories:
+            for eachC in parent[text]:
+                new_list = []
+                new_list.append(text)            
+                new_list.append(eachC)
+                while eachC != top:
+                    # print(eachFile)
+                    try:
+                        eachC = parent[eachC][0]
+                    except:
+                        break
+                    new_list.append(eachC)
+                final_list.append(new_list)
+    super_final_list.append(final_list)
+
+
+filter_list = filter(lambda x: x != [], super_final_list)
+
+print(list(filter_list))
+
+
+
+'''
 
 # print(parent['Backpacks'])
 top = "Luggage & Travel Gear"
@@ -55,3 +82,4 @@ for eachC in parent[text]:
         new_list.append(eachC)
     final_list.append(new_list)
 print(final_list)
+'''
