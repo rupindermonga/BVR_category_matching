@@ -1,9 +1,10 @@
 import glob
 import json
 import os
+import copy
 
-# path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
-path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Testing'
+path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/AmazonNodescategorywise'
+# path_to_json = '/media/rupinder/C49A5A1B9A5A0A76/Users/Rupinder/Desktop/BVR/MatchingCategory/Testing'
 # categories = []
 # parent = {}
 # def add(data, p):
@@ -35,9 +36,21 @@ def add(data, p):
 all_files = []
 file_names = []
 super_final_list = []
-n = 0
+n = []
+
+# for eachFile in json_files:
+#     with open(os.path.join(path_to_json, eachFile)) as f:
+#         data = json.load(f)
+#         top = eachFile.replace('.json','')
+#         categories.append(top)
+#         add(data, top)
+
+# print(len(categories))
+# all_categories = copy.deepcopy(categories)
+# print(len(all_categories))
+
+
 for eachFile in json_files:
-    
     with open(os.path.join(path_to_json, eachFile)) as f:
         data = json.load(f)
         top = eachFile.replace('.json','')
@@ -46,11 +59,15 @@ for eachFile in json_files:
         categories.append(top)
         add(data, top)
         final_list = []
-        text = 'Tops'
-        parent_text = []
-        if text in categories:
-            # print(parent[text])
-            parent_text = parent[text]
+        for text in categories:
+        # text = 'Tops'
+            parent_text = []
+            # if text in categories:
+                # print(parent[text])
+            try:
+                parent_text = parent[text]
+            except:
+                pass
             # print(parent_text)
             for eachC in parent_text:
                 new_list = []
@@ -63,14 +80,30 @@ for eachFile in json_files:
                         eachC = parent[eachC][0]
                     new_list.append(eachC)
                 final_list.append(new_list)
-    super_final_list.append(final_list)
+        super_final_list.append(final_list)
+    n.append(super_final_list)
 
+filter_list = list(filter(lambda x: x != [], n))
 
-filter_list = filter(lambda x: x != [], super_final_list)
+# print(len(filter_list))
+# print(filter_list)
 
-print(list(filter_list))
+print(filter_list[:1])
+def getSizeOfNestedList(listOfElem):
+    ''' Get number of elements in a nested list'''
+    count = 0
+    # Iterate over the list
+    for elem in listOfElem:
+        # Check if type of element is list
+        if type(elem) == list:  
+            # Again call this function to get the size of this element
+            count += getSizeOfNestedList(elem)
+        else:
+            count += 1    
+    return count
 
-
+f = getSizeOfNestedList(filter_list)
+print(f)
 
 '''
 
